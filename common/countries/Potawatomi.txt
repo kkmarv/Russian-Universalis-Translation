@@ -1,0 +1,108 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 60 184 120 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Muketepoke #0" = 20
+	"Neggenshk #0" = 20
+	"Chokobeme #0" = 20
+	"Bendegakeva #0" = 20
+	"Vapevi #0" = 20
+	"Otava #0" = 20
+	"Wapmeme #0" = 20
+	"Mache #0" = 20
+	"Mogau #0" = 20
+	"Titinipi #0" = 20
+	"Winnemack #0" = 20
+	"Tokuish #0" = 20
+	"Noname #0" = 20
+	"Navmi #0" = 20
+	"Ninnevea #0" = 20
+	"Scuse #0" = 20
+	"Caconveconer #0" = 20
+	"Missingguimeshan #0" = 20
+	"Wabsir #0" = 20
+	"Mashekanochukah #0" = 20
+	"Tutinepi #0" = 20
+	"Chibaas #0" = 20
+	"Metachet #0" = 20
+	"Vinemakus #0" = 20
+	"Mitenva #0" = 20
+	"Scomak #0" = 20
+	"Chevago #0" = 20
+	"Jovish #0" = 20
+	"Chekalk #0" = 20
+	"Eshkam #0" = 20
+	"Pesotem #0" = 20
+	"Meskotnome #0" = 20
+	"Vabmeshema #0" = 20
+	"Chavano #0" = 20
+	"Chakampa #0" = 20
+	"Menomene #0" = 20
+	"Woahaw #0" = 20
+	"Meti #0" = 20
+	"Metchepagiss #0" = 20
+	"Today . #0" = 20
+	"Oshochebe #0" = 20
+	"Kisisis #0" = 20
+	"Konge #0" = 20
+	"Onoxas #0" = 20
+	"Petcheko #0" = 20
+	"Shepaga #0" = 20
+	"Shikakabe #0" = 20
+	"Pinish #0" = 20
+	"Makota #0" = 20
+	"Mona #0" = 20
+	"Moxa #0" = 20
+	"Nanauseca #0" = 20
+	"Visti #0" = 20
+	"Mova #0" = 20
+	
+	"Hononega #0" = -1
+	"Watseka #0" = -1
+}
+
+leader_names = {
+	Assiminehkon Mesheketeno Minemaung Mosheketeno Nyonsai Somehnaug Sekavgo
+	Shaiti Shobonir Vaissuk Aberstrounk Ashkum Abbinaubbi Chekoukose Chekase
+	Chippo Outipe Chippo Chippo Komoza Kinkash Masak Manotway Mauchiose Memomini
+	Mesquoavbuk Meti Moran Mota Muskwasepeotan Pierrish Tassinong
+	Tippecanoe Toisa Vanatah Vimego Wynamak Wonongoshik Boubi Chinauge Koassoun
+	Makoosin Magachua Macenashevish Matchki Menokuet Mikkesoubi Nottawaseppy
+	Pokagon Seginsavin Tondagaye Tongguish Topenebi Manitovok Makuanago Mekingan
+	Mitchigami Kukwongo Okonomovok Waubekiczhuk Waukesha
+}
+
+ship_names = {
+	Assiminehkon Mesheketeno Minemaung Mosheketeno Nyonsai Somehnaug Sekavgo
+	Shaiti Shobonir Vaissuk Aberstrounk Ashkum Abbinaubbi Chekoukose Chekase
+	Chippo Outipe Chippo Chippo Komoza Kinkash Masak Manotway Mauchiose Memomini
+	Mesquoavbuk Meti Moran Mota Muskwasepeotan Pierrish Tassinong
+	Tippecanoe Toisa Vanatah Vimego Wynamak Wonongoshik Boubi Chinauge Koassoun
+	Makoosin Magachua Macenashevish Matchki Menokuet Mikkesoubi Nottawaseppy
+	Pokagon Seginsavin Tondagaye Tongguish Topenebi Manitovok Makuanago Mekingan
+	Mitchigami Kukwongo Okonomovok Waubekiczhuk Waukesha
+}

@@ -1,0 +1,80 @@
+#Pirates
+
+graphical_culture = westerngfx
+
+color = { 10  10  10 }
+
+monarch_names = {
+	"Woods #0" = 10
+	"Black #0" = 10
+	"Howell #0" = 10
+	"Calico #0" = 10
+	"Lesson #0" = 10
+	"Lawrence #0" = 10
+	"Lewis #0" = 10
+	"John #0" = 10
+	"Rosh #0" = 10
+	"James #0" = 10
+	"Assan #0" = 10
+	"Dirk #0" = 10
+	
+	"Jane #0" = -1
+}
+	
+leader_names = {
+	"Alvel"
+	"Cavendish"
+	"de Buff"
+	"Brower"
+	"Barton"
+	"Hayne"
+	"Nuurt"
+	"Easton"
+	"Rice"
+	"Give it back to ."
+	"Rose"
+	"Flight"
+	"Davis"
+	"Culier"
+	"Grieves"
+	"Bellamy"
+	"Avery"
+	"Wayne"
+	"Rogers"
+	"Taylor"
+	"Vorley"
+	"Kelly"
+	"Howard"
+	"Helsey"
+}
+
+ship_names = {
+	"Fear of the captain"
+	"Death"
+	"A dishonest prostitute"
+	"Dragon Gold"
+	"Executioner"
+	"Intimidating"
+	"Death of a murderer"
+	"Caper hooker"
+	"Damn killer"
+	"Dark Dagger"
+	"Dirty blade"
+	"Horrible scream"
+	"The fate of the Ocean"
+	"Dreaming demon"
+	"Fallen Marauder"
+	"Devil's horror"
+	"Dirty whore"
+	"Golden sabre"
+	"Born in hell"
+	"Terrible limit"
+	"Creepy looter"
+	"Warring Wolf"
+	"Lustful Hangman"
+	"bad dream"
+	"Poisoned death"
+	"Snake tempter"
+	"Evil killer"
+	"Sneaky saber"
+}

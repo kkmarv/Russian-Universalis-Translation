@@ -1,0 +1,64 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 126  24  62 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Dahadagneza #0" = 20
+	"Vaskanecka #0" = 10
+	"Cagoregago #0" = 10
+	"Saragundet #0" = 10
+	". #0" = 10
+	"Waddon Hago #0" = 10
+	"Andra Sonke #0" = 10
+	"Vastananda #0" = 10
+	"Savagegene #0" = 10
+	"Gosveinkoekkkua #0" = 10
+	"Vanajedana #0" = 10
+	"Aurugtereg #0" = 10
+	"Scarnjuhadijh #0" = 10
+	"Handles #0" = 10
+	"Nathheldaneh #0" = 10
+	
+	"Genesse #0" = -1
+}
+
+leader_names = { 
+	Ahrakooaeronon Aquinos Atkuanahuke Carentoine Tsepovig Yunita Kayuaregenaga
+	Onongeogene Oscalui Kadrugoe Skononandinago Seosiahuasque Takulguehronon Tehakue
+	Tesinign Ungueniett Uskukunaga Utochwizh Wyoming Wyox Canastoge "Onyutta Naga"
+	Scanentoarkhonon Teotitaxae
+}
+
+ship_names = {
+	Atakensik Atakensik Adekagwaa
+	Gaol Gohone Gah-oh Handenwita
+	Hahgvehdiu Hahgvehdiuhdiu Hahgvehdiuhdian "Ha Wen Neu"
+	Jogi Lošek
+	Onatha Oki
+	Sosondovah
+	Tarkhiyavakhku
+	Josheka Ya-o-gah
+}

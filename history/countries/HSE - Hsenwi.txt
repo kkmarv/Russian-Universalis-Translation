@@ -1,0 +1,546 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+religion = buddhism
+primary_culture = shan
+capital = 583	# Hsenwi
+
+# Kengtung Dynasty (as representant)
+
+1416.1.1 = {
+	monarch = {
+		name = "Sao Xam"
+		dynasty = "Kangtung"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1416.1.1 = {
+	heir = {
+		name = "Sao Hsam Si-Li"
+		monarch_name = "Sao Hsam Si-Li"
+		dynasty = "Kangtung"
+		birth_date = 1410.1.1
+		death_date = 1456.1.1
+		claim = 95
+		ADM = 2
+		DIP = 3
+		MIL = 2
+	}
+}
+
+1441.1.1 = {
+	monarch = {
+		name = "Sao Hsam Si-Li"
+		dynasty = "Kangtung"
+		ADM = 2
+		DIP = 3
+		MIL = 2
+	}
+}
+
+1441.1.1 = {
+	heir = {
+		name = "Ai Lao Hkam"
+		monarch_name = "Ai Lao Hkam"
+		dynasty = "Kangtung"
+		birth_date = 1430.1.1
+		death_date = 1474.1.1
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1456.1.1 = {
+	monarch = {
+		name = "Ai Lao Hkam"
+		dynasty = "Kangtung"
+		ADM = 3
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1456.1.1 = {
+	heir = {
+		name = "Ai Lao"
+		monarch_name = "Ai Lao"
+		dynasty = "Kangtung"
+		birth_date = 1450.1.1
+		death_date = 1501.1.1
+		claim = 95
+		ADM = 3
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1474.1.1 = {
+	monarch = {
+		name = "Ai Lao"
+		dynasty = "Kangtung"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1474.1.1 = {
+	heir = {
+		name = "Sao No Kiao"
+		monarch_name = "Sao No Kiao"
+		dynasty = "Kangtung"
+		birth_date = 1474.1.1
+		death_date = 1506.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1501.1.1 = {
+	monarch = {
+		name = "Sao No Kiao"
+		dynasty = "Kangtung"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1501.1.1 = {
+	heir = {
+		name = "Hsi Hko"
+		monarch_name = "Hsi Hko"
+		dynasty = "Kangtung"
+		birth_date = 1478.1.1
+		death_date = 1511.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1506.1.1 = {
+	monarch = {
+		name = "Hsi Hko"
+		dynasty = "Kangtung"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1506.1.1 = {
+	heir = {
+		name = "Hsi Hoom"
+		monarch_name = "Hsi Hoom"
+		dynasty = "Kangtung"
+		birth_date = 1480.1.1
+		death_date = 1516.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1511.1.1 = {
+	monarch = {
+		name = "Hsi Hoom"
+		dynasty = "Kangtung"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1511.1.1 = {
+	heir = {
+		name = "Sao Xam"
+		monarch_name = "Sao Xam"
+		dynasty = "Kangtung"
+		birth_date = 1483.1.1
+		death_date = 1519.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 3
+	}
+}
+
+1516.1.1 = {
+	monarch = {
+		name = "Sao Xam"
+		dynasty = "Kangtung"
+		ADM = 2
+		DIP = 2
+		MIL = 3
+	}
+}
+
+1516.1.1 = {
+	heir = {
+		name = "Sao Cam Moo"
+		monarch_name = "Sao Cam Moo"
+		dynasty = "Kangtung"
+		birth_date = 1495.1.1
+		death_date = 1523.1.1
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1519.1.1 = {
+	monarch = {
+		name = "Sao Cam Moo"
+		dynasty = "Kangtung"
+		ADM = 3
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1519.1.1 = {
+	heir = {
+		name = "HPYA KIAo"
+		monarch_name = "HPYA KIAo"
+		dynasty = "Kangtung"
+		birth_date = 1510.1.1
+		death_date = 1560.1.1
+		claim = 95
+		ADM = 3
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1523.1.1 = {
+	monarch = {
+		name = "HPYA KIAo"
+		dynasty = "Kangtung"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1540.1.1 = {
+	heir = {
+		name = "Sao Mong Hka"
+		monarch_name = "Sao Mong Hka"
+		dynasty = "Kangtung"
+		birth_date = 1540.1.1
+		death_date = 1598.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1560.1.1 = {
+	monarch = {
+		name = "Sao Mong Hka"
+		dynasty = "Kangtung"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1560.1.1 = {
+	heir = {
+		name = "Sao Hkam Tao"
+		monarch_name = "Sao Hkam Tao"
+		dynasty = "Kangtung"
+		birth_date = 1560.1.1
+		death_date = 1620.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1598.1.1 = {
+	monarch = {
+		name = "Sao Hkam Tao"
+		dynasty = "Kangtung"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1598.1.1 = {
+	heir = {
+		name = "Sao Mong Hkak"
+		monarch_name = "Sao Mong Hkak"
+		dynasty = "Kangtung"
+		birth_date = 1580.1.1
+		death_date = 1637.1.1
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1620.1.1 = {
+	monarch = {
+		name = "Sao Mong Hkak"
+		dynasty = "Kangtung"
+		ADM = 2
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1620.1.1 = {
+	heir = {
+		name = "Sao He"
+		monarch_name = "Sao He"
+		dynasty = "Kangtung"
+		birth_date = 1600.1.1
+		death_date = 1650.1.1
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 2
+	}
+}
+
+1637.1.1 = {
+	monarch = {
+		name = "Sao He"
+		dynasty = "Kangtung"
+		ADM = 2
+		DIP = 1
+		MIL = 2
+	}
+}
+
+1637.1.1 = {
+	heir = {
+		name = "Sao In Hkam"
+		monarch_name = "Sao In Hkam"
+		dynasty = "Kangtung"
+		birth_date = 1620.1.1
+		death_date = 1670.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1650.1.1 = {
+	monarch = {
+		name = "Sao In Hkam"
+		dynasty = "Kangtung"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1650.1.1 = {
+	heir = {
+		name = "Sao Ok"
+		monarch_name = "Sao Ok"
+		dynasty = "Kangtung"
+		birth_date = 1640.1.1
+		death_date = 1670.1.1
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1670.1.1 = {
+	monarch = {
+		name = "Sao Ok"
+		dynasty = "Kangtung"
+		ADM = 1
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1670.1.1 = {
+	heir = {
+		name = "Sao Mong Saik"
+		monarch_name = "Sao Mong Saik"
+		dynasty = "Kangtung"
+		birth_date = 1660.1.1
+		death_date = 1710.1.1
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1690.1.1 = {
+	monarch = {
+		name = "Sao Mong Saik"
+		dynasty = "Kangtung"
+		ADM = 2
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1690.1.1 = {
+	heir = {
+		name = "Sao Hsam Hpi"
+		monarch_name = "Sao Hsam Hpi"
+		dynasty = "Kangtung"
+		birth_date = 1680.1.1
+		death_date = 1730.1.1
+		claim = 95
+		ADM = 1
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1710.1.1 = {
+	monarch = {
+		name = "Sao Hsam Hpi"
+		dynasty = "Kangtung"
+		ADM = 1
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1710.1.1 = {
+	heir = {
+		name = "Maung Nyo"
+		monarch_name = "Maung Nyo"
+		dynasty = "Kangtung"
+		birth_date = 1700.1.1
+		death_date = 1740.1.1
+		claim = 95
+		ADM = 1
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1730.1.1 = {
+	monarch = {
+		name = "Maung Nyo"
+		dynasty = "Kangtung"
+		ADM = 2
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1730.1.1 = {
+	heir = {
+		name = "Sao Mong Shin"
+		monarch_name = "Sao Mong Shin"
+		dynasty = "Kangtung"
+		birth_date = 1720.1.1
+		death_date = 1760.1.1
+		claim = 95
+		ADM = 1
+		DIP = 1
+		MIL = 2
+	}
+}
+
+1740.1.1 = {
+	monarch = {
+		name = "Sao Mong Shin"
+		dynasty = "Kangtung"
+		ADM = 1
+		DIP = 1
+		MIL = 2
+	}
+}
+
+1740.1.1 = {
+	heir = {
+		name = "Sao Mong Xam"
+		monarch_name = "Sao Mong Xam"
+		dynasty = "Kangtung"
+		birth_date = 1740.1.1
+		death_date = 1787.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1760.1.1 = {
+	monarch = {
+		name = "Sao Mong Xam"
+		dynasty = "Kangtung"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1760.1.1 = {
+	heir = {
+		name = "Sao Kong Tai"
+		monarch_name = "Sao Kong Tai"
+		dynasty = "Kangtung"
+		birth_date = 1760.1.1
+		death_date = 1804.1.1
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1787.1.1 = {
+	monarch = {
+		name = "Sao Kong Tai"
+		dynasty = "Kangtung"
+		ADM = 2
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1787.1.1 = {
+	heir = {
+		name = "Sao Maha Hkanan"
+		monarch_name = "Sao Maha Hkanan"
+		dynasty = "Kangtung"
+		birth_date = 1780.1.1
+		death_date = 1857.1.1
+		claim = 95
+		ADM = 1
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1804.1.1 = {
+	monarch = {
+		name = "Sao Maha Hkanan"
+		dynasty = "Kangtung"
+		ADM = 1
+		DIP = 1
+		MIL = 1
+	}
+}

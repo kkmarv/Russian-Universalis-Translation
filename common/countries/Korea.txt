@@ -1,0 +1,115 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 26  53  177 }
+
+historical_idea_groups = {
+	naval_ideas
+	offensive_ideas
+	maritime_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"In #0" = 40
+	"Se #0" = 40
+	"Ye #0" = 20
+	"Seon #1" = 20
+	"Ensan #0" = 20
+	"Chun #0" = 20
+	"Men #0" = 20
+	"Seon #0" = 20
+	"Kwanhae #0" = 20
+	"Hye #0" = 20
+	"Hen #0" = 20
+	"Sook #0" = 20
+	"Ken #0" = 20
+	"Yen #0" = 20
+	"Chong #1" = 20
+	"Dan #0" = 20
+	"Moon #0" = 20
+	"Tae #0" = 20
+	"Imhae #0" = 10
+	"Ian #0" = 10
+	"Boxon #0" = 10
+	"Kyumwon #0" = 10
+	"Yenyan #0" = 10
+	"Yongchang #0" = 10
+	"Juenruen #0" = 10
+	"Sado #0" = 10
+	"Moonhe #0" = 10
+	"Bonsoon #0" = 5
+	"Dokheon #0" = 5
+	"Sinson #0" = 5
+	"Ichkhan #0" = 5
+	"Chonwon #0" = 5
+	"Hesun #0" = -5
+	"Chechon #0" = -5
+	"Heche #0" = -5
+	"Ihe #0" = -5
+	"Hesun #0" = -5
+	"Kenhan #0" = -5
+	"Insun #0" = -5
+	"Chongxing #0" = -5
+	"Cheonghee #0" = -5
+	"Chongsuk #0" = -5
+	"Jeongyang #0" = -5
+	"Chonghue #0" = -5
+	"Chongman #0" = -5
+	"Hwang #1" = 1
+	"Until . #1" = 1
+	"Ic #1" = 1
+	"Mok #1" = 1
+	"Sy #1" = 1
+	"И #0" = 0
+	"Guem #0" = 0
+	"Sun #0" = 20
+	"Rip #0" = 0
+	"Il #0" = 0
+	"Don #0" = 0
+	"Qui #0" = 0
+	"San #0" = 0
+	"Chi #0" = 0
+	"У #0" = 0
+	"Kyu #0" = 0
+	"De #0" = 0
+	"Gu #0" = 0
+}
+
+leader_names = {
+	"Kim" "И" "Puck" "Cho" "Jun" "Ga" "Gay" "Go" "Ra" "But ." "Dame" "Until ." "Du"
+	"Rue" "Ban" "Ma" "Moon" "Seo" "Sleep" "Song" "Cyn" "Syme" "An" "Yang" "О" "Yoon"
+	"Zhang" "Chang" "Joo" "Cho" "Chin" "Khan" "Ha" "Hong" "Heo"
+}
+
+ship_names = {
+	"Backdo" "Baekje" 
+	"Changbai"
+	"Duman" "Deadok" "Donmeonsong"
+	"Gayasan" "Geumgan" "Geumho" "Gogureo" "Geong-Hwon"
+	"Chirisan" "Cheongchong"
+	"Kumgansan"
+	"Nakdong"
+	"Shinchon" "Silla" "Dog"
+	"Taebeke" "Taezho" 
+	"Hansong" "Hemosu" "Habak" "Hwaoms"
+	"Thief"
+	"Yuhwa" "Yeng" 
+	"Chong Jojong" "And Songe."
+}

@@ -1,0 +1,146 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+
+color = { 212  211  151 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	quantity_ideas
+	administrative_ideas
+	religious_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Razatou #2" = 20
+	"Tingatu #0" = 20
+	"So Mon #3" = 20
+	"Anavracht #0" = 20
+	"Khaii #0" = 20
+	"Fly #0" = 20
+	"Naranu #0" = 20
+	"Ba So Fu #0" = 20
+	"Dolya #0" = 20
+	"Basonio #0" = 20
+	"Yanawng Oh #0" = 20
+	"Salingatu #0" = 20
+	"Raza #0" = 20
+	"Gazapati #0" = 20
+	"So Oh #0" = 20
+	"Tazata #0" = 20
+	"Minkhowng #0" = 20
+	"Min Bin #0" = 20
+	"Dickie #0" = 20
+	"Sochla #0" = 20
+	"Sequia #0" = 20
+	"Hpalawong #0" = 20
+	"Razadji #0" = 20
+	"Hamaung #0" = 20
+	"Tritudhamma #0" = 20
+	"Sanay #0" = 20
+	"Narapati #0" = 20
+	"Tado #0" = 20
+	"Sandatudhamma #0" = 20
+	"Vara Dharma #0" = 20
+	"Mani Dhamma #0" = 20
+	"Sandaturia #0" = 30
+	"Norahta #0" = 20
+	"Mayonpia #0" = 20
+	"Calagandate #0" = 20
+	"Naradipathy #0" = 20
+	"Sandavimala #0" = 20
+	"Sandwich #0" = 20
+	"Naradipadi #0" = 20
+	"Narapavara #0" = 20
+	"Madarit #0" = 20
+	"Naraapaya #0" = 20
+	"Tiritu #0" = 20
+	"Apaya #0" = 20
+	"Sandatumana #0" = 20
+	"Sandatadita #0" = 20
+	"Tammada #0" = 20
+	
+	"Sausit #0" = -1
+	"Sopunjo #0" = -1
+	"Sopiajuk #0" = -1
+	"Sophieins #0" = -1
+	"Soinmi #0" = -1
+}
+
+leader_names = {
+	"Aung Hla"
+	"Aung San"
+	"Hla-Thane"
+	"Khin Nyunt"
+	"Khun Sa"
+	"Kwan-Kiva"
+	"Maung Gee"
+	"Maung-Win"
+	"Min-Tun"
+	"ON-Mint"
+	"Sein-ween"
+	"Thang-Htai"
+	"Thet Naung"
+	"U-Hu"
+    "Mi"
+	"Ming"
+	"Minh"
+	"Nai"
+	"Nang"
+	"Nau"
+	"Sy Sy"
+	"Szalay"
+	"Sao"
+	"Sau"
+	"Saubwa"
+	"Saya"
+	"Sayadau"
+	"Sayama"
+	"Shin"
+	"Teccato"
+	"Takin"
+	"Teypann"
+	"Ю"
+}
+
+ship_names = {
+	"Alaumaphru"
+	"Athinkhara Raza"
+	"Canadsuria"
+	"Datharaza"
+	"Poundhan"
+	"Gandacudi"
+	"Koliya"
+	"Lakyamunnan"
+	"Mahamuni"
+	"Mong So Mon"
+	"Mrauk U"
+	"Mong Khaki"
+	"Mong Ba"
+	"Mong Razagri"
+	"Mahataining Kandra"
+	"Nganalun"
+	"Surya"
+	"Surya Kandra"
+	"Thiharaza"
+	"Thakyawangri"
+	"Taqiwange"
+	"Ukkabala"
+	"Varadhamma"
+}

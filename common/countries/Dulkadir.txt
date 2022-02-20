@@ -1,0 +1,147 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 233  255  218 } 
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	muslim_cavalry_archers
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Karaja #0" = 20
+	"Juhammad #0" = 20
+	"Suleiman #0" = 20
+	"Malik Arslan #0" = 10
+	"Budak #0" = 20
+	"Sakhsuvar #0" = 20
+	"Ali #0" = 20
+	"Aladdin #0" = 20
+	"Nizameddin #0" = 0
+	"Sinan #0" = 0
+	"Ferhad #0" = 0
+	"Salih #0" = 0
+	"Ismayil #0" = 0
+	"Juneyd #0" = 0
+	"Bahadir #0" = 0
+
+	
+	"Fatma #0" = -1
+}
+
+leader_names = {
+	"Bali"
+  "Eresley"
+  "Arif"
+  "Rahim"
+  "Alemdar"
+  "Amaziali"
+  "Ayas"
+  "Bali"
+  "Barbaros"
+  "Bairam"
+  "Jezzar"
+  "Chandarly"
+  "Chelebi"
+  "Jerrah"
+  "Circassia"
+  "Jivan"
+  "Chukhadar"
+  "Damad"
+  "Dervish"
+  "Defterdar"
+	"Gedik"
+  "Gazi"
+  "Gyumuljineli"
+  "Gurdyu"
+  "Hadim"
+  "Hekimoglu"
+  "Hershekley"
+  "Kyopryul"
+  "Kemal"
+  "Kuchuchuk"
+  "Koja"
+  "Karamanly"
+  "Kyoshe"
+  "Kara"
+  "Canigeli"
+	"Kemankes"
+  "Kaymak"
+  "Kavali"
+  "Ishaq"
+  "Izzed"
+  "Lala"
+  "Lefkeli"
+  "Malkoch"
+  "Muezzinzade"
+  "Neushehirley"
+  "Nisangi"
+  "Oruch"
+  "Uluch"
+  "Osmanjikli"
+  "Ohryli"
+  "Oflu"
+  "Rumi"
+  "Peary"
+  "Pargali"
+  "Piyale"
+  "Pehliwan"
+  "Salih"
+  "Sokullu"
+  "Sari"
+  "Silyahdar"
+  "Semiz"
+  "Serdar"
+  "Topal"
+  "Tayyar"
+  "Turgut"
+  "Tarhunju"
+  "Veli"
+  "Yemishchi"
+	}
+
+ship_names = {
+	"Sulcadrie"
+	"Maras"
+	"Afsin"
+	"Elbistan"
+	"Hoxun"
+	"Pasarsik"
+	"Seyhan"
+	"Firate"
+	"Aksadag"
+	"Symbayley"
+	"Cadirley"
+	"Besny"
+	"Tochma"
+	"Darende"
+}
+
+army_names = {
+	"Ordusu $PROVINCE$"
+}
+
+fleet_names = {
+	"Donanmaso $PROVINCE$"
+}

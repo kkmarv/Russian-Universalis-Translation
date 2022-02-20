@@ -1,0 +1,269 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 231  181  12 }
+
+revolutionary_colors = { 5  8  5 }
+
+historical_score = 7400
+
+historical_idea_groups = {
+	exploration_ideas
+	religious_ideas
+	offensive_ideas
+	expansion_ideas
+	influence_ideas
+	maritime_ideas
+	quality_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Karl #0" = 80
+	"Philippe #1" = 60
+	"Ferdinand #5" = 40
+	"Luis #0" = 20
+	"Jose #0" = 20
+	"Diego #0" = 15
+	"Baltasar Karl #0" = 15
+	"Anna #0" = -15
+	"Maria Theresia #0" = -10
+	"Alphonse #11" = 10
+	"Henry #4" = 10
+	"Juan #2" = 10
+	"Isabella #1" = -10
+	"Francisco #0" = 10
+	"Thomas #0" = 10
+	"Antonio #0" = 10
+	"Francisco #0 de Paula" = 10
+	"Gabrielle #0" = 10
+	"Sancho #4" = 5
+	"Jaime #2" = 5
+	"Ramiro #2" = 5
+	"Pedro #1" = 5
+	"Pelayo #1" = 5
+	"Alonso #0" = 0
+	"Balthasar #0" = 0
+	"Bartolomé #0" = 0
+	"Claudio #0" = 0
+	"Crystal #0" = 0
+	"Domingo #0" = 0
+	"Emilio #0" = 0
+	"Fadrike #0" = 0
+	"Fausto #0" = 0
+	"Garcia #0" = 0
+	"Gaspar #0" = 0
+	"Gonzalo #0" = 0
+	"Guillermo #0" = 0
+	"Ermenehildo #0" = 0
+	"Hernando #0" = 0
+	"Ignacio #0" = 0
+	"Jorge #0" = 0
+	"Juan Batista #0" = 0
+	"Juan José #0" = 0
+	"Leopoldo #0" = 0
+	"Lope #0" = 0
+	"Mnauel #0" = 0
+	"Miguel #0" = 0
+	"Ramon #0" = 0
+	"Rodrigo #0" = 0
+	"Sebastian #0" = 0
+	"Vicente #0" = 0
+}
+
+leader_names = {
+	"Albarca de Bolea"
+	"de Aguirre"
+	"de Alarcón"
+	"Alvarez de Toledo"
+	"de Aragon"
+	"de Austria"
+	"de Ayala"
+	"de Bazan"
+	"de Beaumont"
+	"de Benavides"
+	"de bourbon"
+	"de Borja"
+	"Cabez de Vaca"
+	"Cahigal de la Vega"
+	"Campomanes"
+	"de la Serda"
+	"Column"
+	"Coronado"
+	"Cortez"
+	"Davila"
+	"de Egmont"
+	"Elcano"
+	"Elouillard"
+	"Fadrique de Toledo"
+	"Fernandez de Castro"
+	"Fernandez de Cordoba"
+	"de Figueroa"
+	"Fitz-James"
+	"Folch de Cardona"
+	"Fonseca"
+	"Galvez"
+	"Gomez"
+	"Gravina"
+	"de Grikhalva"
+	"Grimaldi"
+	"de Guzmán"
+	"de Jovalganos"
+	"de Leyva"
+	"Lope da Aro"
+	"Manrique de Lara"
+	"Manrique de Velasco"
+	"de Mendoza"
+	"de Moncada"
+	"Nuñez de Balboa"
+	"de Ojeda"
+	"Orellana"
+	"Osorio"
+	"Palafox"
+	"Patiño"
+	"Pimento"
+	"Pizarro"
+	"Ponce de León"
+	"Portocarrero"
+	"de Rexens"
+	"de Ripperda"
+	"de Rojas"
+	"Sastre"
+	"Teles-Hiron"
+	"de la Vega"
+	"de Zúñiga"
+}
+
+ship_names = {
+	"Andalusia"
+	"Asunciación"
+	"Argonauta"
+	"Aurora"
+	"Aventuero"
+	"Bisarra"
+	"Brillante"
+	"Burlando"
+	"Cacafuego"
+	"Cayman"
+	"Castilla"
+	"Catalina"
+	"Conde de Tholosa"
+	"Conquistador"
+	"Constante"
+	"Cuervo Marino"
+	"Dorado"
+	"Dragon"
+	"El Retiro"
+	"Esmeralda"
+	"Esperanza"
+	"Fuerte"
+	"Galicia"
+	"Gavilan"
+	"Gaviota"
+	"Glorioso"
+	"Griega"
+	"Ercules"
+	"Ermiona"
+	"Infante"
+	"Intrepido"
+	"Iris"
+	"Hasson"
+	"Juno"
+	"Hooper"
+	"La Carlota"
+	"La Casadora"
+	"La Tethys"
+	"Leon"
+	"Luz"
+	"Mercurio"
+	"Neptuno"
+	"Foam"
+	"Penelope"
+	"Peregrina"
+	"Pearla de España"
+	"Princess"
+	"Principe de Asturias"
+	"Puercoespin"
+	"Real Carlos"
+	"Real Last Name"
+	"Real Felipe"
+	"Real Jorge"
+	"Ruby"
+	"Saeta"
+	"San Andreas"
+	"San Antonio"
+	"San Carlos"
+	"San Esteban"
+	"San Felipe"
+	"San Fernando"
+	"San Francisco"
+	"San Gabriel"
+	"San Hill"
+	"San Isidoro"
+	"Cin-Isidro"
+	"San Jeronimo"
+	"San Joaquin"
+	"San Jose"
+	"San Juan"
+	"San Juan Baptista"
+	"San Leandro"
+	"San Luis"
+	"San Marcos"
+	"San Martin"
+	"San Miguel"
+	"San Pio"
+	"Santa Ana"
+	"Santa Barbara"
+	"Santa Eulalia"
+	"Santa Irene"
+	"Santa Isabel"
+	"Santa Justa"
+	"Santa Natalya"
+	"Santa Rita"
+	"Santa Rosa"
+	"Santa Susana"
+	"Santa Teresa"
+	"Santiago"
+	"Santisima Trinidad"
+	"Sebastian"
+	"Collected by ."
+	"Susana"
+	"Trinidad"
+	"Triunfo"
+	"Unicornio"
+	"Vengansa"
+	"Vicero"
+	"Victoria"
+	"Vihilante"
+	"Volante"
+	"Vulcano"
+	"Sarah"
+}
+
+
+army_names = {
+	"Royal Guard"
+	"Provincial Army. $PROVINCE$"
+}
+
+fleet_names = {
+	"Royal Navy"
+	"Provincial Squadron. $PROVINCE$"
+}

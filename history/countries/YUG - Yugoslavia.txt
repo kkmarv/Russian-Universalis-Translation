@@ -1,0 +1,135 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = serbian
+religion = orthodox
+technology_group = eastern
+unit_type = eastern
+capital = 141
+government_rank = 2
+
+1918.12.1 = {
+	monarch = {
+		name = "Peter I"
+		dynasty = "Karageorgievich"
+		birth_date = 1844.6.29
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+# 1918.12.1 = {
+	# heir = {
+		# name = "Alexander"
+		# monarch_name = "Alexander I"
+		# dynasty = "Karageorgievich"
+		# birth_date = 1888.12.16
+		# death_date = 1934.10.9
+		# claim = 95
+		# adm = 4
+		# dip = 0
+		# mil = 2
+	# }
+# }
+
+# 1921.8.16 = {
+	# monarch = {
+		# name = "Alexander I"
+		# dynasty = "Karageorgievich"
+		# birth_date = 1888.12.16
+		# adm = 4
+		# dip = 0
+		# mil = 2
+	# }
+# }
+
+# 1922.6.8 = {
+	# queen = {
+		# country_of_origin = RMN
+		# name = "Maria"
+		# dynasty = "von Hohenzollern-Siegmaringen"
+		# birth_date = 1900.1.6
+		# death_date = 1934.10.9 #1961.6.22
+		# female = yes
+		# adm = 5
+		# dip = 5
+		# mil = 2
+	# }
+# }
+
+# 1923.9.6 = {
+	# heir = {
+		# name = "Peter"
+		# monarch_name = "Peter II"
+		# dynasty = "Karageorgievich"
+		# birth_date = 1923.9.6
+		# death_date = 1970.11.3
+		# claim = 95
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1934.10.9 = {
+	# monarch = {
+		# name = "Paul"
+		# dynasty = "Karageorgievich"
+		# birth_date = 1893.4.27
+		# adm = 2
+		# dip = 2
+		# mil = 1
+		# regent = yes
+	# }
+# }
+
+# 1934.10.9 = {
+	# heir = {
+		# name = "Peter"
+		# monarch_name = "Peter II"
+		# dynasty = "Karageorgievich"
+		# birth_date = 1923.9.6
+		# death_date = 1970.11.3
+		# claim = 95
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1941.3.27 = {
+	# monarch = {
+		# name = "Peter II"
+		# dynasty = "Karageorgievich"
+		# birth_date = 1923.9.6
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1944.6.8 = {
+	# queen = {
+		# country_of_origin = RMN
+		# name = "Alexandra"
+		# dynasty = "von Gluxburg"
+		# birth_date = 1921.3.25
+		# death_date = 1945.11.29 #1993.1.30
+		# female = yes
+		# adm = 2
+		# dip = 2
+		# mil = 2
+	# }
+# }
+
+# 1943.11.29 = { government = republic set_legacy_government = administrative_republic  }
+
+# 1943.11.29 = {
+	# monarch = {
+		# name = "Josip Broz Tito"
+		# birth_date = 1892.7.5
+		# adm = 6
+		# dip = 6
+		# mil = 6
+	# }
+# }

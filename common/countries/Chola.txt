@@ -1,0 +1,83 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 163  5  77 }
+
+historical_idea_groups = {
+	quantity_ideas
+	defensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Pandya Vira #0" = 10
+	"Narasa #0" = 10
+	"Tenna #0" = 10
+	"Naransa Pillay #0" = 10
+	"Kuru Kuru Timmappa #0" = 10
+	"Kattyama Kamaiya #0" = 10
+	"Kimapp #0" = 10
+	"Ayakarai Weyyapa #0" = 10
+	"Vishwanatha #0" = 10
+	"Krishnappa #0" = 20
+	"Virappa #0" = 10
+	"Muttu Krishnappa #0" = 10
+	"Mutu Virappa #0" = 30
+	"Tyrumala #0" = 10
+	"Chockanatha #0" = 10
+	"Mutto Ling #0" = 10
+	"Vijayaranga Choccanta #0" = 10
+	"Minasky #0" = 10 
+	"Yakama #0" = 0
+	"Raghunata #0" = 0
+	"Aryanata #0" = 0
+	"Chanda #0" = 0
+	"Ramayyan #0" = 0
+	"Schungramier #0" = 0
+	"Sesaya #0" = 0
+	"Ramashwamy #0" = 0
+	"Mangammal #0" = -10
+	"Meenakshi #0" = -10
+	"Velunatciyar #0" = -1
+}
+
+leader_names = {
+	Mudaliar
+	Rajapopalachari
+	Sastri
+	Dalava
+	Tondaiman
+	Saluva
+	Saraf
+	Nayak
+	Chetty
+	Syngy
+}
+
+ship_names = {
+	Ameerta Amman Arul Chellam Devi
+	Durga Gayatri Inia Kaweri Lakshmi
+	Madhu Minakshi Nalini Palar Parvati
+	Pennar Ponayar Ponni Radha Ratri
+	Saraswati Sita Tamaray Waigai
+}

@@ -1,0 +1,107 @@
+government = native
+government_rank = 1
+primary_culture = iroquois
+religion = totemism
+technology_group = north_american
+capital = 960 #Onondaga
+
+1317.1.1 = {
+	monarch = {
+		name = "White Walker"
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+}
+
+1399.1.1 = {
+	monarch = {
+		name = "Bear Paw"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1533.1.1 = {
+	monarch = {
+		name = "White Wolf"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1567.1.1 = {
+	monarch = {
+		name = "Hawaiiwata"
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+}
+
+1595.1.1 = {
+	monarch = {
+		name = "Wise Beaver"
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+1623.1.1 = {
+	monarch = {
+		name = "Sneaky Fox"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1670.1.1 = {
+	monarch = {
+		name = "Eagle"
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+}
+
+1699.1.1 = {
+	monarch = {
+		name = "Teyanogin"
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+}
+
+1755.1.1 = {
+	monarch = {
+		name = "Thayorkhenser"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1765.1.1 = { leader = {	name = "Pontiac"	type = conquistador	fire = 3	shock = 5	manuever = 6	siege = 1	death_date = 1769.4.20 } }
+
+1780.1.1 = {
+	monarch = {
+		name = "Tayendanega"
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+}
+
+1807.1.1 = {
+	monarch = {
+		name = "Iovigs"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}

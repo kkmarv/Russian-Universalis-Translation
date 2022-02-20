@@ -1,0 +1,65 @@
+graphical_culture = westerngfx
+
+color = { 221 221 95 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+leader_names = {
+	Bilke Horn Tott
+	Fleming Picculle Bondet
+	Wrede Sop
+	Mannerheim Furujelm Aminoff
+	Armfelt Karpelan Rebinder Shulman
+}
+
+ship_names = {
+	Dorpat Wenden Fellin Dunaburg Riga
+	Volmar Kockenhausen Segewold Dobeln Karkus
+}
+
+monarch_names = {
+	"Kaupo #0" = 20
+	"Shooter #0" = 20
+	"Narwhite #0" = 20
+	"Dorvyat #0" = 10
+	"Lycian #0" = 10
+	"Coming . #0" = 10
+	"Clavesse #0" = 5
+	"Yanis #0" = 5
+	"Talivaldis #0" = 5
+	"Jürgen #0" = 5
+	"Wetsek #0" = 0
+	"Vaishvilkas #0" = 0
+	"Yudki #0" = 0
+	
+	"Savna #0" = -1
+	"Britta #0" = -1
+	"Cordula #0" = -1
+}

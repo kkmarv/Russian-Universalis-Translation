@@ -1,0 +1,186 @@
+#gimp
+
+graphical_culture = westerngfx
+
+color = { 55  92  149 }
+
+revolutionary_colors = { 1  0  4 }
+
+historical_score = 1800
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	innovativeness_ideas
+	offensive_ideas
+	diplomatic_ideas
+	quality_ideas
+	economic_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	prussian_frederickian
+	prussian_uhlan
+	prussian_drill
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Friedrich Wilhelm #0" = 60
+	"Friedrich #0" = 40
+	"Albrecht #0" = 20
+	"Friedrich Albrecht #0" = 20
+	"August William #0" = 15
+	"William #0" = 15
+	"Emile #0" = 10
+	"Ferdinand #0" = 10
+	"Karl #0" = 10
+	"Ludwig Karl #0" = 10
+	"Wilhelm Friedrich #0" = 10
+	"Adolf #0" = 0
+	"Alfred #0" = 0
+	"Anton #0" = 0
+	"Benedict #0" = 0
+	"Benjamin #0" = 0
+	"Denis #0" = 0
+	"Diderik #0" = 0
+	"Ekbert #0" = 0
+	"Erwin #0" = 0
+	"Florian #0" = 0
+	"Franz #0" = 0
+	"Gebhardt #0" = 0
+	"Gottfried #0" = 0
+	"Hartman #0" = 0
+	"Henry #0" = 10
+	"Helmut #0" = 0
+	"Horst #0" = 0
+	"Joachim #0" = 0
+	"Kaspar #0" = 0
+	"Kurt #0" = 0
+	"Leo #0" = 0
+	"Ludwig #0" = 0
+	"Lucas #0" = 0
+	"Manfred #0" = 0
+	"Michael #0" = 0
+	"Nikolaus #0" = 0
+	"Oscar #0" = 0
+	"Otto #0" = 0
+	"Philippe #0" = 0
+	"Rainer #0" = 0
+	"Rudolph #0" = 0
+	"Ruprecht #0" = 0
+	"Siegfried #0" = 0
+	"Sigismund #0" = 0
+	"Thomas #0" = 0
+	"Urs #0" = 0
+	"Victor #0" = 0
+	"Werner #0" = 0
+	
+	"Raphaela #0" = -1
+	"Sabina #0" = -1
+	"Faith #0" = -1
+}
+
+leader_names = {	
+	"Arnim"
+	"von Schwerin"
+	"Blankensee"
+	"von Taubeneck"
+	"von Dossov"
+	"Perlkowski"
+	"von Buhler"
+	"von Dessau"
+	"von Kiau"
+	"Arnnswald"
+	"Fink"
+	"Cizwitz"
+	"von Plotov"
+	"Billerback"
+	"von Stilla"
+	"von Angalt-Dessau"
+	"Knobelsdorf"
+	"von Rauch"
+	"von Kvernheimberg"
+	"Heltsendorff"
+	"von Quitz"
+	"Cisilski"
+	"Linkendorf"
+	"Uclanski"
+	"Zelazinka"
+	"von Citen"
+	"Munich"
+	"Brizen"
+	"Rivotski"
+	"Schnittern"
+	"von Mercatz"
+	"von Manstein"
+	"Shah"
+	"von Seele"
+	"Treskav"
+	"von Hohenloe"
+	"von Rottenburg"
+	"Truxes"
+	"Kreuz"
+	"von Ruijts"
+	"von Derfflinger"
+	"von Wermsdorff"
+	"von Hohenzollern"
+	"Belov"
+	"von Bimbak"
+	"von Mah"
+	"Posadofsky"
+	"von Proysen"
+}
+
+ship_names = {
+	"Allenstein"
+	"Angerburg"
+	"Braunsberg"
+	"Danzig"
+	"Dirschau"
+	"Elbing"
+	"Fischhausen"
+	"Frauenburg"
+	"Gottersweeder"
+	"Graudenz"
+	"Heilsberg"
+	"Insterburg"
+	"Koenigsberg"
+	"Culm"
+	"Kenitz"
+	"Lick"
+	"Marienburg"
+	"Marienwerder"
+	"Memel"
+	"Mittenburg"
+	"Neman"
+	"Osterode"
+	"Ortelsburg"
+	"Pillau"
+	"Putzig"
+	"Tannenberg"
+	"Tilsit"
+	"Thorn"
+	"Eilau"
+}
+
+army_names = {
+	"Kaiser Army"
+}
+
+fleet_names = {
+	"Eastern Squadron"
+}

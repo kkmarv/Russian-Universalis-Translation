@@ -1,0 +1,115 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 118  193  153 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Jean #3" = 20
+	"Antoine #0" = 20
+	"Philippe #0" = 20
+	"Jeanne #0" = -15
+	"Guillaume #0" = 15
+	"Godefroy #3" = 5
+	"Henry #3" = 5
+	"Wenceslav #1" = 5
+	"Karl #1" = 5
+	"Lambert #1" = 5
+	"Antoine #0" = 0
+	"Christiaan #0" = 0
+	"Kristen #0" = 0
+	"Ernest #0" = 0
+	"Frederick #0" = 0
+	"Frederick #0" = 0
+	"Gaspar #0" = 0
+	"Gerard #0" = 0
+	"Gerhardt #0" = 0
+	"Godfrid #0" = 0
+	"Hugo #0" = 0
+	"Jan #0" = 0
+	"Joachim #0" = 0
+	"Johann #0" = 0
+	"Karl #0" = 0
+	"Kasper #0" = 0
+	"Leonar #0" = 0
+	"Lodewick #0" = 0
+	"Louis #0" = 0
+	"Michelle #0" = 0
+	"Michelle #0" = 0
+	"Orlan #0" = 0
+	"Robert #0" = 0
+	"Roland #0" = 0
+	"Roger #0" = 0
+	"Rutger #0" = 0
+	"Thomas #0" = 0
+	"Vincent #0" = 0
+	"William #0" = 0
+}
+
+leader_names = {
+	"Ortelius"
+	"Mons"
+	"Kellin"
+	"de Guttmann"
+	"Albers"
+	"van Meteren"
+	"de Leuve"
+	"van der Bridge"
+	"van Egmont"
+	"van Noort"
+	"Bilmaker"
+	"Kamper"
+	"de Avesne"
+	"van Calden"
+	"Leshwein"
+	"Maas"
+	"van Leeuwen"
+	"Debruin"
+	"Eilett"
+	"Jansen"
+	"van Vie" 
+}
+
+ship_names = { 
+ 	"Brussels"
+	"Dender"
+	"Dornick"
+	"Eddingen"
+	"Godfrid I"
+	"Henry I"
+	"Heinrich Fan Loewen"
+	"Hertog Yang"
+	"Hertogin Johanna"
+	"Jan I"
+	"Mechelen"
+	"Namen"
+	"Phillips van Saint-Paul"
+	"Xenne"
+}

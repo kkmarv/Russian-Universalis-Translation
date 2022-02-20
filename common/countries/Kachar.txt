@@ -1,0 +1,74 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 63  20  177 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	diplomatic_ideas
+	administrative_ideas	
+	expansion_ideas
+	spy_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	indian_archers
+	indian_arquebusier
+	sikh_hit_and_run
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Bicharpatifa #0" = 20
+	"Vikramatyafa #0" = 20
+	"Mahamanifa #0" = 20
+	"Manifa #0" = 20
+	"Ladafa #0" = 20
+	"Choraha #0" = 20
+	"Khunckhorafa #0" = 20
+	"Detsungfa #0" = 20
+	"Nirbhai Narayan #0" = 20
+	"Harmseswar #0" = 5
+	"Megha Narayana #0" = 5
+	"Suttrudaman #0" = 10
+	"Nar Nar Narayan #0" = 10
+	"Bhimdapra Narayan #0" = 10
+	"Indraballab Narayan #0" = 10
+	"MacArdwaj #0" = 10
+	"Udayadia #0" = 10
+	"Mangaldahi #0" = -1
+	"Gira #0" = -1
+	"Hira #0" = -1
+}
+
+leader_names = {
+	"Dimasa"
+	"Deke"
+	"Narayan"
+	"Hodgey"
+	"Boro"
+	"Rabha"
+	"Sonoval"
+	"Tengal"
+	"Haro"
+	"Hajong"
+	"Soutia"
+}
+
+ship_names = {
+	"Brahmaputra" "Chingri Much" "Darrang"
+	"Devi" "Dibang" "Durga Ma" "Ganga" "Hilsa Much"
+	"Ilish-Machs" "Muchley" "Kali Ma" "Kali Meghana"
+	"Kali Nauk" "Kampur" "Lakimpur" "Lal Science"
+	"Loki Devi" "Luhit" "Manasa Devi" "Manjulie"
+	"Meghna" "Neil Sciences" "Nile Sagor" "Parvati Devi"
+	"Rui Mach" "Sarasvoti" "Sagorer Bahini" "Shakti"
+	"Shaktir Mauk" "Shasti Ma" "Sibsagar" "Trishul"
+	"Uma Devi"
+}

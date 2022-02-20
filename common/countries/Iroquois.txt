@@ -1,0 +1,162 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 87  182  80 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Teyanogin #0" = 10
+	"Thayorkhenser #0" = 10
+	"Tayendanega #0" = 10
+	"Oronyatecha #0" = 10
+	"Onogwendahon #0" = 10
+	"Toyhanatogon #0" = 20
+	"Oheadhton #0" = 20
+	"Kendaringdon #0" = 20
+	"Tayegonadagogoti #0" = 20
+	"Techonvoenhrigadi #0" = 20
+	"Otiadonehti #0" = 20
+	"Dagheri #0" = 20
+	"Oragonenedagen #0" = 20
+	"Onnongsaventi #0" = 20
+	"Tarondavagon #0" = 20
+	"Cayentoghe #0" = 20
+	"Kageaga #0" = 20
+	"Savedova #0" = 20
+	"Kiyondushova #0" = 20
+	"Oncaye #0" = 20
+	"Soaheas #0" = 20
+	"Staschasa #0" = 20
+	"Tecahias #0" = 20
+	"Connect to . #0" = 20
+	"Chiatullaho #0" = 20
+	"Ackwaya #0" = 20
+	"Kiandogeva #0" = 20
+	"Aries #0" = 20
+	"Gianthwaia #0" = 20
+	"Gyasota #0" = 20
+	"Cannassay #0" = 20
+	"Achiot #0" = 20
+	"Anachoot #0" = 20
+	"Chishekoa #0" = 20
+	"Sesseva #0" = 20
+	"Sykahova #0" = 20	
+	"Tevanias #0" = 20
+	"Snochowa #0" = 20
+	"Hikonkwash #0" = 20
+	"Onognyahni #0" = 20
+	"Konetortioch #0" = 20
+	"Tokenhoa #0" = 20	
+	"Oneshaui #0" = 20
+	"Aupamut #0" = 20
+	"Nishonshuk #0" = 20
+	"Kanatzou #0" = 20
+	"Sokhoneukventuent #0" = 20
+	"Ooduchsite #0" = 20
+	"Konookhung #0" = 20
+	"Tossongaulas #0" = 20
+	"Skenendoa #0" = 20
+	"Onetorleo #0" = 20
+	"Kussauwatau #0" = 20
+	"Yontohuk #0" = 20
+	"Coneyagong #0" = 20
+	"Check out #0" = 20
+	"Theeros #0" = 20
+	"Soshaw #0" = 20
+	"Synced by #0" = 20
+	"Sheaha #0" = 20
+	"Hotoshahen #0" = 20
+	"Kaukondanya #0" = 20
+	"Nondyaca #0" = 20
+	"Kosshistou #0" = 20
+	"Ouggienta #0" = 20
+	"Tohenggo #0" = 20
+	"Ottagwaso #0" = 20
+	"Jondavka #0" = 20
+	"Cyahaonh #0" = 20
+	"Ootajuagen #0" = 20
+	"Tauchondos #0" = 20
+	"Twaukevasha #0" = 20
+	"Sequindonghi #0" = 20
+	"Kojeot #0" = 20
+	"Kenjauvos #0" = 20
+	"Sunonghuatu #0" = 20
+	"Teveniana #0" = 20
+	"Jishkaada #0" = 20
+	"Tuggehshot #0" = 20
+	"Te Pungyuga #0" = 20
+	"Techongyavush #0" = 20
+	"Conneuvasot #0" = 20
+	"Tiohquatown #0" = 20
+	"Taoundandes #0" = 20
+	"Honawaiwaus #0" = 20
+	"Soggoyavutsau #0" = 20
+	"Konjetau #0" = 20
+	"Schautangjesse #0" = 20
+	"Ounnashakatau #0" = 20
+	"Kaungyanese #0" = 20
+	"Suyau #0" = 20
+	"Kawjegon #0" = 20
+	"Sunuhshaw #0" = 20
+	"Tauvanyas #0" = 20
+	"Sunongjau #0" = 20
+	"Kianthwauca #0" = 20
+	"Kaunehshongo #0" = 20
+	"Kenneronka #0" = 20
+	"Telenemut #0" = 20
+	"Catarrioniaca #0" = 20
+	
+	"Tionanggen #0" = -1
+	"Alliquipa #0" = -1
+	"Convatsithianeni #0" = -1
+	"Genessie #0" = -1
+	"Satikon #0" = -1
+	"Tecaquita #0" = -1
+}
+
+leader_names = {
+	"Avegen" "Ahauet"
+	"Kanajohari" "Canastigaone" "Canyonga" "Kognavaga" "Kahungage" "Canovaroger"
+	"Deseroken" "Daioitgao" "Deonundagae" "Deyodeshot" "Deionegano" "Deionongadagana"
+	"Gveuguvehono" "Gandacettaigon" "Ganogeh" "Gayaganhe" "Gevoga" "Goyoguen" "Gadokut" "Ganntecha"
+	"Hostayuntva"
+	"Kawauca" "Kent" "Kanagoro" "Kovogokonnugarigari" "Kanakashigi" "Kanatakova"
+	"Neodachite" "Novadaga" "Nundavaono"
+	"Outrun" "Onoalagona" "Okuaga" "Oscuaca" "Onyotecaono" "Oriska" "Ossevingo" 
+	"Scannutenate" "Saratoga" "Shonaktada" "Shokhari"
+	"Titonatalogue" "Tevanondadon" "Tionnontoguen ." "Tegasoke" "Teseroken" "Tetosweeken" 
+	"Yorunvago"
+}
+
+ship_names = {
+	"Atakensik" "Atacik" "Adecagagwa"
+	"Gaol" "Gohone" "Gah-oh" "Gendevita"
+	"Hagvedia" "Hagvedagan" "Javenneu"
+	"Yoga"
+	"Kosheka"
+	"Ontata" "Oki"
+	"Sosondova"
+	"Tahijiawahu"
+	"Joschka" "Yaoga"
+}

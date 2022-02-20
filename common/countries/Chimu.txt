@@ -1,0 +1,103 @@
+#Country Name: Please see filename.
+
+graphical_culture = southamericagfx
+
+color = { 39  123  126} 
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	quality_ideas
+}
+
+historical_units = {
+	south_american_spearmen
+	south_american_horsemen
+	south_american_warfare
+	south_american_forest_warfare
+	south_american_gunpowder_warfare
+	south_american_reformed_gunpowder_warfare
+	south_american_arquebusier
+	westernized_south_american
+	peruvian_guerilla_warfare
+}
+
+monarch_names = {
+	"Anco Kojuc #0" = 20
+	"Kaha Simsim #0" = 20
+	"Chumun Kaur #0" = 20
+	"Guaman Chumu #0" = 20
+	"Michan Kaman #0" = 20
+	"Gwari Kur #1" = 15
+	"Nansen Pico #1" = 15
+	"Takainamo #1" = 10
+	"Ayetechapun #0" = 0
+	"Buvaovamu #0" = 0
+	"Kakha Kapak #0" = 0
+	"Kama Bergu #0" = 0
+	"Chumtiku #0" = 0
+	"Kuyuchi #0" = 0
+	"Dokosamu #0" = 0
+	"Drightonamu #0" = 0
+	"Eenimaku #0" = 0
+	"Phelan Tamuk #0" = 0
+	"Guzmango #0" = 0
+	"Ilsayunamu #0" = 0
+	"Hotiantiantica #0" = 0
+	"Katika #0" = 0
+	"Litun Orco #0" = 0
+	"Melantonan #0" = 0
+	"Michan Chimor #0" = 0
+	"Mouton Belan #0" = 0
+	"Nartamamu #0" = 0
+	"Neuametepun #0" = 0
+	"Opolkinamun #0" = 0
+	"Pacatmama #0" = 0
+	"Busnaimun #0" = 0
+	"Helen Padnou #0" = 0
+	"Seton Apak #0" = 0
+	"Seran Tugun #0" = 0
+	"Cockroach #0" = 0
+	"Triplet #0" = 0
+	"Urtyantemu #0" = 0
+	"Vetsalinoon #0" = 0
+	"Etunyama #0" = 0
+	"Sergoethan #0" = 0
+	
+	"Mayara #0" = -1
+}
+leader_names = {
+	"Guacrisaur"
+	"Takainamo"
+	"Tiso"
+	"Nansempinko"
+	"Chilce"
+	"Maras"
+	"Luès"
+	"Mila"
+	"Illa"
+	"Rimac"
+}
+
+ship_names = {
+	"Viracoca"
+	"Apo Inti"
+	"Chiqui Ilyapa"
+	"Mamkilla"
+	"Yakumama"
+	"Mamakocha"
+	"Pachacama"
+	"Waka"
+	"Chang Chan"
+	"Chimor"
+	"Chicago"
+	"Urine"
+	"Viru"
+	"Sipan"
+	"Huancaco"
+}

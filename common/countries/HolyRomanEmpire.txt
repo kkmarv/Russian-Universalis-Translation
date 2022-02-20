@@ -1,0 +1,122 @@
+graphical_culture = westerngfx
+
+color = { 150  177  161 }
+
+random_nation_chance = 0
+
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Friedrich #2" = 60
+	"Albrecht #1" = 50
+	"Friedrich #2 Wilhelm" = 40
+	"Friedrich #2 August" = 30
+	"Ferdinand #0" = 30
+	"William #0" = 30
+	"Karl #4" = 20
+	"Christian #0" = 20
+	"Johann #0 Georg" = 20
+	"Maximilian #0" = 20
+	"Franz #0" = 20
+	"Joseph #0" = 20
+	"Henry #7" = 15
+	"Karl #4 Albrecht" = 15
+	"Carl #4 Theodore" = 15
+	"Friedrich #2 Albrecht" = 15
+	"Frederick #2 Christians" = 15
+	"Albrecht #1 Achilles" = 15
+	"August #0" = 15
+	"Ernest #0" = 15
+	"Ferdinand #0 Maria" = 15
+	"Franz #0 Stefan" = 15
+	"George #0" = 15
+	"George #0 Wilhelm" = 15
+	"Joachim #0 Hector" = 15
+	"Joachim #0 Nestor" = 15
+	"Johann #0" = 15
+	"Johann #0 Cicero" = 15
+	"Johann #0 Friedrich" = 15
+	"Johann #0 Sigismund" = 15
+	"Ladislav #0" = 15
+	"Leopold #0" = 15
+	"Matthias #0" = 15
+	"Mortiz #0" = 15
+	"Sigismund #0" = 15
+	"Carl #4 Joseph" = 10
+	"Ludwig #4" = 10
+	"August #0 William" = 10
+	"William #0 Friedrich" = 10
+	"Alexander #0" = 10
+	"Anton #0" = 10
+	"Christian #0 Albrecht" = 10
+	"Hector #0" = 10
+	"Johann #0 Carl" = 10
+	"Johann #0 Leopold" = 10
+	"Leopold #0 Ferdinand" = 10
+	"Leopold #0 Johann" = 10
+	"Maximilian #0 Phillip" = 10
+	"Ruprecht #0" = 10
+	"Wenzel #0" = 10
+	
+	"Ilsa #0" = -1
+	"Judith #0" = -1
+	"Laura #0" = -1
+}
+
+leader_names = { 
+	"Adam" "Angerman" "Applet" "Arndt" "Beck" "Becker" "Bening" "Blazyus"
+	"Brilz" "Bresher" "BÜTTNER" "Karl" "Dame" "Deneke" "Ecstein" "Edelman"
+	"Elsner" "File" "Fisher" "Franke" "Giver" "Haasse" "Hafner" "Gertel" 
+	"Hirsch" "Hen" "Cummel" "Keller" "Kessler" "Keppe" "Con" "Kremer"
+	"Coon" "Lindner" "Mertesdorf" "Meyer" "Mick" "Mueller" "Necker" "Nel "
+	"Elgemeller" "Raabe" "Rainer" "Scarfballig" "Shave" "Sheler"
+	"Schmitt" "Schneider" "Schumann" "Stefan" "Telen" "Tyrwyler"
+	"Ulyg" "von Franken" "von Rothenburg" "von Schwaben"
+	"von Witzgau" "von Weimar" "Waxmouth" "Watch" "Wohn Werl"
+	"Walter" "Vecker"
+}
+
+ship_names = {
+	"Ariadne" "Habicht" "Adler" "Albatross" "Amazon"
+	"Arkona" "Basilisk" "Beowulf" "Bine" "Vespa" "Wolf"
+	"Nautilus" "Nutter" "Otter" "Pelican" "Pile" "Meteor"
+	"Meve" "Myukke" "Lux" "Koenig" "Kaiser" "Eber" "Draché"
+	"Falke" "Fryunlob" "Freya" "Fuchs" "Gazelle" "Gaer"
+	"Greif" "Condor" "Cormoran" "Comet" "Watch" "Tiger"
+	"Zeadler" "Jaguar" "Hiehene" "Blitz" "Bremse" "Brummer"
+	"Boussard" "Vulcan"
+}
+
+army_names = {
+	"Imperial army" "Provincial Army. $PROVINCE$" 
+}
+
+fleet_names = {
+	"Imperial Navy"
+}

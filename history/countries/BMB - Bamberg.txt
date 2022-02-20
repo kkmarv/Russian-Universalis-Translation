@@ -1,0 +1,173 @@
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+technology_group = western
+primary_culture = franconian
+religion = catholic
+capital = 66
+fixed_capital = 66
+ 
+1431.1.1 = {
+    monarch = {
+        name = "Anton"
+        dynasty = "von Rotenhan"
+        birth_date = 1396.1.1
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+ 
+1459.1.1 = {
+    monarch = {
+        name = "George"
+        dynasty = "von Schamberg"
+        birth_date = 1424.1.1
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+ 
+1475.1.1 = {
+    monarch = {
+        name = "Philippe"
+        dynasty = "von Genneberg"
+        birth_date = 1440.1.1
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+ 
+1487.2.1 = {
+    monarch = {
+        name = "Henry" #Henry Gro?
+        dynasty = "von Trocai"
+        birth_date = 1452.1.1
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+ 
+1501.3.30 = {
+    monarch = {
+        name = "Veit" #Veit Truchse?
+        dynasty = "von Pommersfelden"
+        birth_date = 1466.1.1
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+ 
+1503.9.7 = {
+    monarch = {
+        name = "George II" #George Marschalk
+        dynasty = "von Ebnet"
+        birth_date = 1468.1.1
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+ 
+1505.1.30 = {
+    monarch = {
+        name = "George III" #George Schenk
+        dynasty = "von Lampurg"
+        birth_date = 1470.1.1
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+ 
+1522.5.31 = {
+    monarch = {
+        name = "Weigand"
+        dynasty = "von Redwitz"
+        birth_date = 1487.1.1
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+ 
+1556.5.20 = {
+    monarch = {
+        name = "George IV" #George Fuchs
+        dynasty = "von Rugheim"
+        birth_date = 1521.1.1
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+ 
+1561.5.22 = {
+    monarch = {
+        name = "Veit II"
+        dynasty = "von Württzburg"
+        birth_date = 1526.1.1
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+ 
+1577.7.8 = {
+    monarch = {
+        name = "Johann George Zobel"
+        dynasty = "von Goebelsbstad"
+        birth_date = 1542.1.1
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+ 
+1580.9.7 = {
+    monarch = {
+        name = "Martin"
+        dynasty = "von Eub"
+        birth_date = 1545.1.1
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+ 
+1583.8.26 = {
+    monarch = {
+        name = "Ernst"
+        dynasty = "von Mengerdorf"
+        birth_date = 1548.1.1
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+ 
+1591.10.21 = {
+    monarch = {
+        name = "Naytard"
+        dynasty = "von Tungen"
+        birth_date = 1556.1.1
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+ 
+1598.12.26 = {
+    monarch = {
+        name = "Johann Phillip"
+        dynasty = "von Geibzattel"
+        birth_date = 1563.1.1
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}

@@ -1,0 +1,205 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 246  223  15 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+trade_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"William #1" = 40
+	"Armand #0" = 40
+	"Johann #3" = 20
+	"Conrad #3" = 20
+	"Albrecht #0" = 20
+	"Erasmus #0" = 20
+	"Franz Egon #0" = 20
+	"Johann Georg #0" = 20
+	"Karl #0" = 20
+	"Leopold #0" = 20
+	"Leopold Wilhelm #0" = 20
+	"Louis Constantine #0" = 20		
+	"Louis René #0" = 20
+	"Ruprecht #0" = 20
+	"William Egon #0" = 20
+	"Berthold #2" = 10
+	"Burkhardt #2" = 10
+	"Friedrich #2" = 10
+	"Rudolph #2" = 10
+	"Ludwig #1" = 10
+	"Henry #4" = 5
+	"Werner #2" = 5
+	"Baldwin #1" = 5
+	"Bruno #1" = 5
+	"Eberhardt #1" = 5
+	"Gebhardt #1" = 5
+	"Gottfried #1" = 5
+	"Kuno #1" = 5
+	"Lambert #1" = 5
+	"Otto #1" = 5
+	"Walter #1" = 5
+	"Adolf #0" = 0
+	"Alfred #0" = 0
+	"Baldur #0" = 0
+	"Erich #0" = 0
+	"Ferdinand #0" = 0
+	"Franz #0" = 0
+	"Gunter #0" = 0
+	"Rainer #0" = 0
+	"Stefan #0" = 0
+
+    "Alexandra #0" = -1
+	"Christine #0" = -1
+	"Emma #0" = -1
+}
+
+leader_names = {
+	"d'Andlo"
+	"d'Arnsberg"
+	"de Banville"
+	"de Balti"
+	"de Berenfeltz"
+	"de Berkhaym"
+	"de Beonholdt"
+	"de Beroldingen"
+	"Boc de Blasheim"
+	"Bock de Erlenburg"
+	"de Bocklinzau"
+	"de Dahlberg"
+	"de Dieu-Pont Bisch"
+	"de Dornach"
+	"de Falkenstein"
+	"de Fleckenstein"
+	"de Fürstenberg"
+	"Geiling d'Alteheim"
+	"de Gilsberg"
+	"de Hagenbach"
+	"de Hanau-Lichtenberg"
+	"de Hohenstein"
+	"de Hungerstein"
+	"de Kippenheim"
+	"de Kircheim"
+	"de Landek"
+	"de Landenberg"
+	"Linange-Westerburg"
+	"de Lupfin"
+	"de Lutzelburg"
+	"de Morimon"
+	"de Mullenheim"
+	"de Munch"
+	"de Pfashtatte"
+	"de Ramstein"
+	"de Ratzamhausen"
+	"de Regüsheim"
+	"de Reichenshtein"
+	"zu Rhein"
+	"de Reinfeld"
+	"de Ribopierre"
+	"de Schaunburg"
+	"de Schmitzburg"
+	"de Chenau"
+	"de Zikkingen"
+	"de Thyrstein"
+	"de Turkheim"
+	"d'Uttenheim"
+	"de Wasselnheim"
+	"de Weithersheim"
+	"de Wildsberg"
+	"de Winterbescher"
+	"Wolff"
+	"de Wurmzer"
+	"de Zurlauben"
+}
+
+ship_names = {
+	"Altkirch"
+	"Ammerschwir"
+	"Andolsheim"
+	"Barr"
+	"Benfeld"
+	"Bishwiller"
+	"Bithe"
+	"Bolleville"
+	"Broomat"
+	"Cernai"
+	"Colmar"
+	"Diffenthal"
+	"Enzisheim"
+	"Ershtein"
+	"Hubwiller"
+	"Hagunau"
+	"Honwald"
+	"Horburg-Vir"
+	"Hunshpah"
+	"Canterbrow"
+	"Kaisersberg"
+	"Lautenbach"
+	"Lauterburg"
+	"Lembach"
+	"Markolsheim"
+	"Molsheim"
+	"Mulhouse"
+	"Munster"
+	"Mutzig"
+	"Neuf-Brizach"
+	"Oberhaslah"
+	"Auburn"
+	"Olsheim"
+	"Orbey"
+	"Reichshoffen"
+	"Rickweir"
+	"Rouflach"
+	"Savern"
+	"Chevriller"
+	"Shirmek"
+	"Celestat"
+	"Souffelweier"
+	"Soufflenheim"
+	"Soulzmatt"
+	"Strassbourg"
+	"Tann"
+	"Turkheim"
+	"Wendenheim"
+	"Wissemburg"
+	"Wittelheim"
+}
+
+army_names = {
+	"Alsace Army"
+	"Rhine army"
+	"Vosgian army"
+	"Sungo Army"
+	"Jurassic Army"
+	"Oxenfeld Army"
+	"La Harda Army"
+	"La Decapolia Army"
+	"Strasbourg Army"
+	"Provincial Army. $PROVINCE$"
+}

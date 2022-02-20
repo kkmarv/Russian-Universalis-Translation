@@ -1,0 +1,119 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 129  109  9 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Sigismund #0" = 60
+	"Friedrich #3" = 40
+	"Eberhardt #2" = 40
+	"Johann #1" = 40
+	"Burkhardt #1" = 20
+	"Andreas Jacob #0" = 20
+	"Bernhardt #0" = 20
+	"Ferdinand #0" = 20
+	"Franz Anton #0" = 20
+	"George #0" = 20
+	"Gregor #0" = 20
+	"Gvidobald #0" = 20
+	"Jacob Ernst #0" = 20
+	"Johann Ernst #0" = 20
+	"Johann Jacob #0" = 20
+	"Leonard #0" = 20
+	"Leopold Anton #0" = 20
+	"Markus Zittich #0" = 20
+	"Matthias #0" = 20
+	"Maximilian #0" = 20
+	"Michael #0" = 20
+	"Paris #0" = 20
+	"Hieronymus #0" = 20
+	"Wolfgang #0" = 20
+	"Berthold #1" = 15
+	"Henry #1" = 15
+	"Ernst #0" = 15
+	"Leopold #0" = 15
+	"Benedict #0" = 0
+	"Christian #0" = 0
+	"Clemens #0" = 0
+	"Gerhardt #0" = 0
+	"Henry #0" = 0
+	"Herman #0" = 0
+	"Jacob #0" = 0
+	"Oscar #0" = 0
+	"Otto #0" = 0
+	"Stefan #0" = 0
+	"Ulrich #0" = 0
+	"Wolfgang #0" = 0
+	
+	"Aleida #0" = -1
+	"Christa #0" = -1
+	"Helvig #0" = -1
+}
+
+leader_names = {
+	"Doppler"
+	"Trakl"
+	"Randle"
+	"Waggerl"
+	"Moore"
+	"Amanshauser"
+	"Meislinger"
+	"Beck"
+	"Charles"
+	"Eigner"
+	"Mayer"
+	"Witzigman"
+	"Firefightinger"
+	"Gruber"
+	"Burgstaller"
+	"Schoenswetter"
+	"Machiner"
+	"Roracher"
+}
+
+ship_names = {
+	"Gmunden"
+	"Hulline"
+	"Halstatt"
+	"Pongau"
+	"Tennengau"
+	"Lungau"
+	"Pinzgau"
+	"Dakhstein"
+	"Salzach"
+	"Hochkenig"
+}
+
+army_names = {
+	"Archbishop's Guard"
+	"Provincial Army. $PROVINCE$"
+}

@@ -1,0 +1,98 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+primary_culture = madagasque
+religion = shamanism #Fetishism
+technology_group = east_african
+unit_type = sub_saharan
+capital = 3601	# Vatomandry
+
+1444.1.1 = {
+	monarch = {
+		name = "Eavi" #Fictional
+		dynasty = "Becimisaraca"
+		ADM = 2
+		MIL = 2
+		DIP = 2
+	}
+}
+
+1510.1.1 = {
+	monarch = {
+		name = "Zanahari" #Fictional
+		dynasty = "Becimisaraca"
+		ADM = 1
+		MIL = 1
+		DIP = 2
+	}
+}
+
+1565.1.1 = {
+	monarch = {
+		name = "Zavolo" #Fictional
+		dynasty = "Becimisaraca"
+		ADM = 2
+		MIL = 1
+		DIP = 2
+	}
+}
+
+1630.1.1 = {
+	monarch = {
+		name = "Tsihala" #Fictional
+		dynasty = "Becimisaraca"
+		ADM = 2
+		MIL = 2
+		DIP = 1
+	}
+}
+
+1700.1.1 = { #Prior to this point the Becimisaraca are divided into numerous small states, often in conflict with eachother.
+	monarch = {
+		name = "Ratsimiloa"
+		dynasty = "Becimisaraca"
+		ADM = 4
+		MIL = 4
+		DIP = 2
+	}
+}
+
+1755.1.1 = {
+	monarch = {
+		name = "Zanahari"
+		dynasty = "Becimisaraca"
+		ADM = 2
+		MIL = 1
+		DIP = 2
+	}
+}
+
+1767.1.1 = {
+	monarch = {
+		name = "Eavi"
+		dynasty = "Becimisaraca"
+		ADM = 1
+		MIL = 2
+		DIP = 1
+	}
+}
+
+1791.1.1 = {
+	monarch = {
+		name = "Zavolo"
+		dynasty = "Becimisaraca"
+		ADM = 3
+		MIL = 3
+		DIP = 3
+	}
+}
+
+1810.1.1 = {
+	monarch = {
+		name = "Tsihala" #Land really being fought over by various male relatives of Zakavolo.
+		dynasty = "Becimisaraca"
+		ADM = 1
+		MIL = 1
+		DIP = 1
+	}
+}

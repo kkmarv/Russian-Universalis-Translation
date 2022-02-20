@@ -1,0 +1,192 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 135  144  180 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	quantity_ideas
+	offensive_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	african_spearmen
+	bantu_tribal_warfare
+	african_hill_warfare
+	adal_gunpowder_warfare
+	westernized_adal
+	adal_guerilla_warfare
+	african_somali_cavalry
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_hussar
+	african_dragoon		
+}
+
+monarch_names = {
+	"George  #0" = 30
+	"Joel #1" = 20
+	"City #0" = 20
+	"Pavlos #0" = 10
+	"Vasily #0" = 5
+	"Nasri #0" = 5
+	"Papi #0" = 5
+	"David #0" = 5
+	"Abraham #0" = 0
+	"Aaron #0" = 0
+	"Adama #0" = 0
+	"Avericum #0" = 0
+	"Agapos #0" = 0
+	"Aggestotile #0" = 0
+	"Aggelos #0" = 0
+	"Alpha #0" = 0
+	"Anton #0" = 0
+	"Antonio #0" = 0
+	"Andreas #0" = 0
+	"Macari #0" = 0
+	"Mashhuda #0" = 0
+	"Marturocuda #0" = 0
+	"Muna #0" = 0
+	"Gurresi #0" = 0
+	"Gabrielicuda #0" = 0
+	"Gabrielkuda #0" = 0
+	"Georagaj #0" = 0
+	"Caddy #0" = 0
+	"Raphael #0" = 0
+	"Moses #0" = 0
+	"Timofey #0" = 0
+	"Dharma #0" = 0
+	"Ixuincuda #0" = 0
+	"Tamsi #0" = 0
+	"Papo Mena #0" = 0
+	"Sweety #0" = 0
+	"Isu #0" = 0
+	"Tapara #0" = 0
+	"Papas #0" = 0
+	"Martiroforos #0" = 0
+	"Joassuk #0" = 0
+	"Senticol #0" = 0
+	"Simon #0" = 0
+	"Stefanos #0" = 0
+	"Toskuda #0" = 0
+	"Masi #0" = 0
+	"Urwelle #0" = 0
+	"Uruvi #0" = 0
+	"Mena #0" = 0
+	"Mercuryos #0" = 0
+	"Michaklko #0" = 0
+	"John #0" = 0
+	"Chucklesongoja #0" = 0
+	"Christoforos #0" = 0
+	"Muhumeti #0" = 0
+	"Isakk #0" = 0
+	"George #0" = 0
+	"Kosma #0" = 0
+	"Ajola #0" = 0
+	"Iodisy #0" = 0
+	"Songodge #0" = 0
+	"Urnurta #0" = 0
+	"Orounkuda #0" = 0
+	"Orinurta #0" = 0
+	"Petri #0" = 0
+	"Ngissiticol #0" = 0
+	"Mario #0" = 0
+	"Marincuada #0" = 0
+	"Milincuda #0" = 0
+	"Orisel #0" = 0
+	"Uttal #0" = 0
+	"Enggael #0" = 0
+	"Ngapre #0" = 0
+	"Dukasi #0" = 0
+	"Jacob #0" = 0
+	"Ixucincuda #0" = 0
+	"Israel #0" = 0
+	"Merck #0" = 0
+	"Mariomc #0" = 0
+	"Tokkinao #0" = 0
+	"Dauti #0" = 0
+	"Mask #0" = 0
+	"Shadows #0" = 0
+	"Semamun #0" = 0
+	"Lucasi #0" = 0
+	"Solomon #0" = 0
+	"Sukusapa #0" = 0
+	"Marianu #0" = 0
+	"Peter #0" = 0
+	"Spread the word . #0" = 0
+	"Shekanda #0" = 0
+	"Ettoe #0" = 0
+	"Megaly #0" = 0
+	"Kamar #0" = 0
+	"Paul #0" = 0
+	"Taanego #0" = 0
+	"Urtigaddi #0" = 0
+	"Barak #0" = 0
+	"Zachariah #0" = 0
+	"Zakhar #0" = 0
+	"Istanbulskuda #0" = 0
+	"Papascincuda #0" = 0
+	"Starosilkuda #0" = 0
+	"Anastasios #0" = 0
+	"Bartholomew #0" = 0
+	"Moses-George #0" = 0
+	"Kattikuda #0" = 0
+
+	"Noesy #0" = -1
+	"Kapopi #0" = -1
+	"Anenicoli #0" = -1
+	"Pampigon #0" = -1
+	"Oenomaria #0" = -1
+	"Mariam #0" = -1
+	"Mariham #0" = -1
+	"Maria #0" = -1
+	"Marie #0" = -1
+	"Pongita #0" = -1
+	"Dogs #0" = -1
+	"Percy #0" = -1
+	"Songjapiki #0" = -1
+	"Ngonnen #0" = -1
+	"Marie #0" = -1
+	"Papasinen #0" = -1
+	"Pasine #0" = -1
+	"Fekla #0" = -1
+	"Maya #0" = -1
+	"Ajjj #0" = -1
+	"Eismalck #0" = -1
+	"Argate #0" = -1
+	"Kapen #0" = -1
+	"Eningoca #0" = -1
+	"Iominne #0" = -1
+	"Jola #0" = -1
+	"Iocaja #0" = -1
+	"Eirotatungilki #0" = -1
+	"Shipopi #0" = -1
+	"Anna #0" = -1
+	"Elizabeth #0" = -1
+	"Mikaela #0" = -1
+	"Susannah #0" = -1
+}
+
+leader_names = {
+	Abbaud
+	Fung
+	Garang
+	Kaira
+	Keira
+	Keluljang
+	Lugor
+	Nuer
+	Schaul
+	Taha
+}
+
+ship_names = {
+	Apedemac Bes Dedven Ahrensnufis Amon
+	Mandulis Amedirdis Taveret Mut Tefnut Hnum.
+}

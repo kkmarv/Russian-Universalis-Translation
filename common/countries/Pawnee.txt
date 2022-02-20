@@ -1,0 +1,85 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 46 49 146 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Tarahutakou #0" = 20
+	"Tirilari #0" = 10
+	"Cocaletahou #0" = 10
+	"Lalapa #0" = 10
+	"Tahorow #0" = 10
+	"Leterichard #0" = 10
+	"Tirachettiktikspow #0" = 10
+	"Tikahore #0" = 10
+	"Lahezrashi #0" = 10
+	"Tarara #0" = 10
+	"Teripaku #0" = 10
+	"Irarikau #0" = 10
+	"Taretuusht #0" = 10
+	"Charuvaru #0" = 10
+	"Scalavalacaro #0" = 10
+	"Panukuhike #0" = 10
+	"Istatamiiru #0" = 10
+	"Taarakarukaista #0" = 10
+	"Lecoucaroushtu #0" = 10
+	"Takatakhekou #0" = 10
+	"Kevatukoush #0" = 10
+	"Teratuevit #0" = 10
+	"Tahirish #0" = 10
+	"Petaperisht #0" = 10
+	"Talavehouri #0" = 10
+	"Tarraricarravaa #0" = 10
+	"ShinggaKahega #0" = 10
+	"Aiuvechunivika #0" = 10
+	"Islakapi #0" = 10
+	"Settulushaa #0" = 10
+	"Shakororishshara #0" = 10
+	"Tarraekarwaa #0" = 10
+	"Tarrarevetiisht #0" = 10
+	"Arorishhara #0" = 10
+	"Telavahecarukot #0" = 10
+	"Cagacherryson #0" = 10
+	"Latatoriskhara #0" = 10
+	
+	"Tetakurrivax #0" = -1
+	"Tztaka #0" = -1
+	"Ttarakhuxtu #0" = -1
+	"Zaktahiraas #0" = -1
+	"Tskusaski #0" = -1
+	"Ctataruri'u #0" = -1
+	"Tztapittarius #0" = -1
+}
+
+leader_names = {
+	Markhar Skidi Turikaru Kitkehakspakukstu Tuhitspiat Tuhavukasa Arikarikutsu
+	Arikarariki Sutsaku Tuvaraku Akapaktsawa Tskisarikus Tsiskaatite Turaviu Pahuksatu
+	Tsirirara Chuay Kitkehaki Pitahaurit Kawaraki
+}
+
+ship_names = {
+	Asakis Arusa Tarah Ta Skiri Kuuruks Kiwaku Ikat Kuururaaru Rivit Ritahkak
+	Pahuru Kaaka Rutki Ikas
+}

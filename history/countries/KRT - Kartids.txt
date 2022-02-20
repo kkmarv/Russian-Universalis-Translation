@@ -1,0 +1,104 @@
+government = tribal
+add_government_reform = steppe_horde
+technology_group = muslim
+primary_culture = mongol
+religion = shiite
+
+1244.1.1 = {
+	monarch = {
+		name = "Rukn oud-Din Abu Bakr"
+		dynasty = "Kartid"
+		birth_date = 1200.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1245.1.1 = {
+	monarch = {
+		name = "Shams oud-Din Muhammad"
+		dynasty = "Kartid"
+		birth_date = 1220.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1277.1.1 = {
+	monarch = {
+		name = "Rukn oud-Din"
+		dynasty = "Kartid"
+		birth_date = 1250.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1295.1.1 = {
+	monarch = {
+		name = "Fahr oud-Din"
+		dynasty = "Kartid"
+		birth_date = 1270.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1308.1.1 = {
+	monarch = {
+		name = "Guillaume oud-Din"
+		dynasty = "Kartid"
+		birth_date = 1290.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1329.1.1 = {
+	monarch = {
+		name = "Shams oud-Din Muhammad"
+		dynasty = "Kartid"
+		birth_date = 1310.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1330.1.1 = {
+	monarch = {
+		name = "Hafiz"
+		dynasty = "Kartid"
+		birth_date = 1311.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1332.1.1 = {
+	monarch = {
+		name = "Muizz oud-Din Husay"
+		dynasty = "Kartid"
+		birth_date = 1312.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1370.1.1 = {
+	monarch = {
+		name = "Guillaume oud-Din Pir-Ali"
+		dynasty = "Kartid"
+		birth_date = 1330.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

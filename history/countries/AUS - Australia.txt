@@ -1,0 +1,359 @@
+government = republic
+set_legacy_government = constitutional_republic
+technology_group = western
+religion = protestant
+primary_culture = english
+capital = 1090	# Canberra
+
+1901.1.1 = {
+	monarch = {
+		name = "Edmund Burton"
+		birth_date = 1849.1.18
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1903.9.24 = {
+	monarch = {
+		name = "Alfred Dikin"
+		birth_date = 1856.8.3
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1904.4.27 = {
+	monarch = {
+		name = "Chris Watson"
+		birth_date = 1867.4.9
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1904.8.18 = {
+	monarch = {
+		name = "George Reed"
+		birth_date = 1845.2.25
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+}
+
+1905.7.5 = {
+	monarch = {
+		name = "Alfred Dikin"
+		birth_date = 1856.8.3
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1908.11.13 = {
+	monarch = {
+		name = "Andrew Fisher"
+		birth_date = 1862.8.29
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1909.7.2 = {
+	monarch = {
+		name = "Alfred Dikin"
+		birth_date = 1856.8.3
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1910.4.29 = {
+	monarch = {
+		name = "Andrew Fisher"
+		birth_date = 1862.8.29
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1913.7.24 = {
+	monarch = {
+		name = "Joseph Cook"
+		birth_date = 1860.12.17
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1914.9.17 = {
+	monarch = {
+		name = "Andrew Fisher"
+		birth_date = 1862.8.29
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1915.10.27 = {
+	monarch = {
+		name = "Billy Hughes"
+		birth_date = 1862.9.25
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+
+1923.2.9 = {
+	monarch = {
+		name = "Stanley Bruce"
+		birth_date = 1883.4.15
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1929.10.22 = {
+	monarch = {
+		name = "Jim Scullin"
+		birth_date = 1876.9.18
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1932.1.6 = {
+	monarch = {
+		name = "Joseph Lyons"
+		birth_date = 1879.9.15
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1939.4.7 = {
+	monarch = {
+		name = "Earl Page"
+		birth_date = 1880.8.8
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1939.4.26 = {
+	monarch = {
+		name = "Robert Menzis"
+		birth_date = 1894.12.20
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+}
+
+1941.8.28 = {
+	monarch = {
+		name = "Arthur Thadden"
+		birth_date = 1895.4.3
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1941.10.7 = {
+	monarch = {
+		name = "John Curtin"
+		birth_date = 1885.1.8
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1945.7.6 = {
+	monarch = {
+		name = "Frank Ford"
+		birth_date = 1870.7.18
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1945.7.13 = {
+	monarch = {
+		name = "Ben Chifley"
+		birth_date = 1885.9.22
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1949.12.19 = {
+	monarch = {
+		name = "Robert Menzis"
+		birth_date = 1894.12.20
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+}
+
+1966.1.26 = {
+	monarch = {
+		name = "Harold Holt"
+		birth_date = 1908.8.5
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1967.12.19 = {
+	monarch = {
+		name = "John McEwan"
+		birth_date = 1900.3.29
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1968.1.10 = {
+	monarch = {
+		name = "John Gorton"
+		birth_date = 1911.9.9
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1971.3.10 = {
+	monarch = {
+		name = "William McMahon"
+		birth_date = 1908.2.23
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1972.12.5 = {
+	monarch = {
+		name = "Gough Whitelham"
+		birth_date = 1916.6.11
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1975.11.11 = {
+	monarch = {
+		name = "Malcolm Fraser"
+		birth_date = 1930.5.21
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1983.3.11 = {
+	monarch = {
+		name = "Bob Hawk"
+		birth_date = 1929.12.9
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+
+1991.12.20 = {
+	monarch = {
+		name = "Paul Keating"
+		birth_date = 1944.1.18
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1996.3.11 = {
+	monarch = {
+		name = "John Howard"
+		birth_date = 1939.7.26
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2007.12.3 = {
+	monarch = {
+		name = "Kevin Rudd"
+		birth_date = 1957.9.21
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2010.6.24 = {
+	monarch = {
+		name = "Julia Gillard"
+		birth_date = 1961.9.29
+		adm = 4
+		dip = 4
+		mil = 1
+		female = yes
+	}
+}
+
+2013.6.27 = {
+	monarch = {
+		name = "Kevin Rudd"
+		birth_date = 1957.9.21
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2013.9.18 = {
+	monarch = {
+		name = "Tony Abbott"
+		birth_date = 1957.11.4
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+2015.9.15 = {
+	monarch = {
+		name = "Malcolm Turnbull"
+		birth_date = 1954.10.24
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}

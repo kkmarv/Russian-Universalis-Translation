@@ -1,0 +1,111 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 152  85  92 }
+
+revolutionary_colors = { 5  0  10 }
+
+historical_score = 250
+
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	religious_ideas
+	spy_ideas	
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	germanized_pike
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+}
+
+monarch_names = {
+	"Ulaso #0" = 40
+	"Laszlo #4" = 20
+	"Layosh #1" = 20
+	"Albert #0" = 20
+	"Janosz #0" = 20
+	"Mathias #0" = 20
+	"Sigismund #0" = 20
+	"Andrei #3" = 15
+	"Karl #2" = 15
+	"Istvan #5" = 10
+	"Anna #0" = -10
+	"Bela #4" = 5
+	"Anastas #0" = 0
+	"Barnabas #0" = 0
+	"Bethelan #0" = 0
+	"Boldijar #0" = 0
+	"David #0" = 0
+	"Demeter #0" = 0
+	"Edward #0" = 0
+	"Erne #0" = 0
+	"Ferenc #0" = 0
+	"Gabor #0" = 0
+	"György #0" = 0
+	"Isak #0" = 0
+	"Iene #0" = 0
+	"Joseph #0" = 0
+	"Squid #1" = 0
+	"Size #0" = 0
+	"Lrents #0" = 0
+	"Lukacs #0" = 0
+	"Mark #0" = 0
+	"Miklosh #0" = 0
+	"Oscar #0" = 0
+	"Otto #0" = 0
+	"Patrick #0" = 0
+	"Peter #0" = 0
+	"Simon #0" = 0
+	"Tamash #0" = 0
+	"Wenzel #0" = 0
+}
+
+leader_names = {
+	"Andrashi" "Alvinci"
+	"Keg" "Bethlehem" "Batory" "Battyani" "Benowski" "Beleznai"
+	"Chuck"
+	"Dessevfi"
+	"Esterhazy"
+	"Festetich" "Frangepan"
+	"Garage"
+	"Junyadi" "Hadiq" "Horthy"
+	"Kinigi" "Carolia" "Can" "de Kovac" "Kemeni"
+	"Lakovich" "Losonzi"
+	"Mesarosh" "Milvanius"
+	"Nadashi"
+	"Ozorai"
+	"Rakoczi" "Rozgonius"
+	"Subic" "Sections"
+	"Tekeli" "Telecs"
+	"Zrinsky" "Peninsulas" "Zeehie"
+}
+
+ship_names = {
+	"Aranibulla"
+	"Arpad"
+	"Magyar"
+	"Sigismund"
+	"Szent Istvan kirali"
+	"Mathias Hunyadi"
+	"Caroli Robert"
+	"Layosh Nagy"
+	"Laszlo"
+	"Squid"
+}

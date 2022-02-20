@@ -1,0 +1,323 @@
+set_legacy_government = administrative_monarchy
+government = monarchy 
+primary_culture = cosmopolitan_french
+add_accepted_culture = gascon
+add_accepted_culture = occitain
+add_accepted_culture = angevin ### STT
+add_accepted_culture = champenois ### STT
+religion = catholic
+technology_group = western
+capital = 183 # Paris
+national_focus = DIP
+historical_rival = HAB
+
+1814.4.11 = {
+	government_rank = 2
+	monarch = {
+		name = "Ludovic XVIII"
+		dynasty = "de bourbon"
+		birth_date = 1755.11.17
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1814.4.11 = {
+	heir = {
+		name = "Karl"
+		monarch_name = "Karl X"
+		dynasty = "de bourbon"
+		birth_date = 1757.10.9
+		death_date = 1836.11.6
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1815.3.20 = {
+    government_rank = 3
+	monarch = {
+		name = "Napoleon I"
+		adm = 6
+		dip = 3
+		mil = 6
+		dynasty = "Bonaparte" 
+		birth_date = 1769.8.15
+		leader = { name = "Napoleon"	type = general	fire = 6	shock = 6	manuever = 6	siege = 2 }
+	}
+}
+
+1815.3.20 = {
+	heir = {
+		name = "Napoleon"
+		monarch_name = "Napoleon II"
+		dynasty = "Bonaparte"
+		birth_date = 1811.3.20
+		death_date = 1832.7.22
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1815.6.22 = {
+	monarch = {
+		name = "Napoleon II"
+		adm = 2
+		dip = 2
+		mil = 2
+		dynasty = "Bonaparte" 
+		birth_date = 1811.3.20
+	}
+}
+
+1815.7.7 = {
+    government_rank = 2
+	monarch = {
+		name = "Ludovic XVIII"
+		dynasty = "de bourbon"
+		birth_date = 1755.11.17
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1815.7.7 = {
+	heir = {
+		name = "Karl"
+		monarch_name = "Karl X"
+		dynasty = "de bourbon"
+		birth_date = 1757.10.9
+		death_date = 1836.11.6
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1824.9.16 = {
+	monarch = {
+		name = "Karl X"
+		adm = 2
+		dip = 3
+		mil = 1
+		dynasty = "de bourbon" 
+		birth_date = 1757.10.9
+	}
+}
+
+1824.9.16 = {
+	heir = {
+		name = "Louis"
+		monarch_name = "Ludovic XIX"
+		dynasty = "de bourbon"
+		birth_date = 1775.8.6
+		death_date = 1844.6.3
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1830.8.2 = {
+	monarch = {
+		name = "Ludovic XIX"
+		adm = 2
+		dip = 2
+		mil = 3
+		dynasty = "de bourbon" 
+		birth_date = 1775.8.6
+	}
+}
+
+1830.8.2 = {
+	heir = {
+		name = "Henri"
+		monarch_name = "Henry V"
+		dynasty = "de bourbon"
+		birth_date = 1820.9.29
+		death_date = 1883.8.24
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1830.8.2 = {
+	monarch = {
+		name = "Henry V"
+		adm = 2
+		dip = 2
+		mil = 3
+		dynasty = "de bourbon" 
+		birth_date = 1820.9.29
+	}
+}
+
+1830.8.9 = {
+	monarch = {
+		name = "Louis-Philippe I"
+		adm = 2
+		dip = 3
+		mil = 5
+		dynasty = "d'Orleans" 
+		birth_date = 1773.10.6
+	}
+}
+
+1830.8.9 = {
+	heir = {
+		name = "Ferdinand Philippe"
+		monarch_name = "Ferdinand I Philippe"
+		dynasty = "d'Orleans"
+		birth_date = 1810.9.3
+		death_date = 1842.7.13
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1831.1.1 = { leader = {	name = "Tom Robert Bujo"	type = general		fire = 2	shock = 3	manuever = 4	siege = 1	death_date = 1849.6.10 } }
+
+1842.7.13 = {
+	heir = {
+		name = "Louis-Philippe"
+		monarch_name = "Louis-Philippe II"
+		dynasty = "d'Orleans"
+		birth_date = 1838.8.24
+		death_date = 1894.9.8
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1848.12.20 = {
+	government = republic
+set_legacy_government = constitutional_republic
+	monarch = {
+		name = "Napoleon III"
+		dynasty = "Bonaparte"
+		birth_date = 1808.4.20
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1852.12.2 = {
+	government = monarchy
+	set_legacy_government = administrative_monarchy
+	government_rank = 3
+}
+
+1870.9.4 = {
+	government = republic
+set_legacy_government = constitutional_republic
+	monarch = {
+		name = "Louis Adolf"
+		dynasty = "Thier"
+		birth_date = 1797.4.15
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1873.5.24 = {
+	monarch = {
+		name = "Patrice"
+		dynasty = "de Mac Magon"
+		birth_date = 1808.7.13
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1879.1.30 = {
+	monarch = {
+		name = "Jules"
+		dynasty = "Grevi"
+		birth_date = 1807.8.15
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1887.12.2 = {
+	monarch = {
+		name = "Sadi"
+		dynasty = "Carno"
+		birth_date = 1837.8.11
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1894.6.24 = {
+	monarch = {
+		name = "Jean"
+		dynasty = "Casimir-Pierrier"
+		birth_date = 1847.11.8
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1895.1.17 = {
+	monarch = {
+		name = "Felix"
+		dynasty = "For"
+		birth_date = 1841.1.30
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1899.2.16 = {
+	monarch = {
+		name = "Emile"
+		dynasty = "Lube"
+		birth_date = 1838.12.30
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1906.1.18 = {
+	monarch = {
+		name = "Arman"
+		dynasty = "Faler"
+		birth_date = 1841.11.6
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1913.2.18 = {
+	monarch = {
+		name = "Raymond"
+		dynasty = "Poincaré"
+		birth_date = 1860.8.20
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}

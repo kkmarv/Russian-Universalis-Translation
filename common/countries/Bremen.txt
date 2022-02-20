@@ -1,0 +1,146 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 33  101  137 }
+
+historical_score = 50
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	administrative_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Henry #1" = 40
+	"Johann #1" = 40
+	"Gerhardt #2" = 20
+	"Friedrich #1" = 20
+	"Otto #1" = 20
+	"Baldvin #0" = 20
+	"Christoph #0" = 20
+	"George #0" = 20
+	"Johann Adolf #0" = 20
+	"Johann Friedrich #0" = 20
+	"Nikolaus #0" = 20
+	"Burkhardt #2" = 15
+	"Albrecht #1" = 15
+	"Gottfried #1" = 15
+	"Bernhardt #1" = 10
+	"Florent #1" = 10
+	"Adam #0" = 0
+	"Alexander #0" = 0
+	"Andreas #0" = 0
+	"Baldur #0" = 0
+	"Bruno #0" = 0
+	"Clemens #0" = 0
+	"Denis #0" = 0
+	"Eckhardt #0" = 0
+	"Ernst #0" = 0
+	"Florian #0" = 0
+	"Gregor #0" = 0
+	"Helmfried #0" = 0
+	"Helmut #0" = 0
+	"Isaac #0" = 0
+	"Joachim #0" = 0
+	"Jurgen #0" = 0
+	"Klaus #0" = 0
+	"Martin #0" = 0
+	"Maximilian #0" = 0
+	"Michael #0" = 0
+	"Rainer #0" = 0
+	"Rudolph #0" = 0
+	"Siegert #0" = 0
+	"Siegmund #0" = 0
+	
+	"Verena . #0" = -1
+	"Alexia #0" = -1
+	"Beatrice #0" = -1
+}
+
+leader_names = { 
+  "Adler"
+	"Ahlers"
+	"Baku"
+	"Becrege"
+	"Bergius"
+	"Berninghausen"
+	"Belken"
+	"Bolheim"
+	"Brill"
+	"Delius"
+	"Drevers"
+	"Engels"
+	"Fikke"
+	"Fowkhardt"
+	"Geffken"
+	"Guildmeister"
+	"Groverman"
+	"Happah"
+	"Heimbruch"
+	"Hinke"
+	"Kindt"
+	"Kene"
+	"Krefting"
+	"Laporte"
+	"Lening"
+	"Meyer"
+	"Elric"
+	"Ordeman"
+	"Rainers"
+	"Rode"
+	"Sanders"
+	"Schulken"
+	"Steinwach"
+	"Stucken"
+	"Truernitt"
+	"von Bobert"
+	"von Kappeln"
+	"von Holten"
+	"von Horn"
+	"von Mainerzhagen" 
+}
+
+ship_names = {
+	"Roland"
+	"Tagerbara"
+	"Gelben"
+	"Johann Dove"
+	"Gonorius"
+	"Willehad"
+	"Ever"
+	"Bremer Stolz"
+	"Wappen von Bremen"
+	"Bremer Schüssel"
+	"Weserville"
+}
+
+army_names = {
+	"Archbishop's Guard"
+	"Provincial Army. $PROVINCE$"
+}

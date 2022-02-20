@@ -1,0 +1,97 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 149  186  37 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Jean #5" = 80
+	"Robert #1" = 20
+	"Cornelius #0" = 20
+	"Ferdinand #0" = 20
+	"Francois-Antoine #0" = 20
+	"François-Carles #0" = 20
+	"Gerard #0" = 20
+	"Erar #0" = 20
+	"Ernest #0" = 20
+	"Johann Ludwig #0" = 20
+	"Johann Theodore #0" = 20
+	"George #0" = 20
+	"George Ludwig #0" = 20
+	"Joseph Clemens #0" = 20
+	"Cesar Constantine #0" = 20
+	"Karl #0" = 20
+	"Ludovic #0" = 20
+	"Maximilian Heinrich #0" = 20
+	"Guillaume #3" = 5
+	"Alexander #2" = 5
+	"Theoden #1" = 5
+	"Henry #1" = 5
+	"Adrian #0" = 0
+	"Andres #0" = 0
+	"Augustine #0" = 0
+	"Bartolomeo #0" = 0
+	"Baudouin #0" = 0
+	"Christiaan #0" = 0
+	"Constantine #0" = 0
+	"Danielle #0" = 0
+	"Dominic #0" = 0
+	"Fabian #0" = 0
+	"Frans #0" = 0
+	"Gilles #0" = 0
+	"Godfrid #0" = 0
+	"Herman #0" = 0
+	"Ignas #0" = 0
+	"Yvo #0" = 0
+	"Jacob #0" = 0
+	"Stefan #0" = 0
+	
+	"Irene #0" = -1
+	"Josephine #0" = -1
+	"Lissanni #0" = -1
+}
+
+leader_names = {
+	"Aubrey" "Bushehr" "Shoshe" "Digneff" "Factory"
+	"Gerard" "Heuser" "Henkart" "Jossiah" "Nannan"
+	"Basten" "Baudouin" "Beat" "Cle" "Colson"
+	"da Frankinet" "de Donnea" "de Finnisse"
+	"de Axe" "de Laquayou" "de Spirle" "Hack"
+	"Lambermont" "Field" "Philippen" "Relle" "Rainier"
+	"Vanove" "la Vignette" 
+}
+
+ship_names = {
+	"St. Lambert" "Saint Hubert" "Saint-Martin"
+	"Mass" "Notger of Liege" "Place du Chère"
+	"Saint-Jacques" "St. Bartholomew" "Serena"
+	"Sar-Tilman" "Luik" "St. Nicolas" "Anse"
+}

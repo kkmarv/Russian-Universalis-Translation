@@ -1,0 +1,150 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = SPA
+random_nation_chance = 0
+
+color = { 89  140  176 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	maritime_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Camilo #0" = 20
+	"Kustodio #0" = 20
+	"Jose #0" = 20
+	"Jose #0 Miguel" = 20
+	"Simon #0" = 20
+	"Fernando #0" = 15
+	"Francisco #0 de Paula" = 15
+	"Jose #0 Maria" = 15
+	"Manuel #0" = 15
+	"Antonio #0" = 10
+	"Jorge Tadeo #0" = 10
+	"Jose #0 Joaquin" = 10
+	"Liborio #0" = 10
+	"Manuel #0 Benito" = 10
+	"Manuel #0 Bernardo" = 10
+	"Alfredo #0" = 0
+	"Alvaro #0" = 0
+	"Arturo #0" = 0
+	"Blas #0" = 0
+	"Calixto #0" = 0
+	"Carlos #0" = 0
+	"Danielle #0" = 0
+	"Elias #0" = 0
+	"Enrique #0" = 0
+	"Felix #0" = 0
+	"Gerardo #0" = 0
+	"Horatio #0" = 0
+	"Ignacio #0" = 0
+	"Jaime #0" = 0
+	"Jose #0 Manuel" = 0
+	"Lucio #0" = 0
+	"Marcos #0" = 0
+	"Natalio #0" = 0
+	"Oswaldo #0" = 0
+	"Porfirio #0" = 0
+	"Ramon #0" = 0
+	"Sandalio #0" = 0
+	"Toribio #0" = 0
+	"Vicente #0" = 0
+	"Zachariah #0" = 0
+	
+	"Adelita #0" = -1
+	"Carmela #0" = -1
+	"Delia #0" = -1
+}
+
+leader_names = {
+	"Alcantus"
+	"Alfaro"
+	"Ansoategies"
+	"Bello"
+	"Beltran"
+	"Berbeo"
+	"Benatkur"
+	"Bolívar"
+	"Carreño"
+	"Diaz"
+	"Flores"
+	"Gaitan"
+	"Galan"
+	"Garcia de Toledo"
+	"Gomez"
+	"Gutiérrez de Piñerais"
+	"Marño"
+	"Marquesas"
+	"Mendez"
+	"Michelena"
+	"Myer"
+	"de Miranda"
+	"Molina"
+	"Monagas"
+	"Monsalve"
+	"Montufar"
+	"Nariño"
+	"Narwarte"
+	"O'Baal"
+	"O'Leary"
+	"Ortiz"
+	"Pace"
+	"Parredo"
+	"Pastrana"
+	"Pinilla"
+	"Pizarro"
+	"Fee"
+	"Plaza"
+	"Roa"
+	"Rodriguez"
+	"Rojas"
+	"Rondon"
+	"Rosiglio"
+	"Santander"
+	"Sublette"
+	"Torres"
+	"Urbaneja"
+	"Uribe"
+	"Vargas"
+	"Wiscardo"
+}
+
+
+ship_names = {
+	"Antikia"
+	"Baranquilla"
+	"Caldas"
+	"Cartegena de Indias"
+	"Independiente"
+	"Indomabel"
+	"Intrepido"
+	"Pedro Gonzalez"
+	"Pihao"
+	"Rio Hacha"
+	"Tyrone"
+}

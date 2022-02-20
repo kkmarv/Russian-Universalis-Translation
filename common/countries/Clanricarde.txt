@@ -1,0 +1,115 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 250 128 21 }
+
+revolutionary_colors = { 10  0  6 }
+
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	exploration_ideas
+	trade_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+leader_names = {
+	"Annesley" "Alexander"
+	"Butler" "de Bourg" "Burke" "Boyle" "Brown" "Burke" "Barry" "Balfour" "Blini"
+	"Cholmondeli" "Chichester" "Coot" "Colfield"
+	"Dillon" "Dongan" "Duff" "Digby"
+	"Fitzgerald" "Fitzwilliam" "Fitzoliver" "Fielding" "Fitzmaurice" "Fitzpatrick" "Fortesquieu"
+	"Gelf" "Gardiner" "Grimston"
+	"Hamilton" "Heart" "Harvey"
+	"Keating" "Keane" "Kavanagh"
+	"Lambart"
+	"Martin" "McCarthy" "Moore" "Mead" "Macartney"
+	"Agent"
+	"O'Neill" "O'Brien" "O'Connell" "O'Hara" "O'Malley" "O'Donnell" "O'Carroll" 
+	"Parsons" "Puckenham" "Plankett" "Preston"
+	"Ridgeway"
+	"Styrene"
+	"Tuche" "Taffet"
+	"Vaughan" "Villiers"
+	"Wentworth" "Wesley"
+}
+
+monarch_names = {
+	"Turloch #2" = 60
+	"Domnal #5" = 40
+	"Miregah #2" = 40
+	"Konhobar #1" = 40
+	"Fedlimig #1" = 40
+	"Kahir #0" = 40
+	"Muhe #0" = 40
+	"Ed #6" = 20
+	"Fonnhag #3" = 20
+	"Brian #2" = 20
+	"Krivkhann #2" = 20
+	"Art #1" = 20
+	"Cahal #0" = 20
+	"City #0" = 20
+	"Miris #0" = 20
+	"Tadg #0" = 20
+	"Shang #0" = 20
+	"Niall #4" = 15
+	"Enri #0" = 15
+	"Conn #1" = 10
+	"Ogan #1" = 10
+	"Ingus #2" = 5
+	"Kogall #2" = 5
+	"Melahlin #2" = 5
+	"Diarmid #1" = 5
+	"Flann #1" = 5
+	"Erdgal #0" = 0
+	"Barah #0" = 0
+	"Kivin #0" = 0
+	"Donnauin #0" = 0
+	"Echin #0" = 0
+	"Fergal #0" = 0
+	"Jarlich #0" = 0
+	"Lorkan #0" = 0
+	"Mahueen #0" = 0
+	"Niwan #0" = 0
+	"Aspen #0" = 0
+	"Padrig #0" = 0
+	"Riagin #0" = 0
+	"Sovirl #0" = 0
+	
+	"Sarah #0" = -1
+	"Erflight #0" = -1
+	"Fedelma #0" = -1
+}
+
+ship_names = {
+	"Aoife"
+	"Syaira" "Connacht"
+	"Eitne" "Emer"
+	"Leinster"
+	"Munster"
+	"Niamh"
+	"Eagle"
+	"Roisin"
+	"Ulster"
+} 

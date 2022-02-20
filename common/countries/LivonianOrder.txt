@@ -1,0 +1,113 @@
+#Livonia Order
+
+graphical_culture = westerngfx
+
+color = { 125  30  100 }
+
+revolutionary_colors = { 5  9  0 } #Livonian Governate
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	diplomatic_ideas
+	quality_ideas
+	administrative_ideas
+	economic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Johann #0" = 80
+	"Henry #2" = 60
+	"Dietrich #2" = 20
+	"William #2" = 20
+	"Herman #1" = 20
+	"Walter #1" = 20
+	"Vennemar #1" = 20
+	"Bernhardt #0" = 20
+	"Cisse #0" = 20
+	"Franz #0" = 20
+	"Gothardt #0" = 20
+	"Conrad #2" = 20
+	"Siegfried #0" = 20
+	"Gerhardt #2" = 15
+	"Arnold #1" = 15
+	"Robin #1" = 15
+	"Eberhardt #3" = 10
+	"Burkhardt #1" = 10
+	"Gottfried #1" = 10
+	"Adolf #0" = 0
+	"Albrecht #0" = 0
+	"Andreas #0" = 0
+	"Ferdinand #0" = 0
+	"Friedrich #0" = 0
+	"George #0" = 0
+	"Jacob #0" = 0
+	"Karl #0" = 0
+	"Lorenz #0" = 0
+	"Ludwig #0" = 0
+	"Lucas #0" = 0
+	"Markus #0" = 0
+	"Matthias #0" = 0
+	"Michael #0" = 0
+	"Nikolaus #0" = 0
+	"Paul #0" = 0
+	"Rudolph #0" = 0
+	"Sigismund #0" = 0
+	"Stefan #0" = 0
+	"Thomas #0" = 0
+	"Wenzel #0" = 0
+	
+	"Maria #0" = -1
+}
+
+leader_names = {
+	"von Altenboccum" "Ashenberg"
+	"von Bach" "Ber" "Bilderling" "Blomberg" "von Bettiher" "Borch" "Brinken"  "Bruggen" "Buchholz"
+	"Dershaw" "Drahenfels" "Duesterloe"
+	"Engelhardt"
+	"Firks" "Felkerzam" "Function"
+	"Grotus"
+	"Garen" "Khan" "Hacking" "von Guerner" "Hoven"
+	"Kleist" "Klopman" "Komorowski" "Koskul"
+	"Lumsdorff" "von der Launitz" "von Lisander"
+	"Mirbah"
+	"Netelhorst" "Nolken"
+	"Elsen" "Offenberg" "Osten-Sacken"
+	"Palen"
+	"Raczynski" "Rekke" "Ropp" "Rosenberg" "von Rummel"
+	"Schlippenbach" "von Schroeders" "Seefeld" "Shtakkelberg" "Stromberg"
+	"Taube" "von Timroth"
+}
+
+ship_names = {
+	"Blumenthopf" "Dame" "Das Wappen der Herzogin von Kurland" "Dry Hering"
+	"Hoffnung" "Crocodile" "Lynn Curlandische Meve" "Dune" "Aa" "Bruno" "Windau" "Mitau"
+	"Goldingen" "Seeburg" "Hasenpot" "Tukums" "von Grüningen" "von Stirland"
+	"von Sangershausen" "von Hornhausen" "von Breithausen" "von Mandern"
+	"von Lutterberg" "von Nortecken" "von Rusburg" "von Feuchtwangen"
+	"von Endorp" "Herzogenstein" "von Hoembach" "von Dinkelage" "von Rogg"
+	"von Jocke" "Johannes Ungenade" "Raymar Khane" "von Monheim" "von Dreileben"
+	"von Herke" "von Vitinhof" "von Weimerheim" "von Elz" "von Byurgenaye"
+	"Diederick Tork" "von Spanheim" "von Rutenberg" "Franco Kerscorff"
+	"von Bockenworth" "von Overbergen" "von Mengede" "von Herse" "von der Borch"
+	"von Lorinhof" "von Plettenberg" "von der Rekke" "von Galen" "von Fürstenberg"
+}

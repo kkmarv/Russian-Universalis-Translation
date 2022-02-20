@@ -1,0 +1,113 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 117 167 117 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	maritime_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"David #0" = 20
+	"Mkhitar #0" = 20
+	"Ashot #0" = 15
+	"Gagik #0" = 15
+	"Smbat #0" = 15
+	"Abbas #0" = 15
+	"Khovhannes Smbat #0" = 15
+	"Wagram #0" = 10
+	"Musegh #0" = 10
+	"Sahak #0" = 10
+	"Tachar #0" = 10
+	"Arakel #0" = 0
+	"Ari #0" = 0
+	"Armen #0" = 0
+	"Arsen #0" = 0
+	"Arshavir #0" = 0
+	"Avedis #0" = 0
+	"Badouagan #0" = 0
+	"Thigh #0" = 0
+	"Berjouhi #0" = 0
+	"Bohos #0" = 0
+	"Ghokas #0" = 0
+	"Hagop #0" = 0
+	"Haig #0" = 0
+	"Hovhannes #0" = 0
+	"Hovsep #0" = 0
+	"Yirair #0" = 0
+	"Capriel #0" = 0
+	"Karayan #0" = 0
+	"Kevork #0" = 0
+	"Hayag #0" = 0
+	"Cricor #0" = 0
+	"Lavon #0" = 0
+	"Movses #0" = 0
+	"Nairi #0" = 0
+	"Sevan #0" = 0
+	"Taniel #0" = 0
+	"Wahan #0" = 0
+	"Zadig #0" = 0
+	"Zoravan #0" = 0
+	
+	"Adrine #0" = -1
+	"Elsapet #0" = -1
+	"Sarina #0" = -1
+}
+
+leader_names = { 
+	Adamian Adomian
+	Aghayanyan Altounian 
+	Apkarian Bagian
+	Babaiyan Babikian
+	Chobanian Bhobanyan
+	Damadian Eskandarian
+	Kapikian Kazanyan Kebabian
+	Kevorkian Hachikyan
+	Hatchatourian Kirlian
+	Mergelyan Orbeli
+	Poghosyan Sadian Simian 
+	Sevanyan Meymarian Shahinian
+}
+
+ship_names = {
+	Aramu Argishtis Ararat Ani Artsakh
+	Dvin
+	Erimena
+	Hayek Haldi
+	Ishpuinis
+	Kars
+	Lutipri
+	Musassir Menuas Manzikert
+	Parisos
+	"Rusasus II"
+	Sivini Celardi "Sardouri I" "Sarduris II"
+	Vaspurakan
+	Yerevan
+}

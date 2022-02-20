@@ -1,0 +1,116 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 104  173  230 }
+
+historical_idea_groups = {
+	exploration_ideas
+	religious_ideas
+	offensive_ideas
+	expansion_ideas
+	influence_ideas
+	maritime_ideas
+	quality_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Alfonso #0" = 40
+	"Fernando #0" = 20
+	"Sancho #0" = 10
+	"Ramiro #0" = 10
+	"Juan #0" = 10
+	"Felipe #0" = 10
+	"Carlos #0" = 10
+	"Enrique #0" = 5
+	"Pedro #0" = 1
+	"Isabel #0" = -10
+	"Juana #0" = -10
+	"Marнa #0" = -5
+	"Urraca #0" = -5
+	"Alonso #0" = 0
+	"Бlvaro #0" = 0
+	"Baltasar #0" = 0
+	"Bernardo #0" = 0
+	"Bertrбn #0" = 0
+	"Cristobal #0" = 0
+	"Diego #0" = 0
+	"Domingo #0" = 0
+	"Esteban #0" = 0
+	"Fadrique #0" = 0
+	"Francisco #0" = 0
+	"Garcнa #0" = 0
+	"Gуmez #0" = 0
+	"Gonzalo #0" = 0
+	"Gutierre #0" = 0
+	"Hermenegildo #0" = 0
+	"Hernando #0" = 0
+	"Ignacio #0" = 0
+	"Laнn #0" = 0
+	"Lope #0" = 0
+	"Miguel #0" = 0
+	"Nuсo #0" = 0
+	"Odуn #0" = 0
+	"Ramуn #0" = 0
+	"Rodrigo #0" = 0
+	"Tomбs #0" = 0
+	"Valeriano #0" = 0
+}
+
+leader_names = {
+	"de Aguirre" "de Alarcуn" "de Toledo" "de Andrade" "de Ayala"
+	"de Bazбn" "de Benavides" Campomanes "de Castilla" "de la Cerda" Cienfuegos Colуn Coronado Cortйs
+	"de Toledo" "de Cуrdoba" "de la Cueva" "de Figueroa" Fonseca
+	Gбlvez Gуmez "de Guzmбn" "Jimйnez de Cisneros"
+	"de Leiva" "Lуpez de Haro" "de Luna"
+	"de Lara" "de Velasco" "de Villena" "de Mendoza"
+	Narvбez "de Nebrija" "Nuсez de Balboa" "de Ojeda" Orellana Osorio 
+	Pimentel Pinzуn Pizarro "Ponce de Leуn" Portocarrero
+	"de Rojas" Tellez-Girуn "de la Vega" "de Zññiga"
+}
+
+ship_names = {
+	Leуn Argonauta Asturias Asunciуn Atrevido Azor
+	Cartagonova Castilla "Castillo Negro" Castor "Ciervo Volante"
+	Doncella Dragуn 
+	"El Gran Grin" "El Retiro" Eneas Eolo Esperanza "Espнritu Santo" Extremadura
+	Furor Galicia "Gran Grifуn" Halcуn Hйrcules Isabela Jъpiter
+	"La Concepciуn" "La Magdalena" "La Manuela" Ligera "Lobo Marino"
+	Marte Mercurio Neptuno Niсa Oriуn
+	"Paloma Blanca" Pegaso "Perro Marino" Pinta Plutуn Pollux "Prнncipe de Asturias"
+	Rayo "Real Alfonso" "Real Enrique" "Real Juan" "Rey Pelayo" "Rey Rodrigo"
+	"San Andrйs" "San Antonio" "San Bartolomй" "San Bernabй" "San Cristobal" "San Enrique"
+	"San Esteban" "San Fernando" "San Francisco" "San Gabriel" "San Isidoro" "San Jerуnimo"
+	"San Josй" "San Juan" "San Juan Bautista" "San Leandro" "San Miguel" "San Pedro"
+	"San Rafael" "San Salvador" "San Sebastian" "Santa Ana" "Santa Bбrbara" "Santa Beatriz"
+	"Santa Catalina" "Santa Cruz" "Santa Fe" "Santa Isabel" "Santa Justa" "Santa Marнa"
+	"Santa Marta" "Santa Rita" "Santa Teresa" Santiago "Santнsima Trinidad" "Santo Domingo" Sirena
+	Terror Toledo Trinidad Tritуn Unicornio
+	Vencedora Ventura Victoria Vigilante Vizcaya Vulcano Zññiga
+}
+
+
+army_names = {
+	"Guardia Real" "Ejйrcito de $PROVINCE$"
+}
+
+fleet_names = {
+	"Armada Real"	"Flota de $PROVINCE$"
+}

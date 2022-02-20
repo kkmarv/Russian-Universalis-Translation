@@ -1,0 +1,147 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+
+color = { 204  186  201 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Francisco #0" = 20
+	"Jose #0 Francisco" = 20
+	"Diego #0" = 15
+	"Jose #0 Santiago" = 15
+	"Juan #0 Vicente" = 15
+	"Vicente #0" = 15
+	"Gabino #0" = 10
+	"Gregorio #0" = 10
+	"José #0 Cecilio" = 10
+	"Manuel #0 Jose" = 10
+	"Pedro #0 Jose" = 10
+	"Thomas #0 Antonio" = 10
+	"Agustin #0" = 0
+	"Alberto #0" = 0
+	"Alvaro #0" = 0
+	"Antonio #0" = 0
+	"Bartolomé #0" = 0
+	"Carlos #0" = 0
+	"Danielle #0" = 0
+	"David #0" = 0
+	"Domingo #0" = 0
+	"Emigliano #0" = 0
+	"Enrique #0" = 0
+	"Evaristo #0" = 0
+	"Fernando #0" = 0
+	"Fulgencio #0" = 0
+	"Gabrielle #0" = 0
+	"Jose #0" = 0
+	"Leonardo #0" = 0
+	"Manuel #0" = 0
+	"Marcos #0" = 0
+	"Miguel #0" = 0
+	"Narciso #0" = 0
+	"Octavio #0" = 0
+	"Patricio #0" = 0
+	"Pedro #0" = 0
+	"Roberto #0" = 0
+	"Santiago #0" = 0
+	"Tadeo #0" = 0
+	"Ulysses #0" = 0
+	
+	"Violet #0" = -1
+	"Yessica #0" = -1
+	"Adora #0" = -1
+}
+
+leader_names = {
+	"Alcantus"
+	"Alfaro"
+	"Ansoategies"
+	"Bello"
+	"Beltran"
+	"Berbeo"
+	"Benatkur"
+	"Bolívar"
+	"Cabeza"
+	"Diaz"
+	"Flores"
+	"Gaitan"
+	"Galan"
+	"Garcia de Toledo"
+	"Gomez"
+	"Gutiérrez de Piñerais"
+	"Marño"
+	"Marquesas"
+	"Mazarigos"
+	"Mendez"
+	"Michelena"
+	"Myer"
+	"de Miranda"
+	"Molina"
+	"Monagas"
+	"Monsalve"
+	"Montufar"
+	"Nariño"
+	"Narwarte"
+	"O'Baal"
+	"O'Leary"
+	"Ortiz"
+	"Pace"
+	"Parredo"
+	"Pastrana"
+	"Pinilla"
+	"Pizarro"
+	"Fee"
+	"Plaza"
+	"Roa"
+	"Rodriguez"
+	"Rojas"
+	"Rondon"
+	"Rosiglio"
+	"Santander"
+	"Sublette"
+	"Torres"
+	"Urbaneja"
+	"Uribe"
+	"Vargas"
+	"Wiscardo"
+}
+
+ship_names = {
+	"Belize"
+	"Boaco"
+	"Bonanza"
+	"Karna"
+	"Flores"
+	"La Ceiba"
+	"Quezada"
+	"Siuna"
+	"Sornoto"
+	"Sonsonate"
+}

@@ -1,0 +1,75 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 156  129  33 }
+
+historical_idea_groups = {
+	trade_ideas
+	quantity_ideas
+	economic_ideas
+	offensive_ideas
+	defensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Chaudapa #0" = 20
+	"Sadashiva Nayaka #0" = 20
+	"Sankanna Nayaka #0" = 20
+	"Chiccasancaanna #0" = 20
+	"Hiriya Venkatapa Nayaka #0" = 20
+	"Ramaraj Nayaka #0" = 20
+	"Virabhadra Nayaka #0" = 20
+	"Shivappa Nayaka #0" = 20
+	"Chikawakatpa Nayaka #0" = 20
+	"Bhadrappa Nayaka #0" = 30
+	"Celady Chennam #0" = -20
+	"Bassavappa #0" = 30
+	"Somashekara #0" = 30
+	"Kirya Basavappa #0" = 30
+	"Chenabasappa #0" = 30
+	"Wirammaji #0" = -20
+	"Chennam #0" = -20
+}
+
+leader_names = {
+	"Chandrashekar"
+	"Varma"
+	"Devarage"
+	"Jaduraya"
+	"Vidar"
+	"Vaidya"
+	"Nurondaya"
+	"Vilasa"
+	"Wisweswaraia"
+	"Basavaraju"
+	"Devi"
+	"Rabjal"
+}
+
+ship_names = {
+	"Amirta" "Amman" "Arul" "Bheema" "Chellam"
+	"Devi" "Durga" "Gayatri" "Inia" "Krishna"
+	"Lexhmi" "Madhu" "Meenashki" "Nalini" 
+	"Pallar" "Parvati" "Payaswani" "Pennar"
+	"Ponnie" "Radha" "Ratri" "Saraswati" "Sita"
+	"Tamaray"
+}

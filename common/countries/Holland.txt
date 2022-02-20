@@ -1,0 +1,137 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 156  96  100 }
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	exploration_ideas
+	innovativeness_ideas
+	trade_ideas
+	quality_ideas
+	maritime_ideas
+	economic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"William #5" = 40
+	"Albert #0" = 20
+	"Johan #2" = 15
+	"Ludovic #0" = 15
+	"Eberhardt #0" = 15
+	"Dirk #7" = 5
+	"Floris #5" = 5
+	"Jan #1" = 5
+	"Arnulf #1" = 5
+	"Adrian #0" = 0
+	"Anton #0" = 0
+	"Bartou #0" = 0
+	"Christiaan #0" = 0
+	"Constantine #0" = 0
+	"Danielle #0" = 0
+	"Philippe #0" = 0
+	"Frans #0" = 0
+	"Gabrielle #0" = 0
+	"Gaspar #0" = 0
+	"Gerard #0" = 0
+	"Gerbrand #0" = 0
+	"Henry #0" = 0
+	"Jeron #0" = 0
+	"Jost #0" = 0
+	"Karl #0" = 0
+	"Kasper #0" = 0
+	"Lamoral #0" = 0
+	"Hugo #0" = 0
+	"Jacob #0" = 0
+	"Peter #0" = 0
+	"Prokop #0" = 0
+	"Prosper #0" = 0
+	"Reyes #0" = 0
+	"Rembrandt #0" = 0
+	"Simon #0" = 0
+	"Rudolph #0" = 0
+	"Roland #0" = 0
+
+	"Jacob #0" = -15
+	"Margaretha #1" = -10
+	"Isabella #0" = -1
+	"Johanna #0" = -1
+	"Maria #0" = -1
+	"Mathilde #0" = -1
+	"Aleid #0" = -1
+	"Katharine #0" = -1
+}
+
+leader_names = {
+	"Ameland" "Amersfoort" "Amstel" "Appingaedam" "Arnhem"
+	"Bilders" "Blocker" "Bolsward" "Bota" "Brad" "Brille"
+	"Comans" "Kovarden" "Cornelis" "Costers" "Culemborg"
+	"de Witt" "den Burg" "Deodati" "Dokkum" "Dordrecht" "Drente" "Drisman"
+	"Eindhoven" "Elst" "Elten Loire" "Enkhayzen"
+	"Flicingen" "Friesen"
+	"Gelvinck" "Gerit" "Genk" "Goos" "Groningen" "Goulder"
+	"Haag" "Harlem" "Hebenal" "Heerlen" "Heertogniebosch" "Heineken" "Helder" "Hendrick" "Hilversum"
+	"Jans"
+	"Kampen" "Carstens" "Cortenar" "Cortrake"
+	"Loevers" "Lemmer" "Leiden" "Limburg"
+	"Maastricht" "Meppel" "Middenmeer" "Middleburg"
+	"Neuwegen" "Nakerke" "Nijmegen"
+	"Oldenbarneveld" "Alderzaal" "Opdorf" "Overseasel"
+	"Phillips" "Pete" "Post"
+	"Scheveningen" "Shidam" "Scholtehren" "Shoonebeck" "Schoeven" "Sluice" "Smuts" "Spikenise"
+	"Terhelling" "Texel" "Twainte"
+	"Utrecht"
+	"Valkensvaard" "van den Doorp" "van der Does" "van Hessling" "van Spielbergen" "van Stabel" "van Wyck" "Vendam" "Venloo" "Venry" "Wolandam" "Vroome"
+	"Willem" "Verden" "Baalvijk"
+	"Zandvoort" "Zoetermeer" "Zuidersee" "Zweindrecht" "Zvolle"
+}
+
+ship_names = {
+	"Adelaar" "Alkmaar" "Amsterdam"
+	"Bechermer"
+	"Delft" "Der Keerlen year"
+	"Graf Floris V" "Graf Willem II" "Gouda"
+	"Harlem" "Hart van Holland" "Holland" "Holland" "Hogwood" "Haworn"
+	"Leiden"
+	"Meermin"
+	"Riddershap" 
+	"Shawnsicht"
+	"Wapen van Amsterdam" "Vapen van Holland" 
+	"Zeemeyev" "Zone"
+	"Zvarte Rent" "Zvarte Bull" Aemilia Agatha Ayax Akerboom Alida Alkmaar Allianthia Alphen Amalia Amazon Amphitrite Amsterdam Rent Argo Arnhem Assendelft Banier
+	Barbestein Batavia Batavier Beecwlite Beemsterloust Beliona Beschermer Boetselaar Bommel Braave Brackel Brad Breederschap
+	Brutus Buis Bull Burgvliet Tsaleb Tsallantzog Tsastritzum Tsatkharina Cerberus Tsonvertine Tsuratsao Dalem Damiaten Dankbaarheid Delft Deutecom Deutecom Deutecom Deutecom Deutecom Deutecom Deutecom
+	Dieren Doesburg Doggersbank Dolfijn Dordrecht Draak Drakestein Drente Dryelst Duinveld Duivenworth Echo Edam Eendracht Eenhorn Elsworth Engel Erfprinse
+	Fortunein Freiesland Galley Gelderland Geloof Gideon Glyndhorst Goes Goeda Gouderak Haarlem Haarlemmerhout Hardenbroek Hardenbroek Hardenwijk Heitztor Heemstede Hursteller
+	Het Loo Hilverbay Hilversum Hollandia Hope Yaarsveld Jonas Josua Jupiter Kalandsoog Kampen Kampwere Kennemerland Coevorden Coogue Landman Landscroon
+	Leewarden Leuvenhorst Liefde Loosdreggt Luipaard Leungx Maan Maarseveen Maas Margarethe Mars Matenes Medusa Meermin Merzuur Middelbare Middelburg Morgenstar
+	Morianchoofd Naerden Neptunus Noorderquartier Olifant Omlandia Oostervijk Oudshoorn Overwinnaer Pacifitzatie Parel Pelicaan Piil
+	Post Prince Raaf Ramhorst Rheebok Reigersberg Rijnland Rosenkrans Salamanders Schiander Schonauwen Soutervoide Spion Starrenburg Stavoren Susanna Tholen
+	Tiidwerdrief Tiiger Triton Tromp Unnie Utrecht Valk Weer Welsen Vlaming-Vlissingen Vorzichtigheid Wrede Vorzichtigheid Waag Waakzamheid Valcheren Wassener Westergo
+	Westfriesland Westelingverft Windhound Wolf Wolfswinkel Wrecker Zeeland Zeepaard Zieriksier Zone Zuiderhuis Zuileveld Zutpchen Zwaan Zwaluw Zwanenburg
+	Zweeten
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$"  }
+
+fleet_names = {  "Provincial Squadron. $PROVINCE$" 
+	 }

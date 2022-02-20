@@ -1,0 +1,601 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = khmer
+religion = buddhism
+technology_group = chinese
+capital = 604 # Phnom Penh
+
+
+1393.1.1 = {
+	monarch = {
+		name = "Reachea Bar"
+		dynasty = "Khmer"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1422.1.1 = {	
+	heir = {
+		name = "Narayanaraj"
+		monarch_name = "Noreai Ramatipati"
+		dynasty = "Khmer"
+		birth_date = 1422.1.1
+		death_Date = 1468.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1463.1.1 = {
+	monarch = {
+		name = "Noreai Ramatipati"
+		dynasty = "Khmer"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1463.1.1 = {
+	heir = {
+		name = "Sri Raj"
+		monarch_name = "Reachea Ramatipati"
+		dynasty = "Khmer"
+		birth_date = 1432.1.1
+		death_Date = 1477.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1468.1.1 = {
+	monarch = {
+		name = "Reachea Ramatipati"
+		dynasty = "Khmer"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1472.1.1 = {
+	monarch = {
+		name = "Storyteller II"
+		dynasty = "Khmer"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1477.1.1 = {
+	monarch = {
+		name = "Thommo Reachea I"
+		dynasty = "Khmer"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1477.1.1 = {
+	heir = {
+		name = "Damcat Sukontor"
+		monarch_name = "Srey Sukontor"
+		dynasty = "Khmer"
+		birth_date = 1460.1.1
+		death_Date = 1512.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1486.1.1 = {
+	monarch = {
+		name = "Srey Sukontor"
+		dynasty = "Khmer"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1486.1.1 = {
+	heir = {
+		name = "Nai Khan"
+		monarch_name = "Nai Khan"
+		dynasty = "Khmer"
+		birth_date = 1480.1.1
+		death_Date = 1516.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1512.1.1 = {
+	monarch = {
+		name = "Nai Khan"
+		dynasty = "Khmer"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1512.1.1 = {
+	heir = {
+		name = "Ang Tian"
+		monarch_name = "Ang Tian I"
+		dynasty = "Khmer"
+		birth_date = 1500.1.1
+		death_Date = 1566.1.1
+		claim = 95
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+}
+
+1516.1.1 = {
+	monarch = {
+		name = "Ang Tian I"
+		dynasty = "Khmer"
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+}
+
+1540.1.1 = {
+	heir = {
+		name = "Reachea Bar"
+		monarch_name = "Reachea Bar I"
+		dynasty = "Khmer"
+		birth_date = 1540.1.1
+		death_Date = 1576.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1566.1.1 = {
+	monarch = {
+		name = "Reachea Bar I"
+		dynasty = "Khmer"
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1566.1.1 = {
+	heir = {
+		name = "Whose Chettha"
+		monarch_name = "Whose Chettha I"
+		dynasty = "Khmer"
+		birth_date = 1546.1.1
+		death_Date = 1594.1.1
+		claim = 95
+		adm = 1
+		mil = 0
+		dip = 0
+	}
+}
+
+1576.1.1 = {
+	monarch = {
+		name = "Whose Chettha I"
+		dynasty = "Khmer"
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1576.1.1 = {
+	heir = {
+		name = "Rheamea Chungprei"
+		monarch_name = "Prei Rum I"
+		dynasty = "Khmer"
+		birth_date = 1570.1.1
+		death_Date = 1596.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1594.1.1 = {
+	monarch = {
+		name = "Prei Rum I"
+		dynasty = "Khmer"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1596.1.1 = {
+	monarch = {
+		name = "Reachea Bar II"
+		dynasty = "Khmer"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1599.1.1 = {
+	monarch = {
+		name = "Reachea Bar III"
+		dynasty = "Khmer"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1600.1.1 = {
+	monarch = {
+		name = "Keo Hua I"
+		dynasty = "Khmer"
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1603.1.1 = {
+	monarch = {
+		name = "Baron Reachea IV"
+		dynasty = "Khmer"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1603.1.1 = {
+	heir = {
+		name = "Ponhei Nhom"
+		monarch_name = "Whose Chettha II"
+		dynasty = "Khmer"
+		birth_date = 1590.1.1
+		death_Date = 1628.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1619.1.1 = {
+	monarch = {
+		name = "Whose Chettha II"
+		dynasty = "Khmer"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1628.1.1 = {
+	monarch = {
+		name = "Thommoreachea II"
+		dynasty = "Khmer"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1630.1.1 = {
+	heir = {
+		name = "Ang Non"
+		monarch_name = "Padumaraj I"
+		dynasty = "Khmer"
+		birth_date = 1600.1.1
+		death_Date = 1642.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1640.1.1 = {
+	monarch = {
+		name = "Padumaraj I"
+		dynasty = "Khmer"
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1642.1.1 = {
+	monarch = {
+		name = "Ratipadi I"
+		dynasty = "Khmer"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1642.1.1 = {
+	heir = {
+		name = "Ang Sur"
+		monarch_name = "Baton Reachea V"
+		dynasty = "Khmer"
+		birth_date = 1620.1.1
+		death_Date = 1672.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1642.1.1 = {
+	religion = sunni
+	religious_school = hanafi_school
+}
+
+1643.1.1 = {
+	religion = buddhism
+}
+
+1658.1.1 = {
+	monarch = {
+		name = "Baton Reachea V"
+		dynasty = "Khmer"
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+1672.1.1 = {
+	monarch = {
+		name = "Whose Chettha III"
+		dynasty = "Khmer"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1673.1.1 = {
+	monarch = {
+		name = "Kev Hua II"
+		dynasty = "Khmer"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1674.1.1 = {
+	monarch = {
+		name = "Padumaraj II"
+		dynasty = "Khmer"
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1674.1.1 = {
+	heir = {
+		name = "Ang Sor"
+		monarch_name = "Whose Chettha IV"
+		dynasty = "Khmer"
+		birth_date = 1660.1.1
+		death_Date = 1706.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1675.1.1 = {
+	monarch = {
+		name = "Whose Chettha IV"
+		dynasty = "Khmer"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1706.1.1 = {
+	monarch = {
+		name = "Thommoreachea III"
+		dynasty = "Khmer"
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1722.1.1 = {
+	monarch = {
+		name = "Satha I"
+		dynasty = "Khmer"
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1722.1.1 = {
+	heir = {
+		name = "Ang Em"
+		monarch_name = "Thommoreachea IV"
+		dynasty = "Khmer"
+		birth_date = 1712.1.1
+		death_Date = 1747.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1747.1.1 = {
+	monarch = {
+		name = "Thommoreachea IV"
+		dynasty = "Khmer"
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+
+1749.1.1 = {
+	monarch = {
+		name = "Whose Chettha V"
+		dynasty = "Khmer"
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1755.1.1 = {
+	monarch = {
+		name = "Ang Tong"
+		dynasty = "Khmer"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1758.1.1 = {
+	heir = {
+		name = "Ang Tong"
+		monarch_name = "Utea Reachea II"
+		dynasty = "Khmer"
+		birth_date = 1730.1.1
+		death_Date = 1775.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1758.1.2 = {
+	monarch = {
+		name = "Utea Reachea II"
+		dynasty = "Khmer"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1758.1.2 = {
+	heir = {
+		name = "Ang Non"
+		monarch_name = "Rheam Reachea"
+		dynasty = "Khmer"
+		birth_date = 1739.1.1
+		death_Date = 1779.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1775.1.1 = {
+	monarch = {
+		name = "Rheam Reachea"
+		dynasty = "Khmer"
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1775.1.1 = {
+	heir = {
+		name = "Ang Yong"
+		monarch_name = "Narayanarj III"
+		dynasty = "Khmer"
+		birth_date = 1745.1.1
+		death_Date = 1796.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1779.1.1 = {
+	monarch = {
+		name = "Narayanarj III"
+		dynasty = "Khmer"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+	government_rank = 1
+}
+
+1779.1.1 = {
+	heir = {
+		name = "Ang Tian"
+		monarch_name = "Utea Reachea III"
+		dynasty = "Khmer"
+		birth_date = 1763.1.1
+		death_Date = 1834.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1806.1.1 = {
+	monarch = {
+		name = "Utea Reachea III"
+		dynasty = "Khmer"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1815.1.1 = {
+	heir = {
+		name = "Ang Mei"
+		monarch_name = "Ang Mei"
+		dynasty = "Khmer"
+		birth_date = 1815.1.1
+		death_date = 1874.12.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+		female = yes
+	}
+}

@@ -1,0 +1,71 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 148 150 28 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Maumauntissecun #0" = 20
+	"Shabbat #0" = 20
+	"Wassamapah #0" = 20
+	"Unkas #0" = 0
+	"Chingachguk #0" = 1
+	"Etovokoam #0" = 20
+	"Aupamutt #0" = 20	
+	"Conkapot #0" = 20
+	"Quinny #0" = 20
+	"Skeakket #0" = 20
+	"Chemaukum #0" = 20
+	"To you . #0" = 20
+	"Kitileland #0" = 10
+	"Lapaniche #0" = 10
+	"Apacheound #0" = 10
+	"Netahopuna #0" = 10
+	"Tunis #0" = 10
+	"Gaghuk #0" = 10
+	"Petchenalalas #0" = 10
+	"Kvenagtutmait #0" = 10
+	"Pushis #0" = 10
+	"Nanotetauxen #0" = 10
+	"Sarkoxy #0" = 10
+	"Neckokhekond #0" = 10
+	"Kokkatovha #0" = 10
+	
+	"Avashonks #0" = -1
+	"Jitsbudnaka #0" = -1
+	"Viitamu #0" = -1
+	"Vutonekanuske #0" = -1
+} 
+
+leader_names = {
+	Mukanneve Mekentovun Vaviaktonok Vastenhuk Viekazhiok Shekomeko Vehkuadnah
+	Pamperaug Bantam Veataug Skaticuk Mahayve Vikvaek Chaghnet Horikan Kaunaumik
+	Kenukpakuk Maringoman Monemie Nepug Paanpaak Peantam Poti Poti Shodak
+	Shakehuk Unawat Vehkuadnak Viekuadnak Viatiae Winuskik Viek
+}
+
+ship_names = {
+	Ndiau Nachnioges Actonu Machk Amuchu Namaas Tsekeshis Machuksis Amuau
+	Pussy Stow. 
+}

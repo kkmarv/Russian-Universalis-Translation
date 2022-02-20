@@ -1,0 +1,154 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 187  79  86 }
+
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	defensive_ideas
+	economic_ideas
+	quality_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	reformed_mughal_mansabdar
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Jassa Ahuvaliya #0" = 20
+	"Laheena #0" = 20
+	"Ranjit #0" = 20
+	"Bohag #0" = 10
+	"Harak #0" = 10
+	"Dulip #0" = 10
+	"Fateh #0" = 5
+	"Maha #0" = 5
+	"Sobha #0" = 5
+	"Narnak #0" = 5
+	"Angad #0" = 5
+	"Amar #0" = 5
+	"Ram #0" = 5
+	"Arjan #0" = 5
+	"Gobind #0" = 5
+	"Paradise #0" = 5
+	"Krishan #0" = 5
+	"Bahadur #0" = 5
+	"Sardar Badar #1" = 1
+	"Balbier #0" = 0
+	"Bhalla #0" = 0
+	"Giveaway #0" = 0
+	"Dream #0" = 0
+	"Fakir #0" = 0
+	"Gahun #0" = 0
+	"Gian #0" = 0
+	"Neehan #0" = 0
+	"Granch #0" = 0
+	"Bay Bachittar #0" = 0
+	"Himmat #0" = 0
+	"Hura #0" = 0
+	"Ishnar #0" = 0
+	"Jhol #0" = 0
+	"Jhotti #0" = 0
+	"Lohar #0" = 0
+	"Moham #0" = 0
+	"Nand #0" = 0
+	"Parmanand #0" = 0
+	"Rajsingh #0" = 0
+	"Sanlib #0" = 0
+	"Sardulus #0" = 0
+	"Shabeg #0" = 0
+	"Shergil #0" = 0
+	"Sozi #0" = 0
+	"Sochal #0" = 0
+	"Tara #0" = 0
+	"Udasi #0" = 0
+	"Chand Kaur #0" = -10
+	"Ratan Kaur #0" = -1
+	"Canvas Kaur #0" = -1
+	"Kaur date #0" = -1
+	"Nand Kaur #0" = -1
+	"Mahtab #0" = -1
+}
+
+leader_names = {
+	Ahluvalia
+	Ramgaria
+	Kamboh
+	Khatri
+	Naru
+	Moha
+	Bahadur
+	Bar
+	Khan
+	Das
+	Dev
+	Gahunia
+	Parmanand
+	Samma
+	Shergill
+	Syng
+	Sodhi
+	Sohal
+	Sumra
+	Chattar
+	Razor
+	Mian
+	Ray
+	Chauhan
+	Bhatia
+	Suleria
+	Lal
+	Hocar
+	Jivan
+	McDreamy
+	Bhatta
+	Pahral
+	Kiswaria
+	Chandral
+	Jamwal
+	Saran
+	Naga
+	Pandir
+	Ice rink
+	Gami
+	Bhangaliya
+	Pahor
+}
+
+ship_names = {
+	"Beaas"
+	"Chenab"
+	"Devi"
+	"Gayatri"
+	"Guru"
+	"Hindu"
+	"Jalsen"
+	"Jelum"
+	"Lakshmi"
+	"Nausen"
+	"Nava-ka-Yud"
+	"Parvati"
+	"Radha"
+	"Ratri"
+	"Ravi"
+	"Sagar"
+	"Sutlage"
+	"Saraswati"
+	"Sita"
+}

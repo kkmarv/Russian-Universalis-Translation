@@ -1,0 +1,45 @@
+government = republic
+add_government_reform = veche_republic
+primary_culture = russian
+religion = orthodox
+technology_group = eastern
+historical_rival = MOS
+capital = 310	# Novgorod
+
+
+1306.1.1 = {
+	monarch = {
+		name = "(Veche)"
+		adm = 4
+		dip = 4
+		mil = 3
+		regent = yes
+	}
+}
+
+1429.1.1 = {
+	monarch = {
+		name = "Yefimii II"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1459.1.1 = {
+	monarch = {
+		name = "Jonah"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1470.11.1 = {
+	monarch = {
+		name = "Feofil"
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+}

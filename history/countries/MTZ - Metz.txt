@@ -1,0 +1,17 @@
+government = republic
+add_government_reform = free_city
+government_rank = 1
+primary_culture = champenois
+religion = catholic
+technology_group = western
+capital = 188	# Nancy
+
+1444.11.11 = {
+	monarch = {
+		name = "Patriciat"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

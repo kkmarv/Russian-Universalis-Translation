@@ -1,0 +1,148 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = SPA
+random_nation_chance = 0
+
+color = { 75  188  60 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Fulgencio #0" = 20
+	"Jose #0 Gaspar" = 20
+	"Juan #0 Jose" = 15
+	"Manuel #0 Antonio" = 15
+	"Carlos #0 Antonio" = 10
+	"Mariano #0" = 10
+	"Abel #0" = 0
+	"Agustin #0" = 0
+	"Alberto #0" = 0
+	"Alvaro #0" = 0
+	"Antonio #0" = 0
+	"Asdrubal #0" = 0
+	"Bartolomé #0" = 0
+	"Carlos #0" = 0
+	"Danielle #0" = 0
+	"David #0" = 0
+	"Domingo #0" = 0
+	"Emigliano #0" = 0
+	"Enrique #0" = 0
+	"Evaristo #0" = 0
+	"Factoryc #0" = 0
+	"Fernando #0" = 0
+	"Fidel #0" = 0
+	"Gabrielle #0" = 0
+	"Jose #0" = 0
+	"Juan #0" = 0
+	"Leonardo #0" = 0
+	"Manuel #0" = 0
+	"Marcos #0" = 0
+	"Miguel #0" = 0
+	"Narciso #0" = 0
+	"Octavio #0" = 0
+	"Pablo #0" = 0
+	"Patricio #0" = 0
+	"Pedro #0" = 0
+	"Roberto #0" = 0
+	"Rufinho #0" = 0
+	"Santiago #0" = 0
+	"Tadeo #0" = 0
+	"Ulysses #0" = 0
+	
+	"Paloma #0" = -1
+	"Rhine #0" = -1
+	"Shiomara #0" = -1
+}
+
+leader_names = {
+	"Alberti"
+	"Alvarez"
+	"de Alvear"
+	"Artigas"
+	"Asuenaga"
+	"Balcarce"
+	"Bassan"
+	"Belgrano"
+	"Brown"
+	"Bustos"
+	"Cabral"
+	"Castro"
+	"Chiclana"
+	"Costa"
+	"Derks"
+	"Dorrego"
+	"Gonzalez"
+	"Goyeneche"
+	"Gwasurari"
+	"de Guémès"
+	"Eredia"
+	"Honte"
+	"Kaunitz de Holmberg"
+	"de Laprida"
+	"Larrea"
+	"de las Eras"
+	"Lopez"
+	"Mansylla"
+	"Matthew"
+	"Monteagudo"
+	"Moreno"
+	"Paso"
+	"Pass"
+	"Pena"
+	"Sync & corrections by"
+	"Planes"
+	"Posadas"
+	"de Pueyrredon"
+	"Ramirez"
+	"Riglos"
+	"Robinson"
+	"Rodriguez"
+	"Rondo"
+	"de Rosas"
+	"Saavedra"
+	"Sains"
+	"de San Martin"
+	"Sarrathea"
+	"Urkisa"
+	"Varnes"
+}
+
+ship_names = {
+	"Asunción"
+	"Gaspar"
+	"El Plata"
+	"Fulgencio"
+	"Independence"
+	"Libertad"
+	"Egros"
+	"Moreno"
+	"Grand Chaco"
+	"Rivalda"
+}

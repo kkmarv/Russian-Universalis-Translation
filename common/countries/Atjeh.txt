@@ -1,0 +1,81 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 88  137  172 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Inayat #0" = 20
+	"Ali Mughayat #0" = 20
+	"Iskander Tani #0" = 20
+	"Hussein Ali Riyat #0" = 20
+	"Menrazza #0" = 20
+	"Tsalengatu #0" = 20
+	"Gadzabadi #0" = 20
+	"Tsau-Lha #0" = 20
+	"Mengtseke #0" = 20
+
+	"Amritpal #0" = -1
+}
+
+leader_names = {
+	"Abdulfata"
+	"Ahmad"
+	"Amir"
+	"Anwar"
+	"Azmi"
+	"Batuta"
+	"Chairul"
+	"Hamza"
+	"Hasanuddin"
+	"Ibnu"
+	"Kiyai"
+	"Mahat"
+	"Mukhtar"
+	"Najamuddin"
+	"Nathzar"
+	"Nazmizan"
+	"Roy"
+	"Syarifuddin"
+	"Zulkiffles"
+}
+
+ship_names = {
+	"Syak"
+	"Samandara"
+	"Malik oul-Salih"
+	"Malik Al-Salih"
+	"Teunom"
+	"Peusangen"
+	"Jumboaie"
+	"Alas"
+	"Trip"
+	"Symbang Kiri"
+	"Peg Serbeulanghit"
+	"Peg Pusat"
+	"Gunung Pewethsagoe"
+	"Pulau ve"
+	"Pulau Breuch"
+}

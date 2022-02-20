@@ -1,0 +1,60 @@
+government = republic
+technology_group = western
+religion = catholic
+primary_culture = castillian
+capital = 841	# Guatemala city
+
+1825.4.29 = {
+	monarch = {
+		name = "Manuel José Arce"
+		birth_date = 1787.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1829.4.13 = {
+	monarch = {
+		name = "Jose Frasisco Barndia"
+		birth_date = 1787.5.12
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1830.9.16 = {
+	monarch = {
+		name = "Francisco Morazan"
+		birth_date = 1792.10.3
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1834.9.16 = {
+	monarch = {
+		name = "Gregorio Salazar"
+		birth_date = 1773.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+1835.2.14 = {
+	monarch = {
+		name = "Francisco Morazan"
+		birth_date = 1792.10.3
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1839.2.1 = {
+	monarch = {
+		name = "Diego Vihil"
+		birth_date = 1799.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

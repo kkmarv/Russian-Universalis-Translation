@@ -1,0 +1,90 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 111 132 110 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Karl #0" = 80
+	"Francis #0" = 40
+	"Renee #0" = 40
+	"Carl #1 Leopold" = 20
+	"Francis #1 Stefan" = 20
+	"Jean #1" = 20
+	"Antoine #0" = 20
+	"Leopold #0 Joseph" = 20
+	"Nicholas #0" = 20
+	"Stanislav #0" = 20
+	"Carl #1 Alexander" = 15
+	"Carl #1 Joseph" = 15
+	"Claude #0" = 15
+	"Ferdinand Philippe #0" = 15
+	"Isabella #0" = -15
+	"Leopold #0" = 15
+	"Leopold #0 Clemens" = 15
+	"Ludovic #0" = 15
+	"Rudolph #0" = 15
+	"Karl #1 Ferdinand" = 10
+	"Carl #1 Heinrich " = 10
+	"Francis #1 Antoine" = 10
+	"Joseph #0" = 10
+	"Joseph #0 Innocent" = 10
+	"Alfred #0" = 0
+	"Bernard #0" = 0
+	"David #0" = 0
+	"Eric #0" = 0
+	"Fernand #0" = 0
+	"Gaetan #0" = 0
+	"Gerard #0" = 0
+	"Henri #0" = 0
+	"Jacques #0" = 0
+	"Luke #0" = 0
+	"Martin #0" = 0
+	"Maximilien #0" = 0
+	"Olivier #0" = 0
+	"Raymond #0" = 0
+	"Serge #0" = 0
+	"Theodore #0" = 0
+}
+
+leader_names = { 
+	"Biking" "Brown" "Dotemple" "von Alsace" "Fent" "Feyerabend"
+	"Fortober" "Fraimut" "Catherine" "Kroglot" "Limburg" "Neubert"
+	"Oberlotringen" "Wolferseder"
+}
+
+ship_names = {
+	"Emperor Lothar" "Lorraine"
+	"Rene II Lotringen" "Barrois" "Metz"
+	"Tul" "Verden" "Varding" "Skirmian"
+	"Ber" "Skok" "Sekyan"
+}

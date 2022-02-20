@@ -1,0 +1,159 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 129 97 62  }
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Batula #0" = 40
+	"Tugan #0" = 40
+	"Galdan #0" = 40
+	"Amursana #0" = 20
+	"Erdeni #0" = 20
+	"Choghtu #0" = 20
+	"Dawa #0" = 20
+	"Esen #1" = 20
+	"Gyushi #0" = 20
+	"Lha-bzang #0" = 20
+	"Hara Hula #0" = 20
+	"Ho #0" = 20
+	"Sengge #0" = 20
+	"Ceten #0" = 20
+	"Zewang #0" = 20
+	"Kundelung #0" = 15
+	"Lobzang #0" = 15
+	"Sutai #0" = 15
+	"Tzobasa #0" = 15
+	"Ubasi #0" = 15
+	"Kuduku #0" = 10
+	"Toghto #0" = 10
+	"Altay #0" = 0
+	"Bucky #0" = 0
+	"Bayan #0" = 0
+	"Diane #0" = 0
+	"Hamy #0" = 0
+	"Molon #0" = 0
+	"Aory #0" = 0
+	"Orlek #0" = 0
+	"Sechen #0" = 0
+	"For . #0" = 0
+	"Talman #0" = 0
+	"Todo #0" = 0
+	"Tumen #0" = 0
+	"Tumu #0" = 0
+	"Ubashi #0" = 0
+	"Ulan #0" = 0
+	"Wahe #0" = 0
+	"Yelu #0" = 0
+	"Bid #0" = 0
+	"Halun #0" = -1
+	"Tamulun #0" = -1
+	"Sorkhhtani #0" = -1
+}
+
+leader_names = {
+	Borjigin
+	Chuluun
+	Dairtan
+	Dot
+	Duuthan
+	Ohid
+	Houshan
+	Onyhot
+	Haliuchin
+	Miangat
+	Kavkchin
+	Tangut
+	Oymouth
+	Besut
+	Togoruutan
+	Ar-Togoruutan
+    Ick-Hotgoid
+	Baga-Hotgoid
+	Uvur-Togoruutan
+	Zuwdag
+	Kerdek
+	Orchid
+	Burgit
+	Unduriinhen
+	Dolon
+	Jorhoinhon
+	Barga
+	Chariat
+	Avhainhan
+	Zoochor
+	Toos
+	Charnut
+	Zelmet
+	Tumt
+	Ayagachin
+	Darhat
+	Becheikh
+	Jurniat
+	Uushgiinkhan
+	Uushin
+	Khoros
+	Ognjude
+	Huhnuud
+	Kirghiz
+	Bashgid
+	Mudar
+	Doloon Soui
+	Huh-nohonhon
+	Todno
+	Kemchigyinken
+	Ood
+	Tugchin
+	Uker-Tsagaanihan
+	Corner
+	Huh-nuur
+	Uher-onkhod
+	Honin-Hotgoid
+}
+
+ship_names = {
+	"Bargut"
+	"Buzzav"
+	"Kerait"
+	"Nyman"
+	"Derv Yerd"
+	"Joshut"
+	"Olo"
+	"Jungar"
+	"Torgut"
+	"Dorbot"
+	"Amdo"
+	"Altan Khan"
+	"Hoshot"
+	"Olets"
+	"Goosey"
+}
+
+army_names = {
+	"Tumen $PROVINCE$"
+}

@@ -1,0 +1,111 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = FRA
+random_nation_chance = 0
+
+color = { 144  52  53 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	maritime_ideas
+	plutocracy_ideas
+	spy_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Henri #0" = 20
+	"Louis #0" = 20
+	"Charles #0" = 10
+	"Pierre #0" = 10
+	"Albert #0" = 5
+	"Simon #0" = 5
+	"Alexander #0" = 0
+	"Andre #0" = 0
+	"Barthelemy #0" = 0
+	"Benoit #0" = 0
+	"Bertrand #0" = 0
+	"Christoph #0" = 0
+	"Clement #0" = 0
+	"Danielle #0" = 0
+	"Denis #0" = 0
+	"Didier #0" = 0
+	"Emile #0" = 0
+	"Eugene #0" = 0
+	"Felix #0" = 0
+	"François #0" = 0
+	"Gaspar #0" = 0
+	"Isidore #0" = 0
+	"Jean #0" = 0
+	"Jean-Baptiste #0" = 0
+	"Joseph #0" = 0
+	"Laurent #0" = 0
+	"Leonar #0" = 0
+	"Mark #0" = 0
+	"Narcissus #0" = 0
+	"Olivier #0" = 0
+	"Philippe #0" = 0
+	"Raymond #0" = 0
+	"Sebastien #0" = 0
+	"Thibao #0" = 0
+	"Thierry #0" = 0
+	"Victor #0" = 0
+	"Xavier #0" = 0
+	"Yves #0" = 0
+	"Zephyrine #0" = 0
+	
+	"Felicita #0" = -1
+	"Hilonsa #0" = -1
+	"Lucille #0" = -1
+}
+
+leader_names = {
+      "Abat" "Agular" "Allar" "Astier" "Azere"
+      "Ballar" "Barbaren" "Beauregard" "Beauvois" "Bellevue" "Benar" "Bertogniere" "Blanchard" "Bouliny" "Bruxian"
+      "Shoven" "Curcelli"
+      "d'Abbadi" "Dabeville" "Dawesak" "de la Usse" "Delanju" "Dealer" "Delorme" "Dubreuil" "Duclos" "Dufour" "Duverie"
+      "Fabr" "Ferrier" "Florence" "Fortier" "Fouchet" "Frenier"
+      "Garnier" "Guske" "Giraud" "Gesnar"
+      "Lhermit" "Labadi" "Labarr" "Labord" "Labranche" "Lachez" "Lacoste" "Lacouture" "Lacroix" "Lafarge" "Lafay" 
+      "Lafoursh" "Lalland" "Lamot" "Landro" "Lanyus" "Lapeirus" "Laport" "LaRoche" "Latour" "Laville" "Leblank"
+      "Le Muayne" "Lepretre" "Lesparr" "Levasser" "Livode" "Lombar" 
+      "Mansouri" "Marigny" "Miye" "Millodon" "Montague" "Muisson"
+      "Pembeff" "Patrol" "Pecke" "Pelletier" "Pierre" "Perro" "Pil" "Plikke"
+      "Renault" "Riyee" "Riviera" "Rochelle" "Roussel"
+      "Saint-Martin" "Salenac" "Salvan" "Senyure" "Simar" "Saint-Blancard"
+      "Terrasson" "Turanya"
+      "Valletta" "Vidal" "Vignier" "Wheeler" "Wine"
+}
+
+ship_names = {
+	"St. Louis"
+	"Detroit"
+	"Nachitoches" "New Orleans"
+	"Baton Rouge" 
+	"Fort Seafarers" "Fort de Chartres"
+	"Mobile"
+	"Biloxi"
+	"Peoria"
+}

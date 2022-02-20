@@ -1,0 +1,89 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 170  72  67 }
+special_unit_culture = south_east_asian_special
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	religious_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+leader_names = {
+	Abdulfatah Ahmad Amir Anvar Azmi 
+	Batuta 
+	Chairul 
+	Hamza Hasanuddin 
+	Ibnu 
+	Kiyai 
+	Mahat Mukhtar 
+	Najamuddin Nutzar Nazmizan 
+	Roy 
+	Syarifuddin 
+	Zulkifli 
+}
+
+monarch_names = {
+	"Muzaffar Shah #0" = 10
+	"Muazzam Shah #0" = 10
+	"Muhammad Shah #0" = 10
+	"Mahmoud Shah #0" = 10
+	"Ibrahim Shah #0" = 10
+	"Suleiman Shah #0" = 10
+	"Ataullah Muhammad Shah #0" = 10
+	"Muhammad Jiv Zeynal Adilin #0" = 10
+	"Rijaluddin Muhammad Shah #0" = 10
+	"Muhyiddin Mansur Shah #0" = 10
+	"Jiaddin Mukarram Shah #0" = 10
+	"Abdullah Muazzam Shah #0" = 10
+	"Ahmad Tajuddin Halim Shah #0" = 10
+	"Abdullah Mukarram Shah #0" = 10
+	"Zeinal Rashid Al-Muazzam Shah #0" = 10
+	"Raj Kasim #0" = 10
+
+	"Azura #0" = -1
+	"Dairyang #0" = -1
+	"Fatimah #0" = -1
+	"Sulong #0" = -1
+	"Sembuk #0" = -1
+	"Cic Fatimah #0" = -1
+	"Mariam #0" = -1
+	"Sharifs #0" = -1
+	"Azizakh #0" = -1
+	"Aminach #0" = -1
+	"Runs #0" = -1
+	"Maimunach #0" = -1
+	"Zaharah #0" = -1
+	"Ismailiah #0" = -1
+	"Iskandariach #0" = -1
+
+}
+
+ship_names = {
+	Paramesvara "Sultan Iskandar" Bendahara Laxaman
+	Temengung "Pengulu Bendahari" Shahbandar
+	"Hukum Kanun" "Undang undang" "Pulau Bakung"
+	"Pulau Linga" Capulauan "Pulau Singkep" "Capulauan Riau"
+	"Pulau Rempang" "Pulau Kundur" "Pulau Padang"
+	"Pulau Benkaus" "Pulau Ting" "Pulau Shibu"
+	"Pulau Tioman" "Pulau Aur" "Pulau Rupat"
+	"Pulau Ransan" "Pulau Tebin Tingi"
+}

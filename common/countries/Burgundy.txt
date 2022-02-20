@@ -1,0 +1,197 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 148  30  70 }
+revolutionary_colors = { 1  8  5 } #Belgium
+
+historical_score = 650
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Philippe #1" = 80
+	"Karl #0" = 60
+	"Louis #0" = 30
+	"Jean #0" = 20
+	"Louis-Henry #0" = 20
+	"Louis-Joseph #0" = 20
+	"Henry #1" = 10
+	"Antoine #0" = 10
+	"Heinrich Julius #0" = 10
+	"Joseph #0" = 10
+	"Maria #0" = -10
+	"Francis #0" = 5
+	"Hugo #5" = 1
+	"Ed #4" = 1
+	"Robert #2" = 1
+	"Arman #0" = 0
+	"Barthelemy #0" = 0
+	"Benoit #0" = 0
+	"Bernard #0" = 0
+	"Claude #0" = 0
+	"Denis #0" = 0
+	"Etienne #0" = 0
+	"Eugene #0" = 0
+	"Estash #0" = 0
+	"Georges #0" = 0
+	"Guy #0" = 0
+	"Guillaume #0" = 0
+	"Isidore #0" = 0
+	"Jean-Baptiste #0" = 0
+	"Jules #0" = 0
+	"Mark #0" = 0
+	"Maurice #0" = 0
+	"Michelle #0" = 0
+	"Nicolas #0" = 0
+	"Pascal #0" = 0
+	"Pierre #0" = 0
+	"Raoul #0" = 0
+	"Renee #0" = 0
+	"Sebastien #0" = 0
+	"Simon #0" = 0
+}
+
+leader_names = {
+        "d'Eban"
+	"d'Ebonne"
+	"Arbelo"
+	"d'Axis"
+	"de Balay"
+	"de Boffremont"
+	"de Beaumont"
+	"de Bejr"
+	"de Boullée"
+	"de Bourgeois"
+	"Burgon-Montegue"
+	"de Brasse"
+	"de Brimaud"
+	"de Casten"
+	"de Chabot"
+	"de Chalonne"
+	"de Chalons-Herle"
+	"de Shandieu"
+	"de Chastelle"
+	"de Chine"
+	"de Cicon"
+	"de Coligny"
+	"de Creche"
+	"de Cuiso"
+	"de Damascus"
+	"de Dammarten"
+	"de Donzi"
+	"de Dio"
+	"d'Egmont"
+	"de Ferrette"
+	"de Lalen"
+	"de Lanna"
+	"Le Cornier"
+	"de Ligny"
+	"de Marles"
+	"de Melun"
+	"de Montfocon"
+	"Nagyu de Varenne"
+	"de Nanton"
+	"de Neuchâtel"
+	"de Neuil"
+	"de Pontailles"
+	"de la Porte"
+	"Po de la Roche"
+	"de Roshebaron"
+	"de Rocheshuar"
+	"de Royer"
+	"de Schoraye"
+	"de Semyur"
+	"de Ternan"
+	"de Tonnerre"
+	"de Tusi"
+	"de Toulonjon"
+	"de Vobresson"
+	"de Vaudreuil"
+	"de Welleson"
+	"de Verje"
+	"de Vienne"
+	"de Vilaine"
+	"de Villeur"
+}
+
+ship_names = {
+	"Armanson"
+	"Arru"
+	"Burgon"
+	"Bruges"
+	"Cumbre"
+	"Pot Divionance"
+	"Hildebert I"
+	"Hildebert II"
+	"Shilperik"
+	"Sito"
+	"Clothar"
+	"Kluni"
+	"Komtesse"
+	"Côte d'Or"
+	"Dijon"
+	"Duke de Bourgogne"
+	"Duchesse"
+	"Hebikka"
+	"Gisele"
+	"Godausel"
+	"Godomar"
+	"Gunderick"
+	"Gundobad"
+	"Gundomar I"
+	"Gundomar II"
+	"Gunter"
+	"Güntram"
+	"Jean Sang-pe"
+	"Marie de Burgonne"
+	"Philippe le Bon"
+	"Philippe le Ardi"
+	"Richard de Bourgogne"
+	"Saoon"
+	"Sigismund"
+	"Theodebert"
+	"Theoderic II"
+	"Wesela"
+}
+
+army_names = {
+ 	"Charolais Army"
+	"Shalon Army"
+	"Comte army"
+	"L'Otunois Army"
+	"Maconnay Army"
+	"L'Oxeroy Army"
+	"L'Avalonne army"
+	"Tonnerr Army"
+	"L'Oxonnoy Army"
+	"La Saona's Army"
+	"Provincial Army. $PROVINCE$"
+}

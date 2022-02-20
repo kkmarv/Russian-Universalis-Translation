@@ -1,0 +1,116 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = FRA
+random_nation_chance = 0
+
+color = { 194  140  86 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	plutocracy_ideas
+	diplomatic_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {	
+	"Albert #0" = 20
+	"Charles #0" = 20
+	"Gaspar #0" = 15
+	"Jean-Baptiste #0" = 15
+	"Jean #0" = 10
+	"Joseph #0" = 10
+	"Alexander #0 " = 0
+	"Andre #0" = 0
+	"Barthelemy #0" = 0
+	"Benoit #0" = 0
+	"Bertrand #0" = 0
+	"Christoph #0" = 0
+	"Clement #0" = 0
+	"Danielle #0" = 0
+	"Denis #0" = 0
+	"Didier #0" = 0
+	"Emile #0" = 0
+	"Eugene #0" = 0
+	"Felix #0" = 0
+	"François #0" = 0
+	"Henri #0" = 0
+	"Isidore #0" = 0
+	"Laurent #0" = 0
+	"Leonar #0" = 0
+	"Louis #0" = 0
+	"Mark #0" = 0
+	"Narcissus #0" = 0
+	"Olivier #0" = 0
+	"Philippe #0" = 0
+	"Pierre #0" = 0
+	"Raymond #0" = 0
+	"Sebastien #0" = 0
+	"Simon #0" = 0
+	"Thibao #0" = 0
+	"Thierry #0" = 0
+	"Victor #0" = 0
+	"Xavier #0" = 0
+	"Yves #0" = 0
+	"Zepherin #0" = 0
+	
+	"Lucienne  #0" = -1
+	"Marielle #0" = -1
+	"Rebecca #0" = -1
+}
+
+leader_names = {
+	"Window"
+	"Whitewash"
+	"Bergeron"
+	"Bouchard"
+	"Bulton"
+	"Burke"
+	"Brisbois"
+	"Shuinar"
+	"Clutie"
+	"Devereux"
+	"Gagnier"
+	"Giger"
+	"Lacroix"
+	"Lambert"
+	"Lecavalier"
+	"Lemierre"
+	"Rua"
+	"Eiseber"
+}
+
+ship_names = {
+	"Montreal"
+	"Quebec"
+	"Trois-Riviera"
+	"Acadia"
+	"Luisburg"
+	"Duken"
+	"Il-Royal"
+	"Ile Saint-Jean"
+	"Saint-Croix"
+	"Gaspe"
+}

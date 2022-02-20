@@ -1,0 +1,305 @@
+government = tribal
+add_government_reform = steppe_horde
+technology_group = nomad_group
+religion = sunni
+primary_culture = uzbehk
+capital = 476	# Orda-Bazar
+
+
+1425.1.1 = { 
+	monarch = { 
+		name = "Abul Hayar" 
+		dynasty = "Sheibanid"
+		dip = 2 
+		adm = 4
+		mil = 5
+	}
+}
+
+1446.1.1 = { capital = 1970 } # moved to Syghnak
+
+1468.1.1 = { 
+	monarch = { 
+		name = "Jadgar" 
+		dynasty = "Sheibanid"
+		dip = 1 
+		adm = 1 
+		mil = 1
+	}	
+} 
+
+1469.1.1 = { 
+	monarch = { 
+		name = "Haidar Sultan" 
+		dynasty = "Sheibanid"
+		dip = 1 
+		adm = 1 
+		mil = 2 
+	}	
+} 
+
+1471.1.1 = { 
+	monarch = { 
+		name = "Muhammad"
+		dynasty = "Sheibanid"
+		dip = 3
+		adm = 3
+		mil = 6
+	}
+} 
+
+1501.1.1 = { capital = 454 government = monarchy
+add_government_reform = iqta technology_group = muslim } # Muhammad crowned at Samarkand, Uzbeks settle down
+
+1510.1.1 = { 
+	monarch = { 
+		name = "Kuchkundji Khan" 
+		dynasty = "Sheibanid"
+		dip = 1 
+		adm = 2 
+		mil = 2
+	}
+} 
+
+1530.1.1 = { 
+	monarch = {
+		name = "Abu Said" 
+		dynasty = "Sheibanid"
+		dip = 1 
+		adm = 1 
+		mil = 1 
+	}
+} 
+
+1533.1.1 = { 
+	monarch = {
+		name = "Ubaydullah Khan" 
+		dynasty = "Sheibanid"
+		dip = 2 
+		adm = 2 
+		mil = 4 
+	}
+} 
+
+1533.1.1 = { capital = 442 } # Bukhara becomes capital
+
+1540.3.1 = { 
+	monarch = {
+		name = "Abdallah I" 
+		dynasty = "Sheibanid"
+		dip = 1 
+		adm = 1 
+		mil = 1
+	}
+} 
+
+1540.9.1 = { 
+	monarch = {
+		name = "Abu al-Aziz Khan" 
+		dynasty = "Sheibanid"
+		dip = 1 
+		adm = 1 
+		mil = 2 
+	}
+} 
+
+1550.1.1 = { 
+	monarch = {
+		name = "Abu al-Latif Khan" 
+		dynasty = "Sheibanid"
+		dip = 1 
+		adm = 1 
+		mil = 1
+	}
+} 
+
+1551.1.1 = { 
+	monarch = {
+		name = "Nowruz Ahmad Khan" 
+		dynasty = "Sheibanid"
+		dip = 1 
+		adm = 1 
+		mil = 2 
+	}
+} 
+
+1556.1.1 = { 
+	monarch = {
+		name = "Feast Mohammed I" 
+		dynasty = "Sheibanid"
+		dip = 1 
+		adm = 1 
+		mil = 1 
+	}
+} 
+
+1561.4.2 = { 
+	monarch = {
+		name = "Iskandar Bahadur" 
+		dynasty = "Sheibanid"
+		dip = 1 
+		adm = 3 
+		mil = 1 
+	}
+} 
+
+1583.6.23 = { 
+	monarch = {
+		name = "Abdallah II" 
+		dynasty = "Sheibanid"
+		dip = 3 
+		adm = 3 
+		mil = 4 
+	}
+}
+
+1598.2.8 = { 
+	monarch = {
+		name = "Abd al-Mumin" 
+		dynasty = "Sheibanid"
+		dip = 0 
+		adm = 0 
+		mil = 3 
+	}
+} 
+
+1598.6.30 = { 
+	monarch = {
+		name = "Feast Mohammed II" 
+		dynasty = "Sheibanid"
+		dip = 0 
+		adm = 0 
+		mil = 0 
+	}
+} 
+
+1601.1.1 = { 
+	monarch = {
+		name = "Baki Muhammad" 
+		dynasty = "Genghisid"
+		dip = 2 
+		adm = 2 
+		mil = 2 
+	}
+} 
+
+1606.5.19 = { 
+	monarch = {
+		name = "Wali Muhammad" 
+		dynasty = "Genghisid"
+		dip = 1 
+		adm = 0 
+		mil = 1 
+	}
+} 
+
+1611.9.15 = { 
+	monarch = {
+		name = "Imam Kuli Bahadur" 
+		dynasty = "Genghisid"
+		dip = 3 
+		adm = 0 
+		mil = 2 
+	}
+} 
+
+1641.11.10 = { 
+	monarch = {
+		name = "Said Nadir Mohammed" 
+		dynasty = "Genghisid"
+		dip = 2 
+		adm = 0 
+		mil = 2 
+	}
+} 
+
+1645.4.27 = { 
+	monarch = {
+		name = "Said Abdul Aziz" 
+		dynasty = "Genghisid"
+		dip = 2 
+		adm = 2 
+		mil = 3 
+	}
+} 
+
+1681.10.27 = { 
+	monarch = {
+		name = "Sayid Subkhan Kuli Bahadur" 
+		dynasty = "Genghisid"
+		dip = 1 
+		adm = 1 
+		mil = 1 
+	}
+} 
+
+1702.9.4 = { 
+	monarch = {
+		name = "Sayid Ubaydullah II" 
+		dynasty = "Genghisid"
+		dip = 0 
+		adm = 0 
+		mil = 0 
+
+	}
+} 
+
+1711.3.16 = { 
+	monarch = {
+		name = "Aboul Faiz" 
+		dynasty = "Genghisid"
+		dip = 0 
+		adm = 0 
+		mil = 0 
+	}
+}
+
+1747.1.1 = { 
+	monarch = {
+		name = "Abul Mumin" 
+		dynasty = "Genghisid"
+		dip = 0 
+		adm = 0 
+		mil = 0 
+	}
+}
+
+1751.1.1 = { 
+	monarch = {
+		name = "Muhammad Rahim Khan"
+		dynasty = "Mangit"
+		dip = 2 
+		adm = 3 
+		mil = 4 
+	}
+} 
+
+1758.1.1 = { 
+	monarch = {
+		name = "Danyal Atalyk" 
+		dynasty = "Mangit"
+		dip = 4 
+		adm = 3 
+		mil = 3 
+	}
+} 
+
+1785.1.1 = { 
+	monarch = {
+		name = "Mir Masoom Shah Murad" 
+		dynasty = "Mangit"
+		dip = 3 
+		adm = 5 
+		mil = 3 
+	}
+} 
+
+1799.12.13 = { 
+	monarch = {
+		name = "Haidar Tura" 
+		dynasty = "Mangit"
+		dip = 1 
+		adm = 1 
+		mil = 2 
+	}
+}

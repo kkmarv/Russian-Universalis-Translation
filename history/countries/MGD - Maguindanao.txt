@@ -1,0 +1,422 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+primary_culture = filipino
+capital = 652	# Maguindanao
+religion = animism
+
+1444.1.1 = {
+	monarch = {
+		name = "Maraya"
+		dynasty = "Kabungsuvan"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	heir = {
+		name = "Tabunawai"
+		monarch_name = "Tabunawai"
+		dynasty = "Kabungsuvan"
+		birth_date = 1444.1.1
+		death_Date = 1530.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1480.1.1 = {
+	monarch = {
+		name = "Tabunawai"
+		dynasty = "Kabungsuvan"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1520.1.1 = {
+	monarch = {
+		name = "Mohammed Kabungsuvan"
+		dynasty = "Kabungsuvan"
+		adm = 4
+		dip = 4
+		mil = 3
+		culture = malayan
+	}
+	add_piety = -0.25
+	religion = sunni
+	religious_school = shafii_school
+	heir = {
+		name = "Maca Alang Saripada"
+		monarch_name = "Maca Alang Saripada"
+		dynasty = "Kabungsuvan"
+		birth_date = 1520.1.1
+		death_Date = 1574.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1543.1.1 = {
+	monarch = {
+		name = "Maca Alang Saripada"
+		dynasty = "Kabungsuvan"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1543.1.1 = {
+	heir = {
+		name = "Bankaya"
+		monarch_name = "Bankaya"
+		dynasty = "Kabungsuvan"
+		birth_date = 1530.1.1
+		death_Date = 1578.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1574.1.1 = {
+	monarch = {
+		name = "Bankaya"
+		dynasty = "Kabungsuvan"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1574.1.1 = {
+	heir = {
+		name = "Dimasangchai Adel"
+		monarch_name = "Dimasangchai Adel"
+		dynasty = "Kabungsuvan"
+		birth_date = 1550.1.1
+		death_Date = 1585.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1578.1.1 = {
+	monarch = {
+		name = "Dimasangchai Adel"
+		dynasty = "Kabungsuvan"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1578.1.1 = {
+	heir = {
+		name = "Gugu Saricula"
+		monarch_name = "Gugu Saricula"
+		dynasty = "Kabungsuvan"
+		birth_date = 1560.1.1
+		death_Date = 1597.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1585.1.1 = {
+	monarch = {
+		name = "Gugu Saricula"
+		dynasty = "Kabungsuvan"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1585.1.1 = {
+	heir = {
+		name = "Laut Bouisan"
+		monarch_name = "Laut Bouisan"
+		dynasty = "Kabungsuvan"
+		birth_date = 1560.1.1
+		death_Date = 1597.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1597.1.1 = {
+	monarch = {
+		name = "Laut Bouisan"
+		dynasty = "Kabungsuvan"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1597.1.1 = {
+	heir = {
+		name = "Muhammad Dipatuan Kudarat"
+		monarch_name = "Muhammad Dipatuan Kudarat"
+		dynasty = "Kabungsuvan"
+		birth_date = 1581.1.1
+		death_Date = 1671.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+1617.1.1 = {
+	monarch = {
+		name = "Muhammad Dipatuan Kudarat"
+		dynasty = "Kabungsuvan"
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+1617.1.1 = {
+	heir = {
+		name = "Dundang Tidulai"
+		monarch_name = "Dundang Tidulai"
+		dynasty = "Kabungsuvan"
+		birth_date = 1610.1.1
+		death_Date = 1678.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1671.1.1 = {
+	monarch = {
+		name = "Dundang Tidulai"
+		dynasty = "Kabungsuvan"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1671.1.1 = {
+	heir = {
+		name = "Barahaman"
+		monarch_name = "Barahaman"
+		dynasty = "Kabungsuvan"
+		birth_date = 1640.1.1
+		death_Date = 1699.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1678.1.1 = {
+	monarch = {
+		name = "Barahaman"
+		dynasty = "Kabungsuvan"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1678.1.1 = {
+	heir = {
+		name = "Kahar oud-din Kuda"
+		monarch_name = "Kahar oud-din Kuda"
+		dynasty = "Kabungsuvan"
+		birth_date = 1660.1.1
+		death_Date = 1702.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1699.1.1 = {
+	monarch = {
+		name = "Kahar oud-din Kuda"
+		dynasty = "Kabungsuvan"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1699.1.1 = {
+	heir = {
+		name = "Bayan ul-Anwar"
+		monarch_name = "Bayan ul-Anwar"
+		dynasty = "Kabungsuvan"
+		birth_date = 1680.1.1
+		death_Date = 1736.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1702.1.1 = {
+	monarch = {
+		name = "Bayan ul-Anwar"
+		dynasty = "Kabungsuvan"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1702.1.1 = {
+	heir = {
+		name = "Muhammad Tahir oud-din"
+		monarch_name = "Muhammad Tahir oud-din"
+		dynasty = "Kabungsuvan"
+		birth_date = 1700.1.1
+		death_Date = 1748.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1736.1.1 = {
+	monarch = {
+		name = "Muhammad Tahir oud-din"
+		dynasty = "Kabungsuvan"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1736.1.1 = {
+	heir = {
+		name = "Muhammad Qair oud-din"
+		monarch_name = "Muhammad Qair oud-din"
+		dynasty = "Kabungsuvan"
+		birth_date = 1710.1.1
+		death_Date = 1755.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1748.1.1 = {
+	monarch = {
+		name = "Muhammad Qair oud-din"
+		dynasty = "Kabungsuvan"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1748.1.1 = {
+	heir = {
+		name = "Pahar oud-din"
+		monarch_name = "Pahar oud-din"
+		dynasty = "Kabungsuvan"
+		birth_date = 1730.1.1
+		death_Date = 1780.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1755.1.1 = {
+	monarch = {
+		name = "Pahar oud-din"
+		dynasty = "Kabungsuvan"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1755.1.1 = {
+	heir = {
+		name = "Kibad Sahrial"
+		monarch_name = "Kibad Sahrial"
+		dynasty = "Kabungsuvan"
+		birth_date = 1750.1.1
+		death_Date = 1805.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1780.1.1 = {
+	monarch = {
+		name = "Kibad Sahrial"
+		dynasty = "Kabungsuvan"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1780.1.1 = {
+	heir = {
+		name = "Kawasa Anwar oud-din"
+		monarch_name = "Kawasa Anwar oud-din"
+		dynasty = "Kabungsuvan"
+		birth_date = 1770.1.1
+		death_Date = 1830.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1805.1.1 = {
+	monarch = {
+		name = "Kawasa Anwar oud-din"
+		dynasty = "Kabungsuvan"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1805.1.1 = {
+	heir = {
+		name = "Kudratullah Untung"
+		monarch_name = "Kudratullah Untung"
+		dynasty = "Kabungsuvan"
+		birth_date = 1800.1.1
+		death_Date = 1854.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}

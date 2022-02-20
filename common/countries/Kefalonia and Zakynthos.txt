@@ -1,0 +1,198 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 194 7 7 }
+
+historical_idea_groups = {
+	maritime_ideas
+	plutocracy_ideas
+	spy_ideas
+	trade_ideas	
+	defensive_ideas
+	economic_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"John #5" = 60
+	"Michele #0" = 20
+	"Thomasso #0" = 20
+	"Moses #0" = 40
+	"Niccolo #0" = 40
+	"Nicholas #4" = 40
+	"Urbano #0" = 0
+	"Vitale #0" = 0
+
+	"Anna #4" = -1
+	"Santuca #0" = -1
+	"Eulalia #0" = -1
+}
+
+leader_names = {
+	"d'Alviano"
+	"Alvise"
+	"Barbarigo"
+	"Bembo"
+	"Barilla"
+	"Bassano"
+	"Bardolino"
+	"Cornaro"
+	"Kontarini"
+	"Cassandro"
+	"Casanova"
+	"Kommacchio"
+	"Kyogga"
+	"Donato"
+	"Dolphin"
+	"de Blatzio"
+	"Emo"
+	"Erizzo"
+	"Ermelli"
+	"Foscolo"
+	"Flandgini"
+	"Foscarini"
+	"Grimani"
+	"Giustiniani"
+	"Gritty"
+	"GARDA"
+	"Loredan"
+	"Labia"
+	"Lomellini"
+	"Lando"
+	"Menigo"
+	"Marcello"
+	"Freezers"
+	"Moline"
+	"Moreau"
+	"Memmo"
+	"Manho"
+	"Mestre"
+	"Modigliano"
+	"Quirini"
+	"Plani"
+	"Priuli"
+	"Pisani"
+	"Pesaro"
+	"Pezzini"
+	"Pordenone"
+	"Riva"
+	"Ruzzini"
+	"Rovigo"
+	"Rovereto"
+	"São Paulo"
+	"Syo"
+	"Sugayna"
+	"Trevisano"
+	"Toscani"
+	"Veniero"
+	"Valieri"
+	"Vittorio"
+	"Zeno"
+	"Zoustiniani"
+}
+
+ship_names = {
+	"Amazzone Guerriere"
+	"Amburgense"
+	"Anna Bonaventure"
+	"Apollo"
+	"Aquila Coronato"
+	"Aquila d'Oro"
+	"Aquila Valiera"
+	"Arma di Colonia"
+	"Arma di Modelborgo"
+	"Captain d'Algerie"
+	"Carita"
+	"Casa di Nassau"
+	"Concordia"
+	"Conte Sdrin"
+	"Croce Dorata"
+	"Drago Volante"
+	"Ercole Vittorioso"
+	"Espienza"
+	"Fama Volante"
+	"Federación Guerriera"
+	"Fenice"
+	"Francesaise"
+	"Frigate Contarini"
+	"Gallo d'Oro"
+	"Genovese Grande"
+	"Jove"
+	"Jove Fulminante"
+	"Giudio di Salomon"
+	"Irida"
+	"Leon Coronato"
+	"Madonna della Salute"
+	"Madonna della Vigna"
+	"Margarita"
+	"Mercante Diletto."
+	"Nettuno"
+	"Orca Negro"
+	"Orsola Bonaventure"
+	"Pace ed Abbondanza"
+	"Paramore"
+	"Piccola Fortuna"
+	"Pinco Tremartino"
+	"Pomerlan"
+	"Principe di Venezia"
+	"Princhypessa"
+	"Princess Reale"
+	"Princess Grande"
+	"Piccola Princess"
+	"Profeta Eliya"
+	"Profeta Samuel"
+	"Redentre del Mundo"
+	"Rizzo d'Oro"
+	"Rosa"
+	"Mosheniga Rose"
+	"Otta Fortuna"
+	"Sacra Lega"
+	"Sacrificio d'Abram"
+	"San Andrea"
+	"San Antonio di Padova"
+	"St. Bartolamio"
+	"San Domenico"
+	"San Felippe"
+	"San Giovanni"
+	"San Giovanni Battista Grande"
+	"San Giovanni Battista Piccolo"
+	"San Giorgio Grande"
+	"San Lorenzo Justinian"
+	"San Michel"
+	"San Nicolo"
+	"San Sebastiano"
+	"San Vittorio"
+	"San Dzorzi Giccolo"
+	"Sole d'Oro"
+	"Spirito Santo"
+	"Stella Maris"
+	"Tamburlano"
+	"Tiger"
+	"Tre Re"
+	"Valor Coronato"
+	"Venus Armata"
+	"Vittoria"
+	"Zardin d'Olanda"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$"
+}

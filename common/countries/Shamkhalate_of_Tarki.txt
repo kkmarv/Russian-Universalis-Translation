@@ -1,0 +1,73 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 240 126 102  }
+
+historical_idea_groups = { 
+	defensive_ideas
+	quantity_ideas
+	administrative_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	aristocracy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Surhai #0" = 40
+	"Ildar #0" = 30
+	"Umalat #0" = 30
+	"Buda #0" = 30
+	"Alibek #0" = 20
+	"Murtazali #0" = 20
+	"Buda #0" = 20
+	"Aydemer #0" = 20
+	"Bammat #0" = 10
+	"Mehti #0" = 10
+	"Adil-Gerey#0" = 10
+	"Usmi #0" = 10
+}
+
+leader_names = {
+	Derbent
+	Tabasaran
+	Humik
+	Sarir
+	Lacs
+	Haidak
+	Phelan
+	Shandan
+	Zirigeran
+	Tumen
+	Jinan
+	Hamzin
+	Semender
+	Belenger
+	Shamkal
+}
+
+ship_names = {
+	Ishkarta Ahatly Buynak Karabudakhkent Karanayaul Gubden Kadar Geli
+	Kyahulai-Torkali Amirkhan-kent Agach-aul Atly-boyun Alburikent Kum-Tor-Kala Kapchugay
+}

@@ -1,0 +1,69 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 54 150 136  } 
+
+historical_idea_groups = {
+	religious_ideas
+	administrative_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	humanist_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Kara Yusuf #0" = 30
+	"Budak Pier #0" = 30
+	"Iskander #0" = 30
+	"Jahan Shah #0" = 20
+	"Hassan Ali #0" = 20
+	
+	"Boat #0" = -1
+}
+
+leader_names = {
+	"Jahan"
+	"Nyuan"
+	"Hwaja"
+	"Yusuf"
+	"Turmush"
+	"Bairam"
+	"Muhammad"
+	"Muzaffar"
+	"Hassan"
+	"Nasr"
+}
+
+ship_names = {
+	"Herat"
+	"Kara Yusuf"
+	"Kara Muhammad"
+	"Iskander Yusuf"
+	"Kura"
+	"Sumgait"
+	"Bazarduzu"
+	"Kareh Su"
+	"Sevan"
+	"Balan Safar"
+	"Agdam"
+	"Kurdamir"
+	"Uzari"
+}

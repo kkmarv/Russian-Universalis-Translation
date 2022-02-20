@@ -1,0 +1,307 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = tibetan
+religion = vajrayana
+technology_group = chinese
+capital = 2128
+fixed_capital = 2128 # Cannot move capital away from this province & no power cost to move to it
+
+1396.1.1 = {
+	monarch = {
+		name = "Namgyal De"
+		dynasty = "Dharma"
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+1396.1.1 = {
+	heir = {
+		name = "Nam moha'i dbang by phuong"
+		monarch_name = "Nam moha'i dbang by phuong"
+		dynasty = "Dharma"
+		birth_Date = 1390.1.1
+		death_Date = 1449.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1424.1.1 = {
+	monarch = {
+		name = "Nam moha'i dbang by phuong"
+		dynasty = "Dharma"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1424.1.1 = {
+	heir = {
+		name = "Nam Ri Zang Yrgyas."
+		monarch_name = "Nam Ri Zang Yrgyas."
+		dynasty = "Dharma"
+		birth_Date = 1404.1.1
+		death_Date = 1470.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1449.1.1 = {
+	monarch = {
+		name = "Nam Ri Zang Yrgyas."
+		dynasty = "Dharma"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1449.1.1 = {
+	heir = {
+		name = "Blo Bzan Rab Brtan"
+		monarch_name = "Blo Bzan Rab Brtan"
+		dynasty = "Dharma"
+		birth_Date = 1429.1.1
+		death_Date = 1485.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1470.1.1 = {
+	monarch = {
+		name = "Blo Bzan Rab Brtan"
+		dynasty = "Dharma"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1470.1.1 = {
+	heir = {
+		name = "Stood Tsha Phags Pa Lha"
+		monarch_name = "Stood Tsha Phags Pa Lha"
+		dynasty = "Dharma"
+		birth_Date = 1460.1.1
+		death_Date = 1510.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1485.1.1 = {
+	monarch = {
+		name = "Stood Tsha Phags Pa Lha"
+		dynasty = "Dharma"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1485.1.1 = {
+	heir = {
+		name = "Shakya 'od"
+		monarch_name = "Shakya 'od"
+		dynasty = "Dharma"
+		birth_Date = 1470.1.1
+		death_Date = 1537.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1510.1.1 = {
+	monarch = {
+		name = "Shakya 'od"
+		dynasty = "Dharma"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1510.1.1 = {
+	heir = {
+		name = "Jig rag dbang phug pad kar"
+		monarch_name = "Jig rag dbang phug pad kar"
+		dynasty = "Dharma"
+		birth_Date = 1480.1.1
+		death_Date = 1555.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1537.1.1 = {
+	monarch = {
+		name = "Jig rag dbang phug pad kar"
+		dynasty = "Dharma"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1537.1.1 = {
+	heir = {
+		name = "Ngag gi Dbang phug"
+		monarch_name = "Ngag gi Dbang phug"
+		dynasty = "Dharma"
+		birth_Date = 1510.1.1
+		death_Date = 1570.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1555.1.1 = {
+	monarch = {
+		name = "Ngag gi Dbang phug"
+		dynasty = "Dharma"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1555.1.1 = {
+	heir = {
+		name = "Nam moha Dbang phug"
+		monarch_name = "Nam moha Dbang phug"
+		dynasty = "Dharma"
+		birth_Date = 1540.1.1
+		death_Date = 1590.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1570.1.1 = {
+	monarch = {
+		name = "Nam moha Dbang phug"
+		dynasty = "Dharma"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+1570.1.1 = {
+	heir = {
+		name = "Cree Nui Ma Dbang phug"
+		monarch_name = "Cree Nui Ma Dbang phug"
+		dynasty = "Dharma"
+		birth_Date = 1550.1.1
+		death_Date = 1605.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1590.1.1 = {
+	monarch = {
+		name = "Cree Nui Ma Dbang phug"
+		dynasty = "Dharma"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1590.1.1 = {
+	heir = {
+		name = "Cree Grags Pa'y Dbang phug"
+		monarch_name = "Cree Grags Pa'y Dbang phug"
+		dynasty = "Dharma"
+		birth_Date = 1570.1.1
+		death_Date = 1618.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}
+
+1605.1.1 = {
+	monarch = {
+		name = "Cree Grags Pa'y Dbang phug"
+		dynasty = "Dharma"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1605.1.1 = {
+	heir = {
+		name = "Cree Nam yargal Grugs Pa."
+		monarch_name = "Cree Nam yargal Grugs Pa."
+		dynasty = "Dharma"
+		birth_Date = 1570.1.1
+		death_Date = 1621.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+}
+
+1618.1.1 = {
+	monarch = {
+		name = "Cree Nam yargal Grugs Pa."
+		dynasty = "Dharma"
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+}
+
+1618.1.1 = {
+	heir = {
+		name = "Cree Bkra shies Grugs Pa"
+		monarch_name = "Cree Bkra shies Grugs Pa"
+		dynasty = "Dharma"
+		birth_Date = 1600.1.1
+		death_Date = 1635.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+}
+
+1621.1.1 = {
+	monarch = {
+		name = "Cree Bkra shies Grugs Pa"
+		dynasty = "Dharma"
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+}
+
+#Annexed by Laddakh 1630

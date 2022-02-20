@@ -1,0 +1,66 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 191 187 195 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Capiton #0" = 20
+	"Ashkai Diyin #0" = 10
+	"Dahaana Baadaane #0" = 10
+	"Castiin Chilhayeen #0" = 10
+	"Nabahah Yiltaa #0" = 10
+	"Bislahalani #0" = 10
+	"Hohojii Naata #0" = 10
+	"Castiin Daghaa #0" = 10
+	"Castiin Daagi #0" = 10
+	"Huske Jahne Jahne #0" = 0
+	"Toh Jah #0" = 0
+	"Castiin Klah #0" = 0
+	"Akhvav Eskav #0" = 0
+	"Hoxhav Nolae #0" = 0
+	"Atsidi Sani #0" = 0
+	"Bechiltheeni #0" = 0
+	
+	"Dahteste #0" = -1
+	"Yilthgozai #0" = -1
+	"Gouyen #0" = -1
+	"Lozen #0" = -1
+	"Tohaya #0" = -1
+}
+
+leader_names = {
+	"Bitanhi" "Naastegeh" "Kiyaaaniya" "Dziltadi" Honaghaahnia "Toahani" 
+	"Taneeszakhani" "Hashkaa Hadzohi" Nicoobaania "Tsah Yiskidiya" "Todicinia" "To Baajnaji" Tseikeehea
+	"Lahaqi Naquette" "Shin Sikaadniya" "Biich Bitodnia" "Tlogs" "Todikoji" "Keaaahanaaniya" "Todigiya" "Tothsney"
+	"Hooghan Lani" "Zaaneese Lani" "Tse Deshegizhniah" "Hasht Lyshnia" Tabaaha Haltsooi "To Baajnaji" "Tacchinia"
+	"Qin Ichiyinia" Shenyikini Dibelgini "Mai Daeshgienia" "Ashinui" "Kehaleinii" "Toaheedlia"
+	"Tshinnaaayinia" "Deeschinia" "Tlisi Lani" "TliaaschiI" Tsenabahitui Nashashi "Tscebaania" "Jayaalolia"
+	"Kehatiinty" "Naashaashi"
+}
+
+ship_names = {
+	Tzichaai Ti Ayani Bih Maittsoh Shash Nashdoitsoh Tabaah Maiah Goligiya Dahsani
+	Asa The Hague Neshiaa Tiyaish Tshisina
+}

@@ -1,0 +1,25 @@
+#3931 - Mascara
+
+owner = TLC
+controller = TLC
+culture = berber
+religion = sunni
+capital = "Masquerade"
+trade_goods = wine
+hre = no
+base_tax = 1
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_core = TLC
+add_core = ALG
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+discovered_by = eastern
+
+1517.1.1 = { owner = ALG controller = ALG }
+1570.1.1 = { owner = TUR controller = TUR add_core = TUR }
+1711.1.1 = { owner = ALG controller = ALG remove_core = TUR }
+1837.10.13 = { controller = RFC }
+1847.12.22 = { owner = RFC add_core = RFC }

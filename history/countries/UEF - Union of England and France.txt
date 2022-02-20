@@ -1,0 +1,76 @@
+government = monarchy
+add_government_reform = feudalism_reform
+mercantilism = 0.1
+technology_group = western
+primary_culture = english
+add_accepted_culture = cosmopolitan_french
+religion = catholic
+capital = 236	# London
+
+1413.3.21 = {
+	monarch = {
+		name = "Henry V"
+		dynasty = "Lancaster"
+		birth_date = 1386.9.16
+		adm = 2
+		dip = 2
+		mil = 5
+		leader = { name = "Henry V"		type = general	fire = 4	shock = 4	manuever = 5	siege = 1 }
+	}
+}
+
+1414.1.1 = { leader = {	name = "Earl Warwick"	type = general	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1439.4.30 } }
+
+1414.2.1 = { leader = {	name = "The Earl of Shrewsbury"	type = general	fire = 2	shock = 4	manuever = 4	siege = 1	death_date = 1453.7.17 } }
+
+1418.1.1 = { leader = {	name = "Duke of Clarence"	type = general	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1421.3.22 } }
+
+1421.12.6 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry VI"
+		dynasty = "Lancaster"
+		birth_date = 1421.12.6
+		death_date = 1471.5.21
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1422.8.31 = { leader = { name = "Duke Bedford"	type = general	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1435.9.14 } }
+
+1422.8.31 = {
+	monarch = {
+		name = "Henry VI"
+		dynasty = "Lancaster"
+		birth_date = 1421.12.6
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1434.1.1 = { leader = {	name = "Richard Neville"	type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1460.12.31 } }
+
+1435.1.1 = { leader = {	name = "Richard York"	type = general	fire = 2	shock = 4	manuever = 3	siege = 0	death_date = 1460.12.30 } }
+
+1435.1.1 = { leader = {	name = "Henry Percy"        	type = general	fire = 4	shock = 2	manuever = 3	siege = 0	death_date = 1455.5.22 } }
+
+1450.1.1 = { leader = {	name = "John Mowbray"		type = general	fire = 2	shock = 3	manuever = 3	siege = 0	death_date = 1461.4.6 } }
+
+
+1453.10.13 = { # Edward of Westminster
+	heir = {
+		name = "Edward"
+		monarch_name = "Edward IV"
+		dynasty = "Lancaster"
+		birth_date = 1453.10.13
+		death_date = 1471.5.4
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}

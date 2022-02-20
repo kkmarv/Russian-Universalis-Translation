@@ -1,0 +1,163 @@
+#Albania
+
+graphical_culture = easterngfx
+
+color = { 210  10  30 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Giergi #0" = 20
+	"Lec #0" = 20
+	"Ivan #0" = 10
+	"Constantine #0" = 10
+	"Lulezim #0" = 10
+	"Pal #0" = 0
+	"Tanush #1" = 10
+	"Alexander #0" = 10
+	"Carolus #2" = 1
+	"Filippo #1" = 1
+	"Adnan #0" = 1
+	"Agim #0" = 1
+	"Bashkim #0" = 1
+	"Besnik #0" = 1
+	"Boujar #0" = 1
+	"Dardan #0" = 1
+	"Dourim #0" = 1
+	"Dritero #0" = 1
+	"Alidon #0" = 1
+	"Eryon #0" = 1
+	"Fatmir #0" = 1
+	"Flamour #0" = 1
+	"Florin #0" = 1
+	"Hecuran #0" = 1
+	"Ilir #0" = 1
+	"Ismayil #0" = 5
+	"Claudian #0" = 1
+	"Luigi #0" = 1
+	"Milim #0" = 1
+	"Nicola #0" = 1
+	"Pashko #0" = 1
+	"Pellub #1" = 5
+	"Perparam #0" = 1
+	"Pierre #0" = 5
+	"Roque #0" = 1
+	"Whisper #0" = 1
+	"Tahir #0" = 1
+	"Victor #0" = 1
+	"Xevat #0" = 1
+	"Illy #0" = 1
+	"Zenel #0" = 1
+	"Gulo #0" = -1
+	"Khalil #0" = 1
+	"Ali #0" = 10
+	"Mustafa #0" = 10
+	"Kemal #0" = 1
+	"Enver #0" = 1
+	"Mehmet #0" = 1
+	"Ramiz #0" = 1
+	"Edie #0" = 1
+	"Demaki #0" = 1
+	"Edon #0" = 1
+	"Ducajin #0" = 10
+	"Hadji #0" = 10
+	"Lichendry #0" = 1
+	"Mensura #0" = 1
+	"Kreshnik #0" = 1
+	"Rahman #0" = 1
+	"Njiku #0" = 1
+	"Riza #0" = 1
+	"Recep #0" = 1
+	"Ramadan #0" = 1
+	"Suleiman #0" = 10
+	"Selim #0" = 1
+	"Sadyk #0" = 1
+}
+
+leader_names = {
+	"Arianite"
+	"Badera"
+	"Balsa"
+	"Bois"
+	"Worm"
+	"Komneniat"
+	"Ducagini"
+	"Fakemir"
+	"Goysin"
+	"Golemy"
+	"Castrioti"
+	"Losha"
+	"Musaki"
+	"Skuros"
+	"Spatha"
+	"Sleeps"
+	"Topia"
+	"Stoptany"
+	"Vishandi"
+	"Zenevis"
+	"Zogu"
+	"Hodge"
+	"Carcass"
+	"Chani"
+	"Dosty"
+	"Elesy"
+	"Dooka"
+	"Fakai"
+	"Corbairam"
+	"Khalili"
+	"Hamza"
+	"Gekay"
+	"Haidaraga"
+	"Gyokai"
+	"Gyika"
+	"Shehu"
+	"Aliya"
+	"Wata"
+	"Have fun"
+	"Jumba"
+	"Jafer"
+	"Sieber"
+	"Useni"
+	"Imeri"
+
+}
+
+ship_names = {
+	"Bishti and Palles"
+	"Gjiri and Drinit"
+	"Gjiri and Rondonite"
+	"Yube"
+	"Calaja e Tourres"
+	"Cap and Rodonite"
+	"Kirekuk"
+	"Shengin"
+	"Shetay"
+	"Greatpodzhe"
+}

@@ -1,0 +1,303 @@
+government = monarchy
+add_government_reform = celestial_empire
+technology_group = chinese
+religion = buddhism
+primary_culture = mongol
+capital = 1816	#Hanbalik (Dadu)
+
+add_country_modifier = { name = stt_yuan_culture_1 duration = -1 }
+
+1271.2.18 = {
+	monarch = {
+		name = "Kubilai"
+		dynasty = "Borjigin"
+		birth_date = 1215.9.23
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+1294.2.10 = {
+	monarch = {
+		name = "Tamur"
+		dynasty = "Borjigin"
+		birth_date = 1265.10.15
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1307.3.10 = {
+	monarch = {
+		name = "Kulug Hissan"
+		dynasty = "Borjigin"
+		birth_date = 1281.8.4
+		claim = 75
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1307.3.10 = {
+	heir = {
+		name = "Buyantu"
+		monarch_name = "Ayurbaribada"
+		dynasty = "Borjigin"
+        birth_date = 1285.4.9
+		death_date = 1320.3.1
+		claim = 80
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+}
+1309.1.1 = { 
+	add_country_modifier = { name = stt_yuan_admin_2 duration = -1 }
+}
+1310.1.1 = { 
+	remove_country_modifier = stt_yuan_admin_2
+	add_country_modifier = { name = stt_yuan_admin_1 duration = -1 }
+}
+1310.2.2 = { 
+	remove_country_modifier = stt_yuan_admin_1 
+	add_country_modifier = { name = stt_yuan_admin_2 duration = -1 }
+}
+	
+1311.1.27 = {
+	monarch = {
+		name = "Ayurbaribada"
+		dynasty = "Borjigin"
+		birth_date = 1285.4.9
+		claim = 85
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+}
+
+1311.1.27 = {
+	heir = {
+		name = "Gagan"
+		monarch_name = "Shidebala"
+		dynasty = "Borjigin"
+        birth_date = 1303.2.23
+		death_date = 1323.9.4
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1320.3.1 = {
+	monarch = {
+		name = "Shidebala"
+		dynasty = "Borjigin"
+		birth_date = 1303.2.23
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1320.3.1 = {
+	heir = {
+		name = "Esun-Tamur"
+		monarch_name = "Esun-Tamur"
+		dynasty = "Borjigin"
+        birth_date = 1293.11.29
+		death_date = 1328.8.15
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1323.9.4 = {
+	monarch = {
+		name = "Esun-Tamur"
+		dynasty = "Borjigin"
+		birth_date = 1293.11.28
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1323.9.4 = {
+	heir = {
+		name = "Arajabig"
+		monarch_name = "Rajapika"
+		dynasty = "Borjigin"
+       	birth_date = 1320.1.1
+		death_date = 1328.12.14
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1328.8.15 = {
+	monarch = {
+		name = "Rajapika"
+		dynasty = "Borjigin"
+		birth_date = 1320.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1328.11.14 = {
+	monarch = {
+		name = "Tug-Tamur"
+		dynasty = "Borjigin"
+		birth_date = 1304.2.16
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1329.4.3 = {
+	monarch = {
+		name = "Hoshila"
+		dynasty = "Borjigin"
+		birth_date = 1300.12.22
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+1329.4.3 = {
+	heir = {
+		name = "Ton-Tamur"
+		monarch_name = "Ton-Tamur"
+		dynasty = "Borjigin"
+       	birth_date = 1320.5.25
+		death_date = 1370.5.23
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+1329.8.30 = {
+	monarch = {
+		name = "Tug-Tamur"
+		dynasty = "Borjigin"
+		birth_date = 1304.2.16
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1332.9.2 = {
+	monarch = {
+		name = "Irijibal"
+		dynasty = "Borjigin"
+		birth_date = 1326.5.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+}
+
+1332.12.14 = {
+	monarch = {
+		name = "El-Timur"
+		dynasty = "Chonggurid"
+		birth_date = 1280.1.1
+		adm = 1
+		dip = 2
+		mil = 5
+		regent = yes
+	}
+}
+
+1332.12.14 = {
+	heir = {
+		name = "Ton-Tamur"
+		monarch_name = "Ton-Tamur"
+		dynasty = "Borjigin"
+       	birth_date = 1320.5.25
+		death_date = 1370.5.23
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+1333.3.1 = {
+	monarch = {
+		name = "Ton-Tamur"
+		dynasty = "Borjigin"
+		birth_date = 1320.5.25
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+1338.1.1 = {
+	heir = {
+		name = "Biligtoo"
+		monarch_name = "Ayurshridar"
+		dynasty = "Borjigin"
+       	birth_date = 1338.1.1
+		death_date = 1378.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1368.1.23 = {
+	government_rank = 2
+}
+
+1370.5.23 = {
+	monarch = {
+		name = "Ayurshridar"
+		dynasty = "Borjigin"
+		birth_date = 1338.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1370.5.23 = {
+	heir = {
+		name = "Gone ."
+		monarch_name = "Togus-Tamur"
+		dynasty = "Borjigin"
+       	birth_date = 1342.1.1
+		death_date = 1388.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1378.1.1 = {
+	monarch = {
+		name = "Togus-Tamur"
+		dynasty = "Borjigin"
+		birth_date = 1342.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

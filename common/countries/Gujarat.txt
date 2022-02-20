@@ -1,0 +1,107 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 231  224  107 }
+
+historical_idea_groups = {
+	trade_ideas
+	quantity_ideas
+	administrative_ideas
+	innovativeness_ideas
+	defensive_ideas
+	maritime_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Zafar #0" = 20
+	"Muhammad #0" = 20
+	"Mubarak #0" = 20
+	"Ahmed #0" = 20
+	"Dawood #0" = 10
+	"Mahmoud #0" = 20
+	"Muzaffar #0" = 20
+	"Bahadur #0" = 10
+	"Sardar #0" = 0
+	"Tatar #0" = 0
+	"Fat #0" = 0
+	"Khalil #0" = 0
+	"Sikandar #0" = 0
+	"Nazir #0" = 0
+	"Amarj #0" = 0
+	"Benj #0" = 0
+	"Hamirge #0" = 0
+	"Bhar #0" = 0
+	"Natwar #0" = 0
+	"Sidrage #0" = 0
+	"Rydesinge #0" = 0
+	"Foulad #0" = 0
+	"Abdul #0" = 0
+	"Fatima #0" = -1
+	"Ahmadi #0" = -1
+	"Mumtaz #0" = -1
+}
+
+leader_names = {
+	"Desai"
+	"Begada"
+	"Shah"
+	"Luckhage"
+	"Rawalge"
+	"Munshi"
+	"Muzzafar"
+	"Hair"
+	"Patel"
+	"Patidar"
+	"Maury"
+	"Hajj"
+	"Uzbek"
+	"Gilani"
+	"Paramara"
+	"Bahadur"
+	"Gauri"
+	"Giurjani"
+	"Khan"
+	"Malik"
+	"Sultan"
+	"Khorasan"
+	"Farouk"
+	"Changes"
+	"Turan"
+	"Latif"
+	"Bilala"
+	"Solnak"
+	"Chattar"
+	"Kanjar"
+	"Guri"
+	"Naru"
+	"Chudasama"
+	"Pahor"
+	"Tomar"
+}
+
+ship_names = {
+	"Ambica" "Auranga" "Bhadar" "Damanga"
+	"Devks" "Jalsen" "Kala Jahazi" "Hari"
+	"Lal Jahazi" "Lunie" "Mahi" "Mithi"
+	"Nausen" "Narmada" "Nava-ka-Yud"
+	"Nile Jahazi" "Purna" "Sabarmati"
+	"Sagar" "Saraya" "Saraswati" "Shettrunge"
+	"Tapi" "Yasmine"
+}

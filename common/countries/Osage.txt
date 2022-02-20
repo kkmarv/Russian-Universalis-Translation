@@ -1,0 +1,163 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 251 245 104 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Teshuhimga #0" = 20
+	"Gradamnza #0" = 10
+	"Keigeywachepeach #0" = 10
+	"Coachrestavesta #0" = 10
+	"Mahsa #0" = 10
+	"Vanagpacha #0" = 10
+	"Huret #0" = 10
+	"Wasabataga #0" = 10
+	"Nicar #0" = 10
+	"Mekevatanega #0" = 10
+	"Nanavaheja #0" = 10
+	"Kemana #0" = 10
+	"Papisei #0" = 10
+	"Harachabe #0" = 10
+	"Pachelagren #0" = 10
+	"Tavangahu #0" = 10
+	"Honenkash #0" = 10
+	"Nikumali #0" = 20
+	"Voitevoia #0" = 20
+	"Voitachinga #0" = 20
+	"Tavoinger #0" = 20
+	"Osogahi #0" = 20
+	"Voikainodi #0" = 20
+	"Voinache #0" = 20
+	"Voinonpache #0" = 20
+	"Kaihiramaki #0" = 20
+	"Ponlavojtajuga #0" = 20
+	"Cagey #0" = 20
+	"Paurogesi #0" = 20
+	"Mayaasa #0" = 20
+	"Manjagayda #0" = 20
+	"Mantza #0" = 20
+	"Nikagaris #0" = 20
+	"Dogakina #0" = 20
+	"Tawainare #0" = 20
+	"Tainter #0" = 20
+	"Nagemani #0" = 20
+	"Nikanaut #0" = 20
+	"Chonmelas #0" = 20
+	"Nenonbass #0" = 20
+	"Pograng #0" = 20
+	"Cake #0" = 20
+	"Nonpevoit #0" = 20
+	"Weight #0" = 20
+	"Tonchenank #0" = 20
+	"Lichibi #0" = 20
+	"Grenake #0" = 20
+	"Nikoilbran #0" = 20
+	"Chonnonsog #0" = 20
+	"Lisansand #0" = 20
+	"Mikuak #0" = 20
+	"Megachi #0" = 20
+	"Manhigar #0" = 20
+	"Mayh #0" = 20
+	"Nadhetava #0" = 20
+	"Tiquaker #0" = 20
+	"Voitasin #0" = 20
+	"Kahapich #0" = 20
+	"Manheva #0" = 20
+	"Talechiga #0" = 20
+	"Pedhechiga #0" = 20
+	"Cheganonsas #0" = 20
+	"Nisak #0" = 20
+	"Lolching #0" = 20
+	"Panenvoiguanda #0" = 20
+	"Tawoynhee #0" = 20
+	"Meeting #0" = 20
+	"Mancwesey #0" = 20
+	"Chingavoisa #0" = 20
+	"Talevoil #0" = 20
+	"Woyengren #0" = 20
+	"Scamani #0" = 20
+	"Nirahag #0" = 20
+	"Meking #0" = 20
+	"Pachig #0" = 20
+	"Rudanik #0" = 20
+	"Nipast #0" = 20
+	"Voibisand #0" = 20
+	"Nehisanga #0" = 20
+	"Nehuda #0" = 20
+	"Pagrank #0" = 20
+	"Chachetonga #0" = 20
+	"Mangepimani #0" = 20
+	"Vojbaljun #0" = 20
+	"Notebook #0" = 20
+	"Taslond #0" = 20
+	"Nendogualui #0" = 20
+	"Wojba #0" = 20
+	"Onchihomani #0" = 20
+	"Niranin #0" = 20
+	"Noginilake #0" = 20
+	"Nanlathoho #0" = 20
+	"Bachemainde #0" = 20
+	"Savoy #0" = 20
+	"Chukimonon #0" = 20
+	"Tangerines #0" = 20
+	"Manilouran #0" = 20
+	"Nekivoil #0" = 20
+	"Chonkhanga #0" = 20
+	"Ponlachinga #0" = 20
+	"Aguigueda #0" = 20
+	"Voydoga #0" = 20
+	"Cinde #0" = 20
+	"Ninchagari #0" = 20
+	"Voidhadani #0" = 20
+	"Manivoil #0" = 20
+	"Quinichonig #0" = 20
+	"Fingernails #0" = 20
+	"Nathanai #0" = 20
+	"Usab #0" = 20
+	"Voikinaut #0" = 20
+	"Amanpass #0" = 20
+	"Katsagab #0" = 20
+	"Channakhon #0" = 20
+	"Nonbasokri #0" = 20
+	"Pedhaching #0" = 20
+	"Bassecking #0" = 20
+
+	"Veiconsame #0" = -1
+	"Vatoesa #0" = -1
+	"Secanam #0" = -1
+	"Schonsegra #0" = -1
+	"Igranam #0" = -1
+}
+
+leader_names = {
+	Vazheiz Tsishu Paseli Vahakolin Sanseli Wyoto Pikayum Koholo Neoodesha
+	Ovaso Pahasca Niukonska Doppaik Neocho Chetopa Homini Pahusan 
+}
+
+ship_names = {
+	Nyukonska Vazheiz Tollchif Pahaasca Homini "Grey Griva" Pashan Shawnk
+	Kkawa Ttatonka Ttse Oppon Wasaki Inlonka Micka Pahin Jeanpé Manshchinke
+	Zinka Vajinka Ksutappa Kkax Wappok Wits Ho Ttsepuk Mihonto Ni
+}

@@ -1,0 +1,100 @@
+# Country name see file name.
+
+graphical_culture = westerngfx
+
+color = { 179 89 89 }
+
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Turloch #2" = 80
+	"Concobar #2" = 60
+	"Tad #2" = 40
+	"Donnchad #7" = 20
+	"Muyredach #1" = 20
+	"Diarmeid #3" = 1
+	"Mathamhain #0" = 20
+	"Bowham #0" = 0
+	"Ailey #0" = 0
+	"Brochus #0" = 0
+	"Brian #0" = 0
+	"Kadwan #0" = 0
+	"Kermin #0" = 0
+	"Kinneich #0" = 0
+	"Digloin #0" = 0
+	"Dougal #0" = 0
+	"Finlay #0" = 0
+	"Garbun #0" = 0
+	"Lashtna #0" = 0
+	"Lorkkon #0" = 0
+	"Mainchi #0" = 0
+	"Matoine #0" = 0
+	"Meloin #0" = 0
+	"Naomon #0" = 0
+	"Nyally #0" = 0
+	"Audrin #0" = 0
+	"Podraig #0" = 0
+	"Quinn #0" = 0
+	"Ryan #0" = 0
+	"Rognie #0" = 0
+	"Rayardan #0" = 0
+	"Ruadri #0" = 0
+	"Roark #0" = 0
+	"Saighi #0" = 0
+	"Sean #0" = 0
+	"Secall #0" = 0
+	"Taihernah #0" = 0
+	"Toilet #0" = 0
+	"William #0" = 0
+	"Oinshon #0" = 0
+	
+	"Eifrik #0" = -1
+	"Fiona #0" = -1
+	"Rahnailey #0" = -1
+}
+
+ship_names = {
+	Claire Cork
+	"Dis Muman" 
+	Kerry 
+	"Lar Mouman" Limerick
+	Tipperari "Tuad Muman"
+	"Ur Muman"  
+	Waterfold
+}  
+
+leader_names = {
+	Barry Boyle
+	Darcy
+	Fitzgerald Fitztomas
+	O'Brien O'Neill.
+	McCarthy
+	Sarsfield
+	Talbot
+}

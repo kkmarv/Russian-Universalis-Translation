@@ -1,0 +1,114 @@
+graphical_culture = easterngfx
+
+color = { 205 38 38 }
+
+historical_idea_groups = {
+	defensive_ideas
+	expansion_ideas
+	religious_ideas
+	offensive_ideas
+	naval_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+leader_names = {
+	Apraksin
+	Bagration "Barclay de Tolly" Bibikov Bodisko Borisyn
+	Golitsyn
+	Kaibula Kamenski Kolzov
+	Menshikov Mstislavsky
+	"Ostermann Tolstoy"
+	Paletsky
+	Rajewski
+	Shuvalov Sheremetyev Prenyatev
+	Tisenhausen
+	Vasilevich "von Buxhoeveden" "von Knorring" "von Lasky"
+}
+
+monarch_names = {
+	"Vasily #1" = 5
+	"Ivan #0" = 0
+	"Dmitry #0" = 0
+	"Yuri #1" = 5
+	"Andrei #2" = 10
+	"Semyon #0" = 0
+	"Feodor #0" = 0
+	"Afanasiy #0" = 0
+	"Akim #0" = 0
+	"Alexander #2" = 5
+	"Alexey #0" = 0
+	"Anatoly #0" = 0
+	"Arkady #0" = 0
+	"Boris #0" = 10
+	"Daniel #0" = 0
+	"Dorofey #0" = 0
+	"Feodosius #0" = 0
+	"Feofilact #0" = 0
+	"Gabriel #0" = 0
+	"Innocentius #0" = 0
+	"Joseph #0" = 0
+	"Laurentian #0" = 0
+	"Macarius #0" = 0
+	"Matthew #0" = 0
+	"Michael #0" = 0
+	"Nazarius #0" = 0
+	"Nicephorus #0" = 0
+	"Oleg #0" = 0
+	"Onisim #0" = 0
+	"Paul #0" = 0
+	"Procopy #0" = 0
+	"Peter #0" = 0
+	"Radomir #0" = 0
+	"Savelius #0" = 0
+	"Sergei #0" = 0
+	"Terenty #0" = 0
+	"Valery #0" = 0
+	"Jakim #0" = 0
+	"Eugene #0" = 0
+	"Vladimir-Ivan #1" = 5
+	"Vladimir #2" = 70
+	"Vsevolod #3" = 20
+	"Igor #1" = 5
+	"Rostislav #1" = 5
+	"Yaroslav #2" = 10
+	"Yaropolk #1" = 5
+	"David #1" = 5
+	"Mstislav #3" = 10
+	"Roman #2" = 5
+	"Izaslav #1" = 5
+	"Svyatoslav #4" = 5
+	"Sviatopolk #1" = 5
+	"Leo #1" = 0
+	
+	"Agafia #0" = -1
+	"Svetlana #0" = -1
+	"Julia #0" = -1
+}
+
+ship_names = {
+	"Dmitry Donskoy" "Vasily I" "Д. Alexandrovich"
+	Rurik "Ivan Kalita" Moscow Volga Shorna Kolomna
+	Zvenigorod Mozhaisk Olesko Peresvet Trinity Wolf
+	Clint Yauza
+}

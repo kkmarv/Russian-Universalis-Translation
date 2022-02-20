@@ -1,0 +1,215 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = turkish
+culture_group_union = persian
+religion = sunni
+technology_group = muslim
+capital = 325 # Kastamon
+
+950.1.1 = {
+	monarch = {
+		name = "Tokak"
+		dynasty = "Seljukid"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+969.1.1 = {
+	monarch = {
+		name = "Seljuk"
+		dynasty = "Seljukid"
+		birth_date = 902.1.1
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+1009.1.1 = {
+	monarch = {
+		name = "Chagra-back"
+		dynasty = "Seljukid"
+		birth_date = 989.1.1
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+1037.1.1 = {
+	monarch = {
+		name = "Togrul-bec"
+		dynasty = "Seljukid"
+		birth_date = 990.1.1
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+1063.9.4 = {
+	monarch = {
+		name = "Alp Arslan"
+		dynasty = "Seljukid"
+		birth_date = 1030.9.1
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+}
+
+
+1072.11.1 = {
+	monarch = {
+		name = "Melik Shah I"
+		dynasty = "Seljukid"
+		birth_date = 1055.8.16
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1092.11.19 = {
+	monarch = {
+		name = "Mahmoud I"
+		dynasty = "Seljukid"
+		birth_date = 1088.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+1094.1.1 = {
+	monarch = {
+		name = "Barkiaruk"
+		dynasty = "Seljukid"
+		birth_date = 1082.1.1
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1104.1.1 = {
+	monarch = {
+		name = "Melik Shah II"
+		dynasty = "Seljukid"
+		birth_date = 1100.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1105.1.1 = {
+	monarch = {
+		name = "Muhammad I Tapar"
+		dynasty = "Seljukid"
+		birth_date = 1082.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1118.4.18 = {
+	monarch = {
+		name = "Ahmad Sanjar"
+		dynasty = "Seljukid"
+		birth_date = 1084.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1153.1.1 = {
+	monarch = {
+		name = "Melik Shah III"
+		dynasty = "Seljukid"
+		birth_date = 1125.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1153.6.1 = {
+	monarch = {
+		name = "Muhammad II"
+		dynasty = "Seljukid"
+		birth_date = 1128.1.1
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+1159.1.1 = {
+	monarch = {
+		name = "Suleiman Shah"
+		dynasty = "Seljukid"
+		birth_date = 1148.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1161.4.1 = {
+	monarch = {
+		name = "Arslan Shah"
+		dynasty = "Seljukid"
+		birth_date = 1150.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1175.6.1 = {
+	monarch = {
+		name = "Togrul-bec III"
+		dynasty = "Seljukid"
+		birth_date = 1170.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1191.1.1 = {
+	monarch = {
+		name = "Kyzyl Arslan"
+		dynasty = "Ildehyzid"
+		birth_date = 1150.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1191.6.1 = {
+	monarch = {
+		name = "Togrul-bec III"
+		dynasty = "Seljukid"
+		birth_date = 1170.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1194.3.19 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

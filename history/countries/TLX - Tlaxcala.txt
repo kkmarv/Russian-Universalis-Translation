@@ -1,0 +1,81 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = aztek
+religion = nahuatl
+technology_group = mesoamerican
+capital = 850
+fixed_capital = 850 # Cannot move capital away from this province & no power cost to move to it
+
+#Rulers of Tizatlan
+1440.1.1 = {
+	monarch = {
+		name = "Aztahua"
+		dynasty = "Tizatlan"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1450.1.1 = {
+	heir = {
+		name = "Hayakamach"
+		monarch_name = "Hayakamach"
+		dynasty = "Tizatlan"
+		birth_date = 1450.1.1
+		death_date = 1490.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+} 
+
+1470.1.1 = {
+	monarch = {
+		name = "Hayakamach"
+		dynasty = "Tizatlan"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1470.1.1 = {
+	heir = {
+		name = "Hycotenkatl"
+		monarch_name = "Hycotenkatl"
+		dynasty = "Tizatlan"
+		birth_date = 1425.1.1
+		death_date = 1522.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+} 
+
+1490.1.1 = {
+	monarch = {
+		name = "Hycotenkatl"
+		dynasty = "Tizatlan"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+
+1490.1.1 = {
+	heir = {
+		name = "Hickotenkatl, Jr."
+		monarch_name = "Hycotenkatl II"
+		dynasty = "Tizatlan"
+		birth_date = 1470.1.1
+		death_date = 1521.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+} 

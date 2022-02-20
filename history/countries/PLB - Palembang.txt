@@ -1,0 +1,102 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = musi	### STT
+religion = sunni
+technology_group = chinese
+capital = 622	# Palembang
+religious_school = shafii_school
+
+1399.1.1 = {
+	add_piety = -0.1
+}
+
+1550.1.1 = {
+	monarch = {
+		name = "Tsalengatu" # Fictional
+		dynasty = "Palembang"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1580.1.1 = {
+	monarch = {
+		name = "Saulha" # Fictional
+		dynasty = "Palembang"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1610.1.1 = {
+	monarch = {
+		name = "Mengzekei" # Fictional
+		dynasty = "Palembang"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1640.1.1 = {
+	monarch = {
+		name = "Menrazza" # Fictional
+		dynasty = "Palembang"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1670.1.1 = {
+	monarch = {
+		name = "Inayat" # Fictional
+		dynasty = "Palembang"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1700.1.1 = {
+	monarch = {
+		name = "Gadzabadi" # Fictional
+		dynasty = "Palembang"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1730.1.1 = {
+	monarch = {
+		name = "Amritpal" # Fictional
+		dynasty = "Palembang"
+		adm = 2
+		dip = 3
+		mil = 2
+		female = yes
+	}
+}
+
+1760.1.1 = {
+	monarch = {
+		name = "Mengzekei" # Fictional
+		dynasty = "Palembang"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1790.1.1 = {
+	monarch = {
+		name = "Hussain" # Fictional
+		dynasty = "Palembang"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}

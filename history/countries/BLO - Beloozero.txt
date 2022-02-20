@@ -1,0 +1,50 @@
+government = monarchy
+
+add_government_reform = principality ### STT
+government_rank = 1
+primary_culture = novgorodian
+religion = orthodox
+technology_group = eastern
+capital = 312	# Beloozero
+fixed_capital = 312 # Cannot move capital away from this province & no power cost to move to it
+
+1293.1.1 = {
+	monarch = {
+		name = "Feodor"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1314.1.1 = {
+	monarch = {
+		name = "Roman"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1339.1.1 = {
+	monarch = {
+		name = "Feodor"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+1380.8.3 = {
+	monarch = {
+		name = "Yuri"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+

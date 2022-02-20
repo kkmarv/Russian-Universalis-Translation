@@ -1,0 +1,73 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 198 158 109 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	algonkin_tomahawk_charge
+	commanche_swarm
+	native_indian_mountain_warfare
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Sitahle #0" = 20
+	"Oakhteki #0" = 20
+	"Ahzaah #0" = 20
+	"Cootzah #0" = 20
+	"Moketaveto #0" = 20
+	"Ohtoanesotoveo #0" = 20
+	"Garkahome #0" = 20
+	"Munamenek #0" = 20
+	"Otoachnisto #0" = 20
+	"Mapivah #0" = 20
+	"Choceta #0" = 20
+	"Nachtan #0" = 20
+	"Konjontako #0" = 20
+	"Bajeh #0" = 20
+	"Tillaca #0" = 20
+	"Chachon #0" = 20
+	"Dasoda-hae #0" = 20
+	"Chochise #0" = 20
+	"Juh #0" = 20
+	"Dolcei #0" = 20
+	"Nannie Chaddie #0" = 20
+	"Na tio tish #0" = 20
+	"Goyaale #0" = 30
+	
+	"Dahteste #0" = -1
+	"Iltgozai #0" = -1
+	"Goyen #0" = -1
+	"Lozen #0" = -1
+	"Tohaya #0" = -1
+}
+
+leader_names = {
+	Jicarilla Mescalero Cirichahua Lipan Yawapai Tonto Navajo Ramah Mohave.
+	Toboso Sholomé Jokomé Seabolo Pelone Manso Quiva
+	Arivaipa Carlanas Cirichahua Chukanen Chubechuye Coyotero
+	Pharaones Gileno Chiova Lanero Lipianes
+	Mimbrenos Mogallon Naisha Natages Pinal
+	Huerechos
+}
+
+ship_names = {
+	"Gaucher" "Tius" "Beech" "Ciaa" "Bacho" "Tshitsoy" "Notepads" "Tullius" "Goligi"
+	"Dahzini" "Gah" "Naitsoh" "Itza" "The Hague" "Fly" "Tiisch" "Tog" "Dlistoch"
+	"Gosnikh" "Yaii" "Chiniya" "Koch" "Tliaai"
+}

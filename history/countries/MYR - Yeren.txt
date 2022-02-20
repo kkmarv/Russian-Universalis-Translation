@@ -1,0 +1,88 @@
+government = tribal
+add_government_reform = steppe_horde
+technology_group = nomad_group
+primary_culture = manchu
+religion = tengri_pagan_reformed
+capital = 1048	# Hinggan
+
+1444.1.1 = {
+	monarch = {
+		name = "Buyan"
+		dynasty = "Ula"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Buyangan"
+		monarch_name = "Buyangan"
+		dynasty = "Ula"
+		birth_date = 1444.1.1
+		death_date = 1540.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1485.1.1 = {
+	monarch = {
+		name = "Buyangan"
+		dynasty = "Ula"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1500.1.1 = {
+	heir = {
+		name = "Mantay"
+		monarch_name = "Mantay"
+		dynasty = "Ula"
+		birth_date = 1500.1.1
+		death_date = 1596.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1540.1.1 = {
+	monarch = {
+		name = "Mantay"
+		dynasty = "Ula"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1540.1.1 = {
+	heir = {
+		name = "Buyantai"
+		monarch_name = "Buyantai"
+		dynasty = "Ula"
+		birth_date = 1535.1.1
+		death_date = 1613.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1596.1.1 = {
+	monarch = {
+		name = "Buyantai"
+		dynasty = "Ula"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

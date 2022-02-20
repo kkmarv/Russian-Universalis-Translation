@@ -1,0 +1,83 @@
+#Great Perm
+
+graphical_culture = easterngfx
+
+color = { 251 251 251 }
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	spy_ideas
+	quantity_ideas
+	economic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Jiankei #0" = 20
+	"Yessekei #0" = 20
+	"Bud #0" = 20
+	"Tuktash #0" = 20
+	"Aksyabey #0" = 10
+	"Dondy #0" = 10
+	"Akzian #0" = 10
+	"Padek #0" = 10
+	"Beckelday #0" = 10
+	"Juka #0" = 10
+	"Kamai #0" = 10
+	"Apas #0" = 10
+	"Sandwich #0" = 10
+	"Datugym #0" = 10
+	"Kaisa #0" = 10
+	"Césai #0" = 10
+	"Syjkabay #0" = 10
+	"Koyuk #0" = 10
+	"Hubert #0" = 10
+	"Koyuk #0" = 0
+	"Akmai #0" = 0
+	"Aksabay #0" = 0
+	"Aisula #0" = 0
+	"Yadygar #0" = 0
+	"Yagi #0" = 0
+	"Asia #0" = 0
+	"Syansula #0" = -15
+	"Evika #0" = -15
+	"Nalka #0" = -15
+}
+
+leader_names = { 
+	Burmatov Vilesov Volegov Dozmorov Zerov Ichketin 
+	Kanev Kachesov Kolegov Kichev Kikin 
+	Kinev Kinkurogov Kirnishev Kirov Kysov Kichanov 
+	Yurov Michkin Moshev Oshkokov Porsyn Purtov
+	Rakin Rochev Ruchev Syuzev Cheskidov Yusev
+	Kudimov Ziryanov 
+}
+
+ship_names = {
+	Attic Pyolym Kudym-Osha Shudeg
+	Voleg Rateg Koleg Already
+	Baseg Yus Pokcha Wycheng Sysola
+	Spark Kama Vishera Colla Pestilence Uros Wilhoort
+}

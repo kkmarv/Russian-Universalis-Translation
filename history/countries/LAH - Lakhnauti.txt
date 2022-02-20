@@ -1,0 +1,16 @@
+government = tribal
+add_government_reform = tribal_despotism
+primary_culture = bengali
+religion = sunni
+technology_group = indian
+capital = 2044
+
+1301.1.1 = {
+	monarch = {
+		name = "Shamsuddin Firoz Shah"
+		dynasty = "Ilyas"
+		ADM = 1
+		DIP = 2
+		MIL = 4
+	}
+}

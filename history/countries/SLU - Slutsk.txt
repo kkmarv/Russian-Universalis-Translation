@@ -1,0 +1,58 @@
+government = monarchy
+
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+primary_culture = byelorussian
+religion = orthodox
+capital = 3690 # Slutsk
+
+1161.1.1 = {
+	monarch = {
+		name = "Vladimir Mstislavic"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1171.5.10 = {
+	monarch = {
+		name = "Svyatoslav Vladimirovich"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1221.6.2 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1309.1.1 = {
+	monarch = {
+		name = "Rostislav Vsevolodovich" # Random name. The princes at 1309 are unknown.
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1326.1.1 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}

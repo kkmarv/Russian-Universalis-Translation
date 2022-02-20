@@ -1,0 +1,433 @@
+# Scandinavian Union
+
+graphical_culture = westerngfx	 
+
+color = { 62  122  189 }
+
+revolutionary_colors = { 8  14  5 } #Completely made up
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	maritime_ideas
+	offensive_ideas
+	innovativeness_ideas
+	quality_ideas
+	expansion_ideas
+	trade_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Christian #0" = 55
+	"Karl #0" = 50
+	"Gustav #0" = 40
+	"Frederick #0" = 35
+	"Hakon #0" = 30
+	"Eric #0" = 25
+	"Olaf #0" = 15
+	"Gustav #0 Adolf" = 15
+	"Carl #0 Gustav" = 15
+	"Karl #0 Johan" = 15
+	"Johan #0" = 10
+	"Knut #0" = 5
+	"Harald #0" = 5
+	"Christine #0" = -15
+	"Margarita #0" = -15
+	"Ulrike #0" = -10
+	"Eleanor #0" = -5
+	"Adolf #0" = 0
+	"Alfred #0" = 0
+	"August #0" = 0
+	"Axel #0" = 0
+	"Bengt #0" = 0
+	"Birger #0" = 0
+	"Bjorn #0" = 0
+	"Edward #0" = 0
+	"Einar #0" = 0
+	"Folke #0" = 0
+	"Gottfried #0" = 0
+	"Gunnar #0" = 0
+	"Henry #0" = 0
+	"Inge #0" = 0
+	"Jacob #0" = 0
+	"Lars #0" = 0
+	"Ludwig #0" = 0
+	"Magnus #0" = 0
+	"Mikael #0" = 0
+	"Niels #0" = 0
+	"Oscar #0" = 0
+	"Olaf #0" = 0
+	"Patrick #0" = 0
+	"Pontus #0" = 0
+	"Rangwald #0" = 0
+	"Rettiles #0" = 0
+	"Sigismund #0" = 0
+	"Sigward #0" = 0
+	"Simon #0" = 0
+	"Sven #0" = 0
+	"Thomas #0" = 0
+	"Ulrik #0" = 0
+	"Waldemar #0" = 0
+}
+	 
+leader_names = {
+	"Andersson"
+	"Armfeldt"
+	"von Asheberg"
+	"Adlerkreuz"
+	"Alderschparre"
+	"Alkmaar"
+	"Ankarstrom"
+	"Bugge"
+	"Banner"
+	"Bjelke"
+	"Brahe"
+	"Konstedt"
+	"von Debeln"
+	"Dahlberg"
+	"Dufya"
+	"Engelbret"
+	"Ericsson"
+	"Ehrenswerd"
+	"von Essen"
+	"Eka"
+	"Ehrenstral"
+	"Fleming"
+	"von Fersen"
+	"Gad"
+	"Grip"
+	"affe Gennes"
+	"de la Gardie"
+	"Jullenjellme"
+	"Gatenjelm"
+	"Gustavsson"
+	"Horn"
+	"Gerd"
+	"Khan"
+	"Hustfer"
+	"Jerne"
+	"Jagerhorn"
+	"Koenigsmark"
+	"Klingspore"
+	"Levengaupt"
+	"Leynhunhuvud"
+	"Liljenkranz"
+	"Lindsheld"
+	"Oxenstern"
+	"Palmstruk"
+	"Peeper"
+	"Prince"
+	"Renscheld"
+	"Ribbing"
+	"Stenbock"
+	"Sandels"
+	"Scout"
+	"Sturm"
+	"Tre Rosor"
+	"Torstensson"
+	"af Trolle"
+	"Toll"
+	"Wrangel"
+	"Watchmaker"
+	"Wallenberg"
+	"Ockerhelm"
+	"Adeler"
+	"Alefeldt"
+	"Akelije"
+	"Amundsen"
+	"Arenstorff"
+	"Bille"
+	"Bolt"
+	"Brockenhaus"
+	"Christiansen"
+	"Yeah ."
+	"Ebbesen"
+	"Eberstein"
+	"Elbrecht"
+	"Falkenschelde"
+	"Fisher"
+	"Galt"
+	"Gersdorff"
+	"Gyedda"
+	"Guildenleve"
+	"Guildenstern"
+	"Gaye"
+	"Harbo"
+	"Hardenberg"
+	"Golstein"
+	"Hitfeldt"
+	"Heeg"
+	"Jensen"
+	"Euel"
+	"Crabbe"
+	"Crag"
+	"Krumpen"
+	"Knudsen"
+	"Quistgard"
+	"Kaas"
+	"Lingby"
+	"Lunge"
+	"Lutzov"
+	"Levenerne"
+	"Moltke"
+	"Moth"
+	"Munk"
+	"Norby"
+	"Pedersen"
+	"Poulsen"
+	"Pallesen"
+	"Pil"
+	"Rantzau"
+	"Revetlev"
+	"Rosencrantz"
+	"Rosenern"
+	"Schlentz"
+	"Shack"
+	"Scholten"
+	"Szegesed"
+	"Scrum"
+	"Thomsen"
+	"von Trump"
+	"Troll"
+	"Ulfeldt"
+}
+
+ship_names = {
+	"Aquilles"
+	"Amarant"
+	"Andromeda"
+	"Anklam"
+	"Bochus"
+	"Bese Leion"
+	"Squid"
+	"Camille"
+	"Carolus"
+	"Charlotte"
+	"Kossacken"
+	"Krono-Solen"
+	"David"
+	"Disa"
+	"Draken"
+	"Drottningen"
+	"Elefanten"
+	"Elfsborg"
+	"Elisabeth"
+	"Engel"
+	"Engel Gabriel"
+	"Eniget"
+	"Euridis"
+	"Falk"
+	"Phoenix"
+	"Finland"
+	"Flugande Vargen"
+	"Fortune"
+	"Fredrika"
+	"Fredrika Amalia"
+	"Freya"
+	"Galata"
+	"Gamla Fortuna"
+	"Gamla Rickssverdet."
+	"Gotha Leyon"
+	"Grip"
+	"Gustavus"
+	"Yullende Leyon"
+	"Goethe"
+	"Gothenburg"
+	"Halland"
+	"Havesfrou"
+	"Hector"
+	"Hercules"
+	"Hieronymus"
+	"Yalmar"
+	"Heck"
+	"Illerim"
+	"Ingeborg"
+	"Yomfrou"
+	"Jupiter"
+	"Yegare"
+	"Nikkel Squid"
+	"Calmarcastelle"
+	"Karlskrona"
+	"Kronan"
+	"Laxen"
+	"Leopard"
+	"Leion"
+	"Bootbrok"
+	"Mars"
+	"Mercury"
+	"Morgonstern"
+	"Norden"
+	"Nordstern"
+	"Nikkeln"
+	"Neland"
+	"Oden"
+	"Pelicanen"
+	"Postillon"
+	"Prince Charles"
+	"Princess"
+	"Regina"
+	"Rosa"
+	"Skone"
+	"Smoland"
+	"Solen"
+	"St. Eric"
+	"St. George"
+	"St. John"
+	"St. Thomas"
+	"Starkoster"
+	"Stenbock"
+	"Stockholm"
+	"Stora Kronan"
+	"Swan"
+	"Święska Falk"
+	"Świenska Leionet"
+	"Sverige"
+	"Overdates ."
+	"Cedermanland"
+	"Tupper"
+	"Tethys"
+	"Tigern"
+	"Tre Kronor"
+	"Troilus"
+	"Ulrike"
+	"Uppland"
+	"Wasen"
+	"Victoria"
+	"Warberg"
+	"Vasa"
+	"Vanden"
+	"Verden"
+	"Westerwick"
+	"Westmanland"
+	"Victoria"
+	"Vitduve"
+	"Eland"
+	"Ern"
+	"Aquilles"
+	"Arche Noah"
+	"Arken"
+	"Beskiermere"
+	"Beauens Leffe"
+	"Caritas"
+	"Charlotte Amalia"
+	"Christiania"
+	"Christiansand"
+	"Christianse"
+	"Christian IV"
+	"Christian V"
+	"Kurprinzen"
+	"Concordia"
+	"Caesar"
+	"Dannebroge"
+	"David"
+	"Delmenhorst"
+	"Ditmarsken"
+	"Draken"
+	"Dronning Louise"
+	"Ebenetzer"
+	"Elefanten"
+	"Enighead"
+	"Engelske Fortuna"
+	"Einhierningen"
+	"Fidez"
+	"Flores"
+	"Flugende Horten"
+	"Fortune"
+	"Frederick III"
+	"Frederick IV"
+	"Fuen"
+	"Gravenstein"
+	"Griffet"
+	"Guildenleve"
+	"Hannibal"
+	"Hafrou"
+	"Havehest"
+	"Havmand"
+	"Hector"
+	"Hercules"
+	"Hertug Olufs Pinke"
+	"Hjelperen"
+	"Hjort"
+	"Heyenhald"
+	"Hummer"
+	"Guide Earn"
+	"Hoyenhald"
+	"Iceland"
+	"Jernwagen"
+	"Jagermeister"
+	"Yustytia"
+	"Kongens Yagt Krone"
+	"Crownet Fisk"
+	"Lamprennen"
+	"Leopard"
+	"Lindorm"
+	"Loss"
+	"Lovisa"
+	"Levendals Halley"
+	"Macalez"
+	"Mars"
+	"Mercury"
+	"Morian"
+	"Nayaden"
+	"Nelleblad"
+	"Neptune"
+	"Norse Lewe"
+	"Oldenborg"
+	"Popegae"
+	"Patient"
+	"Pelican"
+	"Phoenix"
+	"Prince Charles"
+	"Prince Christian"
+	"Prince Christian"
+	"Prince William"
+	"Raae"
+	"Samson"
+	"Solen"
+	"Sofia Amalia"
+	"Sofia Edwiga"
+	"St. Eric"
+	"St. George"
+	"St. Oluf"
+	"Stormar"
+	"Stralsund"
+	"Svardfisk"
+	"Swan"
+	"Świenze Jomfro"
+	"Syredder"
+	"Tomler"
+	"To Lever"
+	"Tre Lever"
+	"Trefoldighead"
+	"Victoria"
+	"Windhunden"
+	"Vanden"
+	"Ernen"
+	"Olvik"
+	"Bergen"
+	"Angan"
+	"Cristiansund"
+	"Melde"
+	"Oslo"
+	"Roan"
+	"Stavanger"
+	"Sula"
+	"Trondheim"
+}

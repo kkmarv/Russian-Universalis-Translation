@@ -1,0 +1,73 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 237  139  0 }
+
+historical_idea_groups = {
+	quantity_ideas
+	defensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Kanakasuria Kinkaiaryan #0" = 10
+	"Shingai Parasasegaram #0" = 10
+	"Etirimana #0" = 10
+	"Puviraja #0" = 10
+	"Kasi #0" = 10
+	"Periyapillay #0" = 10
+	"Shingai #0" = 10
+	"Cankily #0" = 30 
+	"Yachama #0" = 0
+	"Raghunata #0" = 0
+	"Aryanata #0" = 0
+	"Chanda #0" = 0
+	"Ramayian #0" = 0
+	"Schungrasubier #0" = 0
+	"Sesaya #0" = 0
+	"Ramaswamy #0" = 0
+	"Mangatammal #0" = -1
+	"Paraway #0" = -1
+	"Velunatchiar #0" = -1
+}
+
+leader_names = {
+	Moodaljar
+	Rajapopalachari
+	Sastri
+	Dalava
+	Thondaiman
+	Saluva
+	Saraf
+	Nayak
+	Chetty
+	Senji
+}
+
+ship_names = {
+	Ameerta Amman Arul Cellam Davi.
+	Durga Gayatri Inia Kaweri Lakshmi
+	Madhu Minakshi Nalini Palar Parvati
+	Pennar Ponnair Ponnie Radha Rathie
+	Saraswati Sita Tamaray Waigai
+}

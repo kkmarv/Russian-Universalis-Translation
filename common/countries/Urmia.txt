@@ -1,0 +1,79 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+#color = { 250  182  3 }
+color = { 110  128  127 }
+
+historical_idea_groups = { 
+	defensive_ideas
+	quantity_ideas
+	administrative_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	aristocracy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Ibrahim #0 Muhammad" = 20
+	"Ibrahim #0" = 20
+	"Farruxiyar Khalil #0" = 60
+	"Bahram Farruxiyar #0" = 40
+	"Gazi Farruxiyar #0" = 20
+	"Mahmoud Gazi #0" = 30
+	"Adila #0" = -1
+	"Malahat #0" = -1
+}
+
+leader_names = {
+	Sabiri
+	Jalili
+	Azizi
+	Shahi
+	Dai
+	Kazai
+	Dalvand
+	Ahrari
+	Fatemi
+	Sabet
+	Ansari
+}
+
+ship_names = {
+	Abatur "Adamn Kasi" "Esma Deva" Agas
+	Ahriman Ahura "Ahura Mazda" Ahurani Irimen
+	"Aka Mana" Aladdin Allatum Amashaspan Ameratatat
+	"Amesha Spentas" Anahita "Angra Maini" Andjuman
+	"Apam-Natat" Aposa Aredvi Arishtat Armati Arsakes
+	"Your Vanista" Asman "Asto Vidatu" "Astvat-Ereta"
+	Athar "Azi Dahata" Bahamas Bahamas Bahram Barijas Bashasta Bayasta
+	Camros Dan Devas Ahaka Dahhak Dan Dev Dev Dive Friend
+	Dvaspa Frashegird Fravashis Gandareva "Gao-Keren"
+	Gayomard Gayomart "Geus-Tassan" "Geus-Urvan" Haoma
+	Hurvatat Humay Hvar Hvarehshayet Indar Indra Ija
+	Jamshid Je Kavi Hara Bearing "Kshtatra aira"
+	Kundrai Mahr Mahre Mahrinag Manu Manuchihir Mao 
+	Machine Mashi Menog Mitra Nairosangta Nanhatia
+	Nerisang Ormazd Paris Peshdadiens Rapitwin Rashnu
+	Rustan Surva Simur "Spenta Mayu" Sraosa Sroch
+	Tavrich Tunaupa Tistry Tushnamatai Vanant Wata
+	Weretnanga "Wohu Mana" Vuruskasha Yam Yasht Yazata
+	Yezidi Ima Hall Zam "Zam-Armatai" Zaratusra Zarich
+	"Zend-Avesta" Zurvan
+}

@@ -1,0 +1,150 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 153  0 0 }
+
+revolutionary_colors = { 5  13  0 }
+
+historical_score = 6550
+
+historical_idea_groups = {
+	administrative_ideas
+	exploration_ideas
+	quality_ideas
+	maritime_ideas
+	economic_ideas
+	expansion_ideas
+	trade_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"George #0" = 60
+	"Anna #0" = -15
+	"Frederick #0" = 15
+	"Edward #5" = 10
+	"William #3" = 10
+	"William #3 Heinrich" = 10
+	"Alfred #1" = 10
+	"Adolf #0" = 10
+	"August #0" = 10
+	"Ernest #0 August" = 10
+	"Frederick #0 August" = 10
+	"Frederick #0 Wilhelm" = 10
+	"George #0 Wilhelm" = 10
+	"Maximilian #0" = 10
+	"Octavian #0" = 10
+	"Henry #8" = 5
+	"Richard #3" = 5
+	"Karl #2" = 5
+	"Jacob #2" = 5
+	"Margaret #0" = -5
+	"Adam #0" = 0
+	"Alexander #0" = 0
+	"Ambrose #0" = 0
+	"Andrew #0" = 0
+	"Anthony #0" = 0
+	"Archibald #0" = 0
+	"Arthur #0" = 0
+	"Benjamin #0" = 0
+	"Christian #0" = 0
+	"Christopher #0" = 0
+	"Danielle #0" = 0
+	"David #0" = 0
+	"Edgar #0" = 0
+	"Francis #0" = 0
+	"Jeffrey #0" = 0
+	"Guy #0" = 0
+	"Horatio #0" = 0
+	"Hugh #0" = 0
+	"Isaac #0" = 0
+	"Jacob #0" = 0
+	"Jeremy #0" = 0
+	"Jonathan #0" = 0
+	"John #0" = 0
+	"Joseph #0" = 0
+	"Lawrence #0" = 0
+	"Matthew #0" = 0
+	"Nehemiah #0" = 0
+	"Oliver #0" = 0
+	"Samuel #0" = 0
+	"Sydney #0" = 0
+	"Thomas #0" = 0
+	"Winston #0" = 0
+}
+
+leader_names = {
+	"Albemarle" "Amherst" "Anson"
+	"Buckingham" "Braddock" "Byron" "Burgon" "Beresford" "Brock" "Benbow" "Blake" "Bedford" "Boscaven" "Buffin" "Button"
+	"Clarence" "de Clifford" "Cromwell" "Cumberland" "Clinton" "Cornwallis" "Clive" "Cabot" "Carlton" "Cavendish" "Cook" "Churchill"
+	"Dampier" "Davis" "Drake"
+	"Essex"
+	"Fairfax" "Frobisher"
+	"Gloucester" "Hilbert"
+	"Hou" "Howard" "Herbert" "Hawk" "Hood" "Hastings" "Hudson"
+	"Lester"
+	"Middleton" "Moore"
+	"Northumberland" "Norfolk"
+	"Procter"
+	"Rook" "Rodney" "Raleigh"
+	"Salisbury" "Somerset" "Suffolk" "Saunders" "Smith"
+	"Talbot" "Tarlton"
+	"Axbridge"
+	"Warwick" "Wolf"
+	"York"
+}
+
+ship_names = {
+	"Achilles" "Edwenture" "Ajax" "Albemarle" "Alexander" "Anne Gallant" "Entylop" "Arc Royal" "Eciurenze" "Odessa" "Ann Royal"
+	"Be©" "Bellerophon" "Bonaventure" "Boine" "Britannia" "Buckingham"
+	"Charles" "Christ" "Constant" "Convertible" "Culloden" "Cumberland" "Crane" "Crescent"
+	"Defens" "Defiance" "Destiny" "Dragon" "Dreadnought"
+	"Edward Howard" "Elizabeth" "Eltem" "Essex" "Expedishen" "Eleanor" "Needle"
+	"Foresight" "Fodroyant" "Falcon" "Fortune" "Fellowship"
+	"Gabriel Royale" "Galendar" "George" "Gibraltar" "Gloucester" "Goliath" "Gras-à-Dieu" "Grafton" "Grand Mistress" "Great Barbara" "Great Bark" "Great Elizabeth"
+	"Great Harry" "Great Nicholas" "Guernsey" "Greyhound" "Globe"
+	"Harlem" "Happy Entrances" "Hector" "Henrietta-Maria" "Hope" "Hart"
+	"James" "John Baptist" "Jennet"
+	"Catherine Forteleza" "Kent"
+	"Leander" "Leherd" "Lyon" "Lizard"
+	"Majestic" "Margaret" "Mary" "Mary Rose" "Mercury" "Merchonor" "Mikael" "Mignon" "Minotaur" 
+	"Nanperel" "Nansach" "Northumberland" "Nottingham"
+	"Orion"
+	"Peter" "Providence" "Prince Frederick" "Primrose" "Prince Royal" "Phoenix" "Pelican"
+	"Quinn Charlotte"
+	"Rainbow" "Red Lyon" "Regent" "Rinown" "Ripals" "Rivenge" "Royal Anne" "Royal Charles" "Royal Prince" "Rickavery"
+	"Scudge of Melis." "Perfect" "Perfect of the Cece." "St. Andrew" "St. Esprit" "St. George" "St. Matthew's" "Suffolk" "Superbe" "Svollow" "Swiftshur"
+	"Speedwell" "Scout" "Seventeenth Stars" "St. Anne" "Swan" "Star" "Satisfaxn"
+	"Tesaus" "Tiger" "Tramontana" "Triamph" "Trinity" "Tiger"
+	"Unicon" "Union"
+	"Vanguard" "Victoria"
+	"Worspite" "Worcester" "Weymouth"
+}
+
+army_names = {
+	"Royal Army" "Scottish Army" "Irish Army"
+}
+
+fleet_names = {
+	"Royal Navy" "Blue Squadron" "Red Squadron" "White Squadron" "North Sea Squadron" "English Channel Squadron"
+}

@@ -1,0 +1,116 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 33 63 92 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	religious_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Cresimir #4" = 80
+	"Stepan #2" = 40
+	"Almos #1" = 20
+	"Dmitry Zvonimir #1" = 20
+	"Tempimir #2" = 15
+	"Goislav #1" = 15
+	"Helen #1" = -15
+	"Slavich #1" = 15
+	"Svyatoslav #1" = 15
+	"Miroslav #1" = 10
+	"Mutimir #1" = 10
+	"Tomislav #1" = 10
+	"Kaspar #5" = 5
+	"Ladislav #3" = 5
+	"Carlo #2" = 5
+	"Andrei #1" = 5
+	"Louis #1" = 5
+	"Feather #1" = 5
+	"Vladislav #1" = 5
+	"Wenceslav #1" = 5
+	"Alexander #0" = 0
+	"Dragutin #0" = 0
+	"Fausty #0" = 0
+	"Frangio #0" = 0
+	"Gavrilo #0" = 0
+	"Ivan #0" = 0
+	"Josip #0" = 0
+	"Yuri #0" = 0
+	"Luke #0" = 0
+	"Matthew #0" = 0
+	"Marco #0" = 0
+	"Mikhailo #0" = 0
+	"Milan #0" = 0
+	"Mirko #0" = 0
+	"Nenad #0" = 0
+	"Nicholas #0" = 0
+	"Slavko #0" = 0
+	"Tom #0" = 0
+	"Vladko #0" = 0
+	"Caller #0" = 0
+}
+
+leader_names = {
+	"Be good ."
+	"Bot"
+	"Buzimski"
+	"Chelsky"
+	"Cesnegić"
+	"Coronini"
+	"Crnkovic"
+	"Derrenchin"
+	"Drakovich"
+	"Elz"
+	"Frankopan"
+	"Gorjanski"
+	"Horvath"
+	"Kaniski"
+	"Krbavsky"
+	"Lachkovic"
+	"Radic"
+	"Subic"
+	"Talovac"
+	"Zrinsky"
+}
+
+ship_names = {
+	"The address is ."
+	"Arches Otok"
+	"Goli"
+	"Krl"
+	"Page"
+	"Swimmer"
+	"Susak"
+	"Sveti Grgur"
+	"Tijat"
+	"Unidje"
+	"Vele Srancane"
+	"Zlarin"
+	"Zmadjan"
+}

@@ -1,0 +1,91 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 175  82  16 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Ahmad #0" = 30
+	"Mehrab World #0" = 30
+	"Samandar #0" = 10
+	"Mir Abdullah #0" = 10
+	"Mir Muhabbat #0" = 10
+	"Mir Muhammad Nazir #0" = 10
+	"Mir Mahmoud #0" = 10
+	"Kumbar #0" = 10
+	"Chakar Mir #0" = 10
+	"Shahzad World #0" = 10
+	"Hassan #0" = 10
+	"Honza #0" = -1
+	"Ashraf Khanam #0" = -1
+	"Noor #0" = -1
+	"Khair Bibi #0" = -1
+}
+
+leader_names = {
+	"Yamot"
+	"Bugti"
+	"Zikri"
+	"Guilzai"
+	"Barakzai"
+	"Bozdar"
+	"Mirrani"
+	"Mihrabanid" 
+	"Hohar"
+	"Rind"
+	"Ball"
+	"Lashari"
+	"Lund"
+	"Hut"
+	"Korai"
+	"Jatoi"
+	"Noshervani"
+}
+
+ship_names = {
+  "Aliya"
+	"Arusa"
+	"Dasht"
+	"Fatima"
+	"Hormuz"
+	"Hindu"
+	"Kech"
+	"Khan"
+	"Mashkaal"
+	"Nihing"
+	"Niknaz"
+	"Niloufa"
+	"Noor"
+  "Rahshan"
+	"Saleema"
+	"Shamina"
+	"Sukhaliya"
+	"Yasmine"
+	"Zahira"
+	"Zhab"
+}

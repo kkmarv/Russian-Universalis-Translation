@@ -1,0 +1,428 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+primary_culture = javanese
+religion = sunni
+capital = 624	# Banten
+religious_school = shafii_school
+
+1525.1.1 = {
+	monarch = {
+		name = "Maulana Hasanudin"
+		dynasty = "Gunungjati"
+		dip = 2
+		mil = 2
+		adm = 2
+	}
+}
+
+1525.1.1 = {
+	heir = {
+		name = "Maulana Yusuf"
+		monarch_name = "Maulana Yusuf"
+		dynasty = "Gunungjati"
+		birth_date = 1520.1.1
+		death_Date = 1570.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1552.1.1 = {
+	monarch = {
+		name = "Maulana Yusuf"
+		dynasty = "Gunungjati"
+		dip = 2
+		mil = 2
+		adm = 2
+	}
+}
+
+1552.1.1 = {
+	heir = {
+		name = "Maulana Mohammed"
+		monarch_name = "Maulana Mohammed"
+		dynasty = "Gunungjati"
+		birth_date = 1542.1.1
+		death_date = 1580.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+ 
+1570.1.1 = {
+	monarch = {
+		name = "Maulana Mohammed"
+		dynasty = "Gunungjati"
+		dip = 2
+		mil = 2
+		adm = 2
+	}
+}
+
+1570.1.1 = {
+	heir = {
+		name = "Abdul Mufakir"
+		monarch_name = "Abdul Mufakir"
+		dynasty = "Gunungjati"
+		birth_date = 1560.1.1
+		death_date = 1598.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1580.1.1 = {
+	monarch = {
+		name = "Abdul Mufakir"
+		dynasty = "Gunungjati"
+		dip = 2
+		mil = 2
+		adm = 2
+	}
+}
+
+1580.1.1 = {
+	heir = {
+		name = "Abdul Maalee"
+		monarch_name = "Abdul Maalee"
+		dynasty = "Gunungjati"
+		birth_date = 1580.1.1
+		death_date = 1640.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1598.1.1 = {
+	monarch = {
+		name = "Abdul Maalee"
+		dynasty = "Gunungjati"
+		dip = 2
+		mil = 2
+		adm = 2
+	}
+}
+
+1598.1.1 = {
+	heir = {
+		name = "Ageng Tirtayas"
+		monarch_name = "Ageng Tirtayas"
+		dynasty = "Gunungjati"
+		birth_date = 1598.1.1
+		death_date = 1651.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1640.1.1 = {
+	monarch = {
+		name = "Ageng Tirtayas"
+		dynasty = "Gunungjati"
+		dip = 2
+		mil = 2
+		adm = 2
+	}
+}
+
+1640.1.1 = {
+	heir = {
+		name = "Abunasr"
+		monarch_name = "Haji Abunasr"
+		dynasty = "Gunungjati"
+		birth_date = 1620.1.1
+		death_date = 1672.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1651.1.1 = {
+	monarch = {
+		name = "Haji Abunasr"
+		dynasty = "Gunungjati"
+		dip = 2
+		mil = 2
+		adm = 2
+	}
+}
+
+1651.1.1 = {
+	heir = {
+		name = "Boul Fazal"
+		monarch_name = "Boul Fazal"
+		dynasty = "Gunungjati"
+		birth_date = 1651.1.1
+		death_date = 1687.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1672.1.1 = {
+	monarch = {
+		name = "Boul Fazal"
+		dynasty = "Gunungjati"
+		dip = 2
+		mil = 2
+		adm = 2
+	}
+}
+
+1672.1.1 = {
+	heir = {
+		name = "Abdul Mahasin"
+		monarch_name = "Abdul Mahasin"
+		dynasty = "Gunungjati"
+		birth_date = 1672.1.1
+		death_date = 1690.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+		
+
+1687.1.1 = {
+	monarch = {
+		name = "Abdul Mahasin"
+		dynasty = "Gunungjati"
+		dip = 2
+		mil = 2
+		adm = 2
+	}
+}
+
+1687.1.1 = {
+	heir = {
+		name = "Muhammad Siifa"
+		monarch_name = "Muhammad Siifa"
+		dynasty = "Gunungjati"
+		birth_date = 1660.1.1
+		death_date = 1733.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1690.1.1 = {
+	monarch = {
+		name = "Muhammad Siifa"
+		dynasty = "Gunungjati"
+		dip = 2
+		mil = 2
+		adm = 2
+	}
+}
+
+1690.1.1 = {
+	heir = {
+		name = "Xarifudin Ratu"
+		monarch_name = "Xarifudin Ratu"
+		dynasty = "Gunungjati"
+		birth_date = 1690.1.1
+		death_date = 1750.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1733.1.1 = {
+	monarch = {
+		name = "Xarifudin Ratu"
+		dynasty = "Gunungjati"
+		dip = 2
+		mil = 2
+		adm = 2
+	}
+}
+
+1733.1.1 = {
+	heir = {
+		name = "Muhammad Wasizaynul"
+		monarch_name = "Muhammad Wasizaynul"
+		dynasty = "Gunungjati"
+		birth_date = 1713.1.1
+		death_date = 1752.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1750.1.1 = {
+	monarch = {
+		name = "Muhammad Wasizaynul"
+		dynasty = "Gunungjati"
+		dip = 2
+		mil = 2
+		adm = 2
+	}
+}
+
+1750.1.1 = {
+	heir = {
+		name = "Muhammad Arief"
+		monarch_name = "Muhammad Arief"
+		dynasty  = "Gunungjati"
+		birth_date = 1730.1.1
+		death_date = 1773.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1752.1.1 = {
+	monarch = {
+		name = "Muhammad Arief"
+		dynasty = "Gunungjati"
+		dip = 2
+		mil = 2
+		adm = 2
+	}
+}
+
+1752.1.1 = {
+	heir = {
+		name = "Abdul Mafakin"
+		monarch_name = "Abdul Mafakin"
+		dynasty = "Gunungjati"
+		birth_date = 1752.1.1
+		death_date = 1799.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1773.1.1 = {
+	monarch = {
+		name = "Abdul Mafakin"
+		dynasty = "Gunungjati"
+		dip = 2
+		mil = 2
+		adm = 2
+	}
+}
+
+1773.1.1 = {
+	heir = {
+		name = "Muhiidin Zainussolikhin"
+		monarch_name = "Muhiidin Zainussolikhin"
+		dynasty = "Gunungjati"
+		birth_date = 1773.1.1
+		death_date = 1801.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1799.1.1 = {
+	monarch = {
+		name = "Muhiidin Zainussolikhin"
+		dynasty = "Gunungjati"
+		dip = 2
+		mil = 2
+		adm = 2
+	}
+}
+
+1799.1.1 = {
+	heir = {
+		name = "Muhammad Ishaq"
+		monarch_name = "Muhammad Ishaq"
+		dynasty = "Gunungjati"
+		birth_date = 1793.1.1
+		death_date = 1802.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1801.1.1 = {
+	monarch = {
+		name = "Muhammad Ishaq"
+		dynasty = "Gunungjati"
+		dip = 1
+		mil = 3
+		adm = 2
+	}
+}
+
+1802.1.1 = {
+	monarch = {
+		name = "Wakile Pangeran"
+		dynasty = "Gunungjati"
+		dip = 2
+		mil = 0
+		adm = 2
+	}
+}
+
+1803.1.1 = {
+	monarch = {
+		name = "Aliyudin II"
+		dynasty = "Gunungjati"
+		dip = 2
+		mil = 2
+		adm = 2
+	}
+}
+
+1808.1.1 = {
+	monarch = {
+		name = "Wakile Pangeran"
+		dynasty = "Gunungjati"
+		dip = 0
+		mil = 2
+		adm = 3
+	}
+}
+
+1809.1.1 = {
+	monarch = {
+		name = "Muhammad Xiafiuddin"
+		dynasty = "Gunungjati"
+		dip = 1
+		mil = 2
+		adm = 2
+	}
+}
+
+1813.1.1 = {
+	monarch = {
+		name = "Muhammad Rafiuddin"
+		dynasty = "Gunungjati"
+		dip = 3
+		mil = 2
+		adm = 0
+	}
+}

@@ -1,0 +1,115 @@
+government = monarchy
+add_government_reform = iqta
+technology_group = indian
+religion = sunni
+primary_culture = marathi
+capital = 548	# Berar/Vidharba
+
+# Sultans of Berar
+1490.1.1 = {
+	monarch = {
+		name = "Fath Allah Imad Malik"
+		dynasty = "Imadshahi"
+		DIP = 3
+		ADM = 4
+		MIL = 4
+	}
+}
+
+1490.1.1 = {
+	heir = {
+		name = "Ala al-Din"
+		monarch_name = "Ala al-Din"
+		dynasty = "Imadshahi"
+		birth_date = 1480.1.1
+		death_date = 1529.1.1
+		claim = 95
+		ADM = 3
+		DIP = 1
+		MIL = 2
+	}
+}
+
+1504.1.1 = {
+	monarch = {
+		name = "Ala al-Din"
+		dynasty = "Imadshahi"
+		DIP = 1
+		ADM = 3
+		MIL = 2
+	}
+}
+
+1504.1.1 = {
+	heir = {
+		name = "Daria"
+		monarch_name = "Daria"
+		dynasty = "Imadshahi"
+		birth_date = 1504.1.1
+		death_Date = 1562.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 3
+	}
+}
+
+1529.1.1 = {
+	monarch = {
+		name = "Daria"
+		dynasty = "Imadshahi"
+		DIP = 2
+		ADM = 2
+		MIL = 3
+	}
+}
+
+1529.1.1 = {
+	heir = {
+		name = "Burhan"
+		monarch_name = "Burhan"
+		dynasty = "Imadshahi"
+		birth_date = 1529.1.1
+		death_Date = 1568.1.1
+		claim = 95
+		ADM = 0
+		DIP = 2
+		MIL = 0
+	}
+}
+
+1562.1.1 = {
+	monarch = {
+		name = "Burhan Imad Shah"
+		dynasty = "Imadshahi"
+		DIP = 2
+		ADM = 0
+		MIL = 0
+	}
+}
+
+1562.1.1 = {	
+	heir = {
+		name = "Taufal Khan"
+		monarch_name = "Taufal Khan"
+		dynasty = "Imadshahi"
+		birth_date = 1550.1.1
+		death_date = 1626.1.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 1
+	}
+}
+	
+1568.1.1 = {
+	monarch = {
+		name = "Taufal Khan"
+		dynasty = "Imadshahi"
+		DIP = 0
+		ADM = 0
+		MIL = 1
+	}
+}
+
+#Annexed by Ahmadnagar April 1574.

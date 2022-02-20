@@ -1,0 +1,114 @@
+#VelikiyNovgorod
+
+graphical_culture = easterngfx
+
+color = { 88  141  125 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	economic_ideas
+	religious_ideas
+	administrative_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Svyatoslav #4" = 20
+	"Yaroslav #6" = 20
+	"Rostislav #3" = 20
+	"Dmitry #3" = 20
+	"Vsevolod #3" = 20
+	"Vasily #2" = 20
+	"Yuri #2" = 20
+	"Alexander #2" = 20
+	"Andrei #1" = 20
+	"Feodor #1" = 20
+	"Michael #2" = 20
+	"Mstislav #6" = 15
+	"Yaropolk #1" = 15
+	"Roman #2" = 15
+	"Rurik #2" = 15
+	"Constantine #1" = 15
+	"David #2" = 10
+	"Afanasiy #0" = 0
+	"Akim #0" = 0
+	"Alexey #0" = 0
+	"Anatoly #0" = 0
+	"Arkady #0" = 0
+	"Boris #0" = 0
+	"Daniel #0" = 0
+	"Dorofey #0" = 0
+	"Feodosius #0" = 0
+	"Gabriel #0" = 0
+	"Joseph #0" = 0
+	"Ivan #0" = 0
+	"Matthew #0" = 0
+	"Nazarius #0" = 0
+	"Nicephorus #0" = 0
+	"Oleg #0" = 0
+	"Prokofi #0" = 0
+	"Radomir #0" = 0
+	"Savelius #0" = 0
+	"Semyon #0" = 0
+	"Sergei #0" = 0
+	"Valery #0" = 0
+	"Eugene #0" = 0
+	
+	"Anastasia #0" = -1
+	"Zlata #0" = -1
+	"Marfa #0" = -1
+}
+
+leader_names = { 
+	Zhiznomir Mikula Poseni Baryatinsky Belevsky Volkonsky 
+	Vorotynsky Gorensky Gorchakov Dolgorukov Eletsky Ryumin 
+	Barashev Boretsky Shestov Zventsov Tokmakov Nozdrevatyi 
+	Kashin Masalsky Kozelsky Koninsky Kurlyatev Lykov Obolensky
+	Strigin Nagoya Spassky Torussky Trostensky Torenin
+	Tufyakin Khotetovsky 
+}
+
+ship_names = {
+	"Old Russa"
+	"Ladoga"
+	"Torzhok"
+	"Peanut"
+	"Alexander Nevsky"
+	"Pestrovo"
+	"Valdai"
+	"Hill"
+	"Borovichi"
+	"Luga"
+	"Msta"
+	"Ilmen"
+	"Catch"
+	"Piping"
+	"Pestovo"
+	"Saltz"
+	"Vishera"
+	"Volkhov"
+	"Chudovo"
+	"Flight"
+}

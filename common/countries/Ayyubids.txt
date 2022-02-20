@@ -1,0 +1,119 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 234 179 30 } 
+
+historical_score = 270
+
+historical_idea_groups = {
+	maritime_ideas
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Al-Salih Naym al-Din #0" = 10
+	"Al-Muazzam Turan Shah #0" = 10
+	"Al-Muwahid Taki al-Din #0" = 10
+	"Al-'Adil Muir al-Din. #0" = 10
+	"Al-'Adil Shihab Al-Din. #0" = 10
+	"Al-Salih Abu Bakr #0" = 10
+	"Al-'Adil Fahr al-Din. #0" = 10
+	"Al-Ashraf Sharaf Al-Din #0" = 10
+	"Al-Salih Salah al-Din #0" = 10
+	"Al-Qamil Ahmad #0" = 10
+	"Khalil #0" = 10
+	"Suleiman #0" = 10
+	"Al-Hussein #0" = 10
+	"Hassan #0" = 10
+	"Al-Adil #0" = 10
+	"Al-Ashraf #0" = 10
+	"Al-Aziz #0" = 10
+	"Al-Qamil #0" = 10
+	"Yusuf #0" = 10
+	"Nasir #0" = 10
+	"Ismayil #0" = 10
+	"Hwyo #0" = 10
+	"Sha'bwn #0" = 10
+	"Dawood #0" = 10
+	"Isa #0" = 10
+	"Az-Zahir #0" = 10
+	"Salih #0" = 10
+	"Ahmad #0" = 10
+	"'Abd al-Malik #0" = 0
+	"Bassir #0" = 0
+	"Faddle #0" = 0
+	"Ghaegh #0" = 0
+	"Hatim #0" = 0
+	"Ilyas #0" = 0
+	"Jabir #0" = 0
+	"Nadim #0" = 0
+	"Nizar #0" = 0
+	"Kasim #0" = 0
+	"Saydi . #0" = 0
+	"Sayyid #0" = 0
+	"Yunus #0" = 0
+	
+	"Hiba #0" = -1
+	"Fatimah #0" = -1
+	"Waleeda #0" = -1
+	"Tahani #0" = -1
+	"Safaaa  #0" = -1
+	"Randa #0" = -1
+	"Kismach #0" = -1
+	"Nadirah #0" = -1
+	"Maram #0" = -1
+	"Laila #0" = -1
+	"Kamilah #0" = -1
+	"Jabirah #0" = -1
+	"Hudun #0" = -1
+	"Fadwa #0" = -1
+	"Daliah #0" = -1
+	"Amirah #0" = -1
+	"Abal #0" = -1
+	"Nadiyah #0" = -1
+	"Norah #0" = -1
+	"Fahda #0" = -1
+}
+
+leader_names = {
+	Ali
+	Aybak
+	Baibars
+	Baa
+	Beés
+	Bugha
+	Invl
+	Kansour
+	Safuddin
+	Zangi
+	Saladin
+}
+
+ship_names = {
+	"Zaher Barkook" "Farag Ben Barcook"
+	"Ben Barkooc" "Muyaid Sheikh" "Ahmen Muyaid" 
+	"Zaher Tatar" "Nasser Muhammad" "Ashraf Barsbay"
+	"Aziz Gamal" "Nahr al-Nil" "Al-Farafirah"
+	"Al-Ddhilah" "Al-Hariyah" "Al-Ali" "Al-Bahriah"
+	Rahman Rahim Malik Kuddus Salam Mu'min Muhaimin
+	Aziz Yabbar Mutakabbir Khalik Bari Musavvir 
+	Ghaffar Kahhar Wahhab Razzaq Fattah Alim Kabid
+	Basit Hafid Rafi Mu'izz Mudhill Sami Basir Hakam Adal
+}

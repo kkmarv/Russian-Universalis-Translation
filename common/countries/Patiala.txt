@@ -1,0 +1,128 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 229  231  26 }
+
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	defensive_ideas
+	economic_ideas
+	quality_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	reformed_mughal_mansabdar
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Ala Singh #0" = 20
+	"Amar Singh #0" = 20
+	"Sahib Singh #0" = 20
+	"Kanam Singh #0" = 10
+	"Narendra Singh #0" = 10
+	"Mahendra Singh #0" = 10
+	"Rajendra Singh #0" = 5
+	"Bhupendra Singh #0" = 5
+	"Balbier #0" = 0
+	"Bhalla #0" = 0
+	"Giveaway #0" = 0
+	"Durham #0" = 0
+	"Fakir #0" = 0
+	"Gahunii #0" = 0
+	"Guiyang #0" = 0
+	"Nihang  #0" = 0
+	"Grant #0" = 0
+	"Bhai Bachittar #0" = 0
+	"Himmat #0" = 0
+	"Hura #0" = 0
+	"Ishnar #0" = 0
+	"Jhal #0" = 0
+	"Jhotti #0" = 0
+	"Lohaar #0" = 0
+	"Moham #0" = 0
+	"Nand #0" = 0
+	"Parmanand #0" = 0
+	"Rajsingh #0" = 0
+	"Sanlib #0" = 0
+	"Sardul #0" = 0
+	"Shabeg #0" = 0
+	"Shergill #0" = 0
+	"Sodhi #0" = 0
+	"Sohal #0" = 0
+	"Tara #0" = 0
+	"Udasi #0" = 0
+	"Chand Kaur #0" = -10
+	"Ratan Kaur #0" = -1
+	"Canvas Kaur #0" = -1
+	"Datar Kaur #0" = -1
+	"Nand Kaur #0" = -1
+	"Mahtab #0" = -1
+}
+
+leader_names = {
+	Ahluwali
+	Ramgarhi
+	Kamboh
+	Harty
+	Naru
+	Minha
+	Bahadur
+	Bara
+	Khan
+	Das
+	Deva
+	Gahunii
+	Parmanand
+	Samma
+	Shergill
+	Singh
+	Sodhi
+	Sohal
+	Sumra
+	Chattar
+	Rator
+	Mian
+	Paradise
+	Chauhan
+	bhati
+	Suleria
+	Lal
+	Hohar
+	Jivan
+	Makhdum
+	Bhatta
+	Pahral
+	Kistvaria
+	Chandral
+	Jamwal
+	Saran
+	Naga
+	Pundir
+	Ice rink
+	Gami
+	Bangalya
+	Pahor
+}
+
+ship_names = {
+	Beaas Chenab Davi Gayatri Guru Indus
+	Jalsen Jellum Lakshmi Nausen.
+	"Hab ka Yudh" Parvati Radha Ratri
+	Ravi Sagar Sultej Saraswati Sita
+}

@@ -1,0 +1,100 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 122  179  97 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	administrative_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Muhammad Saadat Khan #0" = 30
+	"Muhammad Safdar Khan #0" = 30
+	"Shuja al-Dawla #0" = 20
+	"Asaf al-Dawlah #0" = 20
+	"Wazir Ali #0" = 20
+	"Saadat Ali Khan #0" = 20
+	"Gazi oud-Din Haidar #0" = 20
+	"Saadat #0" = 0
+	"Safdar Jang #0" = 0
+	"Hyder #0" = 0
+	"Birgis Kadra #0" = 0
+	"Ali #0" = 0
+	"Iqbal #0" = 0
+	"Ala al-Din #0" = 0
+	"Bij #0" = 0
+	"Mali #0" = 0
+	"Narendra #0" = 0
+	"Bismilla #0" = 0
+	"Obaid #0" = 0
+	"Hazrat Mahal #0" = -5
+	"Farzana #0" = -5
+	"Fahr-un-Nisa #0" = -1
+}
+
+leader_names = {
+	Afridi
+	Burn
+	Sahgal
+	Bahadur
+	Bangash
+	Stsangy
+	Indostani
+	Khan
+	Carrani
+	Yousafzai
+	Chand
+	Awadhi
+	"ood-daula"
+	Khilji
+	Lodi
+	Pundir
+	sharks
+	Sarwar
+	Uzbek
+	Siddikui
+}
+
+ship_names = {
+	"Aliya"
+	"Bethwa"
+	"Fatima"
+	"Gandak"
+	"Ghagra"
+	"Gomti"
+	"Jalsen"
+	"Kala Jahazi"
+	"Khan"
+	"Lal Jahazi"
+	"Nausen"
+	"Nava-ka-Yud"
+	"Niknaz"
+	"Nile Jahazi"
+	"Niloufa"
+	"Sagar"
+	"Satlage"
+	"Yamuna"
+	"Yasmine"
+}

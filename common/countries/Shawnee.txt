@@ -1,0 +1,111 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 212  105  118 } 
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	algonkin_tomahawk_charge
+	native_indian_horsemen
+	commanche_swarm
+	native_indian_mountain_warfare
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Hokoleskva #0" = 20
+	"Kottawamago #0" = 20
+	"Paxinos #0" = 20
+	"Vienepuecisica #0" = 20
+	"Veyapersenva #0" = 10
+	"Tecumse #0" = 10
+	"Aviconi #0" = 20
+	"Cacavipilati #0" = 20
+	"Malunti #0" = 20
+	"Muscacono #0" = 20
+	"Meinemseca #0" = 20
+	"Vopokovala #0" = 20
+	"Nihypiva #0" = 20
+	"Nihinessico #0" = 20
+	"Wavelainni #0" = 20
+	"Kishkalwa #0" = 20
+	"Maivatekha #0" = 20
+	"Pathecoussa #0" = 20
+	"Nelavachika #0" = 20
+	"Wakiwais #0" = 20
+	"Napavita #0" = 20
+	"Papamoussa #0" = 20
+	"Pemitakamchik #0" = 20
+	"Viavimon #0" = 20
+	"Kamapea #0" = 20
+	"Pelmetachemo #0" = 20
+	"Neamse #0" = 20
+	"Makatevekasha #0" = 20
+	"Koytawaipie #0" = 20
+	"Miskakunakau #0" = 20
+	"Kattevekasau #0" = 20
+	"Kaisieseca #0" = 20
+	"Weitapamatta #0" = 20
+	"Nyanimseka #0" = 20
+	"Waitea #0" = 20
+	"Weijapirsenwau #0" = 20
+	"Neketogau #0" = 20
+	"Hagushikau #0" = 20
+	"Waiapusiwau #0" = 20
+	"Kutivisau #0" = 20
+	"Aunashechla #0" = 20
+	"Kutevekusau #0" = 20
+	"Tameneta #0" = 20
+	"Piaseca #0" = 20
+	"Pomta #0" = 20
+	"Shammoteto #0" = 20
+	"Pemtata #0" = 20
+	"Vetavakasika #0" = 20
+	"Ketawa #0" = 20
+	"Sokutchema #0" = 20
+	"Winepueshika #0" = 20
+	"Chachska #0" = 20
+	"Kitavepe #0" = 20
+	"Teawascuta #0" = 20
+	"Tacomtek #0" = 20
+	
+	"Metoatasque #0" = -1
+}
+
+leader_names = {
+	Oglise Alavaimotaka Akepi Akeloma
+	Chillicote Kalaka Chalaakaata Konedogvinit.
+	Hatawekela Hisoscock Hokawepitati
+	Kispoko Kikopokoke Kispokota Cat Kagougsage Kikapogovi Kitlipekanuk
+	Mekachake Maikujai Mekokoke Maguk
+	Oavikila Ochipwey Okovellos Opeataco Oshawana
+	Pika Pekovi Pakstang Pacheto Paytokote
+	Spitota Savanuga Sawauvone Savito Savkunk Sevikley Shamokin Sonnioto
+	Taaavikila Tavegila Tippecanoe Silakauga
+	Vakatomika Vakatavix Vapaconeta Vabapuscito Vagunti
+}
+
+ship_names = {
+	Chillicote Chechetecca
+	Hatavekela
+	Kispokota
+	Mecachaca
+	Pekuve
+	"Viva'kanakitita" "Viipekwa Veshe" "Mshkwaavi Peshikte"
+	"Papapanave Mesheva" 
+	"Unemake Mesheva" "Wa'kanakya Koni" "Mshkwaavi Sepe"
+}

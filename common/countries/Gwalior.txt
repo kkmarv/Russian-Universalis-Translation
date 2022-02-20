@@ -1,0 +1,77 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 153  237  145 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	aristocracy_ideas
+	quantity_ideas
+	offensive_ideas
+	religious_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Beringingham Deo #1" = 20
+	"Pulkit #1" = 20
+	"Dungar Singh #1" = 20
+	"Mann Singh #1" = 20
+	"Uddharandev #1" = 20
+	"Vikramdav #1" = 20
+	"Ganapatidev #1" = 20
+	"Dugarengrasingh #1" = 20
+	"Hookah Almalla #1" = 20
+	"Bajja Baj #0" = -10
+	"Chincuraje #0" = -1
+	"Kamalaraje #0" = -1
+}
+
+leader_names = {
+	"Singh"
+	"Datas"
+	"Mihir"
+	"Jassos"
+	"Bundela"
+	"Bais"
+	"Chattar"
+	"Minhas"
+	"Packchral"
+	"Pundir"
+	"Naru"
+	"Sahara"
+	"Maury"
+	"Chauhan"
+	"Bhaal"
+	"Tomara"
+	"Chandella"
+	"Ice rink"
+	"Judon"
+}
+
+ship_names = {
+	"Bethwa" "Devi" "Durga" "Ganga" "Gandak"
+	"Gayatri" "Ghagra" "Gomti" "Jalsen" 
+	"Kala Jahazi" "Ken" "Lakshmi"
+	"Lal Jahazi" "Nausen" "Nave Ka Yudh"
+	"Nile Jahazi" "Parvati" "Radha"
+	"Ramganga" "Ratri" "Sagar" "Saraswati"
+	"Satlage" "Sita" "Yamuna"
+}

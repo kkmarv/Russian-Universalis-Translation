@@ -1,0 +1,113 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 24  50  123 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Francesco #1" = 100
+	"Giovanni #1" = 60
+	"Giacomo #0" = 60
+	"Guglielmo #1" = 20
+	"Pietro #0" = 5
+	"Antonio #0" = 5
+	"Agostino #0" = 0
+	"Alessandro #0" = 0
+	"Alberto #0" = 0
+	"Andrea #0" = 0
+	"Battista #0" = 0
+	"Benedetto #0" = 0
+	"Vincenzo #0" = 0
+	"Vitale #0" = 0
+	"Vittorio #0" = 0
+	"Gaetano #0" = 0
+	"Geronimo #0" = 0
+	"Girolamo #0" = 0
+	"Giorgio #0" = 0
+	"Giuseppe #0" = 0
+	"Giulio #0" = 0
+	"Carlo #0" = 0
+	"Claudio #0" = 0
+	"Leonardo #0" = 0
+	"Leopoldo #0" = 0
+	"Lorenzo #0" = 0
+	"Luigi #0" = 0
+	"Martino #0" = 0
+	"Marcello #0" = 0
+	"Niccolo #0" = 0
+	"Paolo #0" = 0
+	"Prospero #0" = 0
+	"Renato #0" = 0
+	"Rinaldo #0" = 0
+	"Salvatore #0" = 0
+	"Umberto #0" = 0
+	"Fabrizio #0" = 0
+	"Cesare #0" = 0
+	"Emanuele #0" = 0
+	"Ennio #0" = 0
+	
+	"Ariadne #0" = -1
+	"Katina #0" = -1
+	"Eleteria #0" = -1
+}
+
+leader_names = {
+	"Crispo"
+	"della carcheri"
+	"d'Anoé"
+	"Gattilusi"
+	"Gavalas"
+	"Gizi"
+	"Giustiniani"
+	"Loredano"
+	"Freezers"
+	"Pisani"
+	"Sanudo"
+	"Saudos"
+	"Sommarippa"
+	"Zeno"
+	"Dzorzi"
+}
+
+ship_names = {
+	"Apollo"
+	"Crispo"
+	"Donussa"
+	"Francis"
+	"Castracks"
+	"Keros"
+	"Koufonissi"
+	"Mesaria"
+	"Mutsuna"
+	"Naxos"
+}

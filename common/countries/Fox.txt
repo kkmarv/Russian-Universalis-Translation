@@ -1,0 +1,91 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 242 101 34 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Keokek #0" = 20
+	"Vapello #0" = 10
+	"Pieremaskin #0" = 20
+	"Mukkatwagut #0" = 20
+	"Namosanamet #0" = 10
+	"Vaapasa #0" = 10
+	"Maccatanamaki #0" = 20
+	"Paschenene #0" = 20
+	"Wapasai #0" = 10
+	"Katchhakumu #0" = 10
+	"Malasenokama #0" = 20
+	"Keachasa #0" = 10
+	"Mataka #0" = 10
+	"Pakuampa #0" = 10
+	"Akcuoka #0" = 10
+	"Nemakua #0" = 10
+	"Macenamau #0" = 10
+	"Pesotaka #0" = 10
+	"Mishkakua #0" = 10
+	"Caponta #0" = 10
+	"Mohinin #0" = 10
+	"Omko #0" = 10
+	"Vonakasa #0" = 10
+	"Nautakawa #0" = 10
+	"Makataimishkakua #0" = 10
+	"Watgonuk #0" = 10
+	"Chouqueca #0" = 10
+	"Kisheswa #0" = 10
+	"Taimah #0" = 10
+	"Kinuk #0" = 10
+	"Papiukun #0" = 10
+	"Pashpago #0" = 10
+	"Lalurva #0" = 10
+	"Hunsger County #0" = 10
+	"Otchecaucaucauca #0" = 10
+	"Kwashkame #0" = 10
+	"Shamaga #0" = 10
+	"Whisaka #0" = 10
+	"Katchemakeso #0" = 10
+	"Chicago #0" = 10
+	"Kataka #0" = 10
+	"Mekayitch #0" = 10
+	"Nesota #0" = 10
+	"Chagasort #0" = 10
+	"Picama #0" = 10
+	"Namachevana #0" = 10
+	"Nanochaatasa #0" = 10
+	
+	"Dogum #0" = -1
+}
+
+leader_names = {
+	Meskwok Wagos Asakivok Kikapoo "Black Hawk" Sakenuk Takivok
+	Tama Osakis Etnatayek Kikapogvoi Kilhipekanuk
+	"Bouncing Fish" "Sunny Fish" Geeger Bear Spear Devil. "Big Eagle"
+	Sturgeon Eagle "Son of Sorrow" Stretching "from Sioux" "Fearless"
+}
+
+ship_names = {
+	Anemokha Nektaoshakshakha Mosva Peshekisiya Mahveva Mahva Vakosheha
+	Esepana Shekakva Meshveh Ketywa Anechka Vitekoua Manetoua
+	Meshekeha Amoa
+}

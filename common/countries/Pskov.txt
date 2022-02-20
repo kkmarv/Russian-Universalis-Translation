@@ -1,0 +1,104 @@
+#Pskov
+
+graphical_culture = easterngfx
+
+color = { 82  123  95 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	religious_ideas
+	administrative_ideas
+	economic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Alexander #3" = 80
+	"Ivan #1" = 80
+	"Vasily #2" = 60
+	"Feodor #0" = 60
+	"Andrei #1" = 40
+	"Dmitry #0" = 40
+	"Constantine #0" = 40
+	"Peter #0" = 40
+	"Vladimir #2" = 20
+	"Yaroslav #1" = 20
+	"Daniel #0" = 20
+	"Gregory #0" = 20
+	"Semyon #0" = 20
+	"Adrian #0" = 0
+	"Afanasiy #0" = 0
+	"Dorofey #0" = 0
+	"Boris #0" = 0
+	"Thaddeus #0" = 0
+	"Feodosius #0" = 0
+	"Feofil #0" = 0
+	"Ferapont #0" = 0
+	"Foka #0" = 0
+	"Thomas #0" = 0
+	"Gabriel #0" = 0
+	"Igor #0" = 0
+	"Zachary #0" = 0
+	"Methodius #0" = 0
+	"Michael #0" = 0
+	"Naum #0" = 0
+	"Nikita #0" = 0
+	"Leo #0" = 0
+	"Pankrat #0" = 0
+	"Roman #0" = 0
+	"Ruslan #0" = 0
+	"Seraphim #0" = 0
+	"Sevastian #0" = 0
+	"Stanislav #0" = 0
+	"Timofey #0" = 0
+	"Bartholomew #0" = 0
+	"Vincentius #0" = 0
+	
+	"Ludmila #0" = -1
+	"Irina #0" = -1
+	"Catherine #0" = -1
+}
+
+leader_names = { 
+	Vitebsk Izyaslavsky Dursky Halychsky Borovsky Vereysky Volotsky Galitsky
+	Mozhaysky Uglitsky Shemyakin Satin Alyadin Beznosov Bokeyev Buryukin Vnukov Korobiiin
+	Zabolotsky Dalmatov Kisleevsky Travin Tsiplatev Shukhalovsky
+}
+
+ship_names = {
+	"The Great"
+	"Lake Peipsi"
+	"Pskov"
+	"Polotsk"
+	"Cancer"
+	"Bolotovo"
+	"Kulikovo"
+	"Island"
+	"Selection"
+	"Pechora"
+	"Porkhov"
+	"Velikie Luki"
+	"Sebezh"
+}

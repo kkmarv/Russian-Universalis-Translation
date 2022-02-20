@@ -1,0 +1,126 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 165  132  57 }
+
+historical_idea_groups = {
+	administrative_ideas
+	humanist_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Bukuri Yunsun #1" = 10
+	"Mentemu #1" = 10
+	"Tsunsan #0" = 10
+	"Tolo #0" = 10
+	"Sibuchi Fiangu #0" = 10	
+	"Fuman #0" = 10
+	"Goetzanga #0" = 10
+	"Taxi #0" = 20
+	"Nurhachi #0" = 20
+	"Huantaiji #0" = 20
+	"Dorgon #0" = 10
+	"Hoogie #0" = 10
+	"Fulin #0" = 20
+	"Xuanier #0" = 20
+	"Yinzhen #0" = 20	
+	"Hunli #0" = 20
+	"Yunyang #0" = 20
+	"Minnin #0" = 20	
+	"Fanza #0" = 10
+	"Hoogle #0" = 10
+	"Yinji #0" = 10
+	"Yinzhen #0" = 10
+	"Yinti #0" = 10
+	"Dysan #0" = 5
+	"Abatai #0" = 5
+	"Agige #0" = 5
+	"Dodo #0" = 5
+	"Insyan #0" = 5
+	"Inci #0" = 5
+	"Intan #0" = 5
+	"Hunshi #0" = 5
+	"Hunzhou #0" = 5
+	"Yunzi #0" = 5
+	"Hejing #0" = -5
+	"Hejia #0" = -5
+	"Hesiao #0" = -5
+	"Zhuangjing #0" = -5
+	"Akjan #0" = 0
+	"Ayan #0" = 0
+	"Baohu #0" = 0
+	"Chengzhun #0" = 0
+	"Dorghide #0" = 0
+	"Edje #0" = 0
+	"Enzechen #0" = 0
+	"Fishin #0" = 0
+	"Fulu #0" = 0
+	"Ganyun #0" = 0
+	"Ganchan #0" = 0
+	"Hugoon #0" = 0
+	"Jabsan #0" = 0
+	"Jakdan #0" = 0
+	"Leli #0" = 0
+	"Lee #0" = 0
+	"Moon #0" = 10
+	"Mergen #0" = 0
+	"Moodhuri #0" = 0
+	"Mujin #0" = 0
+	"Aory #0" = 0
+	"For . #0" = 0
+	"Talman #0" = 0
+	"Wahe #0" = 0
+	"Helu #0" = 0
+	"Yunyi #0" = 0
+	"Zhangchun #0" = 0
+	"Zhengu #0" = 0
+	"Zhengzhong #0" = 0
+	"Juncheng #0" = 0
+	"Zhongchun #0" = 0
+	"Junho #0" = 0
+	"Jung-hoo #0" = 0
+	"Zhonghoon #0" = 0
+	"Zhongjiang #0" = 0
+	"Junxian #0" = 0
+	"Junyun #0" = 0
+	"Junyu #0" = 0	
+	"Feng #0" = -1
+	"Jian #0" = -1
+	"Wen #0" = -1
+}
+
+leader_names = {
+	"Isin Gyoro" "Isin Gyoro" "Isin Gyoro" "Isin Gyoro" "Isin Gyoro" 
+	"Isin Gyoro" "Isin Gyoro" "Isin Gyoro" "Isin Gyoro" "Isin Gyoro"  # Qing flavor
+	Aihui Arakta Baitza Baoduri Tsemgun Chibukinut Dagia Dungiya Etsolo Ergi
+	Fairy Futa Ginziri Git Hegia Hasheri Yo. "Jørgen Gøro" Jakuta Jurk Keere Küitselik
+	Lady Liu Magiya Moketo Namutu Nyhuuru Pan Po Zhao Ruburi Si Sozoro Taizut Tukdong U Ula
+	Wang Wengit Yan Yahe.
+}
+
+ship_names = {
+	"Isin Gyoro" Sukhuru Ehanal Heatheri
+	Uya Waliukha Jiangia Guvalgia Tungia
+	Magi Hata Ula Huifa Heissi.
+}

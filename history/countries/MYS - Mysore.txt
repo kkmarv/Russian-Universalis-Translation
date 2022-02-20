@@ -1,0 +1,509 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = kannada
+religion = hinduism
+technology_group = indian
+capital = 533	# Mysore
+fixed_capital = 533 # Cannot move capital away from this province & no power cost to move to it
+
+#Ummatur Cheifs:
+#Very independent feudatories of Vijayanagara, often ignoring the empire or in rebelion against it
+#Have not been able to find specific ummatur rulers
+
+1399.1.1 = {
+	monarch = {
+		name = "Ganga Raja"
+		dynasty = "Ummatur"
+		ADM = 2
+		DIP = 1
+		MIL = 3
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+
+#Wodeyar dynasty before gaining control of Mysore:
+
+#1399.1.1 = {
+#	monarch = {
+#		name = "The poison of Paradise"
+#		dynasty = "Vodeyar"
+#		ADM = 2
+#		DIP = 0
+#		MIL = 2
+#	}
+#}
+#
+#1399.1.1 = {
+#	heir = {
+#		name = "Chama"
+#		monarch_name = "Chama Raja I"
+#		dynasty = "Vodeyar"
+#		birth_date = 1399.1.1
+#		death_date = 1423.1.1
+#		claim = 95
+#		ADM = 2
+#		DIP = 3
+#		MIL = 3
+#	}
+#}
+#
+#
+#
+#1423.1.1 = {
+#	monarch = {
+#		name = "Chama Raja I"
+#		dynasty = "Vodeyar"
+#		ADM = 2
+#		DIP = 3
+#		MIL = 3
+#	}
+#}
+#
+#1423.1.1 = {
+#	heir = {
+#		name = "Timma"
+#		monarch_name = "Timma Raja I"
+#		dynasty = "Vodeyar"
+#		birth_date = 1423.1.1
+#		death_date = 1478.1.1
+#		claim = 95
+#		ADM = 1
+#		DIP = 1
+#		MIL = 1
+#	}
+#}
+#
+#1458.1.1 = {
+#	monarch = {
+#		name = "Timma Raja I"
+#		dynasty = "Vodeyar"
+#		ADM = 1
+#		DIP = 1
+#		MIL = 1
+#	}
+#}
+#
+#1458.1.1 = {
+#	heir = {
+#		name = "Chama"
+#		monarch_name = "Chama Raja II"
+#		dynasty = "Vodeyar"
+#		birth_date = 1458.1.1
+#		death_date = 1513.1.1
+#		claim = 95
+#		ADM = 2
+#		DIP = 0
+#		MIL = 0
+#	}
+#}
+#
+#1478.1.1 = {
+#	monarch = {
+#		name = "Chama Raja II"
+#		dynasty = "Vodeyar"
+#		ADM = 2
+#		DIP = 0
+#		MIL = 0
+#	}
+#}
+#
+#1478.1.1 = {
+#	heir = {
+#		name = "Chama"
+#		monarch_name = "Chama Raja III"
+#		dynasty = "Vodeyar"
+#		birth_date = 1478.1.1
+#		death_date = 1552.1.1
+#		claim = 95
+#		ADM = 3
+#		DIP = 1
+#		MIL = 2
+#	}
+#}
+#
+
+#Independent Wodeyars:
+
+1513.1.1 = {
+	monarch = {
+		name = "Chama Raja III"
+		dynasty = "Vodeyar"
+		ADM = 3
+		DIP = 1
+		MIL = 2
+	}
+}
+
+1513.1.1 = {
+	heir = {
+		name = "Timma"
+		monarch_name = "Timma Raja II"
+		dynasty = "Vodeyar"
+		birth_date = 1513.1.1
+		death_date = 1572.1.1
+		claim = 95
+		ADM = 4
+		DIP = 2
+		MIL = 0
+	}
+}
+
+1552.1.1 = {
+	monarch = {
+		name = "Timma Raja II"
+		dynasty = "Vodeyar"
+		ADM = 4
+		DIP = 2
+		MIL = 0
+	}
+	government_rank = 2
+}
+
+1552.1.1 = {
+	heir = {
+		name = "Chama"
+		monarch_name = "Chama Raja IV"
+		dynasty = "Vodeyar"
+		birth_date = 1552.1.1
+		death_date = 1576.1.1
+		claim = 95
+		ADM = 0
+		DIP = 1
+		MIL = 0
+	}
+}
+
+1572.1.1 = {
+	monarch = {
+		name = "Chama Raja IV"
+		dynasty = "Vodeyar"
+		ADM = 0
+		DIP = 1
+		MIL = 0
+	}
+}
+
+1572.1.1 = {
+	heir = {
+		name = "Bettada Virgin"
+		monarch_name = "Bettada Virgin Raj"
+		birth_date = 1556.1.1
+		death_date = 1578.1.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 3
+	}
+}
+
+1576.1.1 = {
+	monarch = {
+		name = "Bettada Virgin Raj"
+		dynasty = "Vodeyar"
+		ADM = 0
+		DIP = 0
+		MIL = 3
+	}
+}
+
+1576.1.1 = {
+	heir = {
+		name = "Vadayar"
+		monarch_name = "Raja Vadayar"
+		dynasty = "Vodeyar"
+		birth_date = 1558.1.1
+		death_date = 1617.6.21
+		claim = 95
+		ADM = 2
+		DIP = 3
+		MIL = 0
+	}
+}
+
+1578.11.27 = {
+	monarch = {
+		name = "Raja Vadayar"
+		dynasty = "Vodeyar"
+		ADM = 2
+		DIP = 3
+		MIL = 0
+	}
+}
+
+1578.11.27 = {
+	heir = {
+		name = "Chama"
+		monarch_name = "Chama Raja V"
+		dynasty = "Vodeyar"
+		birth_date = 1578.11.27
+		death_date = 1637.1.1
+		claim = 95
+		ADM = 3
+		DIP = 1
+		MIL = 3
+	}
+}
+
+1617.6.21 = {
+	monarch = {
+		name = "Chama Raja V"
+		dynasty = "Vodeyar"
+		ADM = 3
+		DIP = 1
+		MIL = 3
+	}
+}
+
+1617.6.21 = {
+	heir = {
+		name = "Immadi"
+		monarch_name = "Immadi Raja"
+		dynasty = "Vodeyar"
+		birth_date = 1617.6.21
+		death_date = 1638.10.9
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1637.5.3 = {
+	monarch = {
+		name = "Immadi Raja"
+		dynasty = "Vodeyar"
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1637.5.3 = {
+	heir = {
+		name = "Cantirava Naras"
+		monarch_name = "Cantirava Naras Raja I"
+		dynasty = "Vodeyar"
+		birth_date = 1617.1.1
+		death_date = 1659.8.3
+		claim = 95
+		ADM = 1
+		DIP = 0
+		MIL = 1
+	}
+}
+
+1638.10.9 = {
+	monarch = {
+		name = "Cantirava Naras Raja I"
+		dynasty = "Vodeyar"
+		ADM = 1
+		DIP = 0
+		MIL = 1
+	}
+}
+
+1638.10.9 = {
+	heir = {
+		name = "Kempa Maiden"
+		monarch_name = "Kempa Virgin Raja"
+		dynasty = "Vodeyar"
+		birth_date = 1610.1.1
+		death_date = 1672.2.11
+		claim = 95
+		ADM = 1
+		DIP = 1
+		MIL = 3
+	}
+}
+
+1659.8.3 = {
+	monarch = {
+		name = "Kempa Virgin Raja"
+		dynasty = "Vodeyar"
+		ADM = 1
+		DIP = 1
+		MIL = 3
+	}
+}
+
+1659.8.3 = {
+	heir = {
+		name = "Chikka Maiden"
+		monarch_name = "Chicca Virgin Raja"
+		dynasty = "Vodeyar"
+		birth_date = 1659.8.3
+		death_date = 1704.11.17
+		claim = 95
+		ADM = 0
+		DIP = 2
+		MIL = 3
+	}
+}
+
+1672.2.11 = {
+	monarch = {
+		name = "Chicca Virgin Raja"
+		dynasty = "Vodeyar"
+		ADM = 0
+		DIP = 2
+		MIL = 3
+	}
+}
+
+1672.2.11 = {
+	heir = {
+		name = "Cantirava Naras"
+		monarch_name = "Cantirava Naras Raja II"
+		dynasty = "Vodeyar"
+		birth_date = 1672.2.11
+		death_date = 1714.2.17
+		claim = 95
+		ADM = 3
+		DIP = 1
+		MIL = 4
+	}
+}
+
+1704.11.17 = {
+	monarch = {
+		name = "Cantirava Naras Raja II"
+		dynasty = "Vodeyar"
+		ADM = 3
+		DIP = 1
+		MIL = 4
+	}
+}
+
+1704.11.17 = {
+	heir = {
+		name = "Krishna"
+		monarch_name = "Krishna Raja I"
+		dynasty = "Vodeyar"
+		birth_date = 1690.1.1
+		death_date = 1732.3.6
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 0
+	}
+}
+
+1714.2.17 = {
+	monarch = {
+		name = "Krishna Raja I"
+		dynasty = "Vodeyar"
+		ADM = 1
+		DIP = 2
+		MIL = 0
+	}
+}
+
+1714.2.17 = {
+	heir = {
+		name = "Chama"
+		monarch_name = "Chama Raja VI"
+		dynasty = "Vodeyar"
+		birth_date = 1710.1.1
+		death_date = 1734.6.12
+		claim = 95
+		ADM = 3
+		DIP = 0
+		MIL = 3
+	}
+}
+
+1732.3.6 = {
+	monarch = {
+		name = "Chama Raja VI"
+		dynasty = "Vodeyar"
+		ADM = 3
+		DIP = 0
+		MIL = 3
+	}
+}
+
+1732.3.6 = {
+	heir = {
+		name = "Krishna"
+		monarch_name = "Krishna Raja II"
+		dynasty = "Vodeyar"
+		birth_date = 1710.1.1
+		death_date = 1761.6.3
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 2
+	}
+}
+
+1734.6.12 = {
+	monarch = {
+		name = "Krishna Raja II"
+		dynasty = "Vodeyar"
+		ADM = 0
+		DIP = 0
+		MIL = 2
+	}
+}
+
+#Usurper
+
+1761.6.3 = {
+	monarch = {
+		name = "Haidar Ali"
+		dynasty = "Fatehi" #From the name of Haidars father, not sure of suitable dynasty name.
+		ADM = 3
+		DIP = 3
+		MIL = 5
+		religion = sunni
+		leader = {	name = "Haidar Ali"          	type = general	fire = 4	shock = 4	manuever = 3	siege = 1 }
+	}
+	religion = sunni
+	government = monarchy
+add_government_reform = iqta
+	religious_school = hanafi_school
+}
+
+1761.6.3 = {
+	heir = {
+		name = "Tipu Sultan"
+		monarch_name = "Tipu Sultan"
+		dynasty = "Fatehi"
+		birth_date = 1750.1.1
+		death_date = 1799.5.5
+		claim = 95
+		ADM = 2
+		DIP = 4
+		MIL = 5
+	}
+}
+
+1780.1.1 = { leader = {	name = "Tipu Sultan"          	type = general	fire = 5	shock = 5	manuever = 3	siege = 1	death_date = 1782.12.8 } }
+
+1782.12.8 = {
+	monarch = {
+		name = "Tipu Sultan"
+		dynasty = "Fatehi"
+		ADM = 2
+		DIP = 5
+		MIL = 6
+		leader = {	name = "Tipu Sultan"          	type = general	fire = 5	shock = 5	manuever = 3	siege = 1 }
+	}
+	add_army_professionalism = 0.3
+}
+
+1799.5.5 = {
+	monarch = {
+		name = "Krishna Raja III"
+		dynasty = "Vodeyar"
+		ADM = 1
+		DIP = 0
+		MIL = 0
+	}
+	religion = hinduism
+	government = monarchy
+add_government_reform = feudalism_reform
+}

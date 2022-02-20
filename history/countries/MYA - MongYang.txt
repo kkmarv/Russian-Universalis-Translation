@@ -1,0 +1,126 @@
+government = tribal
+add_government_reform = tribal_kingdom
+technology_group = chinese
+religion = buddhism
+primary_culture = kachin	### STT
+capital = 582	# Mong Yang
+
+# Mong Kawng Dynasty (as placeholder)
+
+1432.1.1 = {
+	monarch = {
+		name = "Saonganpha"
+		dynasty = "Mong Kong"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1432.1.1 = {
+	heir = {
+		name = "Saohsipha"
+		monarch_name = "Sao Hsi Pha"
+		dynasty = "Mong Kong"
+		birth_date = 1420.1.1
+		death_date = 1449.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1445.1.1 = {
+	monarch = {
+		name = "Saohsipha"
+		dynasty = "Mong Kong"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1445.1.1 = {
+	heir = {
+		name = "Saopoupha"
+		monarch_name = "Saopoupha"
+		dynasty = "Mong Kong"
+		birth_date = 1440.1.1
+		death_date = 1460.1.1
+		claim = 95
+		ADM = 1
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1449.1.1 = {
+	monarch = {
+		name = "Saopoupha"
+		dynasty = "Mong Kong"
+		ADM = 1
+		DIP = 1
+		MIL = 1
+	}
+}
+
+# Mong Yang Dynasty
+
+1460.1.1 = {
+	monarch = {
+		name = "Solon"
+		dynasty = "Mong Yang"
+		ADM = 4
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1486.4.2 = {
+	heir = {
+		name = "Solon"
+		monarch_name = "Sawlon II"
+		dynasty = "Mong Yang"
+		birth_date = 1486.4.2
+		death_date = 1533.1.1
+		claim = 95
+		ADM = 4
+		DIP = 4
+		MIL = 5
+	}
+}
+
+1503.1.1 = {
+	monarch = {
+		name = "Solon II"
+		dynasty = "Mong Yang"
+		ADM = 4
+		DIP = 4
+		MIL = 5
+	}
+}
+
+1505.1.1 = {
+	heir = {
+		name = "Saohungpha"
+		monarch_name = "Saohungpha"
+		dynasty = "Mong Yang"
+		birth_date = 1505.1.1
+		death_date = 1542.5.1
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 3
+	}
+}
+
+1533.1.1 = {
+	monarch = {
+		name = "Saohungpha"
+		dynasty = "Mong Yang"
+		ADM = 3
+		DIP = 2
+		MIL = 3
+	}
+}

@@ -1,0 +1,294 @@
+government = tribal
+add_government_reform = steppe_horde 
+government_rank = 3
+primary_culture = mongol
+religion = tengri_pagan_reformed
+secondary_religion = sunni
+technology_group = nomad_group
+capital = 454
+
+1225.1.1 = {
+	monarch = {
+		name = "Chagatai"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1242.1.1 = {
+	monarch = {
+		name = "Hara Hulagu"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1247.1.1 = {
+	monarch = {
+		name = "Esu-Mune"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1251.1.1 = {
+	monarch = {
+		name = "Hara Hulagu"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1252.1.1 = {
+	monarch = {
+		name = "Ergene-Hatun"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}
+
+1261.1.1 = {
+	monarch = {
+		name = "Algu"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1265.9.1 = {
+	monarch = {
+		name = "Borak"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1271.8.9 = {
+	monarch = {
+		name = "Necubec"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1271.8.9 = {
+	monarch = {
+		name = "Necubec"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1272.1.1 = {
+	monarch = {
+		name = "Bug Tamur"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1291.1.1 = {
+	monarch = {
+		name = "Duva"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1306.1.1 = {
+	monarch = {
+		name = "Kunchek"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1308.1.1 = {
+	monarch = {
+		name = "Heather Taliku"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1309.1.1 = {
+	monarch = {
+		name = "Kebek"
+		dynasty = "Chagataid"
+		birth_date = 1270.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1309.1.1 = {
+	heir = {
+		name = "Esen-Buca"
+		monarch_name = "Esen-Buca"
+		dynasty = "Chagataid"
+		birth_date = 1275.1.1
+		death_date = 1318.1.1
+		claim = 95
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1309.6.1 = {
+	monarch = {
+		name = "Esen-Buca"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1318.1.1 = {
+	monarch = {
+		name = "Kebek"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1326.1.1 = {
+	monarch = {
+		name = "Ilchigidai"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1326.6.1 = {
+	monarch = {
+		name = "Durra Timur"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1326.6.1 = {
+	monarch = {
+		name = "Durra Timur"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1326.9.1 = {
+	monarch = {
+		name = "Tarmashireen"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1334.1.1 = {
+	monarch = {
+		name = "Buzan"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1336.1.1 = {
+	monarch = {
+		name = "Jenkshi"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1336.6.1 = {
+	monarch = {
+		name = "Yesun Timur"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1342.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1342.6.1 = {
+	monarch = {
+		name = "Kazan"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1346.1.1 = {
+	monarch = {
+		name = "Togluk Timur"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1362.1.1 = {
+	monarch = {
+		name = "Ilyas-Hodja"
+		dynasty = "Chagataid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

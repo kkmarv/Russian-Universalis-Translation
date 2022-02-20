@@ -1,0 +1,262 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 39  100  157 }
+
+revolutionary_colors = { 15  0  16 }
+
+random_nation_chance = 0
+
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	exploration_ideas
+	offensive_ideas
+	administrative_ideas	
+	maritime_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Napoleon #0" = 20
+	"Napoleon-Louis #0" = 15
+	"Napoleon-Ashil #0" = 10
+	"Napoleon Charles #0" = 10
+	"Napoleon Felix #0" = 10
+	"Napoleon-Frederick #0" = 10
+	"Napoleon-Jerome #0" = 10
+	"Napoleon-Joseph #0" = 10
+	"Napoleon-Lucien #0" = 10
+	"Adrienne-Marie #0" = 0
+	"Andre #0" = 0
+	"André-Marie #0" = 0
+	"Auguste #0" = 0
+	"Auguste Frederic #0" = 0
+	"Andrien #0" = 0
+	"Charles #0" = 0
+	"Édouard #0" = 0
+	"Emmanuel #0" = 0
+	"Eugene #0" = 0
+	"Felix #0" = 0
+	"François #0" = 0
+	"François-Christophe #0" = 0
+	"François-Joseph #0" = 0
+	"Georges #0" = 0
+	"Guillaume #0" = 0
+	"Henri #0" = 0
+	"Jacques #0" = 0
+	"Jean #0" = 0
+	"Jean-Baptiste #0" = 0
+	"Jean-Mathieu #0" = 0
+	"Jean-Paul #0" = 0
+	"Jerome #0" = 0
+	"Joaquim #0" = 0
+	"Joseph #0" = 0
+	"Joseph Antoine #0" = 0
+	"Jules #0" = 0
+	"Laurent #0" = 0
+	"Louis #0" = 0
+	"Louis-Alexander #0" = 0
+	"Louis-Gabriel #0" = 0
+	"Louis-Nicolas #0" = 0
+	"Lucien #0" = 0
+	"Maximilien #0" = 0
+	"Michelle #0" = 0
+	"Nicolas #0" = 0
+	"Nicolas-Francois #0" = 0
+	"Philippe #0" = 0
+	"Robert #0" = 0
+	"Theodore #0" = 0
+	"Victor #0" = 0
+
+	"Josephine #0" = -1
+	"Hortense #0" = -1
+	"Eleanor #0" = -1
+}
+
+leader_names = {
+	"d'Ambletuse"
+	"d'Olnais"
+	"de Bogarne"
+	"de Bercy"
+	"de Bethune"
+	"de Boissier"
+	"de Bonnefoie"
+	"de Bonnay"
+	"du Bosque"
+	"de la Bretonnière"
+	"de Brogol"
+	"de Casten"
+	"de Comarten"
+	"de Chambly"
+	"de Chambronn"
+	"de ChampMarten"
+	"de Chevigny"
+	"de Coulomb"
+	"de Crevecoeur"
+	"de Krussol"
+	"de Dampierre"
+	"Desgutt"
+	"Duken"
+	"de Cuère"
+	"d'Entrage"
+	"d'Estrees"
+	"du Fournaye"
+	"de Gallar"
+	"de Erbières"
+	"de La Bart"
+	"de la Ferrandier"
+	"de la Galissonière"
+	"de la Motte"
+	"de la Motte d'Haran"
+	"de la Porte"
+	"Le Tellier"
+	"de Léry"
+	"de Ligne"
+	"de Margaery"
+	"de Maurepa"
+	"de Neuchâtel"
+	"d'Ornano"
+	"de Pellefort"
+	"de Richmond"
+	"de Rocheshuar"
+	"de Rochemorie"
+	"de Rie"
+	"de Saint-Champond"
+	"de Saint Esprey"
+	"de Saint-Germain"
+	"de Saint Omer"
+	"de Siorac"
+	"de Toqueville"
+	"de la Tour d'Auvergne"
+	"de Treville"
+	"d'Eusson"
+	"du Valentinois"
+	"de Veurjenne"
+	"de Vibien"
+	"de Vigny"
+	"de Villeneuve"
+}
+
+ship_names = {
+	"l'Actif"
+	"l'Actionne"
+	"l'Egle"
+	"L'Alcide"
+	"l'Alesander"
+	"l'Ambition"
+	"l'Amfjon"
+	"l'Ardent"
+	"l'Arrogan"
+	"l'Artesian"
+	"L'Assure"
+	"l'Astre"
+	"la Belle Bullet"
+	"le bourbon"
+	"Le Brienne"
+	"Le Bienne Aimé"
+	"Le Bisar"
+	"Le Bretagne"
+	"le Beaure"
+	"Le Bourgogne"
+	"Le Brava"
+	"le Cato"
+	"Le Concerant"
+	"Le Contin"
+	"Le Couronne"
+	"le Dauphin Royale"
+	"Le Destin"
+	"le Diadem"
+	"le Duc de Bourgogne"
+	"L'Eveillette"
+	"l'Emeryon"
+	"Le Fantasque"
+	"le Fendan"
+	"le Fieux"
+	"Le Flaman"
+	"le Fleur de Lis"
+	"le Fleuron"
+	"le Foodroian"
+	"Le Glorieux"
+	"Le Ardi"
+	"l'Ermion"
+	"le Gaillard"
+	"Le Grand Ermine"
+	"le Eros"
+	"l'Illustre"
+	"l'Endienne"
+	"l'Entrepid"
+	"l'Envisable"
+	"le Languedoc"
+	"Le Licorne"
+	"le Fox"
+	"Le Magnanim"
+	"Le Magnyfique"
+	"Le Majestuer"
+	"le Marie-Catherine"
+	"Le Marky"
+	"forest of Mars"
+	"le Marseille"
+	"le Minotore"
+	"le Monarchais"
+	"le Neptune"
+	"L'Osean"
+	"L'Haso"
+	"l'Orien"
+	"Le Pelican"
+	"le Protecte"
+	"le Profe"
+	"La Provence"
+	"la Reyes"
+	"le Redoubtable"
+	"le Reflexes"
+	"le Regent"
+	"Le Robuste"
+	"Le Roland"
+	"le Royal Louis"
+	"le Sagittarius"
+	"le Saint-Anneuil"
+	"le Saint-Esprey"
+	"le Saint-Michel"
+	"le Saint Phillip"
+	"le Septre"
+	"Le Señor Château"
+	"le North"
+	"le Soleil Royal"
+	"le Solitaire"
+	"le Sovereign"
+	"Le Sphinx"
+	"le Superb"
+	"Le Tempereur"
+	"le Terrible"
+	"le Teresa"
+	"le Triomphene"
+	"le Tonnan"
+	"la trombe"
+	"Le Triton"
+	"Union"
+	"la Victoire"
+	"Ville de Paris"
+	"Le Seele"
+	"Le Zodiac"
+}

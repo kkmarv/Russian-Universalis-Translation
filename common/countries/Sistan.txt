@@ -1,0 +1,92 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 224 74 54 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Я #0" = 20
+	"Ш #0" = 20
+	"Mahmoud #0" = 40
+	"М  #0" = 20
+	"Nasir #0" = 20
+	"Nusrat #0" = 20
+	"К #0" = 10
+	"У #0" = 10
+	"Т #0" = 10
+	"Я #0" = 10
+	"'И #0" = 10
+	"'Alo #0" = 0
+	"'Abdallwh #0" = 0
+	"Anwar #0" = 0
+	"Bakr #0" = 0
+	"Fahd #0" = 0
+	"Farouk #0" = 0
+	"Fowad #0" = 0
+	"Hakim #0" = 0
+	"Harun #0" = 0
+	"Hisham #0" = 0
+	"Hussein #0" = 0
+	"Isma'il #0" = 0
+	"Jafar #0" = 0
+	"Yamaal #0" = 0
+	"Karim #0" = 0
+	"Khalil #0" = 0
+	"Malok #0" = 0
+	"Mirza #0" = 0
+	"Muhammad #0" = 0
+	"Kasim #0" = 0
+	"Rushod #0" = 0
+	"С #0" = 0
+	"Tark #0" = 0
+	"'Umar #0" = 0
+	"Osama #0" = 0
+	"Yassir #0" = 0
+	"Yusuf #0" = 0
+	"Zaid #0" = 0
+	"Zoyad #0" = 0
+	"Zulkiphar #0" = 0
+	
+	"М #0" = -1
+	"Х #0" = -1
+	"Ф #0" = -1
+	"С #0" = -1
+	"А #0" = -1
+	"Fatima #0" = -1
+	"Aisha #0" = -1
+	"Maryam #0" = -1
+	"М #0" = -1
+}
+
+leader_names = {
+	А
+}
+
+ship_names = {
+	Б
+}

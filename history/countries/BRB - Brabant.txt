@@ -1,0 +1,416 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = flemish
+
+capital = 92
+
+994.1.1 = {
+	monarch = {
+		name = "Lambert I"
+		dynasty = "de Louvain"
+		birth_date = 955.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1015.9.12 = {
+	monarch = {
+		name = "Henry I"
+		dynasty = "de Louvain"
+		birth_date = 992.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1038.1.1 = {
+	monarch = {
+		name = "Otto I"
+		dynasty = "de Louvain"
+		birth_date = 1000.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1041.1.1 = {
+	monarch = {
+		name = "Lambert II"
+		dynasty = "de Louvain"
+		birth_date = 1000.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1062.9.21 = {
+	monarch = {
+		name = "Henry II"
+		dynasty = "de Louvain"
+		birth_date = 1020.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1078.1.1 = {
+	monarch = {
+		name = "Henry III"
+		dynasty = "de Louvain"
+		birth_date = 1040.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1095.3.1 = {
+	monarch = {
+		name = "Gottfried I"
+		dynasty = "de Louvain"
+		birth_date = 1063.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1139.1.25 = {
+	monarch = {
+		name = "Gottfried II"
+		dynasty = "de Louvain"
+		birth_date = 1109.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1142.7.13 = {
+	monarch = {
+		name = "Gottfried III"
+		dynasty = "de Louvain"
+		birth_date = 1142.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1190.8.21 = {
+	monarch = {
+		name = "Henry I"
+		dynasty = "de Brabant"
+		birth_date = 1165.1.1
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1207.1.1 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry II"
+		dynasty = "de Brabant"
+		birth_date = 1207.1.1
+		death_date = 1248.2.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+1235.9.5 = {
+	monarch = {
+		name = "Henry II"
+		dynasty = "de Brabant"
+		birth_date = 1207.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+1248.2.1 = {
+	monarch = {
+		name = "Henry III"
+		dynasty = "de Brabant"
+		birth_date = 1231.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1261.2.28 = {
+	monarch = {
+		name = "Henry IV"
+		dynasty = "de Brabant"
+		birth_date = 1251.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+
+1267.5.14 = {
+	monarch = {
+		name = "Jean I"
+		dynasty = "de Brabant"
+		birth_date = 1253.1.1
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1294.5.3 = {
+	monarch = {
+		name = "Jean II"
+		dynasty = "de Brabant"
+		birth_date = 1275.9.27
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1312.10.27 = {
+	monarch = {
+		name = "Jean III"
+		dynasty = "de Brabant"
+		birth_date = 1300.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+1322.6.24 = {
+	heir = {
+		name = "Jeanne"
+		monarch_name = "Jeanne"
+		dynasty = "de Brabant"
+		birth_date = 1322.6.24
+		death_date = 1406.11.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}
+
+1327.1.1 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean IV"
+		dynasty = "de Brabant"
+		birth_date = 1327.1.1
+		death_date = 1336.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1336.1.1 = {
+	heir = {
+		name = "Jeanne"
+		monarch_name = "Jeanne"
+		dynasty = "de Brabant"
+		birth_date = 1322.6.24
+		death_date = 1406.11.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}
+
+1345.1.1 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry V"
+		dynasty = "de Brabant"
+		birth_date = 1345.1.1
+		death_date = 1349.10.29
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1349.10.29 = {
+	heir = {
+		name = "Gottfried"
+		monarch_name = "Gottfried IV"
+		dynasty = "de Brabant"
+		birth_date = 1346.1.1
+		death_date = 1352.2.3
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1352.2.3 = {
+	heir = {
+		name = "Jeanne"
+		monarch_name = "Jeanne"
+		dynasty = "de Brabant"
+		birth_date = 1322.6.24
+		death_date = 1406.11.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}
+
+1355.12.5 = {
+	monarch = {
+		name = "Jeanne"
+		dynasty = "de Brabant"
+		birth_date = 1322.6.24
+		adm = 3
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}
+
+1355.12.5 = {
+	heir = {
+		name = "Wenzel"
+		monarch_name = "Wenzel"
+		dynasty = "von Luxemburg"
+		birth_date = 1337.2.25
+		death_date = 1383.12.7
+		claim = 70
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1355.12.5 = {
+	heir = {
+		name = "Wenzel"
+		monarch_name = "Wenzel"
+		dynasty = "von Luxemburg"
+		birth_date = 1337.2.25
+		death_date = 1383.12.7
+		claim = 70
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1383.12.7 = {
+	heir = {
+		name = "Margarita"
+		monarch_name = "Margarita I"
+		dynasty = "de Dampierre"
+		birth_date = 1350.4.13
+		death_date = 1405.3.21
+		claim = 70
+		adm = 3
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}
+
+1384.8.1 = {
+	heir = {
+		name = "Antoine"
+		monarch_name = "Antoine"
+		dynasty = "de Valois-Bourgogne"
+		birth_date = 1384.8.1
+		death_date = 1415.10.25
+		claim = 70
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1406.11.1 = {
+	monarch = {
+		name = "Antoine"
+		dynasty = "de Valois-Bourgogne"
+		birth_date = 1384.8.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1406.11.1 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean IV"
+		dynasty = "de Valois-Bourgogne"
+		birth_date = 1403.6.11
+		death_date = 1427.4.17
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1415.10.25 = {
+	monarch = {
+		name = "Jean IV"
+		dynasty = "de Valois-Bourgogne"
+		birth_date = 1403.6.11
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1415.10.25 = {
+	heir = {
+		name = "Philippe"
+		monarch_name = "Philippe I"
+		dynasty = "de Valois-Bourgogne"
+		birth_date = 1404.7.25
+		death_date = 1430.8.14
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1427.4.17 = {
+	monarch = {
+		name = "Philippe I"
+		dynasty = "de Valois"
+		birth_date = 1404.7.25
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+

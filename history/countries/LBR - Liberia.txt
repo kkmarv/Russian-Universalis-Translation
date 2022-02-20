@@ -1,0 +1,36 @@
+government = republic
+set_legacy_government = constitutional_republic
+technology_group = western
+primary_culture = american
+religion = protestant
+capital = 2242
+
+1822.1.1  = {
+	monarch = {
+		name = "Provisional Government"
+		adm = 1
+		dip = 1	
+		mil = 1
+		regent = yes
+	}
+}
+
+1839.4.1  = {
+	monarch = {
+		name = "Thomas Buchanan"
+		birth_date = 1808.11.19
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1841.7.3  = {
+	monarch = {
+		name = "Joseph Jenkins Roberts"
+		birth_date = 1809.3.15
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}

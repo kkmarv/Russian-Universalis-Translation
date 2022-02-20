@@ -1,0 +1,71 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 124 212 121 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	religious_ideas
+}
+
+historical_units = {
+	african_spearmen
+	niger_kongolese_tribal_warfare
+	niger_kongolese_forest_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+	niger_kongolese_guerilla_warfare
+	african_mandelaku
+	african_tuareg_cavalry
+	african_mossi_horsemen
+	african_hussar
+	african_dragoon	
+}
+
+monarch_names = {
+	"Ruhinda #0" = 5
+	"Ncuba #0" = 5
+	"Nyaca #0" = 5
+	"Ntaré #0" = 10
+	"Rushango #0" = 5
+	"Casassira #0" = 5
+	"Keithra #0" = 5
+	"Rumongi #0" = 5
+	"Mirindi #0" = 5
+	"Makva #0" = 5
+	"Ruabire #0" = 5
+	"Kahaya #0" = 5
+	"Ruebishengier #0" = 5
+	"Gasyonga #0" = 5
+	"Mutambuca #0" = 5
+	
+	
+	"Nyaramavugo #0" = -1
+	"Kandjomera #0" = -1
+	"Nyirarukanga #0" = -1
+}
+
+leader_names = {
+	Bahinda
+	Chima
+	Shambo
+	Bito
+	Bairu
+	Cookie
+	Gahima
+	Rrgvor
+	Bahava
+	Bashi
+	Bongera
+}
+
+ship_names = {
+	Shurezo Knuba Kigwa Muntu Kyirou Kianuka Merano Randa Gisa Kazi Gianga
+}

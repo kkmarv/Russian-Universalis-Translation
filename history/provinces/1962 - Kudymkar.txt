@@ -1,0 +1,26 @@
+#Ust-Vym
+
+owner = PRM
+controller = PRM
+capital = "Ust-Vym"
+culture = uralic
+religion = siberian_shamanism
+trade_goods = fur
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_core = PRM
+discovered_by = western
+discovered_by = eastern
+discovered_by = nomad_group
+
+1462.1.1 = { religion = orthodox }
+1505.4.1 = {
+	owner = MOS
+	controller = MOS
+	add_core = MOS  
+}
+1547.1.16 = { owner = TSR controller = TSR add_core = TSR remove_core = MOS } ## Ivav IV - tsar
+1721.11.2 = { owner = RUS controller = RUS add_core = RUS remove_core = TSR } ## Potr I - imperator

@@ -1,0 +1,132 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 66  126  157}
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	religious_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Johann Friedrich #0" = 40
+	"William #3" = 20
+	"Friedrich #2" = 20
+	"Ernst #0" = 20
+	"Johann #0" = 20
+	"Johann Ernst #0" = 20
+	"Balthazar #0" = 20
+	"Friedrich Wilhelm #0" = 15
+	"Albrecht #4" = 10
+	"William Ernst #0" = 10
+	"Wolfgang #0" = 10
+	"Adolf #0" = 0
+	"Alfred #0" = 0
+	"Andreas #0" = 0
+	"Anton #0" = 0
+	"Bruno #0" = 0
+	"Burkhardt #0" = 0
+	"Christian #0" = 0
+	"Christoph #0" = 0
+	"Dietrich #0" = 0
+	"Eckechardt #0" = 0
+	"Gunter #0" = 0
+	"Harmann #0" = 0
+	"Helmfried #0" = 0
+	"Herman #0" = 0
+	"Joachim #0" = 0
+	"Caetan #0" = 0
+	"Conrad #0" = 0
+	"Lambert #0" = 0
+	"Lucas #0" = 0
+	"Marius #0" = 0
+	"Michael #0" = 0
+	"Otto #0" = 0
+	"Raimund #0" = 0
+	"Rudolph #0" = 0
+	"Thomas #0" = 0
+	"Ulrich #0" = 0
+	"Wenzel #0" = 0
+	"Wilfrid #0" = 0
+	"Wulfram #0" = 0
+
+	"Leonia #0" = -1
+	"Catherine #0" = -1
+	"Gerda #0" = -1
+}
+
+leader_names = {
+	"Selle"
+	"Langhainrich"
+	"Burgberg"
+	"Schmidt"
+	"Bon"
+	"Messer"
+	"Yauh"
+	"Ber"
+	"Berndt"
+	"Blochberger"
+	"Brozius"
+	"Eisenschmid"
+	"Hoffmann"
+	"Goebelin"
+	"Grizer"
+	"Grimm"
+	"Horn"
+	"Mayer"
+	"Meisgauer"
+	"Oswald"
+	"Rank"
+	"Rauch"
+	"Ritter"
+	"Schilling"
+	"Schroizer"
+	"Taut"
+	"Brendelin"
+	"Tregel"
+	"Becher"
+	"Eisenschmid"
+}
+
+ship_names = {
+	"Marbad"
+	"Katwalda"
+	"König Bisinus"
+	"König Baderich"
+	"Koenig Herminafrid"
+	"Koenig Bertakhar"
+	"Herzog Radulf"
+	"Herzog Heden"
+	"Margrave Eckechardt I"
+	"Landgrave Hermann"
+	"Heinrich Raspe"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$"
+}

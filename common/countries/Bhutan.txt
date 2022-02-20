@@ -1,0 +1,70 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = asiangfx
+
+color = { 93  180  76 }
+
+historical_idea_groups = {
+	religious_ideas
+	economic_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Ngawang Namgyal #0" = 20
+	"Jungney baker #0" = 20
+	"Kunga Gyaltshen #0" = 20
+	"Pyogla Namgyal #0" = 20
+	"Jigme Norbu #0" = 20
+	"Mytham Wangpo #0" = 20
+	"Jigme Dragpa #0" = 40
+	"Choiki Gältshen #0" = 20
+
+	"Sura Palinyal #0" = -5
+	"Kunzang #0" = -1
+	"Decky Choden #0" = -1
+}
+
+leader_names = {
+	"Chompel"
+	"Tschering"
+	"Rabbiye"
+	"Gamtsho"
+	"Wangpo"
+	"Peljor"
+	"Gältshen"
+	"Wangchuck"
+	"Funtsho"
+	"Lhopi"
+}
+
+ship_names = {
+	"Chu"
+	"Punaka"
+	"Dung Chu"
+	"Manas Chu"
+	"Mangde Chu"
+	"Mo Chu"
+	"Pa Chu"
+	"Po Chu"
+	"Sangosh"
+	"Timbu"
+	"Tongsa Chu"
+	"Tovang Chu"
+}

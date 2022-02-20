@@ -1,0 +1,312 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 57  160  101 }
+
+historical_score = 4700
+
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	exploration_ideas
+	expansion_ideas
+	economic_ideas
+	maritime_ideas
+	quality_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"João #0" = 120
+	"Philippe #0" = 60
+	"Alphonse #4" = 40
+	"Pedro #1" = 40
+	"Antonio #0" = 20
+	"Duarte #0" = 20
+	"Henry #0" = 20
+	"José #0" = 20
+	"Manuel #0" = 20
+	"Sebastian #0" = 20
+	"Maria #0" = -10
+	"Miguel #0" = 10
+	"Theodosio #0" = 10
+	"Dinish #1" = 5
+	"Ferdinand #1" = 5
+	"Alejandre #0" = 5
+	"Karl #0" = 5
+	"Diego #0" = 5
+	"Jaime #0" = 5
+	"Luis #0" = 5
+	"Alvaro #0" = 0
+	"Andre #0" = 0
+	"Antonio #0 Francisco" = 0
+	"Bartolomeu #0" = 0
+	"Caetano #0" = 0
+	"Damiao #0" = 0
+	"Estevao #0" = 0
+	"Francisco #0" = 0
+	"Francisco #0 Xavier" = 0
+	"Gabrielle #0" = 0
+	"Garcia #0" = 0
+	"Gaspar #0" = 0
+	"Gilles #0" = 0
+	"Gonzalo #0" = 0
+	"Guillerme #0" = 0
+	"Inasio #0" = 0
+	"Joaquim #0" = 0
+	"Georges #0" = 0
+	"José #0 Manuel" = 0
+	"Lawrenceo #0" = 0
+	"Marco #0" = 0
+	"Nikolaou #0" = 0
+	"Octavio #0" = 0
+	"Paulo #0" = 0
+	"Raphael #0" = 0
+	"Rogerio #0" = 0
+	"Rui #0" = 0
+	"Simao #0" = 0
+	"Uriel #0" = 0
+	"Vicente #0" = 0
+}
+
+leader_names = {
+	"Mahado"
+	"Cabral"
+	"Coelho"
+	"Cortereal"
+	"Cutiño"
+	"da Camara"
+	"da Costa"
+	"da Cunha"
+	"da Fonseca"
+	"de Albuquerque"
+	"de Almeida"
+	"de Andrade"
+	"de Aveiro"
+	"de Ataïde"
+	"de Acevedo"
+	"de Braganza"
+	"de Brito"
+	"de Carvalho"
+	"de Castello Branco"
+	"de Castro"
+	"de Correa"
+	"de Faria"
+	"da Gama"
+	"de Himarayas"
+	"de Lemoche"
+	"de Magalliaise"
+	"de Marialva"
+	"de Melo"
+	"de Mendonsa"
+	"de Menezes"
+	"de Noronja"
+	"de Oliveira"
+	"de Paiva"
+	"de Penamacor"
+	"de Pimentel"
+	"de Queiroche"
+	"de Sa"
+	"de Sampaio"
+	"de Sequeira"
+	"de Souza"
+	"de Souto"
+	"de Tavaresh"
+	"de Tavora"
+	"de Villein"
+	"Diash"
+	"Inesh"
+	"Ferreira Martins"
+	"Gomes"
+	"Gonzalvesh"
+	"Lemoche de Brito"
+	"Martins de Mascareneash"
+	"de Vasconsellos"
+	"Mendonsa Furtado"
+	"Núñez Barreto"
+	"Pereira"
+	"Rebello"
+	"Rodriguez"
+	"Sarmento"
+	"Texeira"
+	"Teles de Menezes"
+}
+
+ship_names = {
+	"Anunciada"
+	"Berrio"
+	"Boa Viagem"
+	"Bohm Jesus"
+	"Bohm Jesus do Carmo"
+	"Bohm Jesus de Marsagao"
+	"Bom Jesus de Vidigeira"
+	"Bretao"
+	"Kambaya"
+	"Chagash"
+	"Correjo d'Asiah"
+	"El-Ray"
+	"Enxobregash"
+	"Espirito Santo"
+	"Estrela"
+	"Flor do Mar"
+	"Garza"
+	"Imakulada Conceisao"
+	"Hoya"
+	"Monte Carvallo"
+	"Nazareh"
+	"Nossa Senora"
+	"Н. Saint. Yes Aparesida"
+	"Н. Sen. Yes Atalay."
+	"Н. Saint. Yes Batalha"
+	"Н. Sen. Yes Boa Ora"
+	"Н. Sen. Yes Boa Memorial"
+	"Н. Saint. Yes Boa Viagem."
+	"Н. Sen. Yes Candalaria"
+	"Н. Saint. da Caridad"
+	"Н. Sen. da Conceição"
+	"Н. Sen. da Consolasao"
+	"Н. St. da Esperanza"
+	"Н. Saint. Yes, Gloria."
+	"Н. Saint-Da Graça."
+	"Н. Saint. Da Gia"
+	"Н. Saint D'Ajuda Lucitan."
+	"Н. Saint. Yes Louche"
+	"Н. Sen. da Nazarene"
+	"Н. St. da Oliveira"
+	"Н. Saint. Yes Palma"
+	"Н. Saint. Yes, Pena de França."
+	"Н. Sen. da Kiyetasao"
+	"Н. Sen. da Salvasao"
+	"Н. St. da Saude"
+	"Н. Sen. da Vissitasao"
+	"Н. Saint. Yes Vitoria"
+	"Н. Sen. das Ondash"
+	"Н. Saint Das Portas to Seoux "
+	"Н. Saint Das Reliquéache"
+	"Н. St. de Belém"
+	"Н. Saint. de Guadeloupe"
+	"Н. St. to Castello."
+	"Н. St. to Livramento"
+	"Н. St. to Loreto"
+	"Н. Sen. before Paraiso"
+	"Н. St. to Pilar"
+	"Н. Sen. to Rosario"
+	"Н. Saint. Dos Pracéres"
+	"Н. Sen. dos Ramos"
+	"Princess before Seoul"
+	"Raina"
+	"Flight Magoos"
+	"Sacramento"
+	"Santa Ana"
+	"Santa Caratina"
+	"Santa Cruz"
+	"Santa Fe"
+	"Santa Helena"
+	"Santa Joana"
+	"Santa Madre de Deusch"
+	"Santa Maria de Saboia"
+	"Santo Milagre"
+	"Santiago Major"
+	"Santisima Trindade"
+	"Santisimo Sacramento"
+	"Santo Alberto"
+	"Santo Antonio"
+	"Santo Espirito"
+	"Santo Inacio"
+	"Sao Bartolomeu"
+	"SaoBento"
+	"Sao Bernardo"
+	"Sao Carlos"
+	"SaoChristovao"
+	"Sao Domingosh"
+	"Sao Phillipe"
+	"Sao Francisco"
+	"Sao Francisco de Borja"
+	"Sao-Gabriel"
+	"Sao-Gonzalo"
+	"Sao Joao"
+	"Sao Joao de Deusch"
+	"Sao Jorge"
+	"Sao José"
+	"Sao Juliao"
+	"Sao Lawrenceo"
+	"Sao-Lukash"
+	"Sao Louis"
+	"Sao Mateusz"
+	"Sao Paulo"
+	"Sao Pedro"
+	"Sao Raphael"
+	"Sao Roque"
+	"Sao-Salvador"
+	"Sao Tome"
+	"Sao Valentim"
+	"Sao Antonio de Lisboa"
+	"Santa Catarina de Ribamar"
+	"Sao Francisco de Assise"
+	"Sao Francisco Xavier"
+	"Sao Joao Baptista"
+	"Sao Joao Evangelista"
+	"Sao Pedro de Rates"
+	"Sao Pedro da Ribeira"
+	"Sao Salvador to Mundo"
+	"Sao Teresa de Jesús"
+	"Sao Tome da Canturia"
+	"Taphoreya"
+	"Trindade"
+	"Vissitasao"
+}
+
+army_names = {
+	"Royal Guard"
+	"Tercia prov. $PROVINCE$"
+	"Provincial Army. $PROVINCE$"
+	"Provincial Regiment. $PROVINCE$"
+	"Royal Army"
+}
+fleet_names = {
+	"Royal Navy"
+	"Provincial Squadron. $PROVINCE$"
+	"Provincial Squadron. $PROVINCE$"
+	"Provincial Squadron. $PROVINCE$"
+	"Atlantic Armada"
+	"Atlantic squadron"
+	"Atlantic Fleet"
+	"Brazilian Armada"
+	"Brazilian squadron"
+	"Brazilian Navy"
+	"Guinean Armada"
+	"Guinea Squadron"
+	"Guineaese navy"
+	"Armada Cabo"
+	"Cabo Squadron"
+	"Cabo Fleet"
+	"Indian Armada"
+	"Indian squadron"
+	"Indian fleet"
+	"Strait Armada"
+	"Strait Squadron"
+	"Strait Fleet"
+	"Far Eastern Armada"
+	"Far Eastern Squadron"
+	"Far Eastern Fleet"
+	"Pacific Armada"
+	"Pacific Squadron"
+	"Pacific Fleet"
+}

@@ -1,0 +1,113 @@
+#Norway 
+
+graphical_culture = westerngfx
+
+color = { 117  165  188 }
+
+historical_score = 25
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	aristocracy_ideas
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	maritime_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Hakon #6" = 40
+	"Olaf #4" = 40
+	"Eric #2" = 20
+	"Christoffer #0" = 20
+	"Magnus #7" = 10
+	"Harald #4" = 10
+	"Margaret #0" = -10
+	"Inge #2" = 5
+	"Sigurd #2" = 5
+	"Axel #0" = 0
+	"Alf #0" = 0
+	"Anders #0" = 0
+	"Ansgard #0" = 0
+	"Arvid #0" = 0
+	"Bernt #0" = 0
+	"Birger #0" = 0
+	"Bjorn #0" = 0
+	"Danielle #0" = 0
+	"Edward #0" = 0
+	"Eilert #0" = 0
+	"Einar #0" = 0
+	"Elias #0" = 0
+	"Esben #0" = 0
+	"Folke #0" = 0
+	"Gunnar #0" = 0
+	"Kasper #0" = 0
+	"Kenneth #0" = 0
+	"Knut #0" = 0
+	"Ludwig #0" = 0
+	"Mats #0" = 0
+	"Mikael #0" = 0
+	"Neld #0" = 0
+	"Nyord #0" = 0
+	"Oddmund #0" = 0
+	"Peder #0" = 0
+	"Rickard #0" = 0
+	"Simon #0" = 0
+	"Serena #0" = 0
+	"Tollack #0" = 0
+	"Torchild #0" = 0
+}
+
+leader_names = {
+	"Arnesson"
+	"Amundsen"
+	"Bjelke"
+	"Bolt"
+	"Egilsson"
+	"Ericsson"
+	"Haraldson"
+	"Larsson"
+	"Leifsson"
+	"Magnusson"
+	"Nansen"
+	"Norheim"
+	"Olafsson"
+	"Sverresson"
+	"Sigurdsson"
+	"Torgeirsson"
+	"Torsson"
+}
+
+ship_names = {
+	"Olvik"
+	"Bergen"
+	"Angan"
+	"Cristiansund"
+	"Melde"
+	"Oslo"
+	"Roan"
+	"Stavanger"
+	"Sula"
+	"Trondheim"
+}

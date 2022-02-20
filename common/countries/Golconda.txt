@@ -1,0 +1,114 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 183  176  94 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	innovativeness_ideas
+	economic_ideas
+	quantity_ideas
+	offensive_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Cooley #0" = 10
+	"Jamshid #0" = 10
+	"Subhang Cooley #0" = 10
+	"Ibrahim #0" = 10
+	"Muhammad Cooley #0" = 10
+	"Muhammad #0" = 10
+	"Abdullah #0" = 10
+	"Aboul Hassan #0" = 10
+	"Kabir #0" = 0
+	"Musa World #0" = 0
+	"Cooley Sultan #0" = 0
+	"Mahmoud Havana #0" = 0
+	"Said Hanif #0" = 0
+	"Imad al-Mulk #0" = 0
+	"Saif Allah #0" = 0
+	"Iftikhar al-Mulk #0" = 0
+	"Mir Abul Qasim #0" = 0
+	"Ubeid Allah #0" = 0
+	"Said Nazir al-Din #0" = 0
+	"Shah Khalil Allah #0" = 0
+	"Mullah Qutb al-Din #0" = 0
+	"Abd Allah #0" = 10
+	"Rustam Khan #0" = 0
+	"Mir Shams al-Din #0" = 0
+	"Kasim Beg #0" = 0
+	"Goja Imad al-Din #0" = 0
+	"Mir-Ali #0" = 0
+	"Hosrow #0" = 0
+	"Daud Khan #0" = 0
+	"Mojah #0" = 0
+	"Gazi Sirah ad-Din #0" = 0
+	"Fulad Khan #0" = 0
+	"Jamal-ud-Din #0" = 0
+	"Abdul #0" = 0
+	"Malik #0" = 0
+	"Ala-ad-Din #0" = 0
+	"Malik-at-Tujar #0" = 0
+	"Sikandar #0" = 0
+	"Hakim #0" = 0
+	"Bashirunmssa #0" = -1
+	"Umda #0" = -1
+	"Samia #0" = -1
+	"Davundissa #0" = -1
+}
+
+leader_names = {
+    "Khan"
+    "Mahaldar"
+	"Davar"
+	"Bhaskar"
+	"Kabir"
+	"Chirag"
+	"Jitesh"
+	"Cadak"
+	"Kumur"
+	"Hot"
+	"Velama"
+	"Vasiraddy"
+	"Nayudu"
+	"Sosapati"
+	"Agraval"
+	"Zamindari"
+	"Mazandarani"
+	"Kummy"
+	"Safsihan"
+	"Synthesians"
+	"Sistani"
+	"Uzbek"
+	"Hussani"
+	"Kadir"
+	"Barn"
+	"Latif"
+}
+
+ship_names = {
+	"Aliya" "Fatima" "Godwari" "Jalsen"
+	"Kala Jahazi" "Khan" "Lal Jahazi"
+	"Mahanadi" "Nausen" "Nava-ka-Yud" "Niknaz"
+	"Nile Jahazi" "Niloufa" "Sagar" "Saleema"
+	"Sukhaliya" "Shamina" "Yasmine"
+}

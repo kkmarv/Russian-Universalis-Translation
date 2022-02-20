@@ -1,0 +1,124 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 59  158  125 }
+
+historical_idea_groups = {
+	offensive_ideas
+	administrative_ideas
+	expansion_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Alps #0" = 10
+	"Arslan #0" = 10
+	"Adil #0" = 10
+	"Amin #0" = 10
+	"Bahadir #0" = 20
+	"Devlet #0" = 40
+	"Fethiye #0" = 20
+	"Gazi #0" = 30
+	"Hadji #0" = 20
+	"Halim #0" = 10
+	"Haspulad #0" = 10
+	"Hyder #0" = 10
+	"Inayet #0" = 10
+	"Islam #0" = 30
+	"Janai #0" = 10
+	"Janibeck #0" = 10
+	"Maxud #0" = 10
+	"Mehmed #0" = 40
+	"Mengli #0" = 20
+	"Mubarek #0" = 10
+	"Mourad #0" = 10
+	"Noor Devlet #0" = 10
+	"Otomesh #0" = 10
+	"Kaplan #0" = 20
+	"Kirim #0" = 10
+	"Saadet #0" = 20
+	"Safa #0" = 10
+	"Sahib #0" = 20
+	"Satilghan #0" = 10
+	"Shakhin #0" = 10
+	"Shardan #0" = 10
+	"Selemet #0" = 20
+	"Selim #0" = 30
+	"Toktamish #0" = 10
+
+	"Khalida #0" = -1	
+	"Mariam #0" = -1
+	"Sabah #0" = -1
+}
+
+leader_names = { 
+	"Altan"
+	"Asanin"
+	"Beckmambet"
+	"Ziyaddin"
+	"Sarygel"
+	"Bectere"
+	"Jelebijihan"
+	"Gobanzade"
+	"Duggie"
+	"Gaspirali"
+	"Gireibai"
+	"Humblemitoglu"
+	"Hilmi"
+	"Inaljik"
+	"Ipji"
+	"Cyrimal"
+	"Saydahmet"
+	"Ihsan"
+	"Kubei"
+	"Kirimoglu"
+	"Mamut"
+	"Mancise"
+	"Mehdi"
+	"Neyazi"
+	"Orteili"
+	"Semizade"
+	"Soysal"
+	"Zihni"
+	"Tarkhan"
+	"Fazil"
+	"Uralgirei"
+	"Kosey"
+	"Aha ."
+	"Mangitley"
+	"Tagey"
+	"Kemal"
+}
+
+ship_names = {
+	"Bakhchisarai"
+	"Suryuk Suv"
+	"Choufout Calais"
+	"Hansaray"
+	"Hashi Giray"
+	"Melie Gireille"
+	"Zingirley Madrassah"
+	"Kirim"
+	"Kirk Yehr"
+	"Koufout Calais"
+	"Genghis Khan"
+}

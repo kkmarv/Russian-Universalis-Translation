@@ -1,0 +1,141 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 223  198  64 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Friedrich #2" = 40
+	"Henry #1" = 20
+	"David #0" = 20
+	"Philippe #0" = 20
+	"Gisbert #0" = 20
+	"Rudolph #0" = 20
+	"Engelbert #0" = 10
+	"Johan #5" = 5
+	"Arnold #2" = 5
+	"Baudouin #2" = 5
+	"Dietrich #2" = 5
+	"William #2" = 5
+	"Andreas #1" = 5
+	"Floris #1" = 5
+	"Godfrid #1" = 5
+	"Jacob #1" = 5
+	"Conrad #1" = 5
+	"Nikolaus #1" = 5
+	"Adrian #0" = 0
+	"Alexander #0" = 0
+	"Augustine #0" = 0
+	"Bartolomeo #0" = 0
+	"Christiaan #0" = 0
+	"Constantine #0" = 0
+	"Danielle #0" = 0
+	"Dominic #0" = 0
+	"Fabian #0" = 0
+	"Frans #0" = 0
+	"Gilles #0" = 0
+	"Herman #0" = 0
+	"Ignas #0" = 0
+	"Yvo #0" = 0
+	"Jurrian #0" = 0
+	"Luke #0" = 0
+	"Martin #0" = 0
+	"Matthias #0" = 0
+	"Michael #0" = 0
+	"Siouved #0" = 0
+	"Thomas #0" = 0
+	"Valentin #0" = 0
+
+	"Sofia #0" = -1
+	"Yvona #0" = -1
+	"Angelica #0" = -1
+}
+
+leader_names = {
+	"van Aduard"
+	"van Karnbaye"
+	"van Cogorn"
+	"van der Oeye"
+	"van Giessenburg"
+	"van Grovestides"
+	"van Shooheten"
+	"van Steenwijk"
+	"van Velderen"
+	"van Zoelen"
+	"Agterberg"
+	"Baiy"
+	"Beeckman"
+	"Bernard"
+	"Brenninkmeyer"
+	"Conning"
+	"Cordavinder"
+	"Kubes"
+	"de Artuisen"
+	"de Geher"
+	"de Groot"
+	"Edelcoort"
+	"Elsendorne"
+	"Geitenbeek"
+	"Guildmaster"
+	"Hartog"
+	"Quiper"
+	"Laan"
+	"van Pelt"
+	"Leicher"
+	"Ligtering"
+	"McKink"
+	"Austy"
+	"Pilswert"
+	"Reccae"
+	"Reake"
+	"van Selmont"
+	"van Amerongen"
+}
+
+ship_names = {
+	"Alberik I"
+	"Amersfoort"
+	"De maison van Utrecht"
+	"Duife"
+	"Muiden"
+	"Sticht van Utrecht"
+	"Utrecht"
+	"Janitor"
+	"Wapen van Amersfoort"
+	"Wapen van Utrecht"
+	"Wijk bey Dourstede"
+	"Willibird"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$" }
+
+fleet_names = {  "Provincial Squadron. $PROVINCE$" 
+	 }

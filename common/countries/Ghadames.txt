@@ -1,0 +1,91 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 255 133 15 } 
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	maritime_ideas	
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"'Alo #0" = 60
+	"Ahmad #0" = 40
+	"Muhammad #0" = 40
+	"Yasuf #0" = 40
+	"'Abdallah #0" = 20
+	"Mammy #0" = 20
+	"Mansour #0" = 20
+	"Yahiv #0" = 20
+	"Sabit #2" = 10
+	"'Abdul-Aziz #0" = 0
+	"Abu Bakr #0" = 0
+	"Ala al-Din #0" = 0
+	"Batrus #0" = 0
+	"Fakhri #0" = 0
+	"Faiz #0" = 0
+	"Hajj #0" = 0
+	"Hafiz #0" = 0
+	"Haidar #0" = 0
+	"Harun #0" = 0
+	"Hassan #0" = 0
+	"Hashim #0" = 0
+	"Hussain #0" = 0
+	"Ibrahim #0" = 0
+	"Jafar #0" = 0
+	"Khalil #0" = 0
+	"Mahir #0" = 0
+	"Masood #0" = 0
+	"Mukhtar #0" = 0
+	"Mourad #0" = 0
+	"Mustafa #0" = 0
+	"Nizar #0" = 0
+	"Kadir #0" = 0
+	"Rasim #0" = 0
+	"Salah #0" = 0
+	"Shadi #0" = 0
+	"Tahir #0" = 0
+	"Tariq #0" = 0
+	"Torgud #0" = 0
+	"Ziyadh #0" = 0
+	"'Usman #0" = 0
+	
+	"Nasira #0" = -1
+	"Jamilya #0" = -1
+}
+
+leader_names = {
+	Banu Mackie
+	Banu al-Rind
+	Banu Yamlul
+	Banu Khalaf
+	Banu Sabit
+	Banu Ka'b
+	Banu Hamza
+	Banu Sulaym
+}
+
+ship_names = {
+	Ba'is Shahid Haqq Waqeel Kaviya Matin
+	Waliya Hamid Muhsi Mubdi Mu'id Muhsi Mumit
+	Hayi Qayyum Vajid Majid Vahid Samad Qadir
+	Muqtadir Muqaddim Mu'aqqir Awwal Akhir
+	Zahir Batin Wali Muta'al Barr Tawwab
+}

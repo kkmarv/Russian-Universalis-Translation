@@ -1,0 +1,162 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+
+color = { 136  117  90 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"An #0" = 10
+	"Cuy Lee #0" = 10
+	"Han Thuong #0" = 10
+	"Ng #0" = 10
+	"Qui Khoang #0" = 10
+	"Loy #0" = 20
+	"Nguyen Long #0" = 20
+	"Bang Ko #0" = 20
+	"Nghi Dan #0" = 20
+	"Tu Thanh #0" = 20
+	"Trang #0" = 20
+	"Thuan #0" = 20
+	"Tuan #0" = 20
+	"Oang #0" = 20
+	"И #0" = 20
+	"Xuan #0" = 20
+	"Dang Dung #0" = 20
+	"Dang Doang #0" = 20
+	"Trang Tong #0" = 20
+	"Puk Hi #0" = 20
+	"Phuk Nshuen #0" = 20
+	"Mau Hop #0" = 20
+	"Quin Chi #0" = 20
+	"Keen Kung #0" = 20
+	"Quin Khoan #0" = 20
+	"Kean Woo #0" = 20
+	"Dui Duong #0" = 20
+	"Duy Phuong #0" = 20
+	"Duy Tuong #0" = 20
+	"Dui Thanh #0" = 20
+	"Dui Dieu #0" = 20
+	"Duy Khem #0" = 20
+	"Hue #0" = 10
+	"Kwang Toan #0" = 10
+	"Dui Hop #0" = 20
+	
+	"Kim Ahn #0" = -1
+	"Thui Trum #0" = -1
+	"Beach Ngoc #0" = -1
+	"Phuong Nga #0" = -1
+	"Thanh Tao #0" = -1
+}
+
+leader_names = {
+	"Tran"
+	"Ho"
+	"Le"
+	"Lee"
+	"Ngo"
+	"Mac"
+	"Trinh"
+	"Nguyen"
+	"Hoine"
+	"Phan"
+	"Pham"
+	"Wu"
+	"Dang"
+    "Buoys"
+    "Until ."
+    "Duong"
+    "Banh"
+    "Kao"
+    "Chow"
+    "Chu"
+    "Cheung"
+    "Dieppe"
+    "Dame"
+    "Tao"
+    "Dynh"
+    "Doan"
+    "Giang"
+    "Ha"
+    "Khan"
+    "Qieu"
+    "Kim"
+    "La"
+    "Lacquer"
+    "Lam"
+    "Lieu"
+    "Onions"
+    "Luong"
+    "Lu"
+    "Ma"
+    "Much"
+    "May"
+    "Ngem"
+    "Pho"
+    "Pyung"
+    "Kwach"
+  "Kwang"
+  "Quienne"
+  "Ta"
+  "Thach"
+  "Thai"
+  "Thi"
+  "Thui"
+  "Thieu"
+  "That's ."
+  "Tone"
+  "Trang"
+  "Treu"
+  "Truong"
+  "Van"
+  "Winh"
+  "Wuong"
+}
+
+ship_names = {
+	"Trang Kahn"
+	"Tran Hoang"
+	"Tran Ham"
+	"Tran Tuen"
+	"Trang Man"
+	"Tran Wuong"
+	"Tran Hao"
+	"Duong Nat Le"
+	"Tran Fu"
+	"Tran Kin"
+	"Trans-Hyen"
+	"Tran Ngung"
+	"Tran An"
+	"Tai Tong"
+	"Than Tong"
+	"Nan Tong"
+	"An Tong"
+	"Min Tong"
+	"Hyen Tong"
+	"Du Tong"
+	"Nge Tong"
+	"Du Tong"
+	"Tuan Tong"
+}

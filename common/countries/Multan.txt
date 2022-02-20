@@ -1,0 +1,108 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 95  139  214 }
+
+historical_idea_groups = {
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	reformed_mughal_mansabdar
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Fruitshah #0" = 25
+	"Mahmoud #0" = 25
+	"Ghazi Kan #0" = 25
+	"Kutbudin #0" = 25
+	"Ibrahim #0" = 0
+	"Hassan #0" = 0
+	"Nasuk #0" = 0
+	"Yusuf #0" = 0
+	"Jakub #0" = 0
+	"Muhammad #0" = 0
+	"Ali #0" = 0
+	"Ismayil #0" = 0
+	"Gulab #0" = 0
+	"Ranbir #0" = 0
+	"Hari #0" = 0
+	"Pratap #0" = 0
+	"Kishore #0" = 0
+	"Zoravar #0" = 0
+	"Yonaraya #0" = 0
+	"Pryna #0" = 0
+	"Hamza #0" = 0
+	"Cher #0" = 0
+	"Muzzafar #0" = 0
+	"Khaleel #0" = 0
+	"Sikandar #0" = 0
+	"Bhenji #0" = 0
+	"Hamirji #0" = 0
+	"Bhav #0" = 0
+	"Natwar #0" = 0
+	"Sydhrai #0" = 0
+	"Ghulam #0" = 0
+	"Hussain #0" = 20
+	"Fakir #0" = 0
+	"Abdullah #0" = 0
+	"Ifatunissa #0" = -1
+	"Shahzada #0" = -1
+	"Canshal #0" = -1
+}
+
+leader_names = {
+	Bahadur
+	Bhalla
+	Bhatia
+	Das
+	Dev
+	Gahunia
+	Gobind
+	Grant
+	Hoora
+	Yehol
+	Yhotti
+	Krishan
+	Lohaar
+	Parmanand
+	Shergill
+	Singh
+	Sayid
+	Sodhi
+	Sohal
+	Paradise
+	Udasi
+	Shah
+	Munshi
+	Wig
+	Patel
+	Patidar
+	Zamindar
+}
+
+ship_names = {
+	Beaas Chenab Devi Gayatri Guru Indus
+	Jalsena Jhelum Lakshmi Nausena
+	"Nava ka Yudh" Parvati Radha Ratri
+	Ravi Sagar Sutlezh Saraswati Sita
+}

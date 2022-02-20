@@ -1,0 +1,87 @@
+government = tribal
+add_government_reform = tribal_kingdom
+primary_culture = luba
+religion = shamanism
+technology_group = central_african
+unit_type = sub_saharan
+capital = 3538 # Luapala
+
+1430.1.1 = {
+	monarch = {
+		name = "Mutanda"
+		dynasty = "Sheila"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+} #Fictional. Just fill the gap until we get to the known rulers. Here, Kazembe represent assorted people of the region, such as the Sheila.
+
+1500.1.1 = {
+	monarch = {
+		name = "Mfwama"
+		dynasty = "Sheila"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+} #Also Fictional
+
+1560.1.1 = {
+	monarch = {
+		name = "Mwongo"
+		dynasty = "Sheila"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+} #Fictional
+
+1680.1.1 = {
+	monarch = {
+		name = "Munona"
+		dynasty = "Sheila"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+} #Fictional
+
+1740.1.1 = {
+	monarch = {
+		name = "Nganga Bilonda"
+		dynasty = "Kazembe"
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+} #Arriving in the region chasing his father's killers. Establish a realm. 
+
+1745.1.1 = {
+	monarch = {
+		name = "Canyembo Mpemba"
+		dynasty = "Kazembe"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1760.1.1 = {
+	monarch = {
+		name = "Lukvesa Ilunga"
+		dynasty = "Kazembe"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1805.1.1 = {
+	monarch = {
+		name = "Kanyembo Keleka Maya"
+		dynasty = "Kazembe"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}

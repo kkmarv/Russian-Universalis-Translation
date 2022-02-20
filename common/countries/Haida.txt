@@ -1,0 +1,49 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 20  191  20 } 
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	algonkin_tomahawk_charge
+	native_indian_horsemen
+	commanche_swarm
+	native_indian_mountain_warfare
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Skaai #0" = 20
+	"Kumsheva #0" = 20
+	"Koya #0" = 20
+	"Kunich #0" = 20
+	"Masset #0" = 20
+	"Tahaigen #0" = 20
+	
+	"Quoiang #0" = -1
+}
+
+leader_names = {
+	Kyusta Kung Yan Hjellan Skidegate. "Cha'atl" Haina Kaisun Kumsheva Skedans Tanu Ninsteitz
+	Massettes Eitwaas Jaahgookhl Kayung "Nlk'yah Haavga" Klinkwan Sukkwan Hawkan Kasaan
+}
+
+ship_names = {
+	"S'ganna" Xa Kaat Xunt Taan Khalkuts Tsang Kagan Galtsaakv Tsakhtsaaa Yaaahl Hlgitun Kun Xuut Chiin Sgaal
+	Kyusta Kung Yan Hjellan Skidegate. "Cha'atl" Haina Kaisun Kumsheva Skedans Tanu Ninsteitz
+	Massettes Eitwaas Jaahgookhl Kayung "Nlk'yah Haavga" Klinkwan Sukkwan Hawkan Kasaan
+}

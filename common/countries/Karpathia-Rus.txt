@@ -1,0 +1,153 @@
+graphical_culture = easterngfx
+
+color = { 34 139 34 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Ivan #0" = 60
+	"Feodor #0" = 20
+	"Alexander #0" = 20
+	"Michael #0" = 15
+	"Yaroslav #0" = 15
+	"Daniel #0" = 10
+	"Rostislav #0" = 10
+	"Vasily #0" = 10
+	"Vladimir #0" = 10
+	"Yuri #0" = 10
+	"Andrei #0" = 0
+	"Bogdan #0" = 0
+	"Bohuslav #0" = 0
+	"Boryshko #0" = 0
+	"Boyko #0" = 0
+	"Demian #0" = 0
+	"Dmitry #0" = 0
+	"Gregory #0" = 0
+	"Christian #0" = 0
+	"Kirill #0" = 0
+	"Maxim #0" = 0
+	"Mark #0" = 0
+	"Matthew #0" = 0
+	"Mechslav #0" = 0
+	"Mykola #0" = 0
+	"Miroslav #0" = 0
+	"Nikon #0" = 0
+	"Oleg #0" = 0
+	"Alexey #0" = 0
+	"Paul #0" = 0
+	"Peter #0" = 0
+	"Philippe #0" = 0
+	"Radomir #0" = 0
+	"Stepan #0" = 0
+	"Svyatoslav #0" = 0
+	"Simon #0" = 0
+	"Taras #0" = 0
+	"Jacob #0" = 0
+	"Eugene #0" = 0
+	"Joseph #0" = 0
+	
+	"Kalina #0" = -1
+	"Oksana #0" = -1
+	"Zoya #0" = -1
+}
+
+leader_names = { 
+	"Davydov"
+	"Sidorenko"
+	"Lysenko"
+	"Babko"
+	"Shchukarev"
+	"Trimenko"
+	"Tyutyunnikov"
+	"Glushkov"
+	"Filithov"
+	"Kondratyuk"
+	"Antonovic"
+	"Gorbachev"
+	"Doroshenko"
+	"Dragomanov"
+	"Maximovich"
+	"Oglobin"
+	"Stop ."
+	"Javornicki"
+	"Bogolyubov"
+	"Bunyakovsky"
+	"Chebotaryov"
+	"Cholesky"
+	"Gnedenko"
+	"Kravchuk"
+	"Fomenko"
+	"Korolyuk"
+	"Mitropolsky"
+	"Oleynik"
+	"Ostrogradsky"
+	"Petrishyn"
+	"Pogorelov"
+	"Poretzky"
+	"Potapov"
+	"Samoilenko"
+	"Shafarevich"
+	"Sharkovsky"
+	"Shatunovsky"
+	"Speed"
+	"Stalo"
+	"Sleschinski"
+	"Urinson"
+	"Vashchenko"
+	"Raven"
+	"Avramenko"
+	"Chuperchuk"
+	"Dmitrenko"
+	"Krivohizha"
+	"Prima"
+	"Shekera"
+	"Vantuk"
+	"Vasilenko"
+	"Verkhovenets"
+}
+
+ship_names = {
+	"Lviv"
+	"Lutsk"
+	"Vinnitsa"
+	"Dnieper"
+	"Kakhovka"
+	"Dniester"
+	"Kamenets"
+	"Pereyaslavl"
+	"Zvenigorod"
+	"Terebovl"
+	"Dorogobuzh"
+	"Belgorod"
+	"Galich"
+	"Vyshgorod"
+	"Ljubech"
+}

@@ -1,0 +1,213 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 93  194  122 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Gig #8" = 40
+	"Humbert #2" = 40
+	"Jean #2" = 40
+	"Hugo #2" = 10
+	"Anna #1" = -10
+	"Adhemar #0" = 0
+	"Arno #0" = 0
+	"Emeric #0" = 0
+	"Bartomew #0" = 0
+	"Berna #0" = 0
+	"Bertrand #0" = 0
+	"Karl #0" = 0
+	"Damian #0" = 0
+	"Enric #0" = 0
+	"Esteve #0" = 0
+	"Ferran #0" = 0
+	"Fulk #0" = 0
+	"Frans #0" = 0
+	"Gaston #0" = 0
+	"Corrugated #0" = 0
+	"Guillaume #0" = 0
+	"Ignasi #0" = 0
+	"Jacquet #0" = 0
+	"Jourdain #0" = 0
+	"Lua #0" = 0
+	"Martin #0" = 0
+	"Mathieu #0" = 0
+	"Myke #0" = 0
+	"Nicolas #0" = 0
+	"Per #0" = 0
+	"Paul #0" = 0
+	"Ponce #0" = 0
+	"Ramon #0" = 0
+	"Rikar #0" = 0
+	"Sens #0" = 0
+	"Simo #0" = 0
+	"Vicenc #0" = 0
+	"Xavier #0" = 0
+	"Victor #0" = 0
+	"John #0" = 0
+}
+
+leader_names = {
+	"d'Abon"
+	"d'Agul"
+	"Agren de Ubaz"
+	"d'Alan Mirabel"
+	"d'Alozon"
+	"d'Albon"
+	"Alleman"
+	"d'Andréve"
+	"d'Angere"
+	"d'Arbalesthe"
+	"d'Arsilay"
+	"Artaud"
+	"d'Aspremont"
+	"de Balathier"
+	"de Bardonnes"
+	"de Beaumont"
+	"de Belmont"
+	"de Bernard"
+	"de Boxsosele"
+	"de Bompar"
+	"de Bonnilles"
+	"de Boullier"
+	"de Bressier"
+	"de Calignon"
+	"de Chalenda"
+	"de Chambardliac"
+	"de Chambly"
+	"de la Chambre"
+	"de Champignayne"
+	"de Chelseu"
+	"de Claire"
+	"de Dieuillette"
+	"de Domain"
+	"de l'Espin"
+	"de Forben"
+	"de Gandil"
+	"de Genève"
+	"de Granger"
+	"de la Balm"
+	"de la Farge"
+	"de la Porte"
+	"de la Tour du Pen"
+	"Lessee"
+	"de Marcier"
+	"de Marin"
+	"de Miribille"
+	"de Molin"
+	"de Monchengue"
+	"de Montferra"
+	"de Saint Aubin"
+	"de Pecca"
+	"de Pelou"
+	"de Perissol"
+	"de Perdry"
+	"de Prakomtal"
+	"de Revilasque"
+	"de Sassenage"
+	"de Seissel"
+	"du Terry"
+	"de Virieux"
+}
+
+ship_names = {
+	"Aprie"
+	"Barnav"
+	"Boreper"
+	"Bellegard Poussier"
+	"Bourget de Peigne"
+	"Bourges d'Hassan"
+	"Burgon"
+	"Brianson"
+	"Sessie"
+	"Klel"
+	"Krol"
+	"Die-le-Fie"
+	"Embrun"
+	"Gap"
+	"Grenoble"
+	"Euse"
+	"La Côte Saint-André"
+	"La Murée"
+	"La Tour du Pin"
+	"La Pet Laval"
+	"La Pont de Clet"
+	"La Tay"
+	"Live-et-Gave"
+	"Le Abret"
+	"Loriol"
+	"Liu la Croix Ote"
+	"Mance"
+	"Muaran"
+	"Montelima"
+	"Roshmore"
+	"Russion"
+	"Sayan"
+	"Saint-Claire de la Tour"
+	"Saint-Etienne-enneuveaux"
+	"Saint-Jeouis"
+	"Saint-Jean de Bourneuillet"
+	"San Laurent en Royan"
+	"San Román"
+	"Söze"
+	"Serre"
+	"Tullen"
+	"Valbonne"
+	"Valence"
+	"Vanosk"
+	"Weine"
+	"Vienne"
+	"Wiff"
+	"Visy"
+	"Vuaron"
+	"Vorepp"
+}
+
+
+army_names = {
+	"Dauphin's army"
+	"Viennese Army"
+	"Grezivodan Army"
+	"Valentinois Army"
+	"Ruan's Army"
+	"Keira's army"
+	"L'Embrunet Army"
+	"Hapans's army"
+	"Brienconne army"
+	"Dioua Army"
+	"Devolutionary Army"
+	"Verkor Army"
+	"Baronnier Army"
+	"Tryev Army"
+	"Shampsor's army"
+	"Provincial Army. $PROVINCE$"
+}

@@ -1,0 +1,119 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 25  105  90 } 
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	maritime_ideas	
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Ali #0" = 60
+	"Ahmed #0" = 40
+	"Muhammad #0" = 40
+	"Yusuf #0" = 40
+	"Abdallah #0" = 20
+	"Mammy #0" = 20
+	"Mansour #0" = 20
+	"Yahya #0" = 20
+	"Sabit #2" = 10
+	"Abd al-Aziz #0" = 0
+	"Abu Bakr #0" = 0
+	"Ala al-Din #0" = 0
+	"Bootrus #0" = 0
+	"Fahri #0" = 0
+	"Fayiz #0" = 0
+	"Hadj #0" = 0
+	"Hafiz #0" = 0
+	"Haidar #0" = 0
+	"Harun #0" = 0
+	"Hassan #0" = 0
+	"Hashim #0" = 0
+	"Hussain #0" = 0
+	"Ibrahim #0" = 0
+	"Jafar #0" = 0
+	"Khalil #0" = 0
+	"Mahir #0" = 0
+	"Masood #0" = 0
+	"Mukhtar #0" = 0
+	"Mourad #0" = 0
+	"Mustafa #0" = 0
+	"Nizar #0" = 0
+	"Kadir #0" = 0
+	"Rasim #0" = 0
+	"Salah #0" = 0
+	"Shadi #0" = 0
+	"Tahir #0" = 0
+	"Tariq #0" = 0
+	"Torgud #0" = 0
+	"Ziyadh #0" = 0
+	"Oman #0" = 0
+
+	"Nazir #0" = -1
+	"Jamila #0" = -1
+}
+
+leader_names = {
+	"Inflexible"
+	"Flight"
+	"Emin"
+	"Asker"
+	"Asim"
+	"Izzet"
+	"Nedim"
+	"Naskhar"
+	"Khalid"
+	"Nuri"
+}
+
+ship_names = {
+	"Bait"
+	"Shahid"
+	"Hakk"
+	"Vakil"
+	"Kavii"
+	"Matin"
+	"Valium"
+	"Hamid"
+	"Muhshi"
+	"Mubdi"
+	"Muid"
+	"Fly"
+	"Mumit"
+	"Hi"
+	"Caium"
+	"Wajid"
+	"Majeed"
+	"Wahid"
+	"Samad"
+	"Kadir"
+	"Muktadir"
+	"Mukaddim"
+	"Muahhir"
+	"Avval"
+	"Akhir"
+	"Zahir"
+	"Batin"
+	"Valium"
+	"Mutaal"
+	"Barr"
+	"Tawwab"
+}

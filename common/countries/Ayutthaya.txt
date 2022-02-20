@@ -1,0 +1,97 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+
+color = { 60  152  70 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	administrative_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Ramracha #0" = 20
+	"Intaracha #0" = 20
+	"Boromaracha #1" = 40
+	"Bromothilokanat #0" = 20
+	"Ramatiboti #1" = 20
+	"Ratsada #0" = 20
+	"Chairacha #0" = 20
+	"Keofa #0" = 20
+	"Buncie #0" = 5
+	"Mahachakrapat #0" = 20
+	"Mahin #0" = 20
+	"Mahatammaracha #0" = 20
+	"Available at . #0" = 20
+	"Ekatotsarot #0" = 20
+	"Si Sauwaphak #0" = 20
+	"Songtham #0" = 20
+	"Chetcha #0" = 20
+	"Athitayavong #0" = 20
+	"Prasatthong #0" = 20
+	"Chow Fa Yai #0" = 20
+	"Narai #0" = 20
+	"Sisuthammaracha #0" = 20
+	"Petracha #0" = 20
+	"Phrachau Sia #0" = 20
+	"Thaysah #0" = 20
+	"Boromakot #0" = 20
+	"Uthumphon #0" = 20
+	"Taxi #0" = 20
+	"Frame #0" = 30
+	
+	"Amporn #0" = -1
+	"Chanarong #0" = -1
+	"Srisuryothai #0" = -1
+	"Panyapaya #0" = -1
+	"Komol #0" = -1
+}
+
+leader_names = {
+	Akradei Ariyanuntaka 
+	Boonmeier 
+	Chaipatana Chakrabonese Chuasiriporn 
+	Discussion 
+	Ekaluk 
+	Hitapot 
+	Incareun 
+	Kaurungruang Khuntilanont Klinpraneet Kriangsak 
+	Moncoltham 
+	Nitpattanasai Noppachorn Nut 
+	Panamiaong Phatipathanavong 
+	Sithdhirax Sivaraxa Sichurray Supachai Supasawat 
+	Tantasatitianon Thabchumpon Thomson 
+	Vongrutiyan 
+	Yongchaiud
+	"Na Phaiap" "Na Maharat" "Na Isan" "On Roy Et." "On Ubon"
+	"Na Udon" "In Phuket" "On Kedah" "Na Chumphong" "At Prachinburi"
+	"On Burapa" "In Chanthaburi."
+}
+
+ship_names = {
+	Ramatiboti Ramsesuan Boromaracha "Thong Chang"
+	Ramracha Intaracha Borotraylokanat Ratsada
+	Chairacha Yotf Voravongs Chakraphat Mahin
+	Sanpet Naresuan Ecathothsarot "Si Sauwaphak"
+	Songtham Cheha "Somdet Phra" "Prasat Thong" Tea
+	Suthammaracha Narai Petracha Swa Pkhumintharacha
+	Uthumpon Eccathat
+}

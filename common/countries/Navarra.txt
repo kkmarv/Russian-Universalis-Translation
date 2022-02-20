@@ -1,0 +1,162 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 252  233  58 }
+
+historical_idea_groups = {
+	maritime_ideas
+	religious_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	french_caracolle
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Enrique #1" = 40
+	"Carlos #2" = 20
+	"Francisco #0 Feb" = 20
+	"Junna #2" = -10
+	"Juan #1" = 10
+	"Louis #1" = 10
+	"Andres #0 Feb" = 10
+	"Catalina #0" = -10
+	"Gaston #0" = 10
+	"Leonor #0" = -10
+	"Blank #1" = -10
+	"Pedro #1" = 5
+	"Buenaventure #0" = 5
+	"Francisco #0" = 5
+	"Godofredo #0" = 5
+	"Jaime #0" = 5
+	"Lanzarote #0" = 5
+	"Leonel #0" = 5
+	"Martin #0" = 5
+	"Sancho #7" = 1
+	"Garcia #5" = 1
+	"Philippe #3" = 1
+	"Theobaldo #2" = 1
+	"Alphonse #1" = 1
+	"Agustin #0" = 0
+	"Alejandro #0" = 0
+	"Alvaro #0" = 0
+	"Andres #0" = 0
+	"Antonio #0" = 0
+	"Bernardo #0" = 0
+	"Cesar #0" = 0
+	"Crystal #0" = 0
+	"Diego #0" = 0
+	"Esteban #0" = 0
+	"Fernando #0" = 0
+	"Gaspar #0" = 0
+	"Jose #0" = 0
+	"Melkor #0" = 0
+	"Nicholas #0" = 0
+	"Simon #0" = 0
+}
+
+leader_names = {
+"de Aguirre"
+	"d'Albre"
+	"de Antiión"
+	"de Aranda"
+	"de Armendaris"
+	"de Asagra"
+	"de Aspilqueta"
+	"de Beaumont"
+	"de Béorteguy"
+	"Bercher"
+	"de bourbon"
+	"de Carranza"
+	"Elisalde"
+	"de Garay"
+	"de Gonja"
+	"Goeneh"
+	"de Eredia"
+	"de Ikhar"
+	"de Jaso"
+	"Jimenez de Rada"
+	"Jimeno"
+	"de Landivar"
+	"Navarro"
+	"Palafox"
+	"Pérez de Sabalsa"
+	"de Salazar"
+	"de Uribe"
+	"de Ursua"
+	"de Yangwas"
+	"de Saraté"
+}
+
+ship_names = {
+	"Atlantis"
+	"Conde de Euro"
+	"Conde de Foie"
+	"Conde de Gendulain"
+	"Conde de Lerin"
+	"Don Jimeno"
+	"Duke de Armagnac"
+	"Duquet de Champagne"
+	"El Argamonte"
+	"El Bomonte"
+	"El Bearne"
+	"El Cruzado Navarro"
+	"El Montañez"
+	"El Navarro"
+	"El Salvador"
+	"El Trobador"
+	"El Vignadore"
+	"Emperador Ispanico"
+	"Europa"
+	"Mar de Navarre"
+	"Nuestra Sra de Leira"
+	"Principe de Viana"
+	"Reyna Juan"
+	"Ray Enrique"
+	"Ray Garcia"
+	"Ray Sancho"
+	"Reyno de Navarra"
+	"Reynaud de Pamplona"
+	"San Agustín"
+	"San Andres"
+	"San Antonio"
+	"San Carlos"
+	"San Enrique"
+	"San Esteban"
+	"San Fermin"
+	"San Francisco"
+	"San Francisco Xabier"
+	"San Gregorio"
+	"San Juan"
+	"San Leon"
+	"San Miguel Arcangel"
+	"San Raimundo"
+	"San Virila"
+	"Santa Ana"
+	"Santa Catalina"
+	"Santa Juana"
+	"Santa Leonora"
+	"Santisima Trinidad"
+	"Señor de Tudela"
+	"Vasconia"
+}

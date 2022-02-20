@@ -1,0 +1,227 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+religion = buddhism
+primary_culture = vietnamese
+capital = 610
+
+#Trinh Dynasty
+
+1527.7.13 = {
+	monarch = {
+		name = "Trinh Chiem"
+		dynasty = "Trine"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1550.1.1 = {
+	heir = {
+		name = "Chin Koi"
+		monarch_name = "Chin Koi"
+		dynasty = "Trine"
+		birth_date = 1550.1.1
+		death_date = 1623.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1570.1.1 = {
+	monarch = {
+		name = "Chin Koi"
+		dynasty = "Trine"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1577.1.1 = {
+	heir = {
+		name = "Chinh Tung"
+		monarch_name = "Chinh Tung"
+		dynasty = "Trine"
+		birth_date = 1577.1.1
+		death_date = 1654.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1623.1.1 = {
+	monarch = {
+		name = "Chinh Tung"
+		dynasty = "Trine"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1623.1.1 = {
+	heir = {
+		name = "Jin Tak"
+		monarch_name = "Jin Tak"
+		dynasty = "Trine"
+		birth_date = 1606.1.1
+		death_date = 1682.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1654.1.1 = {
+	monarch = {
+		name = "Jin Tak"
+		dynasty = "Trine"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1654.1.1 = {
+	heir = {
+		name = "Jin Kon"
+		monarch_name = "Jin Kon"
+		dynasty = "Trine"
+		birth_date = 1633.1.1
+		death_date = 1709.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1682.1.1 = {
+	monarch = {
+		name = "Jin Kon"
+		dynasty = "Trine"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1686.1.1 = {
+	heir = {
+		name = "Chinh Quong"
+		monarch_name = "Chinh Quong"
+		dynasty = "Trine"
+		birth_date = 1686.1.1
+		death_date = 1729.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1709.1.1 = {
+	monarch = {
+		name = "Chinh Quong"
+		dynasty = "Trine"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1711.1.1 = {
+	heir = {
+		name = "Chin Ziang"
+		monarch_name = "Chin Ziang"
+		dynasty = "Trine"
+		birth_date = 1711.1.1
+		death_date = 1762.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1729.1.1 = {
+	monarch = {
+		name = "Chin Ziang"
+		dynasty = "Trine"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1729.1.2 = {
+	monarch = {
+		name = "Chin Zoan"
+		dynasty = "Trine"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1739.1.1 = {
+	heir = {
+		name = "Trin Sam"
+		monarch_name = "Trin Sam"
+		dynasty = "Trine"
+		birth_date = 1739.1.1
+		death_date = 1782.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1767.1.1 = {
+	monarch = {
+		name = "Trin Sam"
+		dynasty = "Trine"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1782.1.1 = {
+	monarch = {
+		name = "Chin Man"
+		dynasty = "Trine"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1782.3.1 = {
+	monarch = {
+		name = "Chin Hi"
+		dynasty = "Trine"
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1786.1.1 = {
+	monarch = {
+		name = "Chinh Bong"
+		dynasty = "Trine"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+#Annexed by Annam in October 1787

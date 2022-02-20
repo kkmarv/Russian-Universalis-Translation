@@ -1,0 +1,76 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+
+color = { 140  210  160 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Razadarite #1" = 20
+	"Binha Dammaiza #1" = 20
+	"Biña Ran #1" = 20
+	"Biña Varu #0" = 20
+	"Biña Chiang #0" = 20
+	"Lake Modo #0" = 20
+	"Modo #0" = 20
+	"Dimmazedi #0" = 20
+	"Takayutpi #0" = 10
+	"Smith Sauchtut #0" = 20
+	"Smim Khtav #0" = 20
+	"Binnya Dala #0" = 10
+	
+	"Mya #0" = -1
+	"Shin Savbu #0" = -1
+	"Yaza Devi #0" = -1
+	"Mi Pakahtav #0" = -1
+	"Shin Savbu #0" = -20
+	"Seo Min Vimala #0" = -1
+}
+
+leader_names = {
+	"Ming"
+	"Mio"
+	"Than"
+	"Bureu"
+	"Rangsei"
+	"Nardu"
+	"Cobar"
+	"Laura"
+	"Mani"
+	"Than"
+}
+
+ship_names = {
+	"Ceylon"
+	"Chu Boa"
+	"Lavaux"
+	"Ramanades"
+	"Rajadhirat"
+	"Menam"
+	"Nakhon Pathom"
+	"Pegu"
+	"Suvannahum"
+	"U Tong"
+}

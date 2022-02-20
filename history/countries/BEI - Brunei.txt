@@ -1,0 +1,476 @@
+government = monarchy
+add_government_reform = iqta
+primary_culture = bornean
+religion = sunni
+technology_group = chinese
+capital = 636	# Brunei Town
+religious_school = shafii_school
+
+1399.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Bolkia"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_piety = 0.1
+}
+
+1399.1.1 = {
+	heir = {
+		name = "Patech Burbium"
+		monarch_name = "Ahmed"
+		dynasty = "Bolkia"
+		birth_date = 1370.1.1
+		death_Date = 1432.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1415.1.1 = {
+	monarch = {
+		name = "Ahmed"
+		dynasty = "Bolkia"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1415.1.1 = {
+	heir = {
+		name = "Suleiman"
+		monarch_name = "Suleiman"
+		dynasty = "Bolkia"
+		birth_date = 1400.1.1
+		death_Date = 1485.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1432.1.1 = {
+	monarch = {
+		name = "Suleiman"
+		dynasty = "Bolkia"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1460.1.1 = {
+	heir = {
+		name = "Bulkia"
+		monarch_name = "Bulkia"
+		dynasty = "Bolkia"
+		birth_date = 1460.1.1
+		death_Date = 1524.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 6
+		leader = {	name = "Bulkia"               	type = general	fire = 4	shock = 3	manuever = 4	siege = 0}
+	}
+}
+
+1485.1.1 = {
+	monarch = {
+		name = "Bulkia"
+		dynasty = "Bolkia"
+		adm = 2
+		dip = 4
+		mil = 6
+		leader = {	name = "Bulkia"               	type = general	fire = 4	shock = 3	manuever = 4	siege = 0}
+	}
+}
+
+1485.1.1 = {
+	heir = {
+		name = "Abd al-Kahhar"
+		monarch_name = "Abd al-Kahhar"
+		dynasty = "Bolkia"
+		birth_date = 1460.1.1
+		death_Date = 1530.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1524.1.1 = {
+	monarch = {
+		name = "Abd al-Kahhar"
+		dynasty = "Bolkia"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1524.1.1 = {
+	heir = {
+		name = "Sayouf ar-Rijal"
+		monarch_name = "Sayouf ar-Rijal"
+		dynasty = "Bolkia"
+		birth_date = 1520.1.1
+		death_date = 1578.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+1530.1.1 = {
+	monarch = {
+		name = "Sayouf ar-Rijal"
+		dynasty = "Bolkia"
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+1530.1.1 = {
+	heir = {
+		name = "Shah Bruni"
+		monarch_name = "Shah Bruni"
+		dynasty = "Bolkia"
+		birth_date = 1528.1.1
+		death_Date = 1582.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+1578.1.1 = {
+	monarch = {
+		name = "Shah Bruni"
+		dynasty = "Bolkia"
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+1578.1.1 = {
+	heir = {
+		name = "Hassan"
+		monarch_name = "Hassan"
+		dynasty = "Bolkia"
+		birth_date = 1560.1.1
+		death_Date = 1598.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1582.1.1 = {
+	monarch = {
+		name = "Hassan"
+		dynasty = "Bolkia"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1582.1.1 = {
+	heir = {
+		name = "Abd al-Jalil"
+		monarch_name = "Abd al-Jalil I"
+		dynasty = "Bolkia"
+		birth_date = 1580.1.1
+		death_Date = 1659.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1598.1.1 = {
+	monarch = {
+		name = "Abd al-Jalil I"
+		dynasty = "Bolkia"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1598.1.1 = {
+	heir = {
+		name = "Abd al-Jalil"
+		monarch_name = "Abd al-Jalil II"
+		dynasty = "Bolkia"
+		birth_date = 1590.1.1
+		death_Date = 1660.1.1
+		claim = 95
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+}
+		
+1659.1.1 = {
+	monarch = {
+		name = "Abd al-Jalil II"
+		dynasty = "Bolkia"
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+}
+
+1659.1.1 = {	
+	heir = {
+		name = "Muhammad Ali"
+		monarch_name = "Muhammad Ali"
+		dynasty = "Bolkia"
+		birth_date = 1640.1.1
+		death_Date = 1661.11.7
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1660.1.1 = {
+	monarch = {
+		name = "Muhammad Ali"
+		dynasty = "Bolkia"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1660.1.1 = {
+	heir = {
+		name = "Abd al-Mubin"
+		monarch_name = "Abd al-Mubin"
+		dynasty = "Bolkia"
+		birth_date = 1640.1.1
+		death_Date = 1673.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+
+1661.11.7 = {
+	monarch = {
+		name = "Abd al-Mubin"
+		dynasty = "Bolkia"
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+
+1661.11.7 = {
+	heir = {
+		name = "Muhy ad-Din"
+		monarch_name = "Muhy ad-Din"
+		dynasty = "Bolkia"
+		birth_date = 1650.1.1
+		death_Date = 1690.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1673.1.1 = {
+	monarch = {
+		name = "Muhy ad-Din"
+		dynasty = "Bolkia"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1673.1.1 = {
+	heir = {
+		name = "Nasr ad-Din"
+		monarch_name = "Nasr ad-Din"
+		dynasty = "Bolkia"
+		birth_date = 1673.1.1
+		death_Date = 1710.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1690.1.1 = {
+	monarch = {
+		name = "Nasr ad-Din"
+		dynasty = "Bolkia"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1690.1.1 = {
+	heir = {
+		name = "Kamal al-Din"
+		monarch_name = "Kamal al-Din"
+		dynasty = "Bolkia"
+		birth_date = 1690.1.1
+		death_Date = 1740.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1710.1.1 = {
+	monarch = {
+		name = "Kamal al-Din"
+		dynasty = "Bolkia"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1710.1.1 = {
+	heir = {
+		name = "Ala al-Din"
+		monarch_name = "Ala al-Din"
+		dynasty = "Bolkia"
+		birth_date = 1690.1.1
+		death_Date = 1762.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1740.1.1 = {
+	monarch = {
+		name = "Ala al-Din"
+		dynasty = "Bolkia"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1740.1.1 = {
+	heir = {
+		name = "Sayyuf ad-Din"
+		monarch_name = "Sayyuf ad-Din I"
+		dynasty = "Bolkia"
+		birth_date = 1740.1.1
+		death_Date = 1795.7.11
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1762.1.1 = {
+	monarch = {
+		name = "Sayyuf ad-Din I"
+		dynasty = "Bolkia"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1762.1.1 = {
+	heir = {
+		name = "Muhammad Jamal al-Din"
+		monarch_name = "Muhammad Jamal al-Din"
+		dynasty = "Bolkia"
+		birth_date = 1760.1.1
+		death_Date = 1796.2.17
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1795.7.11 = {
+	monarch = {
+		name = "Muhammad Jamal al-Din"
+		dynasty = "Bolkia"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1795.7.11 = {
+	heir = {
+		name = "Muhammad Taj ad-Din"
+		monarch_name = "Muhammad Taj ad-Din"
+		dynasty = "Bolkia"
+		birth_date = 1780.1.1
+		death_Date = 1807.2.14
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1796.2.17 = {
+	monarch = {
+		name = "Muhammad Taj ad-Din"
+		dynasty = "Bolkia"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1796.2.17 = {
+	heir = {
+		name = "Muhammad Khan Zul Alam"
+		monarch_name = "Muhammad Khan Zul Alam"
+		dynasty = "Bolkia"
+		birth_date = 1790.1.1
+		death_Date = 1829.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1807.2.14 = {
+	monarch = {
+		name = "Muhammad Khan Zul Alam"
+		dynasty = "Bolkia"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}

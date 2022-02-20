@@ -1,0 +1,87 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 200 8 21 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	quality_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	ottoman_yaya
+	ottoman_musellem
+	ottoman_azab
+	ottoman_timariot
+	ottoman_janissary
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Muhammad #0" = 20
+	"Izzeddin #0" = 20
+	"Takeddin #1" = 20
+	"Ishak #0" = 20
+	"Ahmed #0" = 20
+	"Kasim #0" = 20
+	"Mahmoud #0" = 20
+	"Ibrahim #0" = 10
+	"Ali #0" = 10
+	"Mustafa #0" = 10
+	"Service #0" = 10 
+	
+	"Havva #0" = -1
+}
+
+leader_names = {
+	Alemdar Amasiali Ayas
+	Bali Barbaros Bairam
+	Ceszar Kandarsi Celibi Cerrach Cherkez Jivan Kukhadar
+	Damad Dervis Defterdar
+	Gedik Gazi Gumulkineli Churchu
+	Hadim Hekimoglu Hersekli.
+	Koprulu Kemal Kukuk Coca Karamanli Kuse Kara Canigeli Kemankes Kaymak Kawali
+	Ishak Izzed
+	Lala Lefkeli
+	Malcock Muezzinzade
+	Neushehirley Nisanky
+	Oruk Ouluk Osmankikli Ohryli Oflu
+	Rumi
+	Piri Pargali Piyale Pehliwan
+	Salih Sokullu Sari Salihdar Semiz Serdar
+	Topal Tayyar Turgut Tarkhunku.
+	Veli
+	Yemisai
+}
+
+ship_names = {
+	"Nure Sufi" Sadaddin "Bay Karaman" Ermenek
+	Mout Gulnar Mer Silifke Cilicia Larande.
+	Bunsus "Zeinal-Haq" "Semceddin Mehmet" Gooksu
+}
+
+army_names = {
+	"Ordusu $PROVINCE$"
+}
+
+fleet_names = {
+	"Donanmaso $PROVINCE$"
+}

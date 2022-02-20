@@ -1,0 +1,76 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+color = { 140  134  164 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+	quantity_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Raj Ismail Shah #0" = 20
+	"Muzaffar Shah #0" = 20
+	"Mansour Shah #0" = 20
+	"Patik Siam #0" = 20
+	"Bahadur Shah #0" = 20
+	"Raj Hijau #0" = 20
+	"Raj Beeru #0" = 20
+	"Raj Ungku #0" = 20
+	"Raj Kenning #0" = 20
+	"Raj Bachelan #0" = 20
+	"Raj Emas Kalantan #0" = 20
+	"Raj Devi Pra Chao #0" = 20
+	"Shah Alam #0" = 20
+	"Raj Lakshamana Dajang #0" = 20
+	"Raj Emas Jayam Bagunda. #0" = 20
+	"Alung Yunus #0" = 20
+	"Raj Yunus #0" = 20
+	"Raj Long Nooh #0" = 20
+	
+	"Malaya #0" = -1
+}
+
+leader_names = {
+	"Mahidol"
+	"Nitaya"
+	"Pichit ."
+	"Prem"
+	"Poearborn"
+	"Samak"
+	"Sarit"
+	"Soonthorn"
+	"Thavan"
+	"Tryvut"
+}
+
+ship_names = {
+	"Pattany"
+	"Yala"
+	"Narativat"
+	"Sai Storm"
+	"Na Tavi"
+	"Sungai Kolok"
+	"Yaring"
+	"Tefa"
+	"Tumpat"
+	"Bukit Ulu"
+}

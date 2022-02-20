@@ -1,0 +1,136 @@
+government = tribal
+add_government_reform = steppe_horde
+technology_group = muslim
+primary_culture = persian
+religion = shiite
+
+1030.1.1 = {
+	monarch = {
+		name = "Fadlujah"
+		dynasty = "Shabankara"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1078.1.1 = {
+	monarch = {
+		name = "Nizam al-Din Mahmoud"
+		dynasty = "Shabankara"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1080.1.1 = {
+	monarch = {
+		name = "Mubaraz ad-Din Khazarashp"
+		dynasty = "Shabankara"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1110.1.1 = {
+	monarch = {
+		name = "Hasanwaya I"
+		dynasty = "Shabankara"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1160.1.1 = {
+	monarch = {
+		name = "Mubaraz I"
+		dynasty = "Shabankara"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1190.1.1 = {
+	monarch = {
+		name = "Muhammad Muzaffar"
+		dynasty = "Shabankara"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1260.1.1 = {
+	monarch = {
+		name = "Al-Qutb al-Din Mubaraz II"
+		dynasty = "Shabankara"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1261.1.1 = {
+	monarch = {
+		name = "Nizam al-Din Hasanwaya II"
+		dynasty = "Shabankara"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1264.1.1 = {
+	monarch = {
+		name = "Nusrat al-Din Ibrahim"
+		dynasty = "Shabankara"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1266.1.1 = {
+	monarch = {
+		name = "Tayyibshah"
+		dynasty = "Shabankara"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1282.1.1 = {
+	monarch = {
+		name = "Baja al-Din Ismail"
+		dynasty = "Shabankara"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1290.1.1 = {
+	monarch = {
+		name = "Nizam al-Din"
+		dynasty = "Shabankara"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1310.1.1 = {
+	monarch = {
+		name = "Ardashir"
+		dynasty = "Shabankara"
+		birth_date = 1280.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

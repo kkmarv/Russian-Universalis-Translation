@@ -1,0 +1,227 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 190  35  37 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Giorgie #6" = 120
+	"David #9" = 60
+	"Vakhtang #3" = 60
+	"Bagrat #5" = 40
+	"Alexandre #0" = 20
+	"Erekle #0" = 40
+	"Constantine #0" = 40
+	"Luarsab #0" = 40
+	"Simon #0" = 40
+	"Teimuraz #0" = 40
+	"Archil #0" = 10
+	"Bakar #0" = 5
+	"Yesse #0" = 15
+	"Kaixosro #0" = 10
+	"Rostom #0" = 10
+	"Levan #0" = 15
+	"Demeter #2" = 20
+		
+	"Babur #0" = 0
+	"Torgva #0" = 0
+	"Stepanosis #0" = 0
+
+	"Aghatang #0" = 0
+	"Andukapar #0" = 0
+	"Givi #0" = 0
+	"Grigol #0" = 0
+	"Ivana #0" = 0
+	"Paata #0" = 0
+	"Tornik #0" = 0
+	"Tsunne #0" = 0
+	"Room #0" = 0
+	"Zasa #0" = 0
+	"Zurab #0" = 0
+	"Zviad #0" = 0
+	"Sumbat #0" = 0
+#KAKHETI
+	"Bidzina #0" = 0
+	"Nikolosis #0" = 0
+	"Garsevan #0" = 0
+	"Ioana #0" = 0
+#HAMES
+	"Datua #0" = 0
+	"Bezhan #0" = 0
+	"Katsia #0" = 0
+	"Otia #0" = 0
+	"Grigol #0" = 0
+	"Kahaber #0" = 0
+	"Shamandavle #0" = 0
+	"Youq #0" = 0
+	"Liparite #0" = 0
+	"Rabia #0" = 0
+	"Puto #0" = 0
+	"Seteman #0" = 0
+	"Zegnac #0" = 0
+	"Timote #0" = 0
+#SAMTSHE
+	"Qbrewqbrew #0" = 0
+	"Beca #0" = 0
+	"Manuchar #0" = 0
+	"Agkhbugha #0" = 0
+	"Baadur #0" = 0
+	"Mzetchabuk #0" = 0
+	"Botso #0" = 0
+	"Sargis #0" = 0
+	"Ivana #0" = 0
+	
+#QWEENS
+	"Tamar #1" = -20
+	"Rusudan #1" = -10
+	"Nestan Daryan #0" = -10
+	"Daryan #0" = -5
+	"Ketevan #0" = -5
+	"Tinatin #0" = -5
+	"Nino #0" = -1
+	"Helen #0" = -1
+	"Ana #0" = -1
+	"Mariam #0" = -1
+	"Horeshan #0" = -1
+	"Dedisimedia #0" = -1
+}
+
+leader_names = { 
+#UNCLASSIFIED
+	Gabashvili Gegechkori	
+#KARTLY
+	Amilahwari
+	Amireibi
+	Baratashvili
+	Bebutashvili
+	Begtabegishvili
+	Cherkeseshvili
+	Chheteidze
+	Gabashvili
+	Yavakhishvili
+	Herheulidze
+	Kvenipnevely
+	Magkhalashvili
+	Micheladze
+	Mukhrani
+	Muhranbatoni
+	Orbeliani
+	Ratishvili
+	Sidamoni
+	Solagashvili
+	Titsishvili
+	Turkestanishvili
+#KAHETY
+	Abashidze
+	Abkhazia
+	Andronikashvili
+	Babadishvili
+	Chavchavadze
+	Cherkeseshvili
+	Cholokashvili
+	Guramishvili
+	Gurgenidze
+	Yangieri
+	Yorjadze
+	Koblashvili
+	Lyonidze
+	Robatishvili
+	Rusishvili
+	Shaburidze
+	Tumanisdze
+	Tushishvili
+	Vachnadze
+#IMMERS
+	Agiashvili
+	Anchabadze
+	Apakidze
+	Chichuas
+	Chiyawadze
+	Chikovani
+	Chkheidze
+	Dadiani
+	Dadeshkeliani
+	Beheads
+	Gurieli
+	Iashvili
+	Lorkypanidze
+	Machavariani
+	Machutadze
+	Mkheidze
+	Micheladze
+	Nakashidze
+	Nicoladze
+	Nizharadze
+	Shervashidze
+	Notebooks
+	Tsulukidze
+#SAMTSHE
+	Amilahori
+	Avilishvili
+	Diazamidze
+	Gaganidze
+	Gogibashvili
+	Gogorishvili
+	Hildirbashvili
+	Kobulisdze
+	Kopaze
+	Palawandishvili
+	Panaskerteli
+	Shalikashvili
+	Sologashvili
+	Symbatishvili
+	Tavdgiridze
+	Tuchareli
+}
+
+ship_names = {
+	Abo Amirani Aragvi Armazi Anakopia Artaani Argo Abkhazia Apsaros "Ateni Sioni" Avtandil
+	Bichvinta Batomi Bodbe
+	Zolchis
+	Dmanisi "Demetre Tavdadebuly" "Davit Gareya" Didgory "Davit Agmashenebeli" Diostsurias
+	Heguchi Gelati "Giorgie in Brtskinval" Gori Gremi
+	Hereti
+	Iberia
+	Yvari "Jvari Vazisa"
+	Cartlos Kutaisi Hornabuya
+	Lachariswari Laura
+	Mtkvari Mtskheta
+	Narikal Ninotsminda
+	"Satsmeesi Oxis"
+	Parnavaz Phaxis Pitius "Petre Iberi"
+	Ruisi Racha Rioni
+	Sahalta Svaneti Svetitskhoveli Networks "Shota Rustaveli"
+	Tamar Tbilisi Telavi Tashhiri "Tsminda Giorgi" "Thosone Dadiani" "Tetri Giorgi"
+	Urbnisi Ushba Uplistsihe.
+	"Vakhtang Gorgasali" Wardzia Venaji
+}

@@ -1,0 +1,230 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = SPA
+random_nation_chance = 0
+
+color = { 200  125  6 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	maritime_ideas
+	spy_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+	#Necessary to change
+monarch_names = {
+	"Alphonse #0" = 20
+	"Pedro #0" = 20
+	"Isabella #0" = -15
+	"João #0" = 15
+	"Maria #0" = -10
+	"Miguel #0" = 10
+	"Abilio #0" = 0
+	"Antonio #0" = 0
+	"Arthur #0" = 0
+	"Augusto #0" = 0
+	"Aurelio #0" = 0
+	"Bento #0" = 0
+	"Carlos #0" = 0
+	"Deodoro #0" = 0
+	"Emilio #0" = 0
+	"Ernesto #0" = 0
+	"Fernando #0" = 0
+	"Floriano #0" = 0
+	"Francisco #0" = 0
+	"Francisco José #0" = 0
+	"Gaspar #0" = 0
+	"Erminio #0" = 0
+	"Rodrigo #0" = 0
+	"Hermes #0" = 0
+	"Inasio #0" = 0
+	"Isaas #0" = 0
+	"Joaquim #0" = 0
+	"Joao Baptista #0" = 0
+	"José #0" = 0
+	"Luis #0" = 0
+	"Manuel #0" = 0
+	"Marcio #0" = 0
+	"Nereu #0" = 0
+	"Neilo #0" = 0
+	"Passoal #0" = 0
+	"Paulino #0" = 0
+	"Prudente #0" = 0
+	"Wenceslau #0" = 0
+	"Zepherino #0" = 0
+}
+
+leader_names = {
+	"Alvaresh"
+	"Aires Gomes"
+	"Borghesh to Kanto"
+	"da Costa"
+	"da Silva"
+	"de Amorim"
+	"de Melo"
+	"de Mendonsa"
+	"dos Flight"
+	"dos Santos"
+	"Freire de Andrade"
+	"Gonzaga"
+	"Lopez"
+	"Masiele"
+	"Chalk"
+	"Nascimento"
+	"Núñez Viana"
+	"Peiksoto"
+	"Rollim"
+	"Santos Pedroso"
+	"Tavaresh"
+	"Torres"
+	"Veiga"
+	"Vieira"
+	"Xavier"
+}
+
+ship_names = {
+	"Anunciada"
+	"Berrio"
+	"Boa Viagem"
+	"Bohm Jesus"
+	"Bohm Jesus do Carmo"
+	"Bohm Jesus de Marsagao"
+	"Bom Jesus de Vidigeira"
+	"Bretao"
+	"Kambaya"
+	"Chagash"
+	"Correjo d'Asiah"
+	"El-Ray"
+	"Enxobregash"
+	"Espirito Santo"
+	"Estrela"
+	"Flor do Mar"
+	"Garza"
+	"Imakulada Conceisao"
+	"Hoya"
+	"Monte Carvallo"
+	"Nazareh"
+	"Nossa Senora"
+	"Н. Saint. Yes Aparesida"
+	"Н. Sen. Yes Atalay."
+	"Н. Saint. Yes Batalha"
+	"Н. Sen. Yes Boa Ora"
+	"Н. Sen. Yes Boa Memorial"
+	"Н. Saint. Yes Boa Viagem."
+	"Н. Sen. Yes Candalaria"
+	"Н. Saint. da Caridad"
+	"Н. Sen. da Conceição"
+	"Н. Sen. da Consolasao"
+	"Н. St. da Esperanza"
+	"Н. Saint. Yes, Gloria."
+	"Н. Saint-Da Graça."
+	"Н. Saint. Da Gia"
+	"Н. Saint D'Ajuda Lucitan."
+	"Н. Saint. Yes Louche"
+	"Н. Sen. da Nazarene"
+	"Н. St. da Oliveira"
+	"Н. Saint. Yes Palma"
+	"Н. Saint. Yes, Pena de França."
+	"Н. Sen. da Kiyetasao"
+	"Н. Sen. da Salvasao"
+	"Н. St. da Saude"
+	"Н. Sen. da Vissitasao"
+	"Н. Saint. Yes Vitoria"
+	"Н. Sen. das Ondash"
+	"Н. Saint Das Portas to Seoux "
+	"Н. Saint Das Reliquéache"
+	"Н. St. de Belém"
+	"Н. Saint. de Guadeloupe"
+	"Н. St. to Castello."
+	"Н. St. to Livramento"
+	"Н. St. to Loreto"
+	"Н. Sen. before Paraiso"
+	"Н. St. to Pilar"
+	"Н. Sen. to Rosario"
+	"Н. Saint. Dos Pracéres"
+	"Н. Sen. dos Ramos"
+	"Princess before Seoul"
+	"Raina"
+	"Flight Magoos"
+	"Sacramento"
+	"Santa Ana"
+	"Santa Caratina"
+	"Santa Cruz"
+	"Santa Fe"
+	"Santa Helena"
+	"Santa Joana"
+	"Santa Madre de Deusch"
+	"Santa Maria de Saboia"
+	"Santo Milagre"
+	"Santiago Major"
+	"Santisima Trindade"
+	"Santisimo Sacramento"
+	"Santo Alberto"
+	"Santo Antonio"
+	"Santo Espirito"
+	"Santo Inacio"
+	"Sao Bartolomeu"
+	"SaoBento"
+	"Sao Bernardo"
+	"Sao Carlos"
+	"SaoChristovao"
+	"Sao Domingosh"
+	"Sao Phillipe"
+	"Sao Francisco"
+	"Sao Francisco de Borja"
+	"Sao-Gabriel"
+	"Sao-Gonzalo"
+	"Sao Joao"
+	"Sao Joao de Deusch"
+	"Sao Jorge"
+	"Sao José"
+	"Sao Juliao"
+	"Sao Lawrenceo"
+	"Sao-Lukash"
+	"Sao Louis"
+	"Sao Mateusz"
+	"Sao Paulo"
+	"Sao Pedro"
+	"Sao Raphael"
+	"Sao Roque"
+	"Sao-Salvador"
+	"Sao Tome"
+	"Sao Valentim"
+	"Sao Antonio de Lisboa"
+	"Santa Catarina de Ribamar"
+	"Sao Francisco de Assise"
+	"Sao Francisco Xavier"
+	"Sao Joao Baptista"
+	"Sao Joao Evangelista"
+	"Sao Pedro de Rates"
+	"Sao Pedro da Ribeira"
+	"Sao Salvador to Mundo"
+	"Sao Teresa de Jesús"
+	"Sao Tome da Canturia"
+	"Taphoreya"
+	"Trindade"
+	"Vissitasao"
+}

@@ -1,0 +1,129 @@
+#Lithuania
+
+graphical_culture = easterngfx
+
+color = { 201  221  255 }
+
+revolutionary_colors = { 9  0  5 } #Lithuania Minor
+
+historical_score = 150
+
+historical_idea_groups = {
+	humanist_ideas
+	trade_ideas
+	economic_ideas
+	quality_ideas
+	diplomatic_ideas
+	administrative_ideas
+	aristocracy_ideas	
+	quantity_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Sigismund #0" = 40
+	"Casimir #0" = 20
+	"Alexander #0" = 20
+	"Jan #0 Olbracht" = 20
+	"Sigismund #0 August" = 20
+	"Vitovt #0" = 20
+	"Yagailo #0" = 20
+	"Vladislav #0" = 15
+	"Keystut #1" = 10
+	"Olgerd #1" = 10
+	"Stanislav #0" = 10
+	"Svidrigailo #1" = 10
+	"Mindovg #1" = 5
+	"Albert #0" = 0
+	"Andrei #0" = 0
+	"Adam #0" = 0
+	"Albert #0" = 0
+	"Arthur #0" = 0
+	"Anton #0" = 0
+	"Bohuslav #0" = 0
+	"Dominic #0" = 0
+	"Gedimin #1" = 0
+	"Gregory #0" = 0
+	"Ignatius #0" = 0
+	"Henry #0" = 0
+	"Jan #0" = 0
+	"Janusz #0" = 0
+	"Krzysztof #0" = 0
+	"Yuri #0" = 0
+	"Coribut #0" = 0
+	"Karl #0" = 0
+	"Crest #0" = 0
+	"Leo #0" = 0
+	"Jerzy #0" = 0
+	"Paul #0" = 0
+	"Michael #0" = 0
+	"Mikolai #0" = 0
+	"Paul #0" = 0
+	"Peter #0" = 0
+	"Stanislav #0" = 0
+	"Roman #0" = 0
+	"Sebastian #0" = 0
+	"Stefan #0" = 0
+	"Skirgailo #1" = 0
+	"Thomas #0" = 0
+	"Victor #0" = 0
+	"Vincentius #0" = 0
+	"William #0" = 0
+	"Vitney #1" = 0
+	
+	"Agna #0" = -1
+	"Mort #0" = -1
+	"Vilta #0" = -1
+}
+
+leader_names = {
+	"Alshenishkis" "Astikas"
+	"Khodkevich"
+	"Daukantas" "Dauksha" "Denhoff"
+	"Hydraitis" "Gosevsky" "Gostovt"
+	"Kezgailo" "Intestine" "Kossakovsky" "Kulvinsky"
+	"Lithuvis"
+	"Massalsky" "Majvidas"
+	"Nemirovic"
+	"Oginsky" "Ostrozhsky"
+	"Pats" "Papa"
+	"Radziwill" "Rapolionis" "Rimsa"
+	"Sangushko" "Sapega" "Simonavich" "Syrvid" "Skorina" "Slushka" "Sosnovsky" "Svirisky"
+	"Tyszkiewicz"
+	"Valancius" "Valavicius" "Vishnevetskiy"
+	"Zabello"
+}
+
+ship_names = {
+	"Alytus"
+	"The Exchange"
+	"Druskininkai"
+	"Grodno"
+	"Yonawa"
+	"Kaunas" "Kretinga" "Crea"
+	"Lasdiay"
+	"Novogrudok"
+	"Palanga"
+	"Break it down ."
+	"Šiauliai" "Swentoy"
+	"Taurage" "Telshiai" "Troki"
+	"Utena"
+	"Ukmerger"
+}

@@ -1,0 +1,262 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 118  99  151 }
+
+historical_score = 25
+
+historical_idea_groups = {
+	naval_ideas
+	trade_ideas
+	religious_ideas
+	exploration_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"François #0" = 60
+	"Jean #4" = 40
+	"Arthur #2" = 20
+	"Pierre #2" = 20
+	"Anna #0" = -10
+	"Claudine #0" = -10
+	"Henry #0" = 10
+	"Karl #1" = 5
+	"Gilles #0" = 5
+	"Richard #0" = 5
+	"Korenten #0" = 0
+	"Daniel #0" = 0
+	"Dinan #0" = 0
+	"Erwan #0" = 0
+	"Gaelle #0" = 0
+	"Gwenael #0" = 0
+	"Gwenneg #0" = 0
+	"Gwilherm #0" = 0
+	"Eunnik #0" = 0
+	"Louis #0" = 0
+	"Meldan #0" = 0
+	"Mikael #0" = 0
+	"Olé #0" = 0
+	"Padrig #0" = 0
+	"Paul #0" = 0
+	"Patern #0" = 0
+	"Pierre #0" = 0
+	"Come to think of it #0" = 0
+	"Roparge #0" = 0
+	"Cervan #0" = 0
+	"Simillien #0" = 0
+	"Slayer #0" = 0
+	"Sulio #0" = 0
+	"Winmael #0" = 0
+	"Venice #0" = 0
+	"Wissant #0" = 0
+	"Vonig #0" = 0
+	"Vuge #0" = 0
+	"Winfrid #0" = 0
+	"Jan #0" = 0
+}
+
+leader_names = {
+	"d'Anseni"
+	"d'Anjenne"
+	"d'Argentre"
+	"de Ben"
+	"de Bodiez"
+	"de Beaumetz"
+	"de Boigeyennock"
+	"de Bouethies"
+	"de Chateaubriand"
+	"de Chatillon"
+	"de Coagureden"
+	"de Coetivy"
+	"de Coetman"
+	"Quason de la Bariyère"
+	"de Croon"
+	"de Dahl"
+	"d'Elben"
+	"de Francheville"
+	"de Goulain"
+	"de Gurcuff"
+	"de Halgoe"
+	"de la Aé Saint Hilaire"
+	"Calben de Cardelan"
+	"de Kerdrel"
+	"de Kerellek"
+	"de Kergule"
+	"de Kergenes"
+	"de Kergerron"
+	"de Kersoson"
+	"de Kersulfgen"
+	"de Lamballes"
+	"de Locomarium"
+	"de Mashekul"
+	"Madek"
+	"de Malestrua"
+	"de Mercer"
+	"de Monfort"
+	"de la Nueva Boga"
+	"de Pengem"
+	"de Penoadic"
+	"de Pentievre"
+	"de Ponbrian"
+	"de Rieux"
+	"de Rodellec"
+	"de Rogan"
+	"de Roscoa"
+	"de Rostrainen"
+	"de Saint-Ularn"
+	"de Saint Meluc"
+	"de Sevigne"
+	"de Talouet"
+	"de Tachet de la Paggierre"
+	"de Tintériac"
+	"de Toncédec"
+	"de Tourneman"
+	"de Tremerque"
+	"de la troma"
+	"de Trogoff"
+	"de Tromelin"
+	"de Vitre"
+}
+
+ship_names = {
+	"Ashel"
+	"Actif"
+	"Active"
+	"Admirable"
+	"Aglae"
+	"Emabel"
+	"Alcide"
+	"Algesira"
+	"Aloz"
+	"Amazon"
+	"Ambion"
+	"Amfjon"
+	"Anemon"
+	"Annibal"
+	"Apollo"
+	"Argonot"
+	"Artesian"
+	"Odasia"
+	"Auguste"
+	"Avenan"
+	"Baden"
+	"Barbut"
+	"Beaumont"
+	"Bécass"
+	"Belico"
+	"Bergere"
+	"Berry"
+	"Bien Amée"
+	"Bienfesan"
+	"Bon"
+	"Brittany"
+	"Bretonne"
+	"Brijun"
+	"Brutus"
+	"Kashe"
+	"Selebré"
+	"Santur"
+	"Shamo"
+	"Comte"
+	"Curage"
+	"Defenso"
+	"Diadem"
+	"Diaman"
+	"Dictato"
+	"Dealer"
+	"Drago"
+	"Duke"
+	"Elefan"
+	"Elizabeth"
+	"Emeryon"
+	"Entrepreneur"
+	"Aeol"
+	"Fleron"
+	"Formidable"
+	"Fortune"
+	"Foodroian"
+	"Fugo"
+	"Furjon"
+	"Fourier"
+	"Glorie"
+	"Gran Ermin"
+	"Emmetüe"
+	"Andien"
+	"Endotabll"
+	"Jupiter"
+	"Leopar"
+	"Loire"
+	"Massiac"
+	"Neptune"
+	"Nesto"
+	"Orion"
+	"Pegasus"
+	"Petite Ermin"
+	"Portafe"
+	"Profon"
+	"Please ."
+	"Rolland"
+	"Saint-Guillaume"
+	"Sarsel"
+	"North"
+	"Sykes-Corps"
+	"Solid"
+	"Solitaire"
+	"Sovereign ."
+	"Sphere"
+	"Sphinx"
+	"Superb"
+	"Tardif"
+	"Temerer"
+	"Terrible"
+	"Taese"
+	"Tonnan"
+	"Triomphene"
+	"Triton"
+	"Union"
+	"Vyan"
+	"Wanjo"
+	"Victoire"
+	"Vigilan"
+	"Volan"
+}
+
+army_names = {
+	"Tregor's army"
+	"Cornwall Army"
+	"Leon's army"
+	"Vanna Army"
+	"Pey de Daul's army"
+	"Pays de Saint-Brieque Army"
+	"Pey-Renna Army"
+	"Pey Nantes Army"
+	"Pays de Saint-Malo Army"
+	"Breck's Army"
+	"Tregie's army"
+	"Pentievre's Army"
+	"Porcelain Army"
+	"Provincial Army. $PROVINCE$"
+}

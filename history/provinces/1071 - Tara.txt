@@ -1,0 +1,39 @@
+#1071 - Tara
+
+owner = GLH
+controller = GLH
+culture = siberian
+religion = tengri_pagan_reformed
+capital = "Kyzyl Tura"
+trade_goods = fur
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+add_core = SIB
+add_core = SHY
+add_core = GLH
+discovered_by = nomad_group
+unrest = 15
+
+1321.1.1 = {
+	religion = sunni
+}
+1420.1.1 = { owner = SIB controller = SIB } #vanilla date
+1428.1.1 = { owner = SHY controller = SHY } #vanilla date
+1468.1.1 = {
+	owner = SIB
+	controller = SIB 
+	discovered_by = SIB
+	unrest = 0 
+} # Sibir khanate formed
+1582.10.23 = {
+	discovered_by = TSR
+	owner = TSR
+	controller = TSR
+	add_core = TSR
+	remove_core = SIB 
+} # Yermak Timofeevich
+1716.1.1 = { capital = "Omsk" }
+1721.11.2 = { owner = RUS controller = RUS add_core = RUS remove_core = TSR } ## Potr I - imperator

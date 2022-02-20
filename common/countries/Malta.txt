@@ -1,0 +1,150 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 80 200 120 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	maritime_ideas
+	innovativeness_ideas
+	spy_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Adam #0" = 10
+	"Anton #0" = 10
+	"Emmanuel #0" = 10
+	"Fredo #0" = 10
+	"Giuseppe #0" = 10
+	"Constantino #0" = 10
+	"Massimiliano #0" = 10
+	"Valentin #0" = 10
+	"Giurgior #0" = 10
+	"Karmenu #0" = 10
+	"Nicola #0" = 10
+	"Nadzarno #0" = 10
+	"Pinot #0" = 10
+	"Gavino #0" = 10
+	"Elijou #0" = 10
+	"Ferdinandos #0" = 10
+	"Leonardo #0" = 10
+	"Lorenzo #0" = 10
+	"Pierrot #0" = 10
+	"Pinot #0" = 10
+	"Saverio #0" = 10
+	"Vincenzo #0" = 10
+	"Varist #0" = 10
+	"Gabrielle #0" = 10
+	"Gamri #0" = 10
+	"Alessandro #0" = 10
+	"Baldassare #0" = 10
+	"Franziske #0" = 10
+	"Gerardo #0" = 10
+	"Jarad #0" = 10
+	"Carm #0" = 10
+	"Nadzarno #0" = 10
+	"Oliver #0" = 10
+	"Toro #0" = 0
+	"Venzo #0" = 0
+	"Piggio #0" = 0
+	"Manuel #0" = 0
+	"Zaro #0" = 0
+	"Berthaud #0" = 0
+	"Anaard #0" = 0
+	
+	"Maria #0" = -1
+	"Anna #0" = -1
+	"Paolina #0" = -1
+	"Claudia #0" = -1
+}
+
+leader_names = {
+"d'Agnesi"
+	"di Aragona"
+	"Asmondo"
+	"d'Austria"
+	"Barbiano Belgioiozo"
+	"di Borbonne"
+	"Carafa"
+	"Castaña"
+	"Kattaneo"
+	"Caja"
+	"Chaldini"
+	"Column"
+	"Coppola"
+	"Corleone"
+	"Damiani"
+	"d'Este"
+	"Pharini"
+	"Felice"
+	"Filannieri"
+	"Gaetani della Aquila"
+	"de Gattinara"
+	"di Gesualdo"
+	"Gonzaga"
+	"la Maza"
+	"Lamoral"
+	"di Marzano"
+	"Mazzini"
+	"Di Medici"
+	"Orsini"
+	"Paruta"
+	"Pignatelli"
+	"Saw"
+	"Platamount"
+	"de Podio"
+	"Rizo"
+	"Rizzi"
+	"Ruffo"
+	"Ruggiero"
+	"Sanseverino"
+	"Santapache"
+	"Serra"
+	"Settimo"
+	"Sfondrati"
+	"Spechale"
+	"Spinola"
+	"Tanucci"
+	"Tassoni"
+	"Trivulcho"
+	"Ventimiglia"
+	"Zannoni"
+}
+
+ship_names = {
+	"Blessed Gerard"
+	"Raymond de Pui Provence"
+	"Auger de Balbane"
+	"Arnaud de Com"
+	"Gilbert d'Essaye"
+	"Gaston de Murol"
+	"Gilbert Syrian"
+	"Roger de Moulin"
+	"Elion de Villeneuve"
+	"Ermangar d'Asp"
+	"Garnier de Naplouse"
+	"Joffrois de Donjon"
+	"Alphonse de Portugal"
+	"Joffrois le Ra"
+}

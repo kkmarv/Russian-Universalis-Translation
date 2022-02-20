@@ -1,0 +1,146 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 76  141  58 } 
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	quantity_ideas
+	economic_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Muhammad #4" = 40
+	"Kansuh #0" = 40
+	"Tuman bai #0" = 40
+	"Barracat #0" = 30
+	"Huzza #0" = 10
+	"Ahmad #2" = 50
+	"Homeyda #1" = 10
+	"Kait #0" = 10
+	"Takaba #0" =  10
+	"Hassan #1" = 10
+	"Abu Talib #0" = 10
+	"Abu Aung Idris #0" = 10
+	"Muhsin #0" = 10
+	"Masood #0" = 30
+	"Abdullah #0" = 20
+	"Zaid #0" = 10
+	"Us #0" = 10
+	"Saad #0" = 10
+	"Sayid #0" = 20
+	"Abdul-Karim #0" = 10
+	"'Abu Muhsin #0" = 10
+	"Abd al-Ilah #0" = 20
+	"Ali #2" = 10
+	"Yahya #0" = 10
+	"Mubarak #0" = 10 
+	"Massaid #0" = 10
+	"Jafar #0" = 10
+	"Inal #0" = 20
+	"Huskadam #1" = 20
+	"Abd al-Aziz #0" = 20
+	"Al-Mustaine #0" = 20
+	"al-Nasr Faraj #0" = 20
+	"Barsboy #0" = 20
+	"Jackmak #0" = 20
+	"Kite Bay #0" = 20
+	"Shaik Al-Mahmoudi #0" = 20
+	"Timur-booga #0" = 20
+	"Usman #0" = 20
+	"Yalbai #0" = 20
+	"Janbalat #0" = 20
+	"Yusuf #0" = 20
+	"Barcouc #1" = 15
+	"Ali #2" = 10
+	"Babars #2" = 10
+	"Hajji #2" = 10
+	"Shaaban #2" = 10
+	"Abu Bakr #1" = 10
+	"Al-Hassan #1" = 10
+	"Ismayil #1" = 10
+	"Kujuk #1" = 10
+	"Salih #1" = 10
+	"Abd al-Malik #0" = 0
+	"Bassir #0" = 0
+	"Faddle #0" = 0
+	"Gate #0" = 0
+	"Hatim #0" = 0
+	"Ilyas #0" = 0
+	"Jabir #0" = 0
+	"Nadim #0" = 0
+	"Nizar #0" = 0
+	"Kasim #0" = 0
+	"Saadi #0" = 0
+	"Sayid #0" = 0
+	"Yunus #0" = 0
+	
+	"Rajya #0" = -1
+	"Shahir #0" = -1
+	"Yusra #0" = -1
+	"Asma #0" = -1
+}
+
+leader_names = {
+	Yusef
+	Taleb
+	Ibrahim
+	Khalil
+	Saleh
+	Farhat
+	Hammas
+	Mansour	
+	Abbas
+	Hammoud
+	Ali
+	Ibek
+	Babars
+	Bay
+	Bay
+	Booga
+	Inal
+	Kansour
+	Safuddin
+	Zangi
+}
+
+ship_names = {
+	Jeddah Mecca Medina Hijazz. "Jebel Badan"
+	"Jebel Sauda" "Jebel Abu Hassan" "Jebel el Jurairaira" 
+	"Haral al-Kishb" "Harrat Rahat" "Harrat Nawasif"
+	"Harrat Hadan" "Harrat Al-Bukoum" "Harrat Khaibare"
+	"Harrat Kurama" "Harrat al-Unair"
+	"Zaher Barkuk" "Farag Ben Barkuk"
+	"Ben Barkuk" "Muyaid Sheikh" "Ahmen Muyaid" 
+	"Zaher Tatar" "Nasser Muhammad" "Ashraf Barsboy"
+	"Aziz Gamal" "Nar-Neal" "Al-Farafirah"
+	"Al-Dahilah" "Al-Haridjan" "Al-Ali" "Al-Bahriah"
+	Rahman Rahim Malik Kuddus Salam Mumin Muhaymin
+	Aziz Jabbar Mutakabbir Khalik Bari Musavvir 
+	Haffara Kahhar Wahhab Razzaq Fattah Alim Kabid
+	Basit Hafid Rafi Muizz Mudhill Sami Basir Hakam Adl
+}
+
+army_names = {
+	"Jaish-al $PROVINCE$"
+}
+
+fleet_names = {
+	"Istaval-al $PROVINCE$" 
+}

@@ -1,0 +1,713 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = korean
+religion = confucianism
+technology_group = chinese
+capital = 735	# Hanseong
+
+1392.1.1 = {
+	monarch = {
+		name = "Taeojo"
+		dynasty = "Lee"
+		birth_date = 1335.11.23
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+}
+
+1392.1.1 = {
+	heir = {
+		name = "Pangwa"
+		monarch_name = "Jeongjeon"
+		dynasty = "Lee"
+		birth_date = 1357.7.1
+		death_date = 1419.9.26
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+1398.10.14 = {
+	monarch = {
+		name = "Jeongjeon" #Taejo
+		dynasty = "Lee"
+		birth_date = 1357.7.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+1398.10.14 = {
+	heir = {
+		name = "Banvon"
+		monarch_name = "Taejon"
+		dynasty = "Lee"
+		birth_date = 1367.5.18
+		death_date = 1422.5.10
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1400.11.28 = {
+	monarch = {
+		name = "Taejon" #Jeongjong
+		dynasty = "Lee"
+		birth_date = 1367.5.18
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1400.11.13 = {
+	heir = {
+		name = "That's ."
+		monarch_name = "Sejong"
+		dynasty = "Lee"
+		birth_date = 1397.5.7
+		death_date = 1450.5.18
+		claim = 95
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+}
+
+1418.9.18 = {
+	monarch = {
+		name = "Sejong"
+		dynasty = "Lee"
+		birth_date = 1397.5.7
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+}
+
+1418.9.18 = {
+	heir = {
+		name = "Hyang"
+		monarch_name = "Munjon"
+		dynasty = "Lee"
+		birth_date = 1414.10.3
+		death_date = 1452.5.14
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1450.5.18 = {
+	monarch = {
+		name = "Munjon"
+		dynasty = "Lee"
+		birth_date = 1414.10.3
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1450.5.18 = {
+	heir = {
+		name = "Honhvi"
+		monarch_name = "Tanjon"
+		dynasty = "Lee"
+		birth_date = 1441.7.23
+		death_date = 1457.12.24
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+1452.5.14 = {
+	monarch = {
+		name = "Tanjon"
+		dynasty = "Lee"
+		birth_date = 1441.7.23
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+1452.5.14 = {
+	heir = {
+		name = "Ю"
+		monarch_name = "Sejjo"
+		dynasty = "Lee"
+		birth_date = 1417.9.29
+		death_date = 1468.9.8
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1455.6.11 = {
+	monarch = {
+		name = "Sejjo"
+		dynasty = "Lee"
+		birth_date = 1417.9.29
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1455.6.11 = {
+	heir = {
+		name = "Hwang"
+		monarch_name = "Yejon"
+		dynasty = "Lee"
+		birth_date = 1450.2.12
+		death_date = 1469.12.31
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1468.9.8 = {
+	monarch = {
+		name = "Yejon"
+		dynasty = "Lee"
+		birth_date = 1450.2.12
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1468.9.8 = {
+	heir = {
+		name = "Høl"
+		monarch_name = "Songjoon"
+		dynasty = "Lee"
+		birth_date = 1457.8.20
+		death_date = 1494.1.20
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1469.12.31 = {
+	monarch = {
+		name = "Songjoon"
+		dynasty = "Lee"
+		birth_date = 1457.8.20
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1476.10.24 = {
+	heir = {
+		name = "Yoon"
+		monarch_name = "Yongsang-goon"
+		dynasty = "Lee"
+		birth_date = 1476.10.24
+		death_date = 1506.11.20
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1494.1.20 = {
+	monarch = {
+		name = "Yongsang-goon"
+		dynasty = "Lee"
+		birth_date = 1476.10.24
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1494.1.20 = {
+	heir = {
+		name = "Yok"
+		monarch_name = "Chunjong"
+		dynasty = "Lee"
+		birth_date = 1488.4.16
+		death_date = 1544.11.29
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1506.11.20 = {
+	monarch = {
+		name = "Chunjong"
+		dynasty = "Lee"
+		birth_date = 1488.4.16
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1515.3.10 = {
+	heir = {
+		name = "Ho"
+		monarch_name = "Injon"
+		dynasty = "Lee"
+		birth_date = 1515.3.10
+		death_date = 1545.8.8
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1544.12.5 = {
+	monarch = {
+		name = "Injon"
+		dynasty = "Lee"
+		birth_date = 1515.3.10
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1544.12.5 = {
+	heir = {
+		name = "Hwang"
+		monarch_name = "Myungjeon"
+		dynasty = "Lee"
+		birth_date = 1534.7.3
+		death_date = 1567.8.3
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1545.8.8 = {
+	monarch = {
+		name = "Myungjeon"
+		dynasty = "Lee"
+		birth_date = 1534.7.3
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1552.11.26 = {
+	heir = {
+		name = "Kyung"
+		monarch_name = "Sonjo"
+		dynasty = "Lee"
+		birth_date = 1552.11.26
+		death_date = 1608.3.16
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+1567.8.3 = {
+	monarch = {
+		name = "Sonjo"
+		dynasty = "Lee"
+		birth_date = 1552.11.26
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+1575.4.25 = {
+	heir = {
+		name = "Hong"
+		monarch_name = "Kwanghagun"
+		dynasty = "Lee"
+		birth_date = 1575.4.25
+		death_date = 1641.8.7
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+1576.1.1 = { leader = {	name = "Li Sunshing"		type = admiral	fire = 6	shock = 6	manuever = 6	siege = 0	death_date = 1598.12.16 } }
+
+1608.3.16 = {
+	monarch = {
+		name = "Kwanghagun"
+		dynasty = "Lee"
+		birth_date = 1575.4.25
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+1608.3.16 = {
+	heir = {
+		name = "Pu"
+		monarch_name = "Wongjon"
+		dynasty = "Lee"
+		birth_date = 1580.8.2
+		death_date = 1619.12.29
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1608.3.16 = {
+	heir = {
+		name = "Chong"
+		monarch_name = "Injo"
+		dynasty = "Lee"
+		birth_date = 1595.12.17
+		death_date = 1649.6.17
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+# Coup
+
+1623.4.12 = {
+	monarch = {
+		name = "Injo"
+		dynasty = "Lee"
+		birth_date = 1595.12.17
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1623.4.13 = {
+	heir = {
+		name = "Ho"
+		monarch_name = "Haejeon"
+		dynasty = "Lee"
+		birth_date = 1619.7.3
+		death_date = 1659.6.23
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+1637.1.1 = {
+	government_rank = 1
+}
+
+1645.6.30 = {
+	government_rank = 2
+}
+
+1645.7.1 = {
+	government_rank = 1
+}
+
+1649.7.5 = {
+	monarch = {
+		name = "Haejeon"
+		dynasty = "Lee"
+		birth_date = 1619.7.3
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+1649.7.5 = {
+	heir = {
+		name = "Yeon"
+		monarch_name = "Hyungjong"
+		dynasty = "Lee"
+		birth_date = 1641.3.15
+		death_date = 1674.9.17
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1659.6.23 = {
+	monarch = {
+		name = "Hyungjong"
+		dynasty = "Lee"
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1661.9.8 = {
+	heir = {
+		name = "Twai"
+		monarch_name = "Sukchon"
+		dynasty = "Lee"
+		birth_date = 1661.9.8
+		death_date = 1720.7.13
+		claim = 95
+		adm = 6
+		dip = 5
+		mil = 2
+	}
+}
+
+1674.9.17 = {
+	monarch = {
+		name = "Sukchon"
+		dynasty = "Lee"
+		birth_date = 1661.9.8
+		adm = 6
+		dip = 5
+		mil = 2
+	}
+}
+
+1688.11.20 = {
+	heir = {
+		name = "Kyung"
+		monarch_name = "Gyeongjeon"
+		dynasty = "Lee"
+		birth_date = 1688.11.20
+		death_date = 1724.10.11
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1720.7.13 = {
+	monarch = {
+		name = "Gyeongjeon"
+		dynasty = "Lee"
+		birth_date = 1688.11.20
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1720.7.13 = {
+	heir = {
+		name = "Keum"
+		monarch_name = "Yongjo"
+		dynasty = "Lee"
+		birth_date = 1694.10.31
+		death_date = 1776.4.22
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1724.10.11 = {
+	monarch = {
+		name = "Yongjo"
+		dynasty = "Lee"
+		birth_date = 1694.10.31
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1752.10.28 = {
+	heir = {
+		name = "San"
+		monarch_name = "Cheongjo"
+		dynasty = "Lee"
+		birth_date = 1752.10.28
+		death_date = 1800.8.18
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+
+1776.4.22 = {
+	monarch = {
+		name = "Cheongjo"
+		dynasty = "Lee"
+		birth_date = 1752.10.28
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1790.7.29 = {
+	heir = {
+		name = "Con"
+		monarch_name = "Sunjo"
+		dynasty = "Lee"
+		birth_date = 1790.7.29
+		death_date = 1834.12.13
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+1800.8.18 = {
+	monarch = {
+		name = "Sunjo"
+		dynasty = "Lee"
+		birth_date = 1790.7.29
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+1827.9.8 = {
+	heir = {
+		name = "Hwang"
+		monarch_name = "Honjoon"
+		dynasty = "Lee"
+		birth_date = 1827.9.8
+		death_date = 1849.7.25
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+1834.12.13 = {
+	monarch = {
+		name = "Honjoon"
+		dynasty = "Lee"
+		birth_date = 1827.9.8
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+1834.12.13 = {
+	heir = {
+		name = "Foam"
+		monarch_name = "Chulchoon"
+		dynasty = "Lee"
+		birth_date = 1831.7.25
+		death_date = 1864.1.16
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+}
+
+1849.7.25 = {
+	monarch = {
+		name = "Chulchoon"
+		dynasty = "Lee"
+		birth_date = 1831.7.25
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+}
+
+1852.9.8 = {
+	heir = {
+		name = "Myeongbok"
+		monarch_name = "Kojon"
+		dynasty = "Lee"
+		birth_date = 1852.9.8
+		death_date = 1919.1.21
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1864.1.16 = {
+	monarch = {
+		name = "Kojon"
+		dynasty = "Lee"
+		birth_date = 1852.9.8
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1874.3.25 = {
+	heir = {
+		name = "Sunjong"
+		monarch_name = "Sunjong"
+		dynasty = "Lee"
+		birth_date = 1874.3.25
+		death_date = 1926.4.24
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1897.8.17 = { government_rank = 3 }
+
+1907.7.20 = {
+	monarch = {
+		name = "Sunjong"
+		dynasty = "Lee"
+		birth_date = 1874.3.25
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1907.7.20 = {
+	heir = {
+		name = "Can"
+		monarch_name = "Can"
+		dynasty = "Lee"
+		birth_date = 1877.1.1
+		death_date = 1955.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

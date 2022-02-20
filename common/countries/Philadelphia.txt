@@ -1,0 +1,263 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 255 201 223 }
+
+historical_idea_groups = {
+	defensive_ideas
+	cultural_ideas
+	religious_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	pre_eastern_infantry_1a
+	pre_eastern_cavalry_1b
+	pre_eastern_infantry_2a
+	pre_eastern_cavalry_2b
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+	post_ottoman_infantry
+	post_ottoman_cavalry_b
+}
+
+monarch_names = {
+	"John #7" = 40
+	"Alexey #5" = 30
+	"Constantine #10" = 20
+	"Andronicus #4" = 20
+	"Manuel #1" = 20
+	"Roman #4" = 20
+	"Demetrius #0" = 15
+	"Feodor #2" = 15
+	"Michael #9" = 10
+	"Andrei #0" = 10	
+	"Thomas #0" = 10
+	"Isaac #2" = 10
+	"Vasily #2" = 10
+	"Leo #6" = 10
+	"Adrian #1" = 5
+	"Anastasius #2" = 5
+	"Irakli #1" = 5
+	"Julian #3" = 5
+	"Justinian #2"= 5
+	"Justin #2" = 5
+	"Constant #3" = 5
+	"Mark #1" = 5
+	"Nicephorus #3" = 5
+	"Feofil #1" = 5
+	"Feodosius #3" = 5
+	"Tiberius #3" = 5
+	"Traian #1" = 5
+	"Alexander #1" = 5
+	"Philippines #1" = 5
+	"Irakli #1" = 5
+	"Afanasiy #0" = 0
+	"Antony #0" = 0
+	"Bartholomew #0" = 0
+	"Christopher #0" = 0
+	"Diogenes #0" = 0
+	"Dionysius #0" = 0
+	"Irineu #0" = 0
+	"Elpidium #0" = 0
+	"George #0" = 0
+	"Gregory #0" = 0
+	"Hector #0" = 0
+	"Jason #0" = 0
+	"Kirill #0" = 0
+	"Matthew #0" = 0
+	"Nikita #0" = 0
+	"Nicholas #0" = 0
+	"Nicodemus #0" = 0
+	"Sergei #0" = 0
+	"Porphyria #0" = 0
+	"Paul #0" = 0
+	"Panagia #0" = 0
+	"Peter #0" = 0
+	"Philemon #0" = 0
+	"Procopy #0" = 0
+	"Stefan #0" = 0
+	
+	"Irina #3" = -20
+	"Feodora #3" = -20
+	"Zoya #1" = -10
+	"Helen #0" = -10
+	"Anna" #2" = -20
+	"Evdokia" #0" = -10
+	"Maria" #0" = -10
+	"Sofia" #2" = -15
+	"Barbara" #0" = -5
+	"Pulcheria" #0" = -5
+	"Kindness" #0" = -5
+	"Efrosinia" #0" = -5
+	"Ariadne" #0" = -5
+	"Marcia" #0" = -5
+	"Cassia" #0" = -5
+}
+
+leader_names = { 
+	"Acropolitan"
+	"Angel"
+	"Aoyne"
+	"Apokavk"
+	"Argyr"
+	"Vasilevs"
+	"Watatz"
+	"Votaniat"
+	"Bumbali"
+	"Chroniat"
+	"Hoomn"
+	"Diasoren"
+	"Diogenes"
+	"Dooka"
+	"Gabra"
+	"Jagarius"
+	"Cantacuzin"
+	"Cavcaden"
+	"Comnin"
+	"Lascaris"
+	"Melissin"
+	"Melisurge"
+	"Microulak"
+	"Monomakh"
+	"Musalon"
+	"Nestong"
+	"Paleologist"
+	"Parsonounced ."
+	"Foka"
+	"Foskarnaki"
+	"Frangopoul"
+	"Psell"
+	"Radin"
+	"Rangavis"
+	"Rodocanaki"
+	"Roman"
+	"Syrupul"
+	"Tornisk"
+	"Zarid"
+	"Tzimiski"
+}
+
+ship_names = {
+	"Adrianapol"
+	"Athos Autocraty"
+	"Agia Iolia"
+	"Agia Irina"
+	"Agia Magdalene"
+	"Agia Sofia"
+	"Agia Fekla"
+	"Agios Angel"
+	"Agios Eusebius"
+	"Agios Joakim"
+	"Agios John"
+	"Agios Luca"
+	"Agios Mark"
+	"Agios Matthew"
+	"Agios Maximus"
+	"Agios Nikolai"
+	"Agios Paul"
+	"Agios Peter"
+	"Agios Filimon"
+	"Agios Sergios"
+	"Agios Stefan"
+	"Agios Timothy"
+	"Eak"
+	"Aeneas"
+	"Achilles"
+	"Amphitrion"
+	"Aphrodite"
+	"Apollo"
+	"Arachne"
+	"Address:"
+	"Asiya"
+	"Athena"
+	"Alexander Bazilevs"
+	"Bazilevs Alexey"
+	"Vasilevs Andronik"
+	"Vasilevs Vasily"
+	"Vasilevs Demetrius"
+	"Vasilevs John"
+	"Vasilevs Isaac"
+	"Vasilevs Leo"
+	"Vasilevs Manuil"
+	"Vasilevs Mikhail"
+	"Vasilevs "
+	"Vasilevs Roman"
+	"Vasilevs Feodor"
+	"Vasilevs Theophyll"
+	"Vasilisa Feodor"
+	"Vasilisa Zoya #0"
+	"Verisarium"
+	"Byzantium"
+	"Cassandra"
+	"Castor"
+	"Christ Soter"
+	"Chronos"
+	"Demeter"
+	"Despot Demetrius"
+	"Despot of the Sea"
+	"Diana"
+	"Uranus Dragon"
+	"Dionysius"
+	"Ellada"
+	"Endymion"
+	"Eros"
+	"Europe"
+	"Gay"
+	"Gorgon Poseidon"
+	"Hades"
+	"Hector"
+	"Hephaestus"
+	"Hera"
+	"Heracles"
+	"Hermes"
+	"Hestia"
+	"Hydra"
+	"Hypnosis"
+	"Jason"
+	"Kaiser Constantine"
+	"Constantinople"
+	"Contantin Dragash"
+	"Liontari Skleros"
+	"Lussa ton Theon"
+	"Likos Falasses"
+	"Macedonia"
+	"Margarita Aspra"
+	"Minos"
+	"Nestor"
+	"Odyssey"
+	"Orestes"
+	"Okeanasy"
+	"Uranus"
+	"Panselen"
+	"Pegasus"
+	"Perseus"
+	"Ponticose Phalasses"
+	"Poseidon"
+	"Radamanf"
+	"Sebastocrator"
+	"Tanat"
+	"Theseus"
+	"Zeus"
+}

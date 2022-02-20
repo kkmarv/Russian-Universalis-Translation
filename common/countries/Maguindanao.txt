@@ -1,0 +1,70 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 119  32  29 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	spy_ideas
+	religious_ideas
+	offensive_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Mohammed Kabungsuvan #0" = 30
+	"Maca Alang Saripada  #0" = 30
+	"Maca Alang Saripad #0" = 30
+	"Bankaya #0" = 30
+	"Dimasangchai Adel #0" = 30
+	"Gugu Saricula #0" = 30
+	"Laut Bouisan #0" = 30
+	"Muhammad Dipatuan Kudarat #0" = 30
+	"Dundang Tidulai #0" = 30
+	"Barahaman #0" = 30
+	"Kahar oud-din Kuda #0" = 30
+	"Bayan ul-Anwar #0" = 30
+	"Muhammad Tahir oud-din #0" = 30
+	"Muhammad Qair oud-din #0" = 30
+	"Pahar oud-din #0" = 30
+	"Kibad Sahrial #0" = 30
+	"Kawasa Anwar oud-din #0" = 30
+	"Kudratullah Untung #0" = 30
+	
+	"Anela #0" = -1
+}
+
+leader_names = {
+	Agung
+	Batar
+	Bima
+	Elok
+	Karna
+	Rimba
+	Saleh
+	Satria
+	Sentosa
+	Yuda
+}
+
+ship_names = {
+	Kulassein Pangutaran Panduchan Marungas Chap
+	Laparan Dammayil Lapach Xiaxi Lungus Tapul. 
+	Chabingaan Julu Pata Kalingalan Chapual Bangalao
+	Simsa Balanguingla Buchoutua Suluan.
+}

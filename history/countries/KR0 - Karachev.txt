@@ -1,0 +1,48 @@
+government = monarchy
+
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+primary_culture = ryazanian
+religion = orthodox
+capital = 3196
+
+1290.1.1 = {
+	monarch = {
+		name = "Svyatoslav"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1310.1.1 = {
+	monarch = {
+		name = "Mstislav"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1320.1.1 = {
+	monarch = {
+		name = "Andrei"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1339.1.1 = {
+	monarch = {
+		name = "Vasily"
+		dynasty = "Rurikovich"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}

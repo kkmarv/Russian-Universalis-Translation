@@ -1,0 +1,148 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 105  145  40 } 
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	algonkin_tomahawk_charge
+	commanche_swarm
+	native_indian_mountain_warfare
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Secuoya #0" = 20
+	"Attaculaculla #0" = 20
+	"Johan Ross #0" = 10
+	"Moitoi #0" = 20
+	"Yonaguska #0" = 20
+	"Dragging Canoe #0" = 20
+	"Aghi Eat #0" = 20
+	"Audino #0" = 20
+	"Lah'n Koatohi #0" = 20
+	"Scoloetta #0" = 20
+	"Tuskegatachu #0" = 20
+	"Ooskva #0" = 20
+	"Colacusta #0" = 20
+	"Nevota #0" = 20
+	"Konatôta #0" = 20
+	"Tukashi #0" = 20
+	"Toostaka #0" = 20
+	"Untola #0" = 20
+	"Unsucaneil #0" = 20
+	"Kostyak #0" = 20
+	"Chonosta #0" = 20
+	"Chascoonuo #0" = 20
+	"Cheseto #0" = 20
+	"Chesecotetona #0" = 20
+	"Sketaloska #0" = 20
+	"Chocastahe #0" = 20
+	"Onanoota #0" = 20
+	"Ookoseta #0" = 20
+	"Umatoose #0" = 20
+	"Waiuka #0" = 20
+	"Tulko #0" = 20
+	"Nakati #0" = 20
+	"Amokontakona #0" = 20
+	"Koutatahi #0" = 20
+	"Kukukuk #0" = 20
+	"Tulatiska #0" = 20
+	"Woaluka #0" = 20
+	"Tatliusta #0" = 20
+	"Skelik #0" = 20
+	"Akonoluchta #0" = 20
+	"Chinoka #0" = 20
+	"Nemethua #0" = 20
+	"Ostaya #0" = 20
+	"Ortholococcte #0" = 20
+	"Choconnstaller #0" = 20
+	"Noosoyet #0" = 20
+	"Kunnatila #0" = 20
+	"Uttura #0" = 20
+	"Weeley #0" = 20
+	"Oolassote #0" = 20
+	"Tlorené #0" = 20
+	"Jonnurtiki #0" = 20
+	"Oonatacotics #0" = 20
+	"Kanousuri #0" = 20
+	"Yuona Oola #0" = 20
+	"Tuxalini #0" = 20
+	"Orcullauki #0" = 20
+	"Kumama #0" = 20
+	"Chattakoutihi #0" = 20
+	"Kanitta #0" = 20
+	"Kettegiski #0" = 20
+	"Tauotihi #0" = 20
+	"Chukvilatakwe #0" = 20
+	"Sallicocoola #0" = 20
+	"Tallotuski #0" = 20
+	"Chillocks #0" = 20
+	"Tuskigati #0" = 20
+	"Nikaanni #0" = 20
+	"Kulsatihi #0" = 20
+	"Kitakuska #0" = 20
+	"Akooh #0" = 20
+	"Saunoki #0" = 20
+	"Jonajekwa #0" = 20
+	"Kinakunna #0" = 20
+	"Kawisolasky #0" = 20
+	"Tikalohen #0" = 20
+	"Ookoset #0" = 20
+	"Chochuchi #0" = 20
+
+	"Asmita #0" = -1
+	"Nanyahui #0" = -1
+	"Kukhtahlata #0" = -1
+
+}
+
+leader_names = {
+  "Moe"
+	"Diwali"
+	"Vaya"
+	"Tsiji"
+	"Onaka"
+	"Atagukalu"
+	"Degataga"
+	"Tshisekua"
+	"Adahi"
+	"Atagukalu"
+}
+
+ship_names = {
+	"Ani-kutani"
+	"Ahnigatoghevi"
+	"Ahnigulohi"
+	"Ahnikavi"
+	"Ahnisisakva"
+	"Ahnisahoni"
+	"Ahnivodi"
+	"Ahnivaya"
+	"Kanati"
+	"Selo"
+	"Tsuul Kalu"
+	"Oonaveikh Unggi"
+	"Ani Untikwalaski"
+	"Asgaia Gigahei"
+	"Inage Utasuhi"
+	"Anisgaya Tsunsdi"
+	"Ndaunole"
+	"Nvdakola"
+	"Nvdakanavoga"
+	"Nvdagutiha"
+}

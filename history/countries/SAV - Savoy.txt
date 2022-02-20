@@ -1,0 +1,707 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = piedmontese
+religion = catholic
+technology_group = western
+capital = 205 # Chambery
+add_army_professionalism = 0.05
+
+1032.1.1 = {
+	monarch = {
+		name = "Humbert I Belarussian"
+		dynasty = "Savoy"
+		birth_date = 970.1.1
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+}
+
+1047.1.1 = {
+	monarch = {
+		name = "Amadeus I Tail"
+		dynasty = "Savoy"
+		birth_date = 995.1.1
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+
+1051.1.1 = {
+	monarch = {
+		name = "Otto I"
+		dynasty = "Savoy"
+		birth_date = 1021.1.1
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+
+1060.3.16 = {
+	monarch = {
+		name = "Pierre I"
+		dynasty = "Savoy"
+		birth_date = 1048.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1078.8.9 = {
+	monarch = {
+		name = "Amadeus II"
+		dynasty = "Savoy"
+		birth_date = 1050.1.1
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+}
+
+1080.1.26 = {
+	monarch = {
+		name = "Humbert II Strong"
+		dynasty = "Savoy"
+		birth_date = 1065.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1103.10.14 = {
+	monarch = {
+		name = "Amadeus III"
+		dynasty = "Savoy"
+		birth_date = 1095.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+}
+
+1148.8.1 = {
+	monarch = {
+		name = "Humbert III"
+		dynasty = "Savoy"
+		birth_date = 1136.8.4
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+}
+
+1189.3.4 = {
+	monarch = {
+		name = "Thomas I"
+		dynasty = "Savoy"
+		birth_date = 1178.5.20
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+}
+
+1233.3.6 = {
+	monarch = {
+		name = "Amadeus IV"
+		dynasty = "Savoy"
+		birth_date = 1197.1.1
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+}
+
+1253.7.13 = {
+	monarch = {
+		name = "Boniface I"
+		dynasty = "Savoy"
+		birth_date = 1244.12.1
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+1263.6.7 = {
+	monarch = {
+		name = "Pierre II Little Charlemagne"
+		dynasty = "Savoy"
+		birth_date = 1203.1.1
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1263.1.1 = {
+	heir = {
+		name = "Philippe"
+		monarch_name = "Philippe I"
+		dynasty = "Savoy"
+		birth_date = 1207.1.1
+		death_date = 1285.8.16
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+1268.5.15 = {
+	monarch = {
+		name = "Philippe I"
+		dynasty = "Savoy"
+		birth_date = 1207.1.1
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+1285.8.16 = {
+	monarch = {
+		name = "Amadeus V the Great"
+		dynasty = "Savoy"
+		birth_date = 1253.1.1
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1285.8.16 = {
+	heir = {
+		name = "Edward"
+		monarch_name = "Edward I Liberal"
+		dynasty = "Savoy"
+		birth_date = 1284.2.8
+		death_date = 1329.11.4
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+1323.10.16 = {
+	monarch = {
+		name = "Edward I Liberal"
+		dynasty = "Savoy"
+		birth_date = 1284.2.8
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+1329.11.4 = {
+	monarch = {
+		name = "Jeanne"
+		dynasty = "Savoy"
+		birth_date = 1310.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}
+
+1323.10.16 = {
+	heir = {
+		name = "Jeanne of Byzantium"
+		monarch_name = "Anna"
+		dynasty = "Savoy"
+		birth_date = 1306.1.1
+		death_date = 1329.11.22 #1359.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+		female = yes
+	}
+}
+
+1329.11.22 = {
+	monarch = {
+		name = "Eamon I"
+		dynasty = "Savoy"
+		birth_date = 1291.12.15
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1334.1.4 = {
+	heir = {
+		name = "Amadeus"
+		monarch_name = "Amadeus VI"
+		dynasty = "Savoy"
+		birth_date = 1334.1.4
+		death_date = 1383.3.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1343.6.22 = {
+	monarch = {
+		name = "Amadeus VI"
+		dynasty = "Savoy"
+		birth_date = 1334.1.4
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1360.2.24 = {
+	heir = {
+		name = "Amadeus"
+		monarch_name = "Amadeus VII"
+		dynasty = "Savoy"
+		birth_date = 1360.2.24
+		death_date = 1391.11.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+}
+
+1383.3.1 = {
+	monarch = {
+		name = "Amadeus VII"
+		dynasty = "Savoy"
+		birth_date = 1360.2.24
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+}
+
+1383.9.4 = {
+	heir = {
+		name = "Amadeus"
+		monarch_name = "Amadeus VIII"
+		dynasty = "Savoy"
+		birth_date = 1383.9.4
+		death_date = 1451.1.7
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1391.11.1 = {
+	monarch = {
+		name = "Amadeus VIII"
+		dynasty = "Savoy"
+		birth_date = 1338.9.4
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1413.2.21 = {
+	heir = {
+		name = "Ludovic"
+		monarch_name = "Ludovic I"
+		dynasty = "Savoy"
+		birth_date = 1413.2.21
+		death_date = 1465.1.29
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1434.11.2 = {
+	monarch = {
+		name = "Ludovic I"
+		dynasty = "Savoy"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1435.2.1 = {
+	heir = {
+		name = "Amadeus"
+		monarch_name = "Amadeus IX"
+		dynasty = "Savoy"
+		birth_date = 1435.2.1
+		death_date = 1472.3.30
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+}
+
+1465.1.30 = {
+	monarch = {
+		name = "Amadeus IX"
+		dynasty = "Savoy"
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+}
+
+1465.8.17 = {
+	heir = {
+		name = "Filibert"
+		monarch_name = "Filibert I"
+		dynasty = "Savoy"
+		birth_date = 1465.8.17
+		death_date = 1482.9.22
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1472.3.31 = {
+	monarch = {
+		name = "Filibert I"
+		dynasty = "Savoy"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1472.3.31 = {
+	heir = {
+		name = "Karl"
+		monarch_name = "Karl I"
+		dynasty = "Savoy"
+		birth_date = 1468.3.29
+		death_date = 1490.3.13
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1482.9.23 = {
+	monarch = {
+		name = "Karl I"
+		dynasty = "Savoy"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1489.6.23 = {
+	heir = {
+		name = "Karl"
+		monarch_name = "Karl II"
+		dynasty = "Savoy"
+		birth_date = 1489.6.23
+		death_date = 1496.4.16
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1490.3.14 = {
+	monarch = {
+		name = "Karl II"
+		dynasty = "Savoy"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1490.3.14 = {
+	heir = {
+		name = "Philippe"
+		monarch_name = "Philippe II"
+		dynasty = "Savoy"
+		birth_date = 1438.2.5
+		death_date = 1497.11.7
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1496.4.17 = {
+	monarch = {
+		name = "Philippe II"
+		dynasty = "Savoy"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1496.4.17 = {
+	heir = {
+		name = "Filibert"
+		monarch_name = "Filibert II"
+		dynasty = "Savoy"
+		birth_date = 1480.4.10
+		death_date = 1504.9.10
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1497.11.8 = {
+	monarch = {
+		name = "Filibert II"
+		dynasty = "Savoy"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1497.11.8 = {
+	heir = {
+		name = "Karl"
+		monarch_name = "Karl II"
+		dynasty = "Savoy"
+		birth_date = 1486.10.10
+		death_date = 1553.8.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+1499.1.1 = {
+	capital = 1875 # Cuneo
+}
+1504.9.11 = {
+	monarch = {
+		name = "Karl II"
+		dynasty = "Savoy"
+		birth_date = 1486.10.10
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1528.7.8 = {
+	heir = {
+		name = "Emmanuel Filibert."
+		monarch_name = "Emmanuel Filibert. I"
+		dynasty = "Savoy"
+		birth_date = 1528.7.8
+		death_date = 1580.8.30
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 4
+		leader = {	
+			name = "Emmanuel Filibert."
+			type = general
+		
+			fire = 4
+			shock = 3
+			manuever = 3
+			siege = 1
+		}
+	}
+}
+
+1529.1.1 = {
+	capital = 205 # Chambery
+}
+
+1538.6.17 = {
+	capital = 102 # Nice
+}
+1553.8.18 = { government = monarchy
+add_government_reform = autocracy_reform }
+
+1553.8.18 = {
+	monarch = {
+		name = "Emmanuel Filibert. I"
+		dynasty = "Savoy"
+		adm = 5
+		dip = 5
+		mil = 4
+		leader = {	
+			name = "Emmanuel Filibert."
+			type = general
+		
+			fire = 4
+			shock = 3
+			manuever = 3
+			siege = 1
+		}
+	}
+}
+
+1562.1.12 = {
+	heir = {
+		name = "Carl Emmanuel"
+		monarch_name = "Carl Emmanuel I"
+		dynasty = "Savoy"
+		birth_date = 1562.1.12
+		death_date = 1630.7.26
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+		leader = {	name = "Carl Emmanuel"      	type = general	fire = 2	shock = 4	manuever = 3	siege = 0}
+	}
+}
+
+1563.2.7 = {
+	capital = 103 #Torino
+}
+	
+1580.8.31 = {
+	monarch = {
+		name = "Carl Emmanuel I"
+		dynasty = "Savoy"
+		adm = 2
+		dip = 3
+		mil = 3
+		leader = {	name = "Carl Emmanuel I"      	type = general	fire = 2	shock = 4	manuever = 3	siege = 0}
+	}
+}
+
+1587.5.8 = {
+	heir = {
+		name = "Victor Amadeus"
+		monarch_name = "Victor Amadeus I"
+		dynasty = "Savoy"
+		birth_date = 1587.5.8
+		death_date = 1637.10.7
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 2
+		leader = {	name = "Victor Amadeus I"        	type = general	fire = 3	shock = 3	manuever = 3	siege = 0}
+	}
+}
+		
+1630.7.27 = {
+	monarch = {
+		name = "Victor Amadeus I"
+		dynasty = "Savoy"
+		adm = 4
+		dip = 4
+		mil = 2
+		leader = {	name = "Victor Amadeus I"        	type = general	fire = 3	shock = 3	manuever = 3	siege = 0}
+	}
+}
+
+1632.9.14 = {
+	heir = {
+		name = "Francis Hyacinth"
+		monarch_name = "Francis Hyacinth I"
+		dynasty = "Savoy"
+		birth_date = 1632.9.14
+		death_date = 1638.10.4
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1637.10.8 = {
+	monarch = {
+		name = "Francis Hyacinth I"
+		dynasty = "Savoy"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1637.10.8 = {
+	heir = {
+		name = "Carl Emmanuel"
+		monarch_name = "Carl Emmanuel II"
+		dynasty = "Savoy"
+		birth_date = 1634.6.20
+		death_date = 1675.6.12
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1638.1.1 = { leader = {	name = "Thomas di Savoie"     	type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1656.1.1 } }
+
+1638.10.5 = {
+	monarch = {
+		name = "Carl Emmanuel II"
+		dynasty = "Savoy"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1666.5.14 = {
+	heir = {
+		name = "Victor Amadeus"
+		monarch_name = "Victor Amadeus II"
+		dynasty = "Savoy"
+		birth_date = 1666.5.14
+		death_date = 1732.10.31
+		claim = 95
+		adm = 4
+		dip = 6
+		mil = 5
+		leader = { name = "Victor Amadeus II"	type = general	fire = 4	shock = 4	manuever = 2	siege = 2 }
+	}
+}
+
+1675.1.1 = {
+	monarch = {
+		name = "Victor Amadeus II"
+		dynasty = "Savoy"
+		adm = 4
+		dip = 6
+		mil = 5
+		leader = { name = "Victor Amadeus II"	type = general	fire = 4	shock = 4	manuever = 2	siege = 2 }
+	}
+}
+
+1699.6.5 = {
+	heir = {
+		name = "Victor Amadeus"
+		monarch_name = "Victor Amadeus III"
+		dynasty = "Savoy"
+		birth_date = 1699.6.5
+		death_date = 1715.3.22
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

@@ -1,0 +1,94 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 184  80  52 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	quantity_ideas
+	offensive_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	african_spearmen
+	bantu_tribal_warfare
+	african_hill_warfare
+	adal_gunpowder_warfare
+	westernized_adal
+	adal_guerilla_warfare
+	african_somali_cavalry
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_hussar
+	african_dragoon		
+}
+
+monarch_names = {
+	"'Ambra #0" = 40
+	"'Abd al-Qadir #0" = 40
+	"Na'l #0" = 20
+	"Deacon al-Adil #0" = 20
+	"Dera #0" = 20
+	"Taiyob #0" = 40
+	"Unsa #0" = 60
+	"Adlan #0" = 40
+	"Bado #0" = 140
+	"Rubat #0" = 20
+	"Nel #0" = 20
+	"Nasir #0" = 20
+	"Raphne #0" = 20
+	"Eltekit #0" = 20
+	"Jarl #0" = 20
+	"Codlaniel #0" = 20
+	"Esavi #0" = 0
+	"Hashim #0" = 0
+	"Macdum #0" = 0
+	"Avkal #0" = 0
+	"Hassan #0" = 0
+	"Agban #0" = 20
+	"Abu Liqayyik #0" = 0
+	"Rajab #0" = 0
+	"Ahmad #0" = 0
+	"Rifaia #0" = 0
+	"Ibrahim #0" = 0
+	"Idris #0" = 0
+	"Tindhim #0" = 0
+	"'Abd al-Rahman #0" = 0
+	"Suleiman #0" = 0
+	"Yusuf #0" = 0
+	"Ya'cube #0" = 0
+	"Isma'ol #0" = 0
+	"Musa #0" = 0
+	"Muhammad #0" = 0
+	"Ishaq #0" = 0
+	"Halim #0" = 0
+	"Mustafa #0" = 0
+	"Abu Bakr #0" = 0
+	
+	"Gulzar #0" = -1
+	"Maram #0" = -1
+}
+
+leader_names = {
+	Abbood
+	Fung
+	Garang
+	Kaira
+	Keira
+	Keloweljang
+	Lugor
+	Noir
+	Scholar
+	Taha
+}
+
+ship_names = {
+	Apedemac Bes Dedven Ahrensnufis Amon
+	Mandulis Amenirdis Taveret Mut Tefnut Hnum.
+}

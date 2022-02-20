@@ -1,0 +1,192 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 166  125  154 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_carabinier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Thibao #5" = 60
+	"Henri #3" = 40
+	"Jeanne #1" = -15
+	"Pierre #0" = 15
+	"Hubert #2" = 5
+	"Etienne #2" = 5
+	"Hugo #1" = 5
+	"Robert #1" = 5
+	"Abel #0" = 0
+	"Adrien #0" = 0
+	"Alexander #0" = 0
+	"Charles #0" = 0
+	"Christian #0" = 0
+	"Claude #0" = 0
+	"Conrad #0" = 0
+	"Denis #0" = 0
+	"Ed #0" = 0
+	"Eugene #0" = 0
+	"François #0" = 0
+	"Frederick #0" = 0
+	"Gaspar #0" = 0
+	"Georges #0" = 0
+	"Germaine #0" = 0
+	"Gustav #0" = 0
+	"Jean #0" = 0
+	"Jules #0" = 0
+	"Leopold #0" = 0
+	"Louis #0" = 0
+	"Maurice #0" = 0
+	"Michelle #0" = 0
+	"One #0" = 0
+	"Philippe #0" = 0
+	"Raoul #0" = 0
+	"Renee #0" = 0
+	"Rudolph #0" = 0
+	"Samuel #0" = 0
+	"Søren #0" = 0
+	"Tristan #0" = 0
+	"Valentin #0" = 0
+	"Victor #0" = 0
+}
+
+ship_names = {
+  "Ati"
+	"Bel-A"
+	"Bultan"
+	"Buoys"
+	"Shavene"
+	"Comber"
+	"Kurtomon"
+	"Cours-sur-Kouffi"
+	"Cumiere"
+	"Fontenelle"
+	"Gizokur"
+	"Iss"
+	"Gallon"
+	"Jippe"
+	"Jonchery"
+	"La Sheppe"
+	"La Croix"
+	"Lagerie"
+	"La Grande Romagna"
+	"La Presseille"
+	"La Salle"
+	"Laval-sur-Tourbe"
+	"La Grossemasse"
+	"La Veve"
+	"Le Bray"
+	"Le Grande-Essar"
+	"Le Monce"
+	"Le Crusy"
+	"Livry-Loversey"
+	"Luvois"
+	"Minocourt le Mesnille"
+	"Montflember"
+	"Montigny"
+	"Moosey"
+	"Neville en Chalois"
+	"Passi-Griny"
+	"Rade"
+	"Saint Hilaire"
+	"Saint-Imore"
+	"Saint-Jean-sur-Thourbes"
+	"Saint-Cloud"
+	"Suain-Perte"
+	"Suippe"
+	"Tocier-Mutry"
+	"Tubiott"
+	"Wadene"
+	"Valmi"
+	"Vodemanage"
+	"Wro"
+	"Vargemoulin"
+}
+
+leader_names = {
+        "d'Alendeuil"
+	"d'Artiguaty"
+	"d'Arzière"
+	"de Balathier"
+	"de Balin"
+	"de Balain"
+	"Beaufort de Potemont"
+	"de Boreper"
+	"Bello de Ferro"
+	"de Brancourt"
+	"de Brienne"
+	"de Brux"
+	"de Bruce"
+	"Cuchon de Versaine"
+	"de Charbonnier"
+	"de Chassisy"
+	"du Châtelette"
+	"de Chatillon"
+	"Clos"
+	"de Kusi"
+	"de Kurtene"
+	"de Crecy"
+	"de Croix"
+	"d'Espinois"
+	"de Fayyi"
+	"de Grandpre"
+	"de Greignon"
+	"du Amel"
+	"de Wu"
+	"de Juanie"
+	"de Juanville"
+	"de la Fontaine"
+	"de Lalen"
+	"de Lantage"
+	"de Lavisse"
+	"de Lezine"
+	"de Lomainier"
+	"Pérignon"
+	"de Plansi"
+	"du Prague"
+	"de Retel"
+	"de Russe"
+	"de Rumigny"
+	"de Saint Belém"
+	"de Saint-Cheron"
+	"de Serjeune"
+	"de Voccleroi"
+	"de Verje"
+	"de Verrières"
+	"de Villeprouve"
+}
+
+army_names = {
+  "Pey d'Ota Army"
+	"La Marna's Army"
+	"Shalon Army"
+	"Reims Army"
+	"Armée de Troyes"
+	"Provincial Army. $PROVINCE$"
+}

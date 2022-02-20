@@ -1,0 +1,128 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 255 100 47 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+	diplomatic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Ivan #3" = 80
+	"Feodor #1" = 20
+	"Oleg #1" = 20
+	"Vasily #1" = 20
+	"Dmitry #5" = 10
+	"Vladimir #2" = 10
+	"Alexander #0" = 0
+	"Alexey #0" = 0
+	"Anton #0" = 0
+	"Boris #0" = 0
+	"Bogdan #0" = 0
+	"Daniel #0" = 0
+	"David #0" = 0
+	"Gabriel #0" = 0
+	"Gregory #0" = 0
+	"Igor #0" = 0
+	"Kirill #0" = 0
+	"Kuzma #0" = 0
+	"Constantine #0" = 0
+	"Leo #0" = 0
+	"Luke #0" = 0
+	"Maxim #0" = 0
+	"Matthew #0" = 0
+	"Methodius #0" = 0
+	"Michael #0" = 0
+	"Vincentius #0" = 0
+	"Nikita #0" = 0
+	"Cyprian #0" = 0
+	"Nicholas #0" = 0
+	"Semyon #0" = 0
+	"Peter #0" = 0
+	"Roman #0" = 0
+	"Sergei #0" = 0
+	"Stepan #0" = 0
+	"Timofey #0" = 0
+	"Vsevolod #0" = 0
+	"Ruslan #0" = 0
+	"Yuri #0" = 0
+	"Zinovi #0" = 0
+	"Zachary #0" = 0
+	
+	"Dominica #0" = -1
+	"Katya #0" = -1
+}
+
+leader_names = {
+	"Muromsky"
+	"Pronsky"
+	"Barabshin"
+	"Belly"
+	"Shuisky"
+	"Eyes"
+	"Brokeback"
+	"Korobjin"
+	"Nizhny Novgorod"
+	"Nail"
+	"Skopin"
+	"Ivanov"
+	"Travin"
+	"Tolbuzin"
+	"Rozhestvensky"
+	"Shoes"
+	"Bulgakov"
+	"Gubastov"
+	"Danilov"
+	"Dmitriyev"
+	"Dobrynsky"
+	"Eropkin"
+}
+
+ship_names = {
+	"Pronsk"
+	"Pronya"
+	"Sviatoslavic"
+	"Moore"
+	"Ryazan"
+	"Pereslavl"
+	"Ryazan"
+	"Moksha"
+	"Oka"
+	"Zna"
+	"Skopin"
+	"Mikhailov"
+	"Solotcha"
+	"Kasimov"
+	"Cadom"
+	"Sasovo"
+	"Shatsk"
+	"Ship"
+     Holguin
+}

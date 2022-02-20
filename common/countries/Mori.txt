@@ -1,0 +1,107 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 230  180  34 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	maritime_ideas
+	trade_ideas
+	quality_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	japanese_archer
+	eastern_bow
+	japanese_footsoldier
+	japanese_samurai
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = { 
+	"Motoharu #0" = 50
+	"Hirofusa #0" = 50
+	"Mitsufusa #0" = 50
+	"Okimoto #0" = 50
+	"Hiromoto #0" = 50	
+	"Toyomoto #0" = 50	
+	"Motor homes #0" = 50	
+	"Terumoto #0" = 50
+	"Hidenari #0" = 50
+	"Tsunauhiro #0" = 50
+	"Yoshinari #0" = 50
+	"Yoshihiro #0" = 50
+	"Yoshimoto #0" = 50
+	"Takamoto #0" = 10
+    "Motorcycle #0" = 10
+	"Munaehiro #0" = 50
+	"Motomasa #0" = 30
+	"Mototsugu #0" = 50
+	"Toku #0" = -5
+	"Sen #0" = -5
+	"Tama #0" = -5
+	"Aya #0" = -5
+	"Ina #0" = -5
+}
+
+leader_names = {
+    # Daimyo names
+	Akamatsu Akechi Ashikaga Amago Kyogoku Rokkaku Asakura Asano Aso Tosokabe Date Hatisuka
+	Hatakayama Hojo Hosokawa Ichizyo Keda Imagawa Ishiki Ito Jimbo Kikuchi Kono Maeda
+	Mitsunaga Mimura Miyoshi Mogami Mori Nabesima Nagao Oda Ogasawara Otomo Ouchi
+	Ryujoji Sagara Saito Sanada Satake Satomi Shiba Shimazu Shuni Takeda Toki
+	Tokugawa Matsudaira Toyotomi Tsutsui Uesugi Uragami Yamana Yamauchi
+    # Maury 
+	Maury Maury Maury Maury Maury Maury Maury Maury Maury. 
+	Maury Maury Maury Maury Maury Maury Maury Maury Maury. 
+	# The vassals of the Maury clan
+	Kikkawa Kikkawa Kikkawa Kobayamava Kobayamava Kobayamava 
+	Sido Sido Sido Khoida Khoida Khoida Khoida Khoida 
+	Ninomia Ninomia Ninomia Kumagai Kumagai Kumagai Kumagai Kumagai 
+	Kodama Kodama Kodama Inoue Inoue Inoue Inoue 
+	Kaneeshige Kaneeshige Kaneeshige Kaneeshige Katsura Katsura Katsura Katsura Katsura 
+	Fukuhara Fukuhara Fukuhara Fukuhara Kutiba Kutiba Kutiba 
+	Sido Sido Sido Sido Nomi Nomi Nomi Nomi. 
+	Shimizu Shimizu Shimizu Shimizu Hirag Hirag Hirag Hirag Hirag Hirag Hirag. 
+	Murakami Murakami Murakami Murakami Ichikawa Ichikawa Ichikawa 
+	# Regional names: Tugoku
+	Hurricanes Matsuda Ukita Togawa Hanabusa Akashi Hosokawa Sho Mimura Ishikawa
+	Akiba Shimizu Senoo Miura Yamana Nandjo Takeda Amago Mitoi Akan Tatihara Uyama
+	Sido Yamanaka Kamayi Masuda Yoshimi Yamauchi Mori Kikkawa Kobayakawa
+	Murakami Kumagai Saeki Fukuhara Kodaga Katsura Shishido Inoue
+	Ouchi Sue Sugi Knighto
+}
+
+ship_names = {
+	"Mutsu Maru" "Deva Maru" "Shimotsuke Maru"
+	"Hitati Maru"
+	"Kazusa Maru" "Simousa Maroux" "Awa Maru" "Musashi Maru" "Kojuke Maru" "Izu Maru" "This Maru" "Ettu Maroux"
+	"Kaga Maru" "Noto Maru" "Suruga Maru" "Totomi Maru" "Josu Maru" "Aenseu Maru" "Bushu Maru" "Essue Maroux"
+	"Mikawa Maru" "Usu Maru" "Sosu Maru" "Bosu Maru" "Kai Maru" "Shinshu Maru" "Kosu Maru"
+	"Owari Maru" "Bisu Maru" "Mino Maru" "Etizen Maru" "Ise Maru" "Sima Maru" "Omi Maru" 
+	"Gosiu Maru" "Yamashiro Maru" "Vakasa Maru" "Tamba Maru" "Tango Maru" "Yamato Maru" "Ki Maru"
+	"Kishu Maru" "Iga Maru" "Sanguki Maru" "Toza Maru"
+	"Yeo Maru" "Harima Maru" "Bansiu Maru"
+	"Hoki Maru" "Inaba Maru" "Bizen Maru" "Mimasaka Maru" "Binsu Maru"
+	"Bingo Maru" "Bittu Maru" "Aki Maru" "Izumo Maru" "Ywami Maru" "Suo Maru" "Nagato Maru" "Bungo Maru"
+	"Budzeng Maru" "Tikuzen Maru"
+	"Tikugo Maru" "Hizzan Maru" "Higo Maru" "Tikushu Maru" "Huga Maru" "Osumi Maru" "Satsuma Maru" "Sassou Marou"
+}
+
+army_names = {
+	"Mori Gun" "$PROVINCE$ gun" "$PROVINCE$ Jay" "$PROVINCE$ given at"
+}
+
+fleet_names = {
+	"Mori Suigun" "$PROVINCE$ Sungun" "$PROVINCE$ sandan" "$PROVINCE$ "
+}

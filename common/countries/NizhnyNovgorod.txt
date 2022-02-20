@@ -1,0 +1,123 @@
+#Nizhny Novgorod
+
+graphical_culture = easterngfx
+
+color = { 176  72  77 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	maritime_ideas
+	religious_ideas
+	economic_ideas
+	spy_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+leader_names = {
+	Apraksin
+	Bagration "Barclay de Tolly" Bibikov Bodisko Boruvsin
+	Golitsin
+	Kaibula Kamensky Goat
+	Menshikov Mstislavsky
+	"Osterman-Tolstoy"
+	Paletsky
+	Rajewski
+	Shuvalov Shremetyev Steinatev
+	Tiesenhausen
+	Vasilyevich "von Buxhoeveden" "von Knorring" "von Lassie"
+}
+
+monarch_names = {
+	"Constantine #1" = 40
+	"Dmitry #1" = 40
+	"Vasily #1" = 30
+	"Yuri #0" = 4
+	"Svyatoslav #0" = 1
+	"Rostislav #0" = 1
+	"David #0" = 4
+	"Igor #0" = 1
+	"Feodor #0" = 4
+	"Ivan #0" = 4
+	"Dmitry #0" = 4
+	"Andrei #0" = 4
+	"Vladimir #0" = 4
+	"Semyon #0" = 2
+	"Boris #0" = 2
+	"Afanasiy #0" = 0
+	"Gregory #0" = 0
+	"Alexander #0" = 0
+	"Alexey #0" = 0
+	"Vladimir #0" = 0
+	"Constantine #0" = 0
+	"Daniel #0" = 0
+	"Dorofey #0" = 0
+	"Osip #0" = 0
+	"Zachary #0" = 0
+	"Gabriel #0" = 0
+	"Vsevolod #0" = 0
+	"Kuzma #0" = 0
+	"Thomas #0" = 0
+	"Leo #0" = 0
+	"Matthew #0" = 0
+	"Michael #0" = 0
+	"Roman #0" = 0
+	"Nikita #0" = 0
+	"Oleg #0" = 0
+	"David #0" = 0
+	"Paul #0" = 0
+	"Cyprian #0" = 0
+	"Peter #0" = 0
+	"Maxim #0" = 0
+	"Stepan #0" = 0
+	"Sergei #0" = 0
+	"Terenty #0" = 0
+	"Valery #0" = 0
+	"Jakim #0" = 0
+	"Eugene #0" = 0
+	
+	"Jana #0" = -1
+	"Zlata #0" = -1
+	"Feodora #0" = -1
+}
+
+ship_names = {
+	"Dmitry Donskoy"
+	"Constantine I"
+	"Suzdal"
+	"Nizhny Novgorod"
+	"Rurik"
+	"Ivan Kalita"
+	"Moscow"
+	"Volga"
+	"Dmitrov"
+	"Kolomna"
+	"Zvenigorod"
+	"Mozhaisk"
+	"Oslobya"
+	"Sync & corrections by"
+	"Troitskoe"
+	"Volokolamsk"
+	"Clint"
+	"Sergiy Radonezhsky"
+}

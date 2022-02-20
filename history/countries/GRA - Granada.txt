@@ -1,0 +1,387 @@
+government = monarchy
+add_government_reform = iqta
+primary_culture = andalucian
+religion = sunni
+add_accepted_culture = berber
+technology_group = muslim
+capital = 223	# Granada
+government_rank = 1
+religious_school = maliki_school
+
+1232.1.1 = {
+	monarch = {
+		name = "Muhammad I al-Ghalib"
+		dynasty = "Nasrid"
+		birth_date = 1194.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1273.1.22 = {
+	monarch = {
+		name = "Muhammad II al-Faqih"
+		dynasty = "Nasrid"
+		birth_date = 1235.1.1
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+}
+
+1302.4.7 = {
+	monarch = {
+		name = "Muhammad III al-Mahlu"
+		dynasty = "Nasrid"
+		birth_date = 1257.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+	add_piety = -0.3
+}
+
+1302.4.8 = {
+	heir = {
+		name = "Nasr"
+		monarch_name = "Nasr"
+		dynasty = "Nasrid"
+		birth_date = 1287.11.2
+		death_date = 1322.11.16
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1309.3.14 = {
+	monarch = {
+		name = "Nasr"
+		dynasty = "Nasrid"
+		birth_date = 1287.11.2
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1314.2.8 = {
+	monarch = {
+		name = "Ismail Ibn Faraj"
+		dynasty = "Nasrid"
+		birth_date = 1279.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+1325.7.6 = {
+	monarch = {
+		name = "Muhammad IV"
+		dynasty = "Nasrid"
+		birth_date = 1315.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1333.8.25 = {
+	monarch = {
+		name = "Yusuf I"
+		dynasty = "Nasrid"
+		birth_date = 1318.6.29
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+1354.10.19 = {
+	monarch = {
+		name = "Muhammad V al-Ghani"
+		dynasty = "Nasrid"
+		birth_date = 1338.1.4
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+1359.8.1 = {
+	monarch = {
+		name = "Ismayil II"
+		dynasty = "Nasrid"
+		birth_date = 1338.10.2
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1360.6.1 = {
+	monarch = {
+		name = "Muhammad VI al-Ahmar"
+		dynasty = "Nasrid"
+		birth_date = 1332.1.1
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1362.4.25 = {
+	monarch = {
+		name = "Muhammad V al-Ghani"
+		dynasty = "Nasrid"
+		birth_date = 1338.1.4
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+1391.1.16 = {
+	monarch = {
+		name = "Yusuf II al-Mustagani"
+		dynasty = "Nasrid"
+		birth_date = 1360.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1392.10.3 = {
+	monarch = {
+		name = "Muhammad VII al-Mustaine"
+		dynasty = "Nasrid"
+		birth_date = 1370.1.1
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1408.5.1 = {
+	monarch = {
+		name = "Yusuf III al-Nasir"
+		dynasty = "Nasrid"
+		birth_date = 1376.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1417.11.9 = {
+	monarch = {
+		name = "Muhammad VIII al-Mutamassik"
+		dynasty = "Nasrid"
+		birth_date = 1409.1.1
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}
+
+1419.1.1 = {
+	monarch = {
+		name = "Muhammad IX al-Ghalib"
+		dynasty = "Nasrid"
+		birth_date = 1396.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1427.1.1 = {
+	monarch = {
+		name = "Muhammad VIII al-Mutamassik"
+		dynasty = "Nasrid"
+		birth_date = 1409.1.1
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}
+
+1429.1.1 = {
+	monarch = {
+		name = "Muhammad IX al-Ghalib"
+		dynasty = "Nasrid"
+		birth_date = 1396.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1431.7.1 = {
+	monarch = {
+		name = "Yusuf IV Abenalmao"
+		dynasty = "Nasrid"
+		birth_date = 1400.1.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+1432.4.1 = {
+	monarch = {
+		name = "Muhammad IX al-Ghalib"
+		dynasty = "Nasrid"
+		birth_date = 1396.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1445.1.1 = {
+	monarch = {
+		name = "Muhammad X al-Ahnaf"
+		dynasty = "Nasrid"
+		birth_date = 1415.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+1445.6.1 = {
+	monarch = {
+		name = "Yusuf V"
+		dynasty = "Nasrid"
+		birth_date = 1420.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1446.1.1 = {
+	monarch = {
+		name = "Muhammad X al-Ahnaf"
+		dynasty = "Nasrid"
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+1451.1.1 = {
+	monarch = {
+		name = "Muhammad IX al-Ghalib"
+		dynasty = "Nasrid"
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1454.1.1 = {
+	monarch = {
+		name = "Abu Nasr Sa'id Al-Musta'in"
+		dynasty = "Nasrid"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1462.1.1 = {
+	monarch = {
+		name = "Yusuf V"
+		dynasty = "Nasrid"
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1463.1.1 = {
+	monarch = {
+		name = "Abu Nasr Sa'id Al-Musta'in"
+		dynasty = "Nasrid"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1464.1.1 = {
+	monarch = {
+		name = "Abu-l-Hassan Ali"
+		dynasty = "Nasrid"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1470.1.1 = { leader = {	name = "Ibrahim Ali Al-Attar"	type = general	fire = 2	shock = 3	manuever = 3	siege = 0	death_date = 1483.1.1 } }
+
+1482.1.1 = {
+	monarch = {
+		name = "Boabdile"
+		dynasty = "Nasrid"
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+1483.1.1 = {
+	monarch = {
+		name = "Abu-l-Hassan Ali"
+		dynasty = "Nasrid"
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+1485.1.1 = {
+	monarch = {
+		name = "Muhammad XIII al-Zagall"
+		dynasty = "Nasrid"
+		adm = 0
+		dip = 0
+		mil = 0
+		 leader = { name = "Muhammad al-Zagall"	type = general	fire = 2	shock = 3	manuever = 3	siege = 0 }
+	}
+}
+
+1489.1.1 = {
+	monarch = {
+		name = "Boabdile"
+		dynasty = "Nasrid"
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+1492.1.2 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1568.1.1 = { government = monarchy
+add_government_reform = autocracy_reform }
+
+1724.1.20 = { set_legacy_government = administrative_monarchy }
+
+1759.8.12 = { government = monarchy
+add_government_reform = autocracy_reform }

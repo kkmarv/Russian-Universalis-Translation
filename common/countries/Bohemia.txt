@@ -1,0 +1,142 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 161  139  40 }
+revolutionary_colors = { 0  4  15 }
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	innovativeness_ideas
+	quantity_ideas
+	administrative_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Wenceslas #4" = 50
+	"Jiri #0" = 25
+	"Karel #5" = 40
+	"Przemysl #0" = 10
+	"Přemysl Otakar #3" = 25
+	"Sikmund #0" = 0
+	"Frantisek #0" = 0
+	"Jindřich #0" = 5
+	"Joseph #0" = 5
+	"Frantisek Josef #0" = 0
+	"Borek #0" = 0
+	"Jan Jiri #0" = 5
+	"Ludwik #0" = 0
+	"Vladislav #0" = 20
+	"Vladimir #0" = 10
+	"Peter #0" = 5
+	"Jan Peter #0" = 5
+	"Quiz #0" = 0
+	"Jan Wenceslas #0" = 0
+	"Josef Wenceslas #0" = 0
+	"Karel Josef #0" = 0
+	"Matoosh #0" = 0
+	"Ferdinand #0" = 5
+	"Otakar #0" = 10
+	"Vratislav #3" = 5
+	"Boleslav #4" = 10
+	"Willem #0" = 5
+	"Victor #0" = 0
+	"Yaromir #0" = 5
+	"Yaroslav #0" = 1
+	"Anesthesia #0" = -1
+	"Eliška #0" = -1
+	"Katerina #0" = -1
+	"Maria #0" = -1
+	"Ludmila #0" = -1
+	"Aljbeta #0" = -1
+}
+
+leader_names = {
+	Zajac
+	Yiskra
+	Iron
+	Cap
+	Tour
+	Kolovrat
+	Schwarzenberg
+	"from Rojmberk"
+	Velen
+	Falcon
+	"from Zerotin"
+	"from Hushi"
+	"from Polzic"
+	"Harant"
+	"from Brandis"
+	"Purkinet"
+	"from Veleslaven"
+	"from Rojmitale"
+	"Burke"
+	"from Pardubic"
+	"from Lviv"
+	"Kaspar"
+	"Rainer"
+	"from Swamberk"
+	"from Warttemberg"
+	"from Mitrovic"
+	"Hand"
+	"Mansfeld"
+	"Great"
+	"Awkward"
+	"from Otradovic"
+	"from Falkenstein"
+}
+
+ship_names = {
+	"St. Wenceslas"
+	"St. Ludmila"
+	"St. Jan Nepomuk"
+	"St. Miculas"
+	"St. Jiri"
+	"St. Anashka"
+	"Nezdvatezhsi Trozicze"
+	"Kral Karel"
+	"Kral Boleslav"
+	"Kral Přemysl"
+	"Panna Maria Vitezhna"
+	"Jan Goos"
+	"Jan Žižka"
+	"Prokop Holly"
+	"Prince Brjachislav"
+	"Przemysl Plowman"
+	"Chirad"
+	"Czechs"
+	"Moravi"
+	"Libus"
+	"Odvazhny"
+	Unbroken
+	Rapid
+	Tough
+	"Eagle"
+	"Falcon"
+	"Slash"
+	"Sipka"
+	"Hvezda"
+}

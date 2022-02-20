@@ -1,0 +1,155 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+religion = catholic
+primary_culture = gascon
+capital = 3633
+
+1241.1.1 = {
+	monarch = {
+		name = "Bernard VI"
+		dynasty = "de Commenge"
+		birth_date = 1224.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1245.9.2 = {
+	heir = {
+		name = "Bernard"
+		monarch_name = "Bernard VII"
+		dynasty = "de Commenge"
+		birth_date = 1245.9.2
+		death_date = 1312.7.15
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1295.1.1 = {
+	monarch = {
+		name = "Bernard VI"
+		dynasty = "de Commenge"
+		birth_date = 1245.9.2
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1295.1.1 = {
+	heir = {
+		name = "Bernard"
+		monarch_name = "Bernard VIII"
+		dynasty = "de Commenge"
+		birth_date = 1285.1.1
+		death_date = 1336.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1312.7.15 = {
+	monarch = {
+		name = "Bernard VIII"
+		dynasty = "de Commenge"
+		birth_date = 1285.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1312.7.15 = {
+	heir = {
+		name = "Pierre Raymond"
+		monarch_name = "Pierre Raymond I"
+		dynasty = "de Commenge"
+		birth_date = 1295.1.1
+		death_date = 1341.4.16
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1336.1.1 = {
+	monarch = {
+		name = "Pierre Raymond I"
+		dynasty = "de Commenge"
+		birth_date = 1295.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1336.1.1 = {
+	heir = {
+		name = "Pierre Raymond"
+		monarch_name = "Pierre Raymond II"
+		dynasty = "de Commenge"
+		birth_date = 1320.1.1
+		death_date = 1375.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1341.4.16 = {
+	monarch = {
+		name = "Pierre Raymond II"
+		dynasty = "de Commenge"
+		birth_date = 1320.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1363.1.1 = {
+	heir = {
+		name = "Margarita"
+		monarch_name = "Margarita"
+		dynasty = "de Commenge"
+		birth_date = 1363.1.1
+		death_date = 1443.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 0
+		female = yes
+	}
+}
+
+1375.1.1 = {
+	monarch = {
+		name = "Margarita"
+		dynasty = "de Commenge"
+		birth_date = 1363.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+		female = yes
+	}
+}
+
+1419.1.1 = {
+	monarch = {
+		name = "Mathieu"
+		dynasty = "de Foie"
+		birth_date = 1385.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}

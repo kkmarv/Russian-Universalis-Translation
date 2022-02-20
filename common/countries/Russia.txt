@@ -1,0 +1,262 @@
+#Russia
+
+graphical_culture = easterngfx
+
+color = { 96  131  80 }
+
+revolutionary_colors = { 0  13  5 }
+
+historical_score = 5300
+
+historical_idea_groups = {
+	expansion_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	maritime_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Ivan #3" = 60
+	"Feodor #1" = 60
+	"Peter #0" = 60
+	"Vasily #2" = 20
+	"Alexander #0" = 20
+	"Alexey #0" = 20
+	"Boris #0" = 20
+	"Michael #0" = 20
+	"Paul #0" = 20
+	"Catherine #0" = -20
+	"Dmitry #6" = 15
+	"Yuri #4" = 15
+	"Anna #0" = -15
+	"Elizabeth #0" = -15
+	"Constantine #0" = 15
+	"Andrei #3" = 10
+	"Semyon #1" = 10
+	"Nicholas #0" = 10
+	"Afanasiy #0" = 0
+	"Anatoly #0" = 0
+	"Anton #0" = 0
+	"Arseniy #0" = 0
+	"Artamon #0" = 0
+	"Artemy #0" = 0
+	"Bogdan #0" = 0
+	"Demian #0" = 0
+	"Epiphany #0" = 0
+	"Feofan #0" = 0
+	"Gabriel #0" = 0
+	"Gregory #0" = 0
+	"Joseph #0" = 0
+	"Isaac #0" = 0
+	"Kirill #0" = 0
+	"Laurentian #0" = 0
+	"Lazarus #0" = 0
+	"Leo #0" = 0
+	"Malyuta #0" = 0
+	"Mark #0" = 0
+	"Methodius #0" = 0
+	"Nicephorus #0" = 0
+	"Nikita #0" = 0
+	"Nicholas #0" = 0
+	"Oleg #0" = 0
+	"Plato #0" = 0
+	"Procopy #0" = 0
+	"Sergei #0" = 0
+	"Stanislav #0" = 0
+	"Bartholomew #0" = 0
+	"Efim #0" = 0
+	"Julian #0" = 0
+}
+
+leader_names = {
+	"Adashev"
+	"Apraksin"
+	"Bestuzhev-Ryumin"
+	"Basmanov"
+	"Baryatinsky"
+	"Bibikov"
+	"Beckett"
+	"Buturlin"
+	"Aksakov"
+	"Chernyshev"
+	"Obolensky"
+	"Dolgorukov"
+	"Golovkin"
+	"Plescheev"
+	"Shogin"
+	"Ermolov"
+	"Golovin"
+	"Godunov"
+	"Golitsyn"
+	"Gagarin"
+	"Glinsky"
+	"Kasimovsky"
+	"Kurbsky"
+	"Khovansky"
+	"Kutuzov"
+	"Koltsov-Mosalsky"
+	"Kurakin"
+	"Mikulinsky"
+	"Konovnitsyn"
+	"Lopukhin"
+	"Mansurov"
+	"Miloslavsky"
+	"Ovchina-Obolensky"
+	"Tolstoy"
+	"Orlov"
+	"Pozharsky"
+	"Potemkin"
+	"Prozorovsky"
+	"Mstislavsky"
+	"Patrykeev"
+	"Romodanowski"
+	"Rumyantsev"
+	"Repnin"
+	"Naryshkin"
+	"Shuisky"
+	"Sheremetev"
+	"Troekurov"
+	"Shein"
+	"Saltykov"
+	"Spiridov"
+	"Senyavin"
+	"Stroganoff"
+	"Suvorov"
+	"Shuvalov"
+	"Odoyevsky"
+	"Trubetskoy"
+	"Ushakov"
+	"Vorotynsky"
+	"Volkonsky"
+	"Vorontsov"
+	"Shcherbatov"
+	"Tatishchev"
+}
+
+ship_names = {
+	"St. Nestor"
+	"Maria Magdalene"
+	"St. Catherine"
+	"St. Peter and St. Paul"
+	"Apostle Peter"
+	"Apostle Paul"
+	"St. Mark"
+	"St. Matthew"
+	"St. George the Victorious"
+	"St. Alexander Nevsky"
+	"St. John the Baptist"
+	"St. Andrew the First Called"
+	"St. Vladimir"
+	"St. Boris and Gleb"
+	"St. Cyril and Methodius"
+	"Mstislav"
+	"Yaroslav"
+	"Svyatoslav"
+	"Sudislav"
+	"Stanislav"
+	"Vsevolod"
+	"Vladislav"
+	"Rurik"
+	"Rostislav"
+	"Vladimir"
+	"Izaslav"
+	"Alleslav"
+	"Boleslav"
+	"Mechslav"
+	"Rodislav"
+	"Ratibor"
+	"Branimir"
+	"Gabriel"
+	"Michael"
+	"Uriel"
+	"Raphael"
+	"Salafiel"
+	"Varahiliil"
+	"Yehudiil"
+	"Castor"
+	"Yaroslavets"
+	"Pallada"
+	"Passat"
+	"Rolling"
+	"Led by"
+	"Surf"
+	"Fine"
+	"Approximate ."
+	"Tough"
+	"Ivanovec"
+	"Hurry up"
+	"Smart"
+	"Fervent"
+	"Pearls"
+	"Hope"
+	"Neva"
+	"Diana"
+	"Mercury"
+	"East"
+	"Peaceful"
+	"Juno"
+	"Alexander"
+	"Pollux"
+	"Quick ."
+	"Bold"
+	"Kamchatka"
+	"Gum"
+	"Dnieper"
+	"Brave"
+	"Eustatius"
+	"Nativity of Christ"
+	"Transformation"
+	"Twelve Apostles"
+	"The Three Saints"
+	"Bogatyr"
+	"Europe"
+	"Crimea"
+	"Tavrida"
+	"Attention ."
+	"Hard"
+	"Ezekiel"
+}
+
+army_names = {
+	"Russian army"
+	"Finnish Army"
+	"Polish Army"
+	"Ukrainian Army"
+	"Crimean Army"
+	"Urals Army"
+	"Caucasian Army"
+	"Siberian Army"
+	"Baltic Army"
+}
+
+fleet_names = {
+	"Blue Squadron"
+	"Red Squadron"
+	"White Squadron"
+	"Baltic Sea Fleet"
+	"Black Sea Fleet"
+
+}

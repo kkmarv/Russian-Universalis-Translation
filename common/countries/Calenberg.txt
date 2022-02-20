@@ -1,0 +1,119 @@
+#Country Name: Seeee the Name of this File.
+
+graphical_culture = westerngfx
+
+color = { 206 46 64 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Henry #2" = 80
+	"William #0" = 40
+	"August #1" = 20
+	"Anton Ulrich #0" = 20
+	"August William #0" = 20
+	"Ferdinand Albrecht #0" = 20
+	"Friedrich Ulrich #0" = 20
+	"Henry Julius #0" = 20
+	"Julius #0" = 20
+	"Karl #0" = 20
+	"Carl #0 William" = 20
+	"Ludwig Rudolph #0" = 20
+	"Rudolf Augustus #0" = 20
+	"Andreas #0" = 10
+	"Christian #0" = 10
+	"Franz #0" = 10
+	"Carl #0 Georg" = 10
+	"Philip Sigismund #0" = 10
+	"August #0" = 5
+	"Augustus Franz #0" = 5
+	"August Heinrich #0" = 5
+	"August Carl #0" = 5
+	"Christian Franz #0" = 5
+	"Erich #0" = 5
+	"Ernst Ferdinand #0" = 5
+	"Friedrich #0" = 5
+	"Frederick Augustus #0" = 5
+	"Friedrich Wilhelm #0" = 5
+	"George #0" = 5
+	"George Franz #0" = 5
+	"Heinrich Ferdinand #0" = 5
+	"Henry Karl #0" = 5
+	"Joachim #0" = 5
+	"Joachim Karl #0" = 5
+	"Johann #0" = 5
+	"Julius Augustus #0" = 5
+	"Julius Ernst #0" = 5
+	"Otto #0" = 5
+	"Phillip Magnus #0" = 5
+	"Rudolph #0" = 5
+	
+	"Amalia #0" = -1
+	"Cornelia #0" = -1
+	"Gerhild #0" = -1
+}
+
+leader_names = {
+	"Brah"
+	"Aikenroth"
+	"Grubel"
+	"Wasman"
+	"Huttendorf"
+	"Opp"
+	"von Rhine"
+	"Schütze"
+	"Schausaille"
+	"Talken"
+	"Lindemann"
+	"Ikkelrat"
+	"Hein"
+	"Heh"
+	"Yakstyme"
+}
+
+ship_names = {
+ 	"Bruno"
+	"Darquard"
+	"Herzog Ludolph"
+	"Countess Gertrude"
+	"Bischof Godegard"
+	"Bischof Brantag"
+	"Lothar III"
+	"Henry I"
+	"Herzog Otto"
+	"Albert I"
+	"Magnus II"
+	"Wolfenbüttel"
+	"Gottingen"
+	"Grubenhagen"
+}
+
+army_names = {
+	 	"Provincial Army. $PROVINCE$"
+}

@@ -1,0 +1,87 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 153  210  135 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+
+historical_units = {
+	african_spearmen
+	bantu_tribal_warfare
+	bantu_plains_warfare
+	bantu_gunpowder_warfare
+	westernized_bantu
+	african_western_franchise_warfare
+	african_somali_cavalry
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_hussar
+	african_dragoon			
+}
+
+
+monarch_names = {
+	"Muhammad #3" = 70
+	"Abubakar #0" = 40
+	"Suleiman #0" = 30
+	"Bwana Mkuu #0" = 40
+	"Bwana Bakari #0" = 40
+	"Abubakar Bwana Gogo #0" = 20
+	"Bwana Tamu Mkuu #0" = 20
+	"Bwana Fumo Madi #0" = 20
+	"Ahmad #0" = 50
+	"Bwana Tamu Mtoto #0" = 20
+	"Mwanah Khadija #0" = 20
+	"Fumo Luti Kipanga #0" = 20
+	"Saif #0" = 0  
+	"Nasr #0" = 0  
+	"Salih #0" = 0  
+	"Fumo Luti #0" = 0
+	"Bwana Vaziri #0" = 0
+	"Bwana Shikih #0" = 0
+	"Fumo Bakari #0" = 0
+	"Fumo Umar #0" = 0
+	"Hamis #0" = 0
+	"Rashid #0" = 0
+	"Mwiniyah Hasan #0" = 0
+	"Combo #0" = 0
+	"Ngvale #0" = 0
+	"Ngwakani #0" = 0
+	"Atmani #0" = 0
+	"Alavi #0" = 0
+	"Tvakali #0" = 0
+	"Jeanfar #0" = 0
+	"Muxedi #0" = 0
+	
+	"Abiria #0" = -1
+	"Fanicia #0" = -1
+}
+
+leader_names = {
+	Wakile
+	Yomba
+	Salim
+	Network
+	Jumbe
+	Semid
+	Kawave
+	Dato
+	Sokoin
+	Suja
+}
+
+ship_names = {
+	Mlima Moto Moshi Homu Ukung Nyota
+	Joa Madi Mwezi Mnja Samaki Ndege
+	Mbva Nyoka Wa Datoo.
+}

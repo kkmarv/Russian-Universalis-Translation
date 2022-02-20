@@ -1,0 +1,131 @@
+government = monarchy
+add_government_reform = prussian_monarchy
+government_rank = 3
+technology_group = western
+primary_culture = prussian
+culture_group_union = germanic
+religion = protestant
+capital = 50 # Berlin
+
+1871.1.18 = {
+	changed_tag_from = NDB
+	monarch = {
+		name = "William I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1797.3.22
+		death_date = 1888.3.9
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+1871.1.18 = {
+    queen = {
+        country_of_origin = SAX
+        name = "Augusta"
+        dynasty = "von Sachsen Weimar Eisenach"
+        birth_date = 1811.9.30
+        death_date = 1888.3.9
+        female = yes
+        adm = 2
+        dip = 5
+        mil = 2
+    }
+}
+
+1871.1.18 = {
+	heir = {
+		name = "Friedrich"
+		monarch_name = "Friedrich III"
+		dynasty = "von Hohenzollern"
+		birth_date = 1831.10.18
+		death_date = 1888.6.15
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1888.3.9 = {
+    monarch = {
+		name = "Friedrich III"
+		dynasty = "von Hohenzollern"
+		birth_date = 1831.10.18
+		death_date = 1888.6.15
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1888.3.9 = {
+    queen = {
+        country_of_origin = GBR
+        name = "Victoria"
+        dynasty = "von Saxe-Coburg-Gotha"
+        birth_date = 1811.9.30
+        death_date = 1888.3.9
+        female = yes
+        adm = 4
+        dip = 3
+        mil = 2
+    }
+}
+
+1888.3.9 = {
+	heir = {
+		name = "William"
+		monarch_name = "William II"
+		dynasty = "von Hohenzollern"
+		birth_date = 1859.1.27
+		death_date = 1941.6.4
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1888.6.15 = {
+    monarch = {
+		name = "William II"
+		dynasty = "von Hohenzollern"
+	    birth_date = 1859.1.27
+		death_date = 1941.6.4
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1888.6.15 = {
+    queen = {
+        country_of_origin = GBR
+        name = "Augusta"
+        dynasty = "von Oldenburg-Augustenburg"
+        birth_date = 1858.10.22
+        death_date = 1921.4.11
+        female = yes
+        adm = 4
+        dip = 4
+        mil = 2
+    }
+}
+
+1888.6.15 = {
+	heir = {
+		name = "William"
+		monarch_name = "William III"
+		dynasty = "von Hohenzollern"
+		birth_date = 1882.5.6
+		death_date = 1951.7.20
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}

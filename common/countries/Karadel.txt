@@ -1,0 +1,112 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 118  193  177 }
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Abdul-Karim #0" = 20
+	"Abdul-Latif #0" = 20
+	"Abdul-Rashid #0" = 20
+	"Abdullah #0" = 20
+	"Ahmad #0" = 20
+	"Algu #0" = 20
+	"Ali #0" = 20
+	"Barak #0" = 20
+	"Bayan-Cooley #0" = 20
+	"Beeca Timur #0" = 20
+	"Buzan #0" = 20
+	"Chagatai #0" = 10
+	"Changshi #0" = 20
+	"Danishmenji #0" = 20
+	"Dosmukhamed #0" = 20
+	"Dulat #0" = 20
+	"Duva #0" = 20
+	"Duva Timur #0" = 20
+	"Elgigiday #0" = 20
+	"Esenbuka #0" = 20
+	"Ilbars #0" = 20
+	"Ilyas #1" = 20
+	"Ismayil #0" = 20
+	"Kebek #0" = 20
+	"Hubul #0" = 20
+	"Heather #1" = 20
+	"Kyonchek #0" = 20
+	"Mahmoud #0" = 20
+	"Mansour #0" = 20
+	"Mubarak #0" = 20
+	"Muhammad #0" = 20
+	"Muhammad Amin #0" = 20
+	"Muhammad Mumin #0" = 20
+	"Naqsh-e-Jahan #0" = 20
+	"Nebubey #0" = 20
+	"Kara Hulagu #0" = 10
+	"Kazagan #0" = 20
+	"Kazan #0" = 20
+	"Kuraish #0" = 10
+	"Sayid #0" = 20
+	"Satuq #0" = 20
+	"Shams-e-Jahan #1" = 20
+	"Shermuhamed #0" = 20
+	"Soyurgatmish #0" = 20
+	"Taliku #0" = 20
+	"Tarmashireen #0" = 20
+	"Timur #0" = 20
+	"Togluk Timur #1" = 20
+	"Uweiss #0" = 20
+	"Yasaur #0" = 20
+	"Esu Munke #0" = 10
+	"Yesun Timur #0" = 20
+	"Yunus #0" = 20
+	
+	"Orkina #0" = -1
+	"Sakina #0" = -1
+}
+
+leader_names = { 
+	Altankai Boquetei Tegusteni Kadancher Tolui Gene 
+	Bayarday Yekedai "Suren Chinois" "Altan Unegen" 
+	"Boke Korchi" "Arih Erdenet" "Bayan Vachir" "Delger Dash"
+}
+
+ship_names = {
+	"Algu Khan"
+	"Barak Khan"
+	Chagatai
+	Orgina 
+	"Genghis Khan"
+	"Shah Mubarak"
+	"Esuntoa"
+	Kypchak
+	"Chagatai Khan" "Amu-Darya"
+	"Syr-Darya" "Ugaday-hai"
+	Guyuk "Munke Khan" "Kubilai Khan"
+	Duva "Kazan Khan" "Togluk Timur"
+	Irtysh "Amir Hussein" "Timur Ilen"
+	Samarkand
+}

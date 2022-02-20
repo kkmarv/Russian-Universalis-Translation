@@ -1,0 +1,855 @@
+government = monarchy
+
+add_government_reform = principality ### STT
+government_rank = 1
+primary_culture = russian
+add_accepted_culture = ryazanian
+religion = orthodox
+technology_group = eastern
+historical_rival = NOV
+capital = 295 # Moskva
+fixed_capital = 295 # Cannot move capital away from this province & no power cost to move to it
+national_focus = ADM
+government_rank = 2 ### STT
+
+1263.1.1 = {
+	monarch = {
+		name = "Daniel"
+		dynasty = "Rurikovich"
+		birth_date = 1261.11.15
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1283.1.1 = {
+	heir = {
+		name = "Yuri"
+		monarch_name = "Yuri"
+		dynasty = "Rurikovich"
+		birth_date = 1281.1.1
+		death_date = 1325.11.21
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+1303.3.5 = {
+	monarch = {
+		name = "Yuri"
+		dynasty = "Rurikovich"
+		birth_date = 1281.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+1303.3.5 = {
+	heir = {
+		name = "Ivan"
+		monarch_name = "Ivan I Kalita"
+		dynasty = "Rurikovich"
+		birth_date = 1288.11.1
+		death_date = 1340.3.31
+		claim = 95
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+}
+
+1310.1.1 = {
+	add_ruler_modifier = {
+		name = "great_knyaz"
+		duration = -1
+	}
+	every_province = { 
+		limit = { 
+			OR = { area = tver_area area = moscow_area area = suzdal_area } 
+		}
+		add_core = ROOT
+	}
+}
+
+1325.11.21 = {
+	monarch = {
+		name = "Ivan I Kalita"
+		dynasty = "Rurikovich"
+		birth_date = 1288.11.1
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+}
+
+1325.11.21 = {
+	heir = {
+		name = "Simeon"
+		monarch_name = "Simeon the Proud"
+		dynasty = "Rurikovich"
+		birth_date = 1317.9.7
+		death_date = 1353.4.27
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1340.3.31 = {
+	monarch = {
+		name = "Simeon the Proud"
+		dynasty = "Rurikovich"
+		birth_date = 1317.9.7
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1340.3.31 = {
+	heir = {
+		name = "Ivan"
+		monarch_name = "Ivan II Red"
+		dynasty = "Rurikovich"
+		birth_date = 1326.3.30
+		death_date = 1359.11.13
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+1353.4.27 = {
+	monarch = {
+		name = "Ivan II Red"
+		dynasty = "Rurikovich"
+		birth_date = 1326.3.30
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+1353.4.27 = {
+	heir = {
+		name = "Dmitry"
+		monarch_name = "Dmitry I Donskoy"
+		dynasty = "Rurikovich"
+		birth_date = 1350.10.12
+		death_date = 1389.5.19
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+1359.11.13 = {
+	monarch = {
+		name = "Dmitry I Donskoy"
+		dynasty = "Rurikovich"
+		birth_date = 1350.10.12
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+1371.12.30 = {
+	heir = {
+		name = "Vasily"
+		monarch_name = "Vasily I"
+		dynasty = "Rurikovich"
+		birth_date = 1371.12.30
+		death_date = 1425.2.27
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1389.5.19 = {
+	monarch = {
+		name = "Vasily I"
+		dynasty = "Rurikovich"
+		birth_date = 1371.12.30 ### STT
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1389.5.19 = { ### STT
+	government_rank = 2
+}
+
+1415.3.10 = {
+	heir = {
+		name = "Vasily"
+		monarch_name = "Basil II The Dark"
+		dynasty = "Rurikovich"
+		birth_date = 1415.3.10
+		death_date = 1462.3.27
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1420.1.1 = { leader = {	name = "Yuri Patrykeev"		type = general	fire = 2	shock = 4	manuever = 3	siege = 1	death_date = 1439.1.1 } }
+
+1424.2.27 = {
+	monarch = {
+		name = "Basil II The Dark"
+		dynasty = "Rurikovich"
+		birth_date = 1415.3.10
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = careful_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+
+1430.1.1 = { leader = {	name = "Dmitry Semyaka"	type = general	fire = 3	shock = 4	manuever = 3	siege = 0	death_date = 1453.1.1 } }
+
+1433.1.1 = {
+	queen = {
+		country_of_origin = YAR
+		name = "Maria"
+		dynasty = "Borovskaya"
+		birth_date = 1418.1.1
+		death_date = 1484.1.1
+		female = yes
+		adm = 3 
+		dip = 3
+		mil = 1
+	}
+}
+
+1440.1.22 = {
+	heir = {
+		name = "Ivan"
+		monarch_name = "Ivan III Great"
+		dynasty = "Rurikovich"
+		birth_date = 1440.1.22
+		death_date = 1505.10.27
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1445.7.7 = {
+	monarch = {
+		name = "Dmitry I Shemyaka"
+		dynasty = "Rurikovich"
+		birth_date = 1411.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+		leader = {	name = "Shemyaka"	type = general		fire = 2	shock = 1	manuever = 1	siege = 0 }
+	}
+}
+
+1445.7.7 = {
+	queen = {
+		country_of_origin = MOS
+		name = "Sofia"
+		dynasty = "Zaozerskaya"
+		birth_date = 1425.1.1
+		death_date = 1500.1.1
+		female = yes
+		adm = 2 
+		dip = 2
+		mil = 2
+	}
+}
+
+1445.7.7 = {
+	heir = {
+		name = "Ivan Shemyakin"
+		monarch_name = "Ivan III Shemyakin"
+		dynasty = "Rurikovich"
+		birth_date = 1444.1.1
+		death_date = 1471.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1445.10.26 = {
+	monarch = {
+		name = "Basil II The Dark"
+		dynasty = "Rurikovich"
+		birth_date = 1415.3.10
+		adm = 3
+		dip = 3
+		mil = 2
+		leader = {	name = "Basil II The Dark"	type = general		fire = 2	shock = 1	manuever = 1	siege = 0 }
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = careful_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+
+1445.10.26 = {
+	queen = {
+		country_of_origin = SER
+		name = "Maria"
+		dynasty = "Borovskaya"
+		birth_date = 1418.1.1
+		death_date = 1484.1.1
+		female = yes
+		adm = 3 
+		dip = 3
+		mil = 1
+	}
+}
+
+1445.10.26 = {
+	heir = {
+		name = "Ivan"
+		monarch_name = "Ivan III Great"
+		dynasty = "Rurikovich"
+		birth_date = 1440.1.22
+		death_date = 1505.10.27
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1446.1.1 = { leader = {	name = "Fyodor Basenok"         	type = general	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1460.1.1 } }
+
+1446.2.12 = {
+	monarch = {
+		name = "Dmitry I Shemyaka"
+		dynasty = "Rurikovich"
+		birth_date = 1411.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+		leader = {	name = "Shemyaka"	type = general		fire = 2	shock = 1	manuever = 1	siege = 0 }
+	}
+}
+
+1446.2.12 = {
+	queen = {
+		country_of_origin = MOS
+		name = "Sofia"
+		dynasty = "Zaozerskaya"
+		birth_date = 1425.1.1
+		death_date = 1500.1.1
+		female = yes
+		adm = 2 
+		dip = 2
+		mil = 2
+	}
+}
+
+1446.2.12 = {
+	heir = {
+		name = "Ivan Shemyakin"
+		monarch_name = "Ivan III Shemyakin"
+		dynasty = "Rurikovich"
+		birth_date = 1444.1.1
+		death_date = 1471.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1447.1.1 = { leader = {	name = "Ivan Obolensky-Striga" 	type = general	fire = 2	shock = 4	manuever = 3	siege = 0	death_date = 1469.1.1 } }
+
+1447.2.17 = {
+	monarch = {
+		name = "Basil II The Dark"
+		dynasty = "Rurikovich"
+		birth_date = 1415.3.10
+		adm = 3
+		dip = 3
+		mil = 2
+		leader = {	name = "Basil II The Dark"	type = general		fire = 2	shock = 1	manuever = 1	siege = 0 }
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = careful_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+
+1447.2.17 = {
+	queen = {
+		country_of_origin = SER
+		name = "Maria"
+		dynasty = "Borovskaya"
+		birth_date = 1418.1.1
+		death_date = 1484.1.1
+		female = yes
+		adm = 3 
+		dip = 3
+		mil = 1
+	}
+}
+
+1447.2.17 = {
+	heir = {
+		name = "Ivan"
+		monarch_name = "Ivan III Great"
+		dynasty = "Rurikovich"
+		birth_date = 1440.1.22
+		death_date = 1505.10.27
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1450.1.1 = { leader = {	name = "Ivan Patrikeev" 	type = general	fire = 2	shock = 4	manuever = 3	siege = 0	death_date = 1499.1.1 } }
+
+1460.1.1 = { leader = {	name = "Kholmsky"              	type = general	fire = 2	shock = 3	manuever = 3	siege = 1	death_date = 1495.1.1 } }
+
+1462.3.28 = {
+	monarch = {
+		name = "Ivan III Great"
+		dynasty = "Rurikovich"
+		birth_date = 1440.1.22
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1462.3.28 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Maria"
+		dynasty = "Yurievich"
+		birth_date = 1442.1.1
+		death_date = 1467.4.22
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1462.3.28 = {
+	heir = {
+		name = "Ivan"
+		monarch_name = "Ivan IV"
+		dynasty = "Rurikovich"
+		birth_date = 1458.2.15
+		death_date = 1490.3.7
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1472.11.12 = {
+	queen = {
+		country_of_origin = MOE
+		name = "Sofia"
+		dynasty = "Paleologist"
+		birth_date = 1455.1.1
+		death_date = 1503.4.7
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1477.1.1 = { 
+	decision = establish_titular
+}
+
+1490.3.7 = {
+	heir = {
+		name = "Vasily"
+		monarch_name = "Vasily III"
+		dynasty = "Rurikovich"
+		birth_date = 1479.3.25
+		death_date = 1533.12.3
+		claim = 95
+		adm = 6
+		dip = 4
+		mil = 1
+	}
+}
+
+1490.1.1 = {
+	leader = {	
+		name = "Daniel Puppy"
+		type = general
+	
+		fire = 2
+		shock = 3
+		manuever = 4
+		siege = 0
+		death_date = 1516.1.1 
+	} 
+}
+
+1495.1.1 = { 
+	leader = {	
+		name = "Ivan Lyapin"
+		type = conquistador
+	
+		fire = 1
+		shock = 1
+		manuever = 4
+		siege = 0
+		death_date = 1505.1.1
+	} 
+}
+
+1495.1.1 = {
+	leader = {	
+		name = "Repnin"
+		type = general
+	
+		fire = 2
+		shock = 2
+		manuever = 2
+		siege = 0
+		death_date = 1520.1.1 
+	} 
+}
+
+1495.1.1 = { 
+	leader = {	
+		name = "Ivan Fyodorov-Chelyadnin"
+		type = general
+	
+		fire = 1
+		shock = 3
+		manuever = 2
+		siege = 0
+		death_date = 1514.1.1 
+	} 
+}
+
+1505.1.1 = { leader = {	name = "Mikhail Glinsky"        	type = general		fire = 3	shock = 4	manuever = 4	siege = 1	death_date = 1520.1.1 } }
+
+1505.10.29 = {
+	monarch = {
+		name = "Vasily III"
+		dynasty = "Rurikovich"
+		birth_date = 1479.3.25
+		adm = 3
+		dip = 2
+		mil = 3
+		leader = {	name = "Vasily III"	type = general		fire = 2	shock = 2	manuever = 2	siege = 0 }
+	}
+}
+
+1505.10.29 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Solomonia"
+		dynasty = "Saburov"
+		birth_date = 1490.1.1
+		death_date = 1525.11.25
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1525.11.25 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Helen"
+		dynasty = "Glinsky"
+		birth_date = 1508.1.1
+		death_date = 1533.12.4
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1530.1.1 = { leader = {	name = "Ovchina-Obolensky"     	type = general		fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1539.1.1 } }
+
+1530.1.1 = { leader = {	name = "Kasimovsky"           	type = general		fire = 1	shock = 2	manuever = 4	siege = 0	death_date = 1567.1.1 } }
+
+
+
+1530.8.25 = {
+	heir = {
+		name = "Ivan"
+		monarch_name = "Ivan IV the Terrible"
+		dynasty = "Rurikovich"
+		birth_date = 1530.8.25
+		death_date = 1584.3.28
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+}
+
+1531.1.1 = { leader = {	name = "Mikulinsky"            	type = general		fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1540.1.1 } }
+
+1533.12.4 = {
+	monarch = {
+		name = "Ivan IV the Terrible"
+		dynasty = "Rurikovich"
+		birth_date = 1530.8.25
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+}
+
+1539.1.1 = { leader = {	name = "Petr Shuisky"         	type = general		fire = 2	shock = 3	manuever = 2	siege = 1	death_date = 1564.1.1 } }
+
+1547.1.2  = { changed_tag_from = MOS }
+
+1547.1.17 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Anastasia"
+		dynasty = "Zakharin-Yuriev"
+		birth_date = 1530.1.1
+		death_date = 1560.8.7
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1550.1.1 = { leader = {	name = "Sheremetev"            	type = general		fire = 2	shock = 3	manuever = 4	siege = 0	death_date = 1564.1.1 } }
+
+1550.1.1 = { leader = {	name = "Vorotynsky"            	type = general		fire = 3	shock = 4	manuever = 5	siege = 1	death_date = 1573.1.1 } }
+
+1552.1.1 = { leader = {	name = "Andrey Kurbsky"		type = general		fire = 3	shock = 2	manuever = 3	siege = 0	death_date = 1564.1.1 } }
+
+1552.1.1 = {
+	heir = {
+		name = "Dmitry"
+		monarch_name = "Dmitry I"
+		dynasty = "Rurikovich"
+		birth_date = 1552.1.1
+		death_date = 1553.4.6
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1553.1.1 = { leader = {	name = "Alexey Adashev"		type = general		fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1560.1.1 } }
+
+1554.3.28 = {
+	heir = {
+		name = "Ivan"
+		monarch_name = "Ivan V"
+		dynasty = "Rurikovich"
+		birth_date = 1554.3.28
+		death_date = 1581.11.19
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1555.1.1 = { leader = {	name = "Grigory Stroganov"    	type = conquistador	fire = 1	shock = 1	manuever = 3	siege = 0	death_date = 1575.1.1 } }
+
+1557.1.1 = { leader = {	name = "Vishnevetskiy"          	type = general		fire = 1	shock = 2	manuever = 3	siege = 0	death_date = 1563.1.1 } }
+
+1561.8.21 = {
+	queen = {
+		country_of_origin = CIR
+		name = "Maria"
+		dynasty = "Temrukovich"
+		birth_date = 1545.1.1
+		death_date = 1569.9.6
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1560.1.1 = { leader = {	name = "Ivan Shuisky"          	type = general		fire = 3	shock = 3	manuever = 2	siege = 0	death_date = 1587.1.1 } }
+
+1565.1.1 = { leader = {	name = "Ivan Petrov"           	type = conquistador	fire = 3	shock = 4	manuever = 2	siege = 0	death_date = 1570.1.1 } }
+
+1565.1.1 = { leader = {	name = "Burnash Yalychev"      	type = conquistador	fire = 2	shock = 3	manuever = 4	siege = 0	death_date = 1576.1.1 } }
+
+1571.10.28 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Marfa"
+		dynasty = "Dogkin"
+		birth_date = 1545.1.1
+		death_date = 1571.11.13
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1572.5.1 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Anna"
+		dynasty = "Kotlovsky"
+		birth_date = 1545.1.1
+		death_date = 1572.9.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1575.10.30 = {
+	monarch = {
+		name = "Simeon II Beckbulatovich"
+		dynasty = "Genghisid"
+		birth_date = 1540.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1575.10.30 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Anastasia"
+		dynasty = "Mstislavsky"
+		birth_date = 1540.1.1
+		death_date = 1576.1.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1575.10.30 = {
+	heir = {
+		name = "Ivan the Terrible"
+		monarch_name = "Ivan IV the Terrible"
+		dynasty = "Rurikovich"
+		birth_date = 1530.8.25
+		death_date = 1584.3.28
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+}
+
+1576.7.18 = {
+	monarch = {
+		name = "Ivan IV the Terrible"
+		dynasty = "Rurikovich"
+		birth_date = 1530.8.25
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+}
+
+1576.7.18 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Anna"
+		dynasty = "Vasilchikov"
+		birth_date = 1550.1.1
+		death_date = 1577.1.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1576.7.18 = {
+	heir = {
+		name = "Ivan"
+		monarch_name = "Ivan V"
+		dynasty = "Rurikovich"
+		birth_date = 1554.3.28
+		death_date = 1581.11.19
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1579.1.1 = { 
+	leader = {	name = "Ermak Timofeyevich"	type = conquistador	fire = 5	shock = 3	manuever = 5	siege = 3	death_date = 1585.8.6 } 
+	set_country_flag = aurora_rus.1
+}
+
+1580.1.1 = { leader = {	name = "Koltsov-Mosalsky"      	type = conquistador	fire = 2	shock = 2	manuever = 5	siege = 0	death_date = 1605.1.1 } }
+
+1580.9.1 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Maria"
+		dynasty = "Naked"
+		birth_date = 1553.2.8
+		death_date = 1584.3.20
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1581.11.19 = {
+	heir = {
+		name = "Feodor"
+		monarch_name = "Feodor I"
+		dynasty = "Rurikovich"
+		birth_date = 1557.5.31
+		death_date = 1598.1.16
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1584.1.1 = { leader = {	name = "Ivan Mansurov"         	type = conquistador	fire = 2	shock = 2	manuever = 5	siege = 0	death_date = 1598.1.1 } }
+
+1584.3.20 = {
+	monarch = {
+		name = "Feodor I"
+		dynasty = "Rurikovich"
+		birth_date = 1557.5.31
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}

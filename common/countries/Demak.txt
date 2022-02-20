@@ -1,0 +1,76 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 211  211  78 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+leader_names = {
+	Gihadiningrat Jojopospito 
+	Ernalla 
+	Karsumaatmaja 
+	Mollema 
+	Nasution Nitisastro 
+	Praviranega Purbacharaka 
+	Subadio Sumual 
+}
+
+monarch_names = {
+	"Raden Patah #0" = 50
+	"Party Unus #0" = 50
+	"Tranggana #0" = 50
+	"Sunan Pravata #0" = 50
+	"Yarya Panangsanga #0" = 50
+	"Rajasavardhana #0" = 10
+	"Hyang Purvavises #0" = 10
+	"Pandan Solas #0" = 10
+	"Kertabumi #0" = 10
+	"Raden Patah Senapati #0" = 10
+	"Pangeran Lor Sabrang #0" = 10
+	"Pangeran sunan trangana #0" = 10
+	"Pangeran sunan Pravata #0" = 10
+	"Pangeran Mas #0" = 10
+	"Dba Ranawijaya #0" = 10
+	"Patheudra #0" = 10
+	"Panembahan Ingalasa #0" = 10
+	"Sultan Agung #0" = 10
+	"Pakubuva #0" = 10
+	"Senapati Jimbun #0" = 10
+	"Lor Sabrang #0" = 10
+	"Tranggana #0" = 10
+	"Benawa #0" = 10
+	"Krapjak #0" = 10
+	"Amangkurat #0" = 30
+	"Pravata #0" = 10
+	"Pangiri Yarya #0" = 10
+	
+	"Mavar #0" = -1
+}
+
+ship_names = {
+	Surakarta Yogyakarta Semarang Salatiga
+	"Gunung Merbabu" Sragen Sukoharjo Vonosari
+	"Gunung Lavu" Delanggu Chep Purvodarli
+	Ngavi Grobogan Bodja Amgarava
+}

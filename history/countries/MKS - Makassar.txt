@@ -1,0 +1,575 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = sulawesi
+religion = animism
+technology_group = chinese
+capital = 641	# Makassar
+
+# Kings of Gowa
+
+1399.1.1 = {
+	monarch = {
+		name = "Tunitangkalopi"
+		dynasty = "Calopid"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1399.1.1 = {
+	heir = {
+		name = "Batar Gova"
+		monarch_name = "Batar Gova"
+		dynasty = "Calopid"
+		birth_date = 1399.1.1
+		death_Date = 1440.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}
+
+1405.1.1 = {
+	monarch = {
+		name = "Batar Gova"
+		dynasty = "Calopid"
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}
+
+1405.1.1 = {
+	heir = {
+		name = "Tunis Jallory"
+		monarch_name = "Tunis Jallory"
+		dynasty = "Calopid"
+		birth_date = 1390.1.1
+		death_Date = 1470.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1440.1.1 = {
+	monarch = {
+		name = "Tunis Jallory"
+		dynasty = "Calopid"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1440.1.1 = {
+	heir = {
+		name = "Tunis Parisi"
+		monarch_name = "Tunis Parisi"
+		dynasty = "Calopid"
+		birth_date = 1440.1.1
+		death_Date = 1500.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1470.1.1 = {
+	monarch = {
+		name = "Tunis Parisi"
+		dynasty = "Calopid"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1470.1.1 = {
+	heir = {
+		name = "Tunis Palonga"
+		monarch_name = "Tunis Palonga"
+		dynasty = "Calopid"
+		birth_date = 1470.1.1
+		death_Date = 1530.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+
+1500.1.1 = {
+	monarch = {
+		name = "Tunis Palonga"
+		dynasty = "Calopid"
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+
+1500.1.1 = {
+	heir = {
+		name = "Tunis Butta"
+		monarch_name = "Tunis Butta"
+		dynasty = "Calopid"
+		birth_date = 1500.1.1
+		death_Date = 1560.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1530.1.1 = {
+	monarch = {
+		name = "Tunis Butta"
+		dynasty = "Calopid"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1530.1.1 = {
+	heir = {
+		name = "Tunis Jallo"
+		monarch_name = "Tunis Jallo"
+		dynasty = "Calopid"
+		birth_date = 1530.1.1
+		death_Date = 1590.9.15
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1560.1.1 = {
+	monarch = {
+		name = "Tunis Jallo"
+		dynasty = "Calopid"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1560.1.1 = {
+	heir = {
+		name = "Tunis Passculu"
+		monarch_name = "Tunis Passculu"
+		dynasty = "Calopid"
+		birth_date = 1560.1.1
+		death_Date = 1593.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1590.9.15 = {
+	monarch = {
+		name = "Tunis Passculu"
+		dynasty = "Calopid"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1590.9.15 = {
+	heir = {
+		name = "Aladdin"
+		monarch_name = "Aladdin"
+		dynasty = "Calopid"
+		birth_date = 1580.1.1
+		death_Date = 1653.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+}
+
+1593.1.1 = {
+	monarch = {
+		name = "Aladdin"
+		dynasty = "Calopid"
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+}
+
+1593.1.1 = {
+	heir = {
+		name = "Amir Hamza"
+		monarch_name = "Amir Hamza"
+		dynasty = "Calopid"
+		birth_date = 1590.1.1
+		death_Date = 1674.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1605.9.1 = {
+	religion = sunni
+	religious_school = shafii_school
+	add_piety = -0.15
+}
+
+1653.1.1 = {
+	monarch = {
+		name = "Muhammad Said"
+		dynasty = "Calopid"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1653.1.1 = {	
+	heir = {
+		name = "Muhammad Ali"
+		monarch_name = "Muhammad Ali"
+		dynasty = "Calopid"
+		birth_date = 1650.1.1
+		death_Date = 1674.1.1
+		claim = 95
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+}
+
+1669.1.1 = {
+	monarch = {
+		name = "Amir Hamza"
+		dynasty = "Calopid"
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+}
+
+1669.1.1 = {
+	heir = {
+		name = "Muhammad Ali"
+		monarch_name = "Muhammad Ali"
+		dynasty = "Calopid"
+		birth_date = 1660.1.1
+		death_Date = 1677.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1674.1.1 = {
+	monarch = {
+		name = "Muhammad Ali"
+		dynasty = "Calopid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1674.1.1 = {
+	heir = {
+		name = "Abd al-Jalil"
+		monarch_name = "Abd al-Jalil"
+		dynasty = "Calopid"
+		birth_date = 1670.1.1
+		death_Date = 1709.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1677.1.1 = {
+	monarch = {
+		name = "Abd al-Jalil"
+		dynasty = "Calopid"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1677.1.1 = {
+	heir = {
+		name = "Shihab ad-Din Ismail"
+		monarch_name = "Shihab ad-Din Ismail"
+		dynasty = "Calopid"
+		birth_date = 1677.1.1
+		death_Date = 1712.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1709.1.1 = {
+	monarch = {
+		name = "Shihab ad-Din Ismail"
+		dynasty = "Calopid"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1709.1.1 = {
+	heir = {
+		name = "Siraj al-Din"
+		monarch_name = "Siraj al-Din"
+		dynasty = "Calopid"
+		birth_date = 1709.1.1
+		death_Date = 1735.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1712.1.1 = {
+	monarch = {
+		name = "Siraj al-Din"
+		dynasty = "Calopid"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1712.1.1 = {
+	heir = {
+		name = "Abd al-Khair al-Mansour"
+		monarch_name = "Abd al-Khair al-Mansour"
+		dynasty = "Calopid"
+		birth_date = 1712.1.1
+		death_Date = 1742.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}
+
+1735.1.1 = {
+	monarch = {
+		name = "Abd al-Khair al-Mansour"
+		dynasty = "Calopid"
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}
+
+1735.1.1 = {
+	heir = {
+		name = "Abd al-Qudus"
+		monarch_name = "Abd al-Qudus"
+		dynasty = "Calopid"
+		birth_date = 1735.1.1
+		death_Date = 1753.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1742.1.1 = {
+	monarch = {
+		name = "Abd al-Qudus"
+		dynasty = "Calopid"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1742.1.1 = {
+	heir = {
+		name = "Osman"
+		monarch_name = "Osman"
+		dynasty = "Calopid"
+		birth_date = 1730.1.1
+		death_Date = 1766.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1753.1.1 = {
+	monarch = {
+		name = "Osman"
+		dynasty = "Calopid"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1753.1.1 = {
+	heir = {
+		name = "Imad ad-Din"
+		monarch_name = "Imad ad-Din"
+		dynasty = "Calopid"
+		birth_date = 1730.1.1
+		death_Date = 1769.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1766.1.1 = {
+	monarch = {
+		name = "Imad ad-Din"
+		dynasty = "Calopid"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1766.1.1 = {
+	heir = {
+		name = "Zainal Abidin"
+		monarch_name = "Zainal Abidin"
+		dynasty = "Calopid"
+		birth_date = 1760.1.1
+		death_Date = 1777.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+1769.1.1 = {
+	monarch = {
+		name = "Zainal Abidin"
+		dynasty = "Calopid"
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+1769.1.1 = {
+	heir = {
+		name = "Sankilang"
+		monarch_name = "Sankilang"
+		birth_date = 1760.1.1
+		death_Date = 1781.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1777.1.1 = {
+	monarch = {
+		name = "Sankilang"
+		dynasty = "Calopid"
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1777.1.1 = {
+	heir = {
+		name = "Abd al-Hadi"
+		monarch_name = "Abd al-Hadi"
+		dynasty = "Calopid"
+		birth_date = 1770.1.1
+		death_Date = 1810.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1781.1.1 = {
+	monarch = {
+		name = "Abd al-Hadi"
+		dynasty = "Calopid"
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1781.1.1 = {
+	heir = {
+		name = "Abd al-Khalik"
+		monarch_name = "Abd al-Khalik"
+		dynasty = "Calopid"
+		birth_date = 1780.1.1
+		death_Date = 1816.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}
+
+1810.1.1 = {
+	monarch = {
+		name = "Abd al-Khalik"
+		dynasty = "Calopid"
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}
+
+1810.1.1 = {
+	heir = {
+		name = "Limbangparang"
+		monarch_name = "Limbangparang"
+		dynasty = "Calopid"
+		birth_date = 1800.1.1
+		death_date = 1830.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1816.1.1 = {
+	monarch = {
+		name = "Limbangparang"
+		dynasty = "Calopid"
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}

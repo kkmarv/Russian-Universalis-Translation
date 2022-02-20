@@ -1,0 +1,89 @@
+government = tribal
+add_government_reform = tribal_kingdom
+primary_culture = yaka
+religion = shamanism
+technology_group = central_african
+unit_type = sub_saharan
+capital = 3522	# Yaka
+
+#Many twentieth century ruler names backdated
+
+1430.1.1 = {
+	monarch = {
+		name = "Mukulu"
+		dynasty = "Kiambwu"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+} #All fictional
+
+1490.1.1 = {
+	monarch = {
+		name = "Paanzu"
+		dynasty = "Kiambwu"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+} 
+
+1540.1.1 = {
+	monarch = {
+		name = "Kambaamba"
+		dynasty = "Kiambwu"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+} 
+
+1600.1.1 = {
+	monarch = {
+		name = "Bivula"
+		dynasty = "Kiambwu"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+} 
+
+1660.1.1 = {
+	monarch = {
+		name = "Mwaana"
+		dynasty = "Kiambwu"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+} 
+
+1700.1.1 = {
+	monarch = {
+		name = "Muteeba Kadi"
+		dynasty = "Kiambwu"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}  #This one is real
+
+1740.1.1 = {
+	monarch = {
+		name = "Muteeba Nzuzi"
+		dynasty = "Kiambwu"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+} 
+
+1740.1.1 = {
+	monarch = {
+		name = "Mbaala"
+		dynasty = "Kiambwu"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+} 

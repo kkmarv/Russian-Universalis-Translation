@@ -1,0 +1,135 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 54 160  90 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+	administrative_ideas
+	spy_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Tadominbya #0" = 30
+	"Nganu #0" = 30
+	"Swasoke #0" = 30
+	"Tarabya #0" = 30
+	"Nganauxhan #0" = 30
+	"Minkhowng #1" = 40
+	"Tikhatou #0" = 30
+	"Minhlange #0" = 30
+	"Kalecetaungno #0" = 30
+	"Minichosva #0" = 30
+	"Narapati #0" = 100
+	"Tikhatura #0" = 30
+	"Svenanchoshin #0" = 30
+	"Tohanbwa #0" = 30
+	"Khonmaing #0" = 30
+	"Mobier Narapati #0" = 30
+	"Saosyptant #0" = 10
+	"Saoion #0" = 10
+	"Iwusa #0" = 10
+	"Ickhamkha #0" = 10
+	"Saosham #0" = 10
+	"Saokhammah #0" = 10
+	"Hyacho #0" = 10
+	"Saomongka #0" = 10
+	"Saokamtao #0" = 10
+	"Saomongkam #0" = 10
+	"Saoon #0" = 10
+	"Saoinkam #0" = 10
+	"Saooc #0" = 10
+	"Saomongseik #0" = 10
+	"Saosamhpy #0" = 10
+	"Maungno #0" = 10
+	"Saomongxin #0" = 10
+	"Saomongsam #0" = 10
+	"Saohongtai #0" = 10
+	"Saomahakanan #0" = 10
+	
+	"Touumma #0" = -1
+	"Tinbome #0" = -1
+}
+
+leader_names = {
+	Ava
+	Mo
+	Hopon
+	Taton
+	Tamaingkan
+	Taungdut
+	Teinny
+	Tidzit
+	Thibao
+	Calais
+	"Kiichi Bansan"
+	Chaingchaing
+	Chaingkan
+	Chaingtong
+	Kokang
+	Chong
+	Chaukku
+	Ladzes
+	Jaceuk
+	Louis
+	Luelong
+	Luemo
+	Mangloon
+	Mongsu
+	Monglin
+	Mongleam
+	Mongthorme
+	Maukme
+	Bonin
+	Bosaing
+	Mogaung
+	Munglong
+	Moeic
+	Moni
+	Mongnong
+	Mobier
+	"Mong Pan"
+	Maingpiin
+	Mingseake
+	Maington
+	Monsieur
+	Munjun
+	Nanke
+	Nancock
+	Nankon
+	Nantoc
+	Panglong
+	Pangmi
+	Pindara
+	Serve .
+	Sakoi
+	Female
+	Tongpeng
+	Bhamo
+	Bagnin
+	"Winn To"
+	Nhaungschwe
+	Yongan
+}
+
+ship_names = {
+	Salween Taungu Kangtong Tachilake Nam Tanlwin
+	Salween Louis Hsim Hsim Teng Mitge Pilu Inle Shveli.
+}

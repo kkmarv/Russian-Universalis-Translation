@@ -1,0 +1,112 @@
+#Country Name: Please see filename.
+
+graphical_culture = southamericagfx
+
+color = { 229 64 64 }
+
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	offensive_ideas
+	maritime_ideas
+	spy_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	south_american_spearmen
+	south_american_horsemen
+	south_american_warfare
+	inca_mountain_warfare
+	incan_slingshots
+	incan_axemen
+	south_american_gunpowder_warfare
+	south_american_reformed_gunpowder_warfare
+	south_american_arquebusier
+	westernized_incan
+	reformed_westernized_incan
+	incan_guerilla_warfare
+}
+
+leader_names = {
+	Ankimarka Apo Ataualpa Atok Atok-Suki Auki-Ouaman
+	Kanchari Chalkuchima Chalko Chiakitinta Chilce Cola Topa Curiatao Kusi 
+	Ukra Uritito Uritopa
+	Ouachouri Waman Ouaskar Wypalcon
+	Ilawhale Inkil
+	Lyklik
+	Maila Maras Markavilka Maita 
+	Ninankoro
+	Oscok
+	Parinango Spider Paul Pomacapi Puma Puiu-Wilka
+	Kilako Kinhalumbo Kintirauraura Pussy Kiso
+	Rimak Ronpa
+	Kauauaraura Sothaurko
+	Tansy Tukuikuiché Tupak-Amaru
+	Yupanki
+}
+
+monarch_names = {
+	"Tspak Amaru #0" = 40
+	"Atahualpa #0" = 20
+	"Whiskar #0" = 20
+	"Wayne Sipaq #0" = 20
+	"Manco Sipaq #1" = 20
+	"Pachakstek #0" = 20
+	"Sairi Tupac #0" = 20
+	"Titus Kusi Yupanka #0" = 20
+	"Tspak Yalpa #0" = 20
+	"Tspak Yupanki #0" = 20
+	"Viracoca #0" = 20
+	"Yauar Akuak #0" = 20
+	"Inca Roca #1" = 15
+	"Ankimarka #0" = 0
+	"Atok Sopa #0" = 0
+	"Kayo Topa #0" = 0
+	"Coyllas #0" = 0
+	"Kusichaka #0" = 0
+	"Urytopa #0" = 10
+	"Uachuri #0" = 10
+	"Wypalcon #0" = 10
+	"Luíos #0" = 10
+	"Markavilka #0" = 10
+	"Ninan Kuiuchi #0" = 0
+	"Oko Varanka #0" = 0
+	"Pascais #0" = 0
+	"Pomaula #0" = 0
+	"Pumi Sopa #0" = 0
+	"Quispe Titou #0" = 0
+	"Ruminavi #0" = 0
+	"Sauaraura #0" = 0
+	"Surandaman #0" = 0
+	"Cockroach #0" = 0
+	"Tukuykuiche #0" = 0
+	"Usuka Curiatão #0" = 0
+	"Williak Umu #0" = 0
+	"Yaki Maita #0" = 0
+	"Yupanki #0" = 0
+	"Sambisa #0" = 0
+	"Sopaua #0" = 0
+
+	"Ashohamma #0" = -1
+	"Cavillaca #0" = -1
+}
+
+ship_names = {
+	Apo Apocateekeel Ataguchu
+	"Ayar Anka" "Ayar Kachi" "Ayar Uchu"
+	Catecil Cavillacé Chasca "Cailour Chapel" Koniraya Kopakati Cusco
+	Eckeco
+	"Anan Pacha"
+	Inti Ilyapa
+	Con 
+	"Manko Kapak" "Mama Oklio" "Mama Wako" "Mama Raua" "Mama Kura"
+	"Coke's mom" "Mama Alpa" "Mama Pacha" "Kiella's mother" "Mama Sarah"
+	"Pacha Kamak" Pachakuchi Pariacaca Parisiya
+	Go to .
+	Titicaca
+	Urkauri "Uku Pacha"
+	Viracoca
+}

@@ -1,0 +1,65 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 186  14  92 }
+special_unit_culture = south_east_asian_special
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	religious_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Kim #0" = 20
+	"Hoang #0" = 20
+	"Fuk Nguyen #0" = 20
+	"Fuk Lan #0" = 20
+	"Fuk Tan #0" = 20
+	"Fuk Chan #0" = 20
+	"Fuk Thu #0" = 20
+	"Fuk Chu #0" = 20
+	"Fuk Khoat #0" = 20
+	"Fuk Thuang #0" = 20
+	"Fuk An #0" = 20
+	"Fuk Dam #0" = 20
+	
+	"Kim An #0" = -1
+	"Thui Chum #0" = -1
+	"Beat Ngoc #0" = -1
+	"Phyong Nga #0" = -1
+	"Thanh Tao #0" = -1
+}
+
+leader_names = {
+	Chang-ho Lk Lee Ngo Mac Chin Nguyen Huyn Fang Pham Wu Dang Bui Do Dyong
+	BAN KAO TEAU You Tung Dao Dap Dao Ding Doan Ziang Ha Han Qieu Kim
+	La Lac Lam Lieu Luong Luong La Ma Ma Mai Nguem Fo Fung Quat Qiang
+	Quien Ta That Thai Thi Thieu To Tong Chang Chyeu Truong Wang Vinh Vyong
+}
+
+ship_names = {
+	"Chang Kang" "Chang-Hoang" "Chang-khum" "Chang Thuin"
+	"Chang Man" "Chang Wyong" "Chang Hao" "Daung Nyat Lk"
+	"Chang-Fu" "Chang Kun" "Chang-Hyen" "Chang Ngung"
+	"Chang Ahn" "Thai Tung" "Thanh Tung" "Niang Tung"
+	"Anh Tung" "Min Tung" "Hyen Tung" "Du Tung"
+	"Nge Tung" "Duet Tung" "Thuan Tung"
+}

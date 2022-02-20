@@ -1,0 +1,121 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 33  168  103 }
+
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Songtseng Gampo #0" = 20
+	"Lodro Tobden #0" = 20
+	"Zeltshen Boom #0" = 20
+	"Pancheng Ana #0" = 20
+	"Yangelphel . #0" = 20
+	"Namkha #0" = 20
+	"Lhundrub #0" = 20
+	"Luphel #0" = 20
+	"Orchjan Tashi #0" = 20
+	"Chang Chub #0" = 1
+	"Sakya Giangtsen #0" = 1
+	"Richen Trakpa #0" = 1
+	"Chang Chub Trakpa #0" = 1
+	"Cheungnae Trakpa #0" = 1
+	"Sangye Gamzo #0" = 0
+	"Lobsang Yeshe #0" = 0
+	"Palden Yeshi #0" = 0
+	"Ngapoi Takna #0" = 0
+	"Zhigme Wangyal #0" = 0
+	"Tashi Chophel #0" = 0
+	"Bapu Gandung #0" = 0
+	"Rabtan #0" = 0
+	"Senge #0" = 0
+	"Galdan #0" = 0
+	"Goosey #0" = 0
+	
+	"Kamala #0" = -1
+	"Indira #0" = -1
+}
+
+leader_names = {
+	Se
+	Rumu
+	Ldun
+	Stun
+	Dbra
+	Dru
+	Nyan
+	Smash
+	Gnon
+	Chespoon
+	Tunmi
+	Mgar
+	Bree
+	Moon
+	Zhang
+	Mchims
+	Ball
+	Lan
+	Tsoghro
+	Bro
+	Dubas
+	Shudpu
+	Gniags
+	Mgus
+	Mzhang
+	Snan
+	Threaten .
+	Rma
+	Sneba
+	Hu
+	Hun
+	Makar
+	Rlang's
+	Rinspuns
+	Jinshag
+	Fjunsrgjas
+	Nganlam
+	SBa
+        League
+	Hjunpo
+	Dubas
+	Mnemmed
+}
+
+ship_names = {
+	"Barkam"
+	"Darcendo"
+	"Giangze"
+	"Harze"
+	"Lhasa"
+	"Lhotse"
+	"Makalu"
+	"Nagku"
+	"Nyngchi"
+	"Nedong"
+	"Pelbar"
+	"Camdo"
+	"Shigatse"
+	"Sakya"
+	"Tingri"
+}

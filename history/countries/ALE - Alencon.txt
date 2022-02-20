@@ -1,0 +1,288 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = normand
+religion = catholic
+technology_group = western
+capital = 1879	# Alencon
+fixed_capital = 1879 # Cannot move capital away from this province & no power cost to move to it
+
+# 1020.1.1 = {
+	# monarch = {
+		# name = "Guillaume I"
+		# dynasty = "de Belleme"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1028.1.1 = {
+	# monarch = {
+		# name = "Guillaume II Talvas"
+		# dynasty = "de Belleme"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1054.1.1 = {
+	# monarch = {
+		# name = "Mabel"
+		# dynasty = "de Belleme"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+		# female = yes
+	# }
+# }
+
+# 1079.12.5 = {
+	# monarch = {
+		# name = "Roger I"
+		# dynasty = "de Montgomery"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1094.7.27 = {
+	# monarch = {
+		# name = "Robert I"
+		# dynasty = "de Montgomery"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1113.5.8 = {
+	# monarch = {
+		# name = "Guillaume III Talvas"
+		# dynasty = "de Montgomery"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1172.6.20 = {
+	# monarch = {
+		# name = "Jean I"
+		# dynasty = "de Montgomery"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1191.2.24 = {
+	# monarch = {
+		# name = "Jean II"
+		# dynasty = "de Montgomery"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1191.5.1 = {
+	# monarch = {
+		# name = "Robert I"
+		# dynasty = "de Montgomery"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1217.9.18 = {
+	# monarch = {
+		# name = "(Wakanto)"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+		# regent = yes
+	# }
+# }
+
+# 1218.1.1 = {
+	# monarch = {
+		# name = "Robert II"
+		# dynasty = "de Montgomery"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+1220.1.1 = {
+	monarch = {
+		name = "(Wakanto)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1269.3.1 = {
+	monarch = {
+		name = "Pierre I"
+		dynasty = "Capeting"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1284.4.6 = {
+	monarch = {
+		name = "(Wakanto)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1290.3.1 = {
+	monarch = {
+		name = "Karl I"
+		dynasty = "de Valois"
+		birth_date = 1270.3.12
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1309.1.1 = {
+	heir = {
+		name = "Ludovic"
+		monarch_name = "Ludovic I"
+		dynasty = "de Valois"
+		birth_date = 1309.1.1
+		death_date = 1328.11.2
+		adm = 3
+		dip = 3
+		mil = 2
+		claim = 95
+	}
+}
+
+1328.11.2 = {
+	monarch = {
+		name = "Karl II"
+		dynasty = "de Valois"
+		birth_date = 1297.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1337.1.1 = {
+	heir = {
+		name = "Karl"
+		monarch_name = "Karl III"
+		dynasty = "de Valois"
+		birth_date = 1337.1.1
+		death_date = 1375.7.5
+		adm = 3
+		dip = 3
+		mil = 3
+		claim = 95
+	}
+}
+
+1346.8.26 = {
+	monarch = {
+		name = "Karl III"
+		dynasty = "de Valois"
+		birth_date = 1337.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1365.7.13 = {
+	monarch = {
+		name = "Philippe I"
+		dynasty = "de Valois"
+		birth_date = 1339.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1374.9.27 = {
+	monarch = {
+		name = "Pierre II"
+		dynasty = "de Valois"
+		birth_date = 1340.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1404.9.20 = {
+	monarch = {
+		name = "Jean I"
+		dynasty = "de Valois"
+		birth_date = 1385.6.2
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+1415.9.25 = {
+	monarch = {
+		name = "Jean II"
+		dynasty = "de Valois"
+		birth_date = 1409.3.2
+		adm = 0
+		mil = 2
+		dip = 4
+	}
+}
+
+1478.1.1 = {
+	monarch = {
+		name = "Renee I"
+		dynasty = "de Valois"
+		birth_date = 1454.1.1
+		adm = 1
+		mil = 1
+		dip = 3
+	}
+}
+
+1492.11.1 = {
+	monarch = {
+		name = "Karl IV"
+		dynasty = "de Valois"
+		birth_date = 1489.9.2
+		adm = 1
+		mil = 2
+		dip = 1
+	}
+}
+
+
+1515.1.2 = { government = monarchy
+add_government_reform = autocracy_reform }
+
+# 1525 To Armagnac
+
+# 1549 To royal Domain
+
+1589.8.3 = { set_legacy_government = administrative_monarchy }
+
+#1661.3.9 = { government = absolute_monarchy }

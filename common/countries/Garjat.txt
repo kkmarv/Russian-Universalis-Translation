@@ -1,0 +1,91 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 110  136  66 }
+
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	quantity_ideas
+	trade_ideas
+	diplomatic_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	indian_archers
+	indian_arquebusier
+	sikh_hit_and_run
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Haria #1" = 30
+	"Jugassy  #1" = 30
+	"Pratapanan #1" = 30
+	"Hariruda #0" = 30
+	"Anku  #0" = 30
+	"Raghunat #0" = 30
+	"Biswambhar  #0" = 30
+	"Reisingh  #0" = 30
+	"Dusmant  #0" = 30
+	"Pratap Deos #0" = 10
+	"Padman #0" = 10
+	"Khadai Rai #0" = 10
+	"Juvaraj #0" = 0
+	"Birabar #0" = 0
+	"Harichandra #0" = 0
+	"Gopinat #0" = 0
+	"Raghuraj #0" = 0
+	"Charia #0" = 0
+	"Biswanat #0" = 10
+	"Paradise #0" = 0
+	"Sander #0" = 0
+	"Krishna #0" = 0
+	"Barman #0" = 0
+	"Bivart #0" = 0
+	"Jagannath #0" = 0
+	"Narayana #0" = 0
+	"Bebarta #0" = 0
+	"Chandra #0" = 0
+	"Damodar #0" = 0
+	"Jadunat #0" = 0
+	"Pradeep #0" = 0
+	"Hiryaj #0" = -1
+	"Suratarangivi Devi #0" = -1
+	"Malawi Malawi Devi #0" = -1
+}
+
+leader_names = {
+	"Singh"
+	"Deo"
+	"Gangabansi"
+	"Busapati"
+	"Ghumsuur"
+	"Parmar"
+	"Patnaik"
+	"Samant"
+	"Rawat"
+	"Deb"
+	"Banja"
+	"Vidyadhar"
+	"Mangrage"
+	"Mahapatra"
+	"Pal"
+	"Gianamuni"
+	"Lease"
+}
+
+ship_names = {
+	"Baitarani" "Balasor" "Balugaon" "Behrampur"
+	"Sync by honeybuneswar" "Brahmani" "Chandipur" "Chilka"
+	"Kuttak" "Durga" "Gopalur" "Jagannath"
+	"Jaggernaut" "Calidjay" "Konark" "Lakshmi"
+	"Mahanadi" "Nalabana" "Paradipal" "Parvati"
+	"Puri" "Radha" "Saraswati" "Satapada" 
+}

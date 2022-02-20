@@ -1,0 +1,194 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 0 46 59 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Aistanga #0" = 10
+	"Mingotobassa #0" = 10
+	"Ochinahahuma #0" = 10
+	"Nakitona #0" = 10
+	"Kachuni Mastab #0" = 10
+	"Puschium #0" = 10
+	"Tameob #0" = 10
+	"Mingolay #0" = 10
+	"Panchimantla #0" = 10
+	"Imab #0" = 10
+	"Pashchiumachito #0" = 10
+	"Oklahoma #0" = 10
+	"Chikashioclact #0" = 10
+	"Kashimaabe #0" = 10
+	"Naholamastab #0" = 10
+	"Kanelichib #0" = 10
+	"Pushemastab #0" = 10
+	"Okanemastab #0" = 10
+	"Tascalusa #0" = 20
+	"Oranshimastab #0" = 20
+	"Taboka #0" = 20
+	"Apokshenobi #0" = 20
+	"Pushmatah #0" = 20
+	"Moshelatubi #0" = 20
+	"Toboco #0" = 20
+	"Pushemistabi #0" = 10
+	"Pushechaoma #0" = 10
+	"Tascunohoop #0 " = 10
+	"Shishamastubi #0" = 20
+	"Jupaoma #0" = 20
+	"Stunokohoop #0" = 20
+	"Texacoogbai #0" = 20
+	"Tushkagomoi #0" = 20	
+	"Tushkagomok #0" = 10
+	"Systenotla #0" = 20
+	"Tuteloma #0" = 10
+	"Tubenogomok #0" = 10
+	"Shekopohomok #0" = 10
+	"Stonagopopoy #0" = 10
+	"Tushkoyogot #0" = 10
+	"Tezgunoshlk #0" = 10
+	"Sync by honeybunny #0" = 10
+	"Okanconoa #0" = 10
+	"Atunachuba #0" = 10
+	"Panghegolok #0" = 10
+	"Estabey #0" = 10
+	"Tanetchena #0" = 10
+	"Tuscaementhalok #0" = 10
+	"Tushtalai #0" = 10
+	"Schnanchaba #0" = 10
+	"Kunopoy #0" = 10
+	"Tuskonopoy #0" = 10
+	"Tutaomo #0" = 10
+	"Mingo Masatubi #0" = 10
+	"Oshumi #0" = 10
+	"Mingoposcos #0" = 10
+	"Bukshunubi #0" = 10
+	"Schipaomo #0" = 10
+	"Hyupahu #0" = 10
+	"Illatallaomo #0" = 10
+	"Jocheomo #0" = 10
+	"Tuspectabe #0" = 10
+	"Muklushapoya #0" = 10
+	"Kuputaneluko #0" = 10
+	"Pushaomo #0" = 10
+	"Bakalyube #0" = 10
+	"Milari #0" = -1
+	"Auistanxi #0" = 10
+	"Mestico #0" = 10
+	"Ulbalent #0" = 10
+	"Chicachauma #0" = 10
+	"Type #0" = 10
+	"Asetaoma #0" = 10
+	"Pusheoma #0" = 10
+	"Tutheoma #0" = 10
+	"Puchakaya #0" = 10
+	"Eyachiumo #0" = 10
+	"Kachunastabe #0" = 10 
+	"chatonahopai #0" = 10
+	"Utaktauma #0" = 10
+	"Tishumastab #0" = 10
+	"Naumastab #0" = 10
+	"Pushimataha #0" = 10
+	"Tutepana #0" = 10
+	"Kayabe #0" = 10 
+	"Mingoomastab #0" = 10
+	"Pushumashita #0" = 10
+	"Ohashioma #0" = 10
+	"Chocolacta #0" = 10
+	"Chulomastab #0" = 10
+	"Stonauma #0" = 10
+	"Pushistonauma #0" = 10
+	"Kachuanchab #0" = 10
+	"Alpatacuma #0" = 10
+	"Pushuma #0" = 10
+	"Asitauma #0" = 10
+	"Itelskan #0" = 10
+	"Tuskab #0" = 10
+	"Chukastab #0" = 10
+	"Olactauma #0" = 10
+	"Chalitauma #0" = 10
+
+	"Nontima #0" = -1
+	"Imaoka #0" = -1
+	"Lunabaga #0" = -1
+}
+
+leader_names = {
+	Synced by
+	Sactitama
+	Itchechana
+	Shimotakali
+	Tishinkla
+	Chukafalaya
+	Bissaha
+	Otachitotama
+	Yanichuchuma
+	Oktuechanabe
+	Okatalaya
+	Oyacha
+	Puskustakali
+	Kunshabalukta
+	Avani
+	Kskibacha
+	Nesobavaina
+	Tamaha
+	Seniasha
+	Talepocta
+	Ianabe
+	Nushikonchito
+	Ibectoclaucito
+	Tombigby
+	Imoklashaiskitini
+	Olitaasha
+	Abeca
+	Atcheuba
+	Ankaula
+	Itochako
+	Luchakta
+	Bokchalaya
+	Yazoo
+	Kunshak
+	Ocalus
+	Panta
+	Chemichalaya
+	Shimotakali
+	Osapashito
+	Aluvahisha
+	Ocupuncture
+	Shinukah
+	Kafitalaya
+	Imoklashi
+	Sabeahula
+	Kashtash
+	Osactalaya
+	Abyssa
+	Chunke
+	Onitalemon	
+}
+
+ship_names = {
+	"Nina Weiya" Mabila "White Eagle" Ustali Bopoli Chata Nanapez. "Ishtahulo-Chito ." "Nanistah-hulo-chito"
+	"Uba Peak" Aba "Shilup Chitosh osh" Shikaka Ichtanullo "Cowie Anuskasha" "Kashehotapalo" "Okva Naholo"
+	"Oka Nahulo" Oclonot "Nulus Cheeto" "Impa Shilup" "Nalusa Falaya" "Gashek Okva Hu'ha" Shilap Shilobish
+	Ishkitini Ounlo Biskinik
+}

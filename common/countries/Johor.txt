@@ -1,0 +1,70 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 30  112  187 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	religious_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+leader_names = {
+	Abdulfatah Ahmad Amir Anvar Azmi 
+	Batuta 
+	Chairul 
+	Hamza Hasanuddin 
+	Ibnu 
+	Kiyai 
+	Mahat Mukhtar 
+	Najamuddin Nutzar Nazmizan 
+	Roy 
+	Syarifuddin 
+	Zulkifli 
+}
+
+monarch_names = {
+	"Allaudin Riyat Shah #1" = 10
+	"Muzaffar Shah #1" = 10
+	"Abd al-Jalil Shah #0" = 10
+	"Allaudin Riyat Shah #2" = 10
+	"Abdullah Mayat Shah #0" = 10
+	"Ibrahim Shah #0" = 10
+	"Mahmoud Shah #1" = 10
+	"Abd al-Jalil Rahmat Shah #0" = 10
+	"Abd al-Jalil Muazzam Shah #0" = 10
+	"Ahmad Riyat Shah #0" = 10
+	"Mahmoud Shah #0" = 10
+	"Abdurahman Shah #0" = 10
+	"Hussein Shah #0" = 10
+	
+	"Azura #0" = -1
+}
+
+ship_names = {
+	Paramesvara "Sultan Iskandar" Bendahara Laxaman
+	Temengung "Pengulu Bendahari" Shahbandar
+	"Hukum Kanun" "Undang undang" "Pulau Bakung"
+	"Pulau Linga" Capulauan "Pulau Singkep" "Capulauan Riau"
+	"Pulau Rempang" "Pulau Kundur" "Pulau Padang"
+	"Pulau Benkaus" "Pulau Ting" "Pulau Shibu"
+	"Pulau Tioman" "Pulau Aur" "Pulau Rupat"
+	"Pulau Ransan" "Pulau Tebin Tingi"
+}

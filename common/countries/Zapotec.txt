@@ -1,0 +1,118 @@
+#Country Name: Please see filename.
+
+graphical_culture = southamericagfx
+
+color = { 158  118  120 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	maritime_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+
+historical_units = {
+	mesoamerican_spearmen
+	central_american_horsemen
+	zapotec_tribal_warfare
+	zapotec_plains_warfare
+	zapotec_gunpowder_warfare
+	westernized_zapotec
+	mexican_guerilla_warfare
+}
+
+monarch_names = {
+	"Kokoyoza #0" = 20
+	"Kokiyopa Holo #0" = 20
+	"Nukano #0" = 20
+	"Kokiyoza #1" = 15
+	"Kokiyopu #1" = 15
+	"Saacila #1" = 15
+	"Kokiyouza #0" = 10
+	"Kokiyopu Hzio #0" = 10
+	"Puy Tao. #0" = 10
+	"Beliyev #0" = 0
+	"Biebave #0" = 0
+	"Bineh #0" = 0
+	"Btsoy Hsaksei #0" = 0
+	"Halaksa #0" = 0
+	"Honna Biku #0" = 0
+	"Cocky #0" = 0
+	"Dioraxa #0" = 0
+	"Gupaibone #0" = 0
+	"Gätzob #0" = 0
+	"Gia #0" = 0
+	"Ipalnemoani #0" = 0
+	"Yi Yzio #0" = 0
+	"Yitu #0" = 0
+	"Yzio #0" = 0
+	"Luxdaoxo #0" = 0
+	"Liebe #0" = 0
+	"Mbalac #0" = 0
+	"Na Yale #0" = 0
+	"Nakikhinisa #0" = 0
+	"Naxingyangyuiu #0" = 0
+	"Ngolbex An #0" = 0
+	"Nguiu Rire #0" = 0
+	"Nisa Ro #0" = 0
+	"Piye Yzio #0" = 0
+	"Toby Rusigunda #0" = 0
+	"Veeni #0" = 0
+	"Vecia #0" = 0
+	"Zne Yale #0" = 0
+	"Zniya #0" = 0
+	"Circus #0" = 0
+	"Request . #0" = -1
+	"Nayeli #0" = -1
+}
+
+leader_names = {
+	"Beliyev"
+	"Biebave"
+	"Bineh"
+	"Btsoy Hsaksei"
+	"Halaksa"
+	"Cocky"
+	"Dioraxa"
+	"Gupaibone"
+	"Gätzob"
+	"Gia"
+	"Yi Yzio"
+	"Yitu"
+	"Yzio"
+	"Luxdaoxo"
+	"Liebe"
+	"Mbalac"
+	"Na Yale"
+	"Ngolbex An"
+	"Piye Yzio"
+	"Puy Tao."
+	"Veeni"
+	"Vecia"
+	"Zne Yale"
+	"Zniya"
+	"Circus"
+}
+
+ship_names = {
+	"Atoyak"
+	"Atzampa"
+	"Chalciutlikue"
+	"Chico"
+	"Kochio"
+	"Ipalnemoani"
+	"Monte Alban"
+	"Nesokoiatl"
+	"Nahuatl"
+	"Oaxaca"
+	"Omakatl"
+	"Quetzalcoatl"
+	"Tlaloc"
+	"Tescatlipoca"
+	"Tekkistektatel"
+	"Shochiketzal"
+}

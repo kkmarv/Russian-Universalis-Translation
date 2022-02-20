@@ -1,0 +1,134 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 131  141  142 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+	diplomatic_ideas
+	religious_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Alexander #2" = 20
+	"Dmitry #1" = 20
+	"Ivan #0" = 20
+	"Semyon #0" = 15
+	"Feodor #2" = 10
+	"Vasily #2" = 10
+	"David #1" = 10
+	"Adrian #0" = 0
+	"Afanasiy #0" = 0
+	"Boris #0" = 0
+	"Vladimir #0" = 0
+	"Daniel #0" = 0
+	"Dorofey #0" = 0
+	"Zachary #0" = 0
+	"Dorofey #0" = 0
+	"Constantine #0" = 0
+	"Kuzma #0" = 0
+	"Leo #0" = 0
+	"Andrei #0" = 0
+	"Cyprian #0" = 0
+	"Gabriel #0" = 0
+	"Gregory #0" = 0
+	"Igor #0" = 0
+	"Matthew #0" = 0
+	"Methodius #0" = 0
+	"Michael #0" = 0
+	"Naum #0" = 0
+	"Nikita #0" = 0
+	"Oleg #0" = 0
+	"Pankrat #0" = 0
+	"Peter #0" = 0
+	"Roman #0" = 0
+	"Ruslan #0" = 0
+	"Seraphim #0" = 0
+	"Sevastian #0" = 0
+	"Sergei #0" = 0
+	"Timofey #0" = 0
+	"Bartholomew #0" = 0
+	"Vincentius #0" = 0
+	"Victor #0" = 0
+	
+	"Barbara #0" = -1
+	"Ulyana #0" = -1
+	"Evdokia #0" = -1
+}
+
+leader_names = { 
+	"Alyabyshev"
+	"Alenkin"
+	"Vekoshkin"
+	"Veliko-Gagin"
+	"Golygin"
+	"Doulov"
+	"Deyev"
+	"Khvorostinin"
+	"Zaozersky"
+	"Zasekin"
+	"Toothed"
+	"Kubensky"
+	"Kurbsky"
+	"Molozhsky"
+	"Mortkins"
+	"Okhlyabinin"
+	"Penkov"
+	"Prozorovsky"
+	"Sitzky"
+	"Novlensky"
+	"Romanovsky"
+	"Shastunov"
+	"Troekurov"
+	"Juhotskii"
+	"Ears"
+	"Shestunov"
+	"Shchetinin"
+}
+
+ship_names = {
+	"Danilov"
+	"Pereslavl"
+	"Myshkin"
+	"Petrovskoe"
+	"Rybinsk"
+	"Corner"
+	"Rostov"
+	"Yaroslavl"
+	"Volga"
+	"Prince Fyodor"
+	"Prince Michael"
+	"Prince Constantine"
+	"Prince Alexander"
+	"Kurba"
+	"Prince Ivan"
+	"Prince Dmitry"
+	"Prince Semyon"
+	"Prince Vasily"
+	"Prince David"
+}

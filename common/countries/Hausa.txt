@@ -1,0 +1,94 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 48  169  96 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quantity_ideas
+	religious_ideas
+}
+
+historical_units = {
+	african_spearmen
+	niger_kongolese_tribal_warfare
+	bantu_plains_warfare
+	adal_gunpowder_warfare
+	westernized_adal
+	adal_guerilla_warfare
+	african_mandelaku
+	african_tuareg_cavalry
+	african_mossi_horsemen
+	african_hussar
+	african_dragoon		
+}
+
+monarch_names = {
+	"Chiroma #0" = 20
+	"Yakubu #0" = 20
+	"Muhammad #0" = 220
+	"Abdullahi #1" = 20
+	"Dauda Abasama #0" = 40
+	"Abu Bakr Kado #0" = 20
+	"Yakufu #0" = 20
+	"Kutambi #0" = 20
+	"Alhaji #0" = 20
+	"Shekkarau #1" = 20
+	"Soyaki #0" = 20
+	"Bubba Zaki #0" = 20
+	"Dalla Gungum #0" = 0
+	"Dalla Dawaki #0" = 0
+	"Akal #0" = 0
+	"Bacheary #0" = 0
+	"Humsara #0" = 0
+	"Bardendoma #0" = 0
+	"Dog #0" = 0
+	"Nyakum #0" = 0
+	"Jakub #0" = 0
+	"Salihu #0" = 0	
+	"Gianzacho #0" = 0
+	"Karia Giva #0" = 0
+	"Abd al-Karim #0" = 0
+	"Zagarana #0" = 0
+	"Aghvaragvi #0" = 0
+	"Bawa #0" = 20
+	"Magazine #0" = 0
+	"Tomo #0" = 0
+	"Thought . #0" = 0
+	"Suleiman #0" = 0
+	"Fati #0" = 0
+	"Ibrahim #0" = 0
+	"Alya #0" = 0
+	"Bako #0" = 0
+	"Burema #0" = 0
+	"Dudoufani #0" = 0
+	"Boorum #0" = 0	
+	
+	"Sanah #0" = -1
+	"Farrah #0" = -1
+}
+
+leader_names = {
+	"Saibou"
+	"Bakara"
+	"Mom"
+	"Kunche"
+	"Diore"
+	"Baleva"
+	"Aluco"
+	"Bandele"
+	"Kanu"
+	"Kuti"
+}
+
+ship_names = {
+	"The suit" "itself." "Hazo" "Hajimare" "Babban Dutse"
+	"Tek" "Rairaya" "Wound" "Wata" "Tauraro" "Ruva"
+	"Itase" "Saiva" "Fourier"
+}

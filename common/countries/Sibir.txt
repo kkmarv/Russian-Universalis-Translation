@@ -1,0 +1,151 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 139  138  160 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+	quality_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Abdul-Karif #0" = 40
+	"Abdul-Latif #0" = 20
+	"Abdul-Rahman #0" = 40
+	"Abdullah #0" = 20
+	"Agalak #0" = 20
+	"Ahmad #0" = 50
+	"Ak-Cup #0" = 40
+	"Ali Bel #0" = 20
+	"Arabshah #0" = 20
+	"Arslan #0" = 20
+	"Barak #0" = 30
+	"Beck Bulat #0" = 20
+	"Bulak #0" = 20
+	"Circassia #0" = 20
+	"Chokra #0" = 20
+	"Daniel #0" = 20
+	"Darwish #0" = 20
+	"Darwish Ali #0" = 20
+	"Devlet Berdi #0" = 20
+	"Yedigey #0" = 20
+	"Haji Muhammad #0" = 20
+	"Hussain #0" = 30
+	"Ibak #0" = 20
+	"Ibrahim #0" = 50
+	"Ilham #0" = 20
+	"Ishim #0" = 20
+	"Jabbar-Berdi #0" = 20
+	"Jalal ad-Din #0" = 20
+	"Ali Khan #0" = 20
+	"Janai #0" = 20
+	"Janibeck #0" = 20
+	"Abulhayr Khan #0" = 20
+	"Karim Berdi #0" = 20
+	"Kebek Khan #0" = 20
+	"Khalil #0" = 30
+	"Kagan Beck #0" = 20
+	"Kichak Mohammed #0" = 40
+	"Kuchum Khan #0" = 20
+	"Mahmoud #0" = 80
+	"Mahmudak #0" = 50
+	"Mama #0" = 20
+	"Mamuk #0" = 30
+	"Mansour #0" = 20
+	"Muhammad #0" = 50
+	"Murtaza #0" = 20
+	"Mustafa Ali #0" = 20
+	"Nogai #0" = 20
+	"Pulad #0" = 20
+	"Pulad Timur #0" = 20
+	"Kadyr Berdi #0" = 20
+	"Kasim #0" = 60
+	"Saint-Bulat #0" = 20
+	"Satilghan #0" = 20
+	"Sayyid Ahmad #0" = 60
+	"Sayid Burhan #0" = 20
+	"Sayid Mahmoud #0" = 20
+	"Shadibek Khan #0" = 20
+	"Shah-Ali #0" = 20
+	"Sheikh Ahmad #0" = 20
+	"Sheikh Alwar #0" = 20
+	"Sheikh Haidar #0" = 20
+	"Sheban #0" = 20
+	"Taibuga #0" = 20
+	"Timur #0" = 20
+	"Timur Kutlug #0" = 20
+	"Tohtamysh #0" = 20
+	"Ulu Muhammad #0" = 40
+	"Urus #0" = 20
+	"Urus-Mohammed #0" = 20
+	"Yadigar Muhammad #0" = 20
+	"Yamaguchi #0" = 20
+	
+	"Fatima #0" = -1
+	"Ibtisan #0" = -1
+	"Complaint . #0" = -1
+	"Jeanne #0" = -1
+	"Laia #0" = -1
+	"Sakina #0" = -1
+	"Sharif #0" = -1
+}
+
+leader_names = { 
+	"Ballna"
+	"Salmiyanov"
+	"Peer"
+	"Taiboray"
+	"Premise"
+	"Canine"
+	"Mimbava"
+	"Arinin"
+	"Avenue"
+	"Tsoi"
+}
+
+ship_names = {
+	"Genghis Khan"
+	"The Horde"
+	"Kochu"
+	"Bayan"
+	"Sasibuga"
+	"Ilbasan"
+	"Mubarrak Quaya"
+	"Chimtai"
+	"Urus"
+	"Tuktakia"
+	"Timur Malik"
+	"Tohtamysh"
+	"Tim Kutlug"
+	"Shadi Run"
+	"Pulad"
+	"Jalal ad-Din"
+	"Karim Berdy"
+	"Kebek"
+	"Jabbar Berdy"
+	"Ulug Muhammad"
+	"Devlette Berdy"
+	"Barak"
+	"Sayyid Ahmad"
+}

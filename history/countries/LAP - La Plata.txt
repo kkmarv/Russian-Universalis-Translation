@@ -1,0 +1,91 @@
+government = republic
+set_legacy_government = republican_dictatorship
+technology_group = western
+religion = catholic
+primary_culture = castillian
+capital = 778	# Santa Marнa del Buen Ayre
+
+
+1815.1.31 = {
+	monarch = {
+		name = "Carlos Maria de Alvear"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+1816.7.9 = {
+	monarch = {
+		name = "Juan Martin de Pueyrredon and O'Dogan."
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1826.2.8 = {
+	monarch = {
+		name = "Bernardino de la Trinidad Gonzalez Rivadavia and Rivadavia"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1826.2.8 = { government = republic
+set_legacy_government = constitutional_republic }
+
+1827.1.1 = {
+	monarch = {
+		name = "Manuel Dorrego"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1829.12.1 = {
+	monarch = {
+		name = "Juan Manuel Jose Domingo Ortiz de Rosas."
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1832.12.1 = {
+	monarch = {
+		name = "Juan Ramón Gonzalez de Balcarce"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1833.1.1 = {
+	monarch = {
+		name = "Juan José Vamonte Gonzalez"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1834.1.1 = {
+	monarch = {
+		name = "Manuel Vicente Masa"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1835.3.1 = {
+	monarch = {
+		name = "Juan Manuel Jose Domingo Ortiz de Rosas."
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

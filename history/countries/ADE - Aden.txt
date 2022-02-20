@@ -1,0 +1,507 @@
+government = monarchy
+add_government_reform = iqta
+primary_culture = yemeni_culture
+religion = sunni
+technology_group = muslim
+capital = 388	# Aden
+
+#Imams of Yemen
+1377.1.1 = {
+	monarch = {
+		name = "Ismayil I"
+		dynasty = "Rasulid"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+	add_piety = 0.25
+}
+
+1377.1.1 = {
+	heir = {
+		name = "Salah ad-Din Ahmad"
+		monarch_name = "Salah ad-Din Ahmad"
+		dynasty = "Rasulid"
+		birth_date = 1377.1.1
+		death_date = 1424.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}
+
+1400.1.1 = {
+	monarch = {
+		name = "Salah ad-Din Ahmad"
+		dynasty = "Rasulid"
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}
+
+1400.1.1 = {
+	heir = {
+		name = "'Abdallah"
+		monarch_name = "'Abdallah"
+		dynasty = "Rasulid"
+		birth_date = 1400.1.1
+		death_Date = 1427.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1424.1.1 = {
+	monarch = {
+		name = "'Abdallah"
+		dynasty = "Rasulid"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1424.1.1 = {
+	heir = {
+		name = "Ismayil"
+		monarch_name = "Ismayil II"
+		dynasty = "Rasulid"
+		birth_date = 1410.1.1
+		death_date = 1428.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1427.1.1 = {
+	monarch = {
+		name = "Ismayil II"
+		dynasty = "Rasulid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1428.1.1 = {
+	monarch = {
+		name = "Yahya"
+		dynasty = "Rasulid"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1439.1.1 = {
+	monarch = {
+		name = "Ismayil III"
+		dynasty = "Rasulid"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1439.1.1 = {
+	heir = {
+		name = "Yusuf"
+		monarch_name = "Yusuf II"
+		dynasty = "Rasulid"
+		birth_date = 1420.1.1
+		death_Date = 1447.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+
+1442.1.1 = {
+	monarch = {
+		name = "Yusuf II"
+		dynasty = "Rasulid"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1442.1.1 = {
+	heir = {
+		name = "Salah ad-Din Amir"
+		monarch_name = "Salah ad-Din Amir I"
+		dynasty = "Tahrid"
+		birth_date = 1420.1.1
+		death_date = 1466.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1447.1.1 = {
+	monarch = {
+		name = "Salah ad-Din Amir I"
+		dynasty = "Tahrid"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1447.1.1 = {
+	heir = {
+		name = "'Alo"
+		monarch_name = "'Alo"
+		dynasty = "Tahrid"
+		birth_date = 1420.1.1
+		death_date = 1478.5.12
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1466.7.2 = {
+	monarch = {
+		name = "'Alo"
+		dynasty = "Tahrid"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1466.7.2 = {
+	heir = {
+		name = "Abd al-Wahhab"
+		monarch_name = "Abd al-Wahhab"
+		dynasty = "Tahrid"
+		birth_date = 1450.1.1
+		death_date = 1489.4.9
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1478.5.12 = {
+	monarch = {
+		name = "Abd al-Wahhab"
+		dynasty = "Tahrid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1478.5.12 = {
+	heir = {
+		name = "Salah ad-Din Amir"
+		monarch_name = "Salah ad-Din Amir II"
+		dynasty = "Tahrid"
+		birth_date = 1460.1.1
+		death_Date = 1517.5.16
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1489.4.9 = {
+	monarch = {
+		name = "Salah ad-Din Amir II"
+		dynasty = "Tahrid"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+# Ottoman rule 1517-97
+
+1597.1.1 = {
+	monarch = {
+		name = "Al-Qasim"
+		dynasty = "Casimid"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1597.1.1 = {
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Muhammad I"
+		dynasty = "Casimid"
+		birth_date = 1582.1.1
+		death_date = 1644.9.30
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1620.2.18 = {
+	monarch = {
+		name = "Muhammad I"
+		dynasty = "Casimid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1620.2.18 = {
+	heir = {
+		name = "Ismayil"
+		monarch_name = "Ismayil"
+		dynasty = "Casimid"
+		birth_date = 1610.1.1
+		death_Date = 1676.8.15
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+1644.9.30 = {
+	monarch = {
+		name = "Ismayil"
+		dynasty = "Casimid"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+1644.9.30 = {
+	heir = {
+		name = "Ahmad"
+		monarch_name = "Ahmad I"
+		dynasty = "Casimid"
+		birth_date = 1633.1.1
+		death_Date = 1681.6.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1676.7.15 = {
+	monarch = {
+		name = "Ahmad I"
+		dynasty = "Casimid"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1676.7.15 = {
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Muhammad II"
+		dynasty = "Casimid"
+		birth_date = 1650.1.1
+		death_Date = 1686.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1681.6.1 = {
+	monarch = {
+		name = "Muhammad II"
+		dynasty = "Casimid"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1681.6.1 = {
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Muhammad III"
+		dynasty = "Casimid"
+		birth_date = 1660.1.1
+		death_date = 1718.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1686.1.1 = {
+	monarch = {
+		name = "Muhammad III"
+		dynasty = "Casimid"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1686.1.1 = {
+	heir = {
+		name = "Al-Qasim"
+		monarch_name = "Al-Qasim I"
+		dynasty = "Casimid"
+		birth_date = 1670.1.1
+		death_date = 1727.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+1718.1.1 = {
+	monarch = {
+		name = "Al-Qasim I"
+		dynasty = "Casimid"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+1718.1.1 = {
+	heir = {
+		name = "Al-Hussein"
+		monarch_name = "Al-Hussein"
+		dynasty = "Casimid"
+		birth_date = 1700.1.1
+		death_date = 1748.3.6
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+}
+
+1727.1.1 = {
+	monarch = {
+		name = "Al-Hussein"
+		dynasty = "Casimid"
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+}
+
+1727.1.1 = {
+	heir = {
+		name = "Al-Abbas"
+		monarch_name = "Al-Abbas"
+		dynasty = "Casimid"
+		birth_date = 1719.1.1
+		death_date = 1775.9.4
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1748.3.6 = {
+	monarch = {
+		name = "Al-Abbas"
+		dynasty = "Casimid"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1748.3.6 = {
+	heir = {
+		name = "'Alo"
+		monarch_name = "'Alo I"
+		dynasty = "Casimid"
+		birth_date = 1738.1.1
+		death_date = 1809.10.25
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1775.1.1 = {
+	monarch = {
+		name = "'Alo I"
+		dynasty = "Casimid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1775.1.1 = {
+	heir = {
+		name = "Ahmad"
+		monarch_name = "Ahmad II"
+		dynasty = "Casimid"
+		birth_date = 1765.1.1
+		death_date = 1816.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1809.1.1 = {
+	monarch = {
+		name = "Ahmad II"
+		dynasty = "Casimid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1809.1.1 = {
+	heir = {
+		name = "Abdallah"
+		monarch_name =" Abdallah I"
+		dynasty = "Casimid"
+		birth_date = 1793.1.1
+		death_date = 1835.11.28
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1816.1.1 = {
+	monarch = {
+		name = "Abdallah I"
+		dynasty = "Casimid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}

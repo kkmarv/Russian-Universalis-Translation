@@ -1,0 +1,113 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 62 71 124 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	quality_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Friedrich #0" = 80
+	"Johann #0" = 40
+	"Henry #8" = 40
+	"Ludwig #2" = 20
+	"Johann Christian #0" = 20
+	"George #0" = 20
+	"George Rudolph #0" = 20
+	"Georg Wilhelm #0" = 20
+	"Joachim Friedrich #0" = 20
+	"Christian #0" = 20
+	"Ruprecht #1" = 20
+	"John George #0" = 15
+	"George Ernst #0" = 15
+	"August #0" = 10
+	"Ernst #0" = 10
+	"Christian Ludwig #0" = 10
+	"Rudolph #0" = 10
+	"Vladislav #1" = 5
+	"Albert #0" = 0
+	"Alexander #0" = 0
+	"Andel #0" = 0
+	"Branco #0" = 0
+	"Bruno #0" = 0
+	"Caesar #0" = 0
+	"Dietrich #0" = 0
+	"Eugeniusz #0" = 0
+	"Philippe #0" = 0
+	"Herman #0" = 0
+	"Joachim #0" = 10
+	"Krzysztof #0" = 0
+	"Lech #0" = 0
+	"Libor #0" = 0
+	"Markus #0" = 0
+	"Moritz #0" = 0
+	"Radomir #0" = 0
+	"Siegfried #0" = 0
+	"Thomas #0" = 0
+	"Wenceslas #0" = 0
+	"William #0" = 0
+	
+	"Heinrike #0" = -1
+	"Ilona #0" = -1
+	"Andrea #0" = -1
+}
+
+leader_names = {
+	"Schwarz"
+	"Gergesselle"
+	"Heinzel"
+	"Hoppe"
+	"Cal"
+	"Tilch"
+	"Greve"
+	"Abeln"
+	"Lignitz"
+	"Yauernicus"
+	"Vile"
+	"Gronau"
+	"Stern"
+}
+
+ship_names = {
+	"Teshen"
+	"Falkenberg"
+	"Kozel-Boyten"
+	"Opeln"
+	"Ratibor"
+	"Breslau"
+	"Zagan"
+	"Els"
+	"Steinau"
+	"Lignitz-Brig"
+	"Glogau"
+	"Münsterberg"
+	"Weisse-Ottmachau ."
+	"Schweidnitz-Jauer"
+}
+

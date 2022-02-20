@@ -1,0 +1,77 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+religion = buddhism
+primary_culture = burmese	### STT
+capital = 2399
+
+1305.1.1 = {
+	monarch = {
+		name = "Thinathu"
+		dynasty = "Minsain"
+		dip = 3
+		adm = 3
+		mil = 2
+	}
+}
+
+1325.1.1 = {
+	monarch = {
+		name = "Uzana I"
+		dynasty = "Minsain"
+		dip = 5
+		adm = 3
+		mil = 0
+	}
+}
+
+1340.1.1 = {
+	monarch = {
+		name = "Sith"
+		dynasty = "Minsain"
+		dip = 5
+		adm = 3
+		mil = 0
+	}
+}
+
+1344.1.1 = {
+	monarch = {
+		name = "Kyaswa I"
+		dynasty = "Minsain"
+		dip = 2
+		adm = 3
+		mil = 1
+	}
+}
+
+1350.1.1 = {
+	monarch = {
+		name = "Kyaswa II"
+		dynasty = "Minsain"
+		dip = 2
+		adm = 3
+		mil = 1
+	}
+}
+
+1359.1.1 = {
+	monarch = {
+		name = "Narathu"
+		dynasty = "Minsain"
+		dip = 2
+		adm = 5
+		mil = 1
+	}
+}
+
+1364.1.1 = {
+	monarch = {
+		name = "Uzana II"
+		dynasty = "Minsain"
+		dip = 0
+		adm = 3
+		mil = 3
+	}
+}
+

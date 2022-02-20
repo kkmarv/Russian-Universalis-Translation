@@ -1,0 +1,87 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 239 125 125 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	administrative_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Rahma #0" = 10
+	"Matar #0" = 10
+	"Booty #0" = 10
+	"Sacr #0" = 10
+	"Rashid #0" = 10
+	"Hassan #0" = 10
+	"Mayid #0" = 10
+	"Abdullah #0" = 10
+	"Muhammad #0" = 10
+	"Aziz #0" = 10
+	"Faisal #0" = 10
+	"Abd al-Rahman #0" = 10
+	"Khalid #0" = 10
+	"Fahd #0" = 10
+	
+	"Nadiyah #0" = -5
+	"Norah #0" = -5
+	"Fahda #0" = -5
+	"Noora #0" = -5
+	"Seta #0" = -5
+	"Fatimah #0" = -1
+	"Waleeda #0" = -1
+	"Tahani #0" = -1
+	"Safaaa  #0" = -1
+	"Randa #0" = -1
+	"Kismach #0" = -1
+	"Nadirah #0" = -1
+}
+
+leader_names = {
+	"Al Nahan"
+	"Al MacThome"
+	"Al Falasi"
+	"Al Falahi"
+	"Al Muhairi"
+	"Al Suwaidi"
+	"Al Mazroway"
+	"Al Khameli"
+	"Al Khameeri"
+	"Al Romaithi"
+	"Al Marar"
+	"Al Mansory"
+	"Al Mehirbi"
+	"Al Qubaysi"
+	"Al Otaiba"
+	"Al Kamzi"
+	"Al Ameemi"
+}
+
+ship_names = {
+	"Al-Armah" "Al-Dahna" "Yabal Tuwayo"
+	"Nafed Kunaifidah" "Nafed Shukaiyiki"
+	"Al-Bayad" "Nafed Al-Daha" "Nafid Al-Sirrah"
+	"Riyadh" "Al-Dilam" Shakra
+}

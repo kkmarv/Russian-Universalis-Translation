@@ -1,0 +1,112 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 97  102  135 }
+
+historical_idea_groups = {
+	administrative_ideas
+	trade_ideas
+	quantity_ideas
+	expansion_ideas
+	offensive_ideas
+	economic_ideas
+	defensive_ideas
+	religious_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Ulu Muhammad #0" = 10	
+	"Muhammad #0" = 10	
+	"Mahmudek #0" = 10	
+	"Khalil #0" = 10	
+	"Ibrahim #0" = 10	
+	"Ilham #0" = 10	
+	"Muhammad Amin #0" = 10	
+	"Abdul-Latif #0" = 10	
+	"Shah Ali #0" = 10	
+	"Sahib #0" = 10	
+	"Safa #0" = 10	
+	"Jan Ali #0" = 10	
+	"Omesh #0" = 10	
+	"Shah Ali #0" = 10	
+	"Yadigar Muhammad #0" = 10
+	"Ahmetgali #0" = 1
+	"Airat #0" = 1
+	"Ahmed #0" = 1
+	"Alikber #0" = 1
+	"Azamat #0" = 1
+	"Amerhan #0" = 1
+	"Ansar #0" = 1
+	"Anwar #0" = 1
+	"Ahmat #0" = 1
+	"Aidar #0" = 1
+	"Yarat #0" = 1
+	"Azgar #0" = 1
+	"Chingi #0" = 1
+	"Farit #0" = 1
+	"Ildus #0" = 1
+	"Ilgiz #0" = 1
+	"Ilshat #0" = 1
+	"Irek #0" = 1
+	"Nariman #0" = 1
+	"Radik #0" = 1
+	"Gabdulla #0" = 1
+	"Ramille #0" = 1
+	"Rasit #0" = 1
+	"Raville #0" = 1
+	"Risat #0" = 1
+	"Rusan #0" = 1
+	"Timer #0" = 1
+	"Toktamysh #0" = 1
+	"Jasher #0" = 1
+	"Zakip #0" = 1
+	"Zamanbek #0" = 1
+	"Zaribzyan #0" = 1
+	"Gabdulla #0" = 1
+	"Zofar #0" = 1	
+	
+	"Aybanu #0" = -1
+	"Eininur #0" = -1
+	"Alphia #0" = -1
+	"Canan #0" = -1
+	"Alphira #0" = -1
+	"Alfia #0" = -1
+	"Aliya #0" = -1
+	"Amenia #0" = -1
+	"Asia #0" = -1
+	"Assel #0" = -1
+	"Dinara #0" = -1
+}
+
+leader_names = { 
+	Jalil
+	Gubaidulina
+	Nasiri Nakmetdin
+	Nigmat Nurgali
+	Ishaki Marjani
+	Kamai "Kul Gali"
+	Kursawi Tukai 
+	Yusupov
+
+}
+
+ship_names = {
+	Kazgan Kazan Suyumbike Kazansu Giasetdin 
+	"Tas Ayak" Alat Arch Harets Cory Nugai
+	Sayet Sayeh Qazi
+}

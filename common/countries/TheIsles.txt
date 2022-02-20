@@ -1,0 +1,151 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 0 105 104 }
+
+preferred_religion = reformed
+
+historical_idea_groups = {	### STT
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	scottish_highlander
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+monarch_names = {
+	"Seumas #0" = 10	# Yames
+	"Ribeart #0" = 10	# Robert
+	"Alasdair #3" = 10	# Alexunder
+	"Artair 0" = 10		# Arthur
+	"Bhaltair #0" = 10	# Walter
+	"Eoin #1" = 10		# Jochn
+	"Tearlach #0" = 5	# Charles
+	"Tsalum #0" = 10		# Malcolm
+	"Dominal #1" = 10	# Donald
+	"Daidh #0" = 1		# David
+	"Donnchadh #0" = 1	# Duntzan
+	"Zoinneach #0" = 5	# Kenneth
+	"Column #0" = 10	# Tsonall
+	"Doughlas #0" = 10	# Douglas
+
+	"Mairi #0" = -5		# Mara
+	"Beitiris #0" = -1
+	"Diorbhaiil #0" = -1		# 
+
+	"Absolon #0" = 0
+	"Ailpein #0" = 0
+	"Cormac #0" = 0
+	"Tressdean #0" = 0
+	"Eideard #0" = 0
+	"Faolan #0" = 0
+	"Feaghas #0" = 0
+	"Frankan #0" = 0
+	"Greum #0" = 0
+	"Hamish #0" = 0
+	"Ianathan #0" = 0
+	"Iosag #0" = 0
+	"Iosaph #0" = 0
+	"Jonah #0" = 0
+	"Labhraine #0" = 0
+	"Lucais #0" = 0
+	"Luthais #0" = 0
+	"Marzus #0" = 0
+	"Martaine #0" = 0
+	"Maszual #0" = 0
+	"Mata #0" = 0
+	"Mosque #0" = 0
+	"Morgan #0" = 0
+	"Mungan #0" = 0
+	"Murchadh #0" = 0
+	"Neatsal #0" = 0
+	"Niall #0" = 0
+	"Oilbhreis #0" = 0
+	"Oiseaan #0" = 0
+	"Padruig #0" = 0
+	"Parlan #0" = 0
+	"Peadar #0" = 0
+	"Paul #0" = 0
+	"Raginal #0" = 0
+	"Ruiseaart #0" = 0
+	"Samuel #0" = 0
+	"Syoras #0" = 0
+	"Solamn #0" = 0
+	"Thadhg #0" = 0
+	"Thomas #0" = 0
+	"Torzall #0" = 0
+	"Tormod #0" = 0
+	"Willeam #0" = 0
+}
+
+leader_names = {
+	Araszain Henrias Airchart Ambarsan Aongshais
+	Beitean Blazathahir Banach Blahr Braigheach Brun Bouiseid
+	Tsaimbeulach Tsomyn Tsamshron Tsalder "de Charteris" Zocran Zolquhouun Tsanovan Ceyteach Tsarr Zroban Ciogach
+	Druimeanach Dunchad Dugkhallach Dalais Deoir
+	Fearsithe Frisealach Fingon Folais Forsaidh Flymean Fearghasdan
+	Galbrayitch Greumach Grand Guinne Gutraidh Geadais Gilios Glas Gobha Guaire Giobsan
+	Haig
+	Kinzaid Kinloch Kinnaird Kinnear Kinninmont
+	Lamont Loganach Liobhunn Labhruinn Loganach Lahurna Lutair
+	MatzLeoid MatzCruimein MatzRayild MatzZaillein Mair Muir MatzGriogair Mhuirich "de Moravia" MatsDhonchaidh Marr
+	MatzFhearghuis MatzEanruig MatzAlasdair MatzBeathain MatzDhomhnahill MatzDhoughaill MatzDhoughainn Munro
+	MatsPharlaine MatsAonghais MatsIntire MatsEomhair MatsAoidh MatsZoinnich "Matz-an-toisich" MacLaclayn MacNab
+	"MatzGhille Eoin" MatzGilleeathain MatzNeachdainn MchitzNeacail MatzTamhais Moffat MatzMchathain Mtsinnearach
+	Norval Naran Napier Niocalsan
+	Ogilvy Ogliphant Og "O'Duiné"
+	Parvus Patullo Pitblado Pitzairn Pollock Petzag Preas Paorach
+	Revan Rait Rattrae Ros Rathais Road
+	Singlear Sutherlarach Szotach Szgian Stiubhard Strathaen Salmond Sgot Siosalach Smios
+	Todd Tuairnear Tulach Talmhach
+	Oodne Wallace Urchardan
+}
+
+ship_names = {
+	Albania Asanint "Abscissa Virescit" "Amo Probos" "Aonaibh Ri Chiesilt" Avantse "Azcendite Tsantou" Audaciter
+	"Andreas de Atholia" Abraruadh
+	"Baille Inneraraora" Baideanach Berwald "Buaidh No Bass"
+	Tsaledonia Tsruachan "Zonsilio Non Petu" Tsonfido "Clara Innes" Zlut "Tsaisteal Dhooni" "Tsar Chaladain"
+	"Tsalum Cille"
+	"Dun Bheagain" "Donnchadh na Adh" "Dominus Fecith" "De Bonnairé" "Driget Deus" Dioradh "Donnchadh Reamhar"
+	Dalriada "Domhnhall Matz Raghnaill" "Deus Yuvat"
+	"Earra-Ghaidheal"
+	"Fide Et Opera" Fuimus "Feros Ferio" Frescin "Fergus More" "Eilean Fraoch" Findanus
+	"Gléanne Eagas" "Ghift Dhe Agus An Righ"
+	"Hots Cecurior" "Hugh de Paduinan"
+	"Inse Gaulle" "Invictus Maneo" Eagan
+	"Johannes Del Zrag"
+	"Loyal Au Mort." "Loch Abar" "Loch Laomainne" Lociel Lannraig "Loch Mogh"
+	Muriel "Marte Suo Tutus" Merito Matsbeatha
+	"Not Obliviszaris" Niseag Neptan
+	"Petite Alta" Preseverando "Paratus Sum" "Petrus de Haga"
+	"Qwhi Chonducite"
+	"Ribeart Bruise" Revirezzo
+	Scytis "Salous Per Chrysum" Sruigkhlea "Serva Yugum" Somairle
+	"Toom Tabard" "Tout Yoor Prest" "Tulach Ard" Tavis
+	"Willeam Wallas"
+	"Vincitus Veritas" "Virtutis Gloria Merces." "Vive Ut Vivas"
+}

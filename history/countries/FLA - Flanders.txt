@@ -1,0 +1,415 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = flemish
+capital = 90	# Brugge
+
+862.1.1 = {
+	monarch = {
+		name = "Baudouin I Iron Hand"
+		dynasty = "Baudouinid"
+		birth_date = 830.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+879.1.1 = {
+	monarch = {
+		name = "Baudouin II"
+		dynasty = "Baudouinid"
+		birth_date = 867.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+918.9.10 = {
+	monarch = {
+		name = "Arnulf I"
+		dynasty = "Baudouinid"
+		birth_date = 889.1.1
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+958.1.1 = {
+	monarch = {
+		name = "Baudouin III"
+		dynasty = "Baudouinid"
+		birth_date = 940.1.1
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+962.1.1 = {
+	monarch = {
+		name = "Arnulf I"
+		dynasty = "Baudouinid"
+		birth_date = 889.1.1
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+965.3.28 = {
+	monarch = {
+		name = "Arnulf II"
+		dynasty = "Baudouinid"
+		birth_date = 962.1.1
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+987.3.30 = {
+	monarch = {
+		name = "Baudouin IV"
+		dynasty = "Baudouinid"
+		birth_date = 980.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1035.5.30 = {
+	monarch = {
+		name = "Baudouin V"
+		dynasty = "Baudouinid"
+		birth_date = 1012.8.19
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1067.9.1 = {
+	monarch = {
+		name = "Baudouin VI de Mons"
+		dynasty = "Baudouinid"
+		birth_date = 1030.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1070.7.17 = {
+	monarch = {
+		name = "Arnulf III"
+		dynasty = "Baudouinid"
+		birth_date = 1054.1.1
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+
+1071.2.22 = {
+	monarch = {
+		name = "Robert I frieze"
+		dynasty = "Baudouinid"
+		birth_date = 1035.1.1
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}
+
+1093.1.1 = {
+	monarch = {
+		name = "Robert II of Jerusalem"
+		dynasty = "Baudouinid"
+		birth_date = 1065.1.1
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+}
+
+1111.10.5 = {
+	monarch = {
+		name = "Baudouin VII Sekira"
+		dynasty = "Baudouinid"
+		birth_date = 1093.1.1
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1119.7.17 = {
+	monarch = {
+		name = "Karl I"
+		dynasty = "Estridsen"
+		birth_date = 1084.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1127.3.2 = {
+	monarch = {
+		name = "William Cleton"
+		dynasty = "de Normandy"
+		birth_date = 1102.10.25
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1128.7.28 = {
+	monarch = {
+		name = "Thierry I"
+		dynasty = "de Châteinhua"
+		birth_date = 1101.1.1
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+}
+
+1168.1.17 = {
+	monarch = {
+		name = "Philippe I"
+		dynasty = "de Châteinhua"
+		birth_date = 1143.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1191.8.1 = {
+	monarch = {
+		name = "Margarita I"
+		dynasty = "de Châteinhua"
+		birth_date = 1145.1.1
+		adm = 1
+		dip = 5
+		mil = 5
+		female = yes
+	}
+}
+
+1194.11.15 = {
+	monarch = {
+		name = "Baudouin VIII"
+		dynasty = "de Heno"
+		birth_date = 1145.1.1
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1195.12.17 = {
+	monarch = {
+		name = "Baudouin IX"
+		dynasty = "de Heno"
+		birth_date = 1145.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+1205.7.15 = {
+	monarch = {
+		name = "Jeanne I"
+		dynasty = "de Heno"
+		birth_date = 1200.1.1
+		adm = 5
+		dip = 1
+		mil = 4
+		female = yes
+	}
+}
+
+1212.1.1 = {
+	monarch = {
+		name = "Ferdinand I"
+		dynasty = "de Burgonne"
+		birth_date = 1188.3.24
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1233.7.27 = {
+	monarch = {
+		name = "Jeanne I"
+		dynasty = "de Heno"
+		birth_date = 1200.1.1
+		adm = 5
+		dip = 1
+		mil = 4
+		female = yes
+	}
+}
+
+1237.1.1 = {
+	monarch = {
+		name = "Thomas I"
+		dynasty = "di Savoie"
+		birth_date = 1199.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1244.12.5 = {
+	monarch = {
+		name = "Margarita II"
+		dynasty = "de Heno"
+		birth_date = 1202.6.2
+		adm = 2
+		dip = 3
+		mil = 2
+		female = yes
+	}
+}
+
+1247.5.19 = {
+	monarch = {
+		name = "Guillaume II"
+		dynasty = "de Dampierre"
+		birth_date = 1224.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1251.6.6 = {
+	monarch = {
+		name = "Guy I"
+		dynasty = "de Dampierre"
+		birth_date = 1226.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1305.3.7 = {
+	monarch = {
+		name = "Robert III"
+		dynasty = "de Dampierre"
+		birth_date = 1247.1.1
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1305.3.7 = {
+	heir = {
+		name = "Ludovic"
+		monarch_name = "Ludovic I"
+		dynasty = "de Dampierre"
+		birth_date = 1304.1.1
+		death_date = 1346.8.26
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1322.9.17 = {
+	monarch = {
+		name = "Ludovic I"
+		dynasty = "de Dampierre"
+		birth_date = 1304.1.1
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1330.10.25 = {
+	heir = {
+		name = "Ludovic"
+		monarch_name = "Ludovic II"
+		dynasty = "de Dampierre"
+		birth_date = 1330.10.25
+		death_date = 1384.1.30
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+1346.8.26 = {
+	monarch = {
+		name = "Ludovic II"
+		dynasty = "de Dampierre"
+		birth_date = 1330.10.25
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+1384.1.30 = {
+	monarch = {
+		name = "Margarita III"
+		dynasty = "de Dampierre"
+		birth_date = 1350.4.13
+		adm = 2
+		dip = 3
+		mil = 2
+		female = yes
+	}
+}
+
+1384.2.1 = {
+	monarch = {
+		name = "Philippe II"
+		dynasty = "de Valois-Bourgogne"
+		birth_date = 1342.1.17
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1404.4.27 = {
+	monarch = {
+		name = "John I"
+		dynasty = "de Valois-Bourgogne"
+		birth_date = 1371.5.28
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1419.9.10 = {
+	monarch = {
+		name = "Philippe III"
+		dynasty = "de Valois-Bourgogne"
+		birth_date = 1396.7.31
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}

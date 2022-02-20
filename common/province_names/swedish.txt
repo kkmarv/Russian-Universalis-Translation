@@ -1,0 +1,11 @@
+6 = "Skone"
+10 = "Emmtland"
+12 = "Sjelland"
+15 = "Mitjulland"
+16 = "Bochuslen"
+33 = "Notebook"
+37 = "Livland"
+
+956 = "Noah Gothenburg"
+957 = "Fort Cristina"
+962 = "Noah Elfsborg"

@@ -1,0 +1,28 @@
+government = monarchy
+
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+primary_culture = byelorussian
+religion = orthodox
+capital = 3692
+
+1309.1.1 = {
+	monarch = {
+		name = "Semyon Yevnutiyevich"
+		dynasty = "Gediminovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1360.1.1 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}

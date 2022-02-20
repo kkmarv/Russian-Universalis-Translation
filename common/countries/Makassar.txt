@@ -1,0 +1,86 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 117  179  128 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	economic_ideas
+	administrative_ideas
+	religious_ideas
+	spy_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+leader_names = {
+	Abdulfatah Ahmad Amir Anvar Azmi 
+	Batuta 
+	Chairul 
+	Hamza Hasanuddin 
+	Ibnu 
+	Kiyai 
+	Mahat Mukhtar 
+	Najamuddin Nathzar Nazmizan 
+	Roy 
+	Syarifuddin 
+	Zulkiffles 
+}
+
+monarch_names = {
+	"Tunitangkalopi #0" = 10
+	"Batar Gova #0" = 10
+	"Tunis Jallory #0" = 10
+	"Tunis Parisi #0" = 10
+	"Tunis Palonga #0" = 10
+	"Tunis Butta #0" = 10
+	"Tunyachocara-ri #0" = 10
+	"Karaeng Tunbatta #0" = 10
+	"Tunis Jallo #0" = 10
+	"Parabung #0" = 10
+	"Tunis Passculu #0" = 10
+	"Aladdin #0" = 10
+	"Muhammad Malik #0" = 10
+	"Muhammad Said #0" = 10
+	"Amir Hamza #0" = 10
+	"Abd al-Jalil #0" = 10
+	"Shihab ad-Din Ismail #0" = 10
+	"Muhammad Bakr Hassan #0" = 10
+	"Hamza Tumammalianga #0" = 10
+	"Muhammad Ali #0" = 10
+	"Fahr #0" = 10
+	"Shahab #0" = 10
+	"Siraj al-Din #0" = 10
+	"Abd al-Khair al-Mansour #0" = 10
+	"Abd al-Qudus #0" = 10
+	"Osman #0" = 10
+	"Muhammad Imad #0" = 10
+	"Zein #0" = 10
+	"Imad ad-Din #0" = 10
+	"Zainal Abidin #0" = 10
+	"Sankilang #0" = 10
+	"Abd al-Hadi #0" = 10
+	"Abd al-Khalik #0" = 10
+	"Limbangparang #0" = 10
+	
+	"Cinta #0" = -1
+	"Wangi #0" = -1
+}
+
+ship_names = {
+	Bula Bula Lompo Sallo Karaeng Bambang
+	Sipuru Doe Yio Tena Tabe Apa Lakeko Battu Keko.
+}

@@ -1,0 +1,32 @@
+government = republic
+set_legacy_government = constitutional_republic
+technology_group = western
+primary_culture = american
+religion = protestant
+capital = 952	# New York
+add_historical_rival = USA
+
+1861.2.4  = {
+	monarch = {
+		name = "Howell Cobb"
+		birth_date = 1815.9.7
+		adm = 3	
+		dip = 2	
+		mil = 4
+	}
+}
+
+1861.2.4  = { leader = {	name = "Robert Lee"     	type = general	fire = 4	shock = 4	manuever = 4	siege = 1 death_date = 1865.4.12 } }
+1861.2.4  = { leader = {	name = "Pierre de Beauregard"     	type = general	fire = 2	shock = 1	manuever = 2	siege = 0 death_date = 1865.4.12 } }
+1861.2.4  = { leader = {	name = "Joseph Johnston"     	type = general	fire = 1	shock = 2	manuever = 3	siege = 0 death_date = 1865.4.12 } }
+1861.2.4  = { leader = {	name = "Braxton Bragg"     	type = general	fire = 2	shock = 2	manuever = 2	siege = 0 death_date = 1865.4.12 } }
+
+1861.2.18  = {
+	monarch = {
+		name = "Jefferson Davis"
+		birth_date = 1808.6.3
+		adm = 1	
+		dip = 2
+		mil = 3
+	}
+}

@@ -1,0 +1,59 @@
+government = monarchy
+
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+primary_culture = byelorussian
+religion = orthodox
+capital = 3689 # Kleck
+
+1127.1.1 = {
+	monarch = {
+		name = "Vyacheslav Yaroslavich"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1142.1.1 = {
+	monarch = {
+		name = "Svyatoslav Olgovich"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1149.1.1 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1309.1.1 = {
+	monarch = {
+		name = "Fyodor Fyodorovich" # The princes are unknown at 1309, and Grabchev does not want to make a union. )
+		dynasty = "Rurikovich"
+		birth_date = 1270.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1326.1.1 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}

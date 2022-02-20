@@ -1,0 +1,127 @@
+#Country Name: Seeee the Name of this File.
+
+graphical_culture = westerngfx
+
+color = { 2 150 198 }
+
+revolutionary_colors = { 13  8  5 }
+
+historical_idea_groups = {
+	administrative_ideas
+	trade_ideas
+	defensive_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+	offensive_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Johann #3" = 80
+	"Albrecht #4" = 60
+	"Henry #3" = 40
+	"Magnus #1" = 40
+	"Ulrich #1" = 40
+	"Christian Ludwig #0" = 40
+	"Friedrich #0" = 40
+	"Johann Albrecht #0" = 40
+	"Adolf Friedrich #0" = 20
+	"Friedrich Franz #0" = 20
+	"Friedrich Wilhelm #0" = 20
+	"Karl Leopold #0" = 20
+	"Sigismund August #0" = 20
+	"Erich #0" = 15
+	"Friedrich Ludwig #0" = 15
+	"Johann Georg #0" = 15
+	"Karl #0" = 15
+	"Ludwig #0" = 15
+	"Adolf #0" = 10
+	"Adolf Ernest #0" = 10
+	"Balthazar #0" = 10
+	"Bernhard Sigismund #0" = 10
+	"Christoph #0" = 10
+	"George #0" = 10
+	"Gustav #0 Wilhelm" = 10
+	"Gustav #0 Rudolph" = 10
+	"Heinrich William #0" = 10
+	"Philippe Ludwig #0" = 10
+	"Adalbert #0" = 0
+	"Barnabas #0" = 0
+	"Diderik #0" = 0
+	"Erwin #0" = 0
+	"Hagan #0" = 0
+	"Jeremiah #0" = 0
+	"Joseph #0" = 0
+	"Kurt #0" = 0
+	"Markus #0" = 0
+	"Niklas #0" = 0
+	"Reinhardt #0" = 0
+	"Victor #0" = 0
+	
+	"Evelyn #0" = -1
+	"Hannerlora #0" = -1
+	"Irma #0" = -1
+}
+
+leader_names = {
+	"Jacobs"
+	"Mainke"
+	"Rajnik"
+	"Shlin"
+	"Wacker"
+	"Busekke"
+	"Busakker"
+	"Gesiter"
+	"Gotan"
+	"Yauert"
+	"Clutt"
+	"Laudanne"
+	"Niemann"
+	"Punk"
+	"Poreppe"
+	"Sass"
+	"Schultz"
+	"Schur"
+	"Zeeland"
+	"Steinkopp"
+	"Thees"
+	"Varnke"
+	"Wilke"
+	"Schlichting"
+}
+
+ship_names = {
+	"Meckelenborg"
+	"Fürst Borwin"
+	"Fürst Nicolaus"
+	"Duke Albrecht"
+	"Duke Heinrich"
+	"Duke Magnus"
+	"Duke Erich"
+	"Duke Balthazar"
+	"Duke Charles"
+	"Duke Adolf Friedrich"
+	"Duke Johann Georg"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$" 
+}

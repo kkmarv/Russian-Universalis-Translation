@@ -1,0 +1,115 @@
+#Country Name: Please see filenamew
+
+graphical_culture = westerngfx
+color = { 0  102  51 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	maritime_ideas
+	offensive_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+monarch_names = {
+	"Cosimo #0" = 60
+	"Ferdinando #0" = 60
+	"Francesco #0" = 60
+	"Lodovico #2" = 40
+	"Carl #4 Emmanuel" = 20
+	"Carl #4 Felice" = 20
+	"Lodovico #2 Maria" = 20
+	"Alessandre #0" = 20
+	"Francesco #0 Stefano" = 20
+	"Galeazzo Maria #0" = 20
+	"Gian Galeazzo #0" = 20
+	"Jean Gastone #0" = 20
+	"Massimiliano #0" = 20
+	"Napoleon #0" = 20
+	"Pietro Leopoldo #0" = 20
+	"Victor Amadeus #0" = 20
+	"Karl #4" = 10
+	"Antonio #0" = 10
+	"Hermes #0" = 10
+	"Eugenio #0" = 10
+	"Filippo #0" = 10
+	"Giancarlo #0" = 10
+	"Giovanni #0 Maria" = 10
+	"Pietro #0" = 10
+	"Alberto #1" = 5
+	"Rodolfo #1" = 5
+	"Ascanio Maria #0" = 5
+	"Augusto #0" = 5
+	"Benedetto #0" = 5
+	"Emmanuel Filibert. #0" = 5
+	"Filippo #0 Maria" = 5
+	"Giovanni #0" = 5
+	"Giuseppe #0" = 5
+	"Leopoldo #0" = 5
+	"Matteo #0" = 5
+	"Maurizio #0" = 5
+	"Ottaviano #0" = 5
+	"Rainiero #0" = 5
+	"Sforza Maria #0" = 5
+	"Agostino #0" = 0
+	"Constanzo #0" = 0
+	"Demetrio #0" = 0
+	"Fabio #0" = 0
+	"Giordano #0" = 0
+	"Isido #0" = 0
+	"Niccolo #0" = 0
+	"Paolo #0" = 0
+	"Romeo #0" = 0
+	"Severino #0" = 0
+	"Vittorio #0" = 0
+	
+	"Viola #0" = -1
+	"Zaira #0" = -1
+	"Angelica #0" = -1
+}
+
+leader_names = {
+	"d'Appiani d'Aragona" "Aborio Mella"
+	"Barberini" "Bartzalie" "Boncompany" "Borghese" "Borromeo" "Buonarroti" "di Busca"
+	"di Campofregoso" "Carafa" "di Cardé" "del Carreto" "Casanova" "Castaña"
+	"Castagnaro" "di Cavour" "Kigi" "Column" "Kontarini" "Conti" "Corsini" "Kibo" 
+	"Doria di Chirie" "Doria-Landi" "Doria-Pamphili"
+	"d'Este" "di Farnese" "di Ferrari"
+	"Gaetani della Aquila" "Galileo" "Gambacorte" "Gentileski" "Giustiniani" "Gonzaga" "Grimaldi"
+	"Ludovisi" "Malaspina" "Di Medici" "Melzi" "Montefeltro" "Orsini"
+	"di Paesana" "Paleologist Monferrato" "Pallavicini" "Paradisy" "Petrucci" "Pico" "Pignatelli"
+	"della Rosa" "della rovere"
+	"di Saluzzo" "di Savoie" "Sfondrati" "Sforza" "Spinola"
+	"della Torre" "della Ubaldini" "Vico" "Visconti"
+}
+
+ship_names = {
+	"Medea" "Vulcano" "Gloria" "Minerva" "Laatea"
+	"Diligenza" "Vittoria" "Eolo" "Concordia" "Fortza" 
+	"Fama" "Serena" "Falcon" "Ercole" "Idra" "San Andrea"
+	"San Jaccaria" "San Spiridon" "San Gaetano"
+	"Fortune Guerrier" "Terror" "Aquilaine" "Constanta"
+	"Regina del Mar" "San Nicolo" "Nettuno" "Rosa"
+	"Fenice" "Irida" "Aurora" "Tiger" "Jove" "Rizzo d'Oro"
+	"Amazzone Guerriere"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$"
+}

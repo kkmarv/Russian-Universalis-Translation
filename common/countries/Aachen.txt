@@ -1,0 +1,119 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 157  51  167 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	trade_ideas	
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Friedrich #0" = 100
+	"Ludwig #2" = 80
+	"Ruprecht #2" = 20
+	"Johann Wilhelm #0" = 20
+	"Karl #0" = 20
+	"Carl #0 Ludwig" = 20
+	"Carl #0 Phillip" = 20
+	"Carl #0 Theodore" = 20
+	"Otto Heinrich #0" = 20
+	"Philippe #0" = 20
+	"Philippe Wilhelm #0" = 20
+	"Henry #6 Friedrich" = 15
+	"Alexander Sigmund #0" = 15
+	"Friedrich #0 Philip" = 15
+	"Johann Friedrich #0" = 15
+	"Ludwig Anton #0" = 15
+	"Ludwig Philippe #0" = 15
+	"Herman #3 Ludwig" = 10
+	"William #1" = 10
+	"Albrecht #0" = 10
+	"Christoph #0" = 10
+	"Edward #0" = 10
+	"Franz Ludwig #0" = 10
+	"Friedrich #0 Wilhelm" = 10
+	"George #0" = 10
+	"Gustav Adolf #0" = 10
+	"Johannes Casimir #0" = 10
+	"Ludwig Wilhelm #0" = 10
+	"Moritz #0" = 10
+	"Moritz Christian #0" = 10
+	"Richard #0" = 10
+	"Wolfgangen George #0" = 10
+	"Gottfried #1" = 5
+	"Bruno #0" = 0
+	"Gottschalk #0" = 0
+	"Hieronymus #0" = 0
+	"Ignatz #0" = 0
+	"Markus #0" = 0
+	"Raphael #0" = 0
+	"Readiger #0" = 0
+
+    "Aleida #0" = -1
+	"Cordula #0" = -1
+	"Gundula #0" = -1
+}
+
+leader_names = {
+	"Blittersdorf"
+	"von Gelnhausen"
+	"von Schöneck"
+	"von Diblieh"
+	"Cologne"
+	"Bensenrede"
+	"Adenau"
+	"Gruithausen"
+	"Hohenfeld"
+	"von Namedie"
+	"Falkenberg"
+	"von Clausbrach"
+	"Hillensberg"
+	"Dammershidt"
+	"Elmpt"
+	"Naxled"
+	"Shaloin"
+	"von Leyen"
+	"Ansemburg"
+	"Zebnitz"
+}
+
+ship_names = {
+	"Neustadt" "Kaiserslauten" "Elmstein" "Landstool"
+	"Rodt" "Didesheim" "Hohspeyer" "Neukirchen"
+	"Wolfstein" "Winnweiler"
+}
+
+
+army_names = {
+	"Provincial Army. $PROVINCE$" 
+}
+
+fleet_names = {
+	"People's Navy"
+}

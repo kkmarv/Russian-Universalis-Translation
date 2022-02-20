@@ -1,0 +1,676 @@
+government = republic
+add_government_reform = oligarchy_reform ### STT
+government_rank = 1
+primary_culture = lombard
+religion = catholic
+technology_group = western
+capital = 104 # Milano
+fixed_capital = 104 # Cannot move capital away from this province & no power cost to move to it
+add_army_professionalism = 0.05
+
+1310.1.1 = { elector = yes } #Multiplayer balans
+1310.1.2 = { elector = no } #Multiplayer balans
+
+1197.1.1 = {
+	monarch = {
+		name = "Pagano I"
+		dynasty = "della Torre"
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+}
+
+1240.1.1 = {
+	monarch = {
+		name = "Pagano II"
+		dynasty = "della Torre"
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+1247.1.1 = {
+	monarch = {
+		name = "Manfredi"
+		dynasty = "Lancia"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1256.1.1 = {
+	monarch = {
+		name = "Pagano II"
+		dynasty = "della Torre"
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+1259.1.1 = {
+	monarch = {
+		name = "Martino"
+		dynasty = "della Torre"
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}
+
+1259.1.1 = {
+	monarch = {
+		name = "Oberto"
+		dynasty = "Pallavicino"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1263.11.20 = {
+	monarch = {
+		name = "Filippo"
+		dynasty = "della Torre"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+1265.12.24 = {
+	monarch = {
+		name = "Napoleone"
+		dynasty = "della Torre"
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+}
+
+1277.1.21 = {
+	monarch = {
+		name = "Otto"
+		dynasty = "Visconti"
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+}
+
+1295.8.8 = {
+	monarch = {
+		name = "Matteo I"
+		dynasty = "Visconti"
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+}
+
+1302.6.1 = {
+	monarch = {
+		name = "Guido"
+		dynasty = "della Torre"
+		birth_date = 1259.9.27
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+}
+
+1311.2.1 = {
+	monarch = {
+		name = "Matteo I"
+		dynasty = "Visconti"
+		birth_date = 1250.8.15
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+}
+
+1322.6.24 = {
+	monarch = {
+		name = "Galeazzo I"
+		dynasty = "Visconti"
+		birth_date = 1277.1.21
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}
+
+1328.8.6 = {
+	monarch = {
+		name = "Azzone"
+		dynasty = "Visconti"
+		birth_date = 1302.12.7
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1339.8.16 = {
+	monarch = {
+		name = "Luchino"
+		dynasty = "Visconti"
+		birth_date = 1287.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+1349.1.24 = {
+	monarch = {
+		name = "Giovanni"
+		dynasty = "Visconti"
+		birth_date = 1290.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1354.10.5 = {
+	monarch = {
+		name = "Galeazzo II"
+		dynasty = "Visconti"
+		birth_date = 1320.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+}
+
+1378.8.4 = {
+	monarch = {
+		name = "Bernabo"
+		dynasty = "Visconti"
+		birth_date = 1323.1.1
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+}
+
+1385.12.18 = {
+	monarch = {
+		name = "Gian Galeazzo"
+		dynasty = "Visconti"
+		birth_date = 1347.11.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1395.5.1 = {
+    government = monarchy
+add_government_reform = feudalism_reform
+}
+
+1395.5.1 = {
+	heir = {
+		name = "Gian Maria"
+		monarch_name = "Gian Maria"
+		dynasty = "Visconti"
+		birth_date = 1392.9.3
+		death_date = 1412.5.16
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1402.9.3 = {
+	monarch = {
+		name = "Gian Maria"
+		dynasty = "Visconti"
+		birth_date = 1388.9.7
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1402.9.3 = {
+	heir = {
+		name = "Filippo Maria"
+		monarch_name = "Filippo Maria"
+		dynasty = "Visconti"
+		birth_date = 1392.9.23
+		death_date = 1447.8.13
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1408.7.1 = {
+	queen = {
+		country_of_origin = PAP #Rimini, Romagna province
+		name = "Antonia"
+		dynasty = "Malatesta" #di Cesena
+		birth_date = 1390.1.1
+		death_date = 1450.1.1
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1412.5.16 = {
+	monarch = {
+		name = "Filippo Maria"
+		dynasty = "Visconti"
+		birth_date = 1392.9.3
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+1412.7.24 = {
+	queen = {
+		country_of_origin = SAV #Ventimiglia, Albenga/Nizza province
+		name = "Beatrice"
+		dynasty = "Lascaris"
+		birth_date = 1372.1.1
+		death_date = 1418.9.13
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1418.1.1 = { leader = {	 name = "Carmagnola"     	type = general	fire = 4	shock = 5	manuever = 5	siege = 1	death_date = 1432.5.5 } }
+
+1427.12.2 = {
+	queen = {
+		country_of_origin = SAV 
+		name = "Maria"
+		dynasty = "di Savoie"
+		birth_date = 1411.1.1
+		death_date = 1469.2.22
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1447.8.13 = { government = republic
+	add_government_reform = ambrosian_republic } # The Ambrosian Republic
+
+1447.8.13 = {
+    government = republic
+	add_government_reform = ambrosian_republic # Ambrosian Republic
+	monarch = {
+		name = "Golden Ambrosian Republic"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1450.3.27 = { government = monarchy
+add_government_reform = feudalism_reform }
+
+1450.3.27 = {
+	monarch = {
+		name = "Francesco I"
+		dynasty = "Sforza"
+		birth_date = 1401.6.23
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1450.3.27 = {
+	heir = {
+		name = "Galeazzo Maria"
+		monarch_name = "Galeazzo Maria"
+		dynasty = "Sforza"
+		birth_date = 1444.1.24
+		death_date = 1476.12.26
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+}
+
+1466.3.7 = {
+	monarch = {
+		name = "Galeazzo Maria"
+		dynasty = "Sforza"
+		birth_date = 1444.1.24
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+}
+
+1469.6.20 = {
+	heir = {
+		name = "Gian Galeazzo"
+		monarch_name = "Gian Galeazzo"
+		dynasty = "Sforza"
+		birth_date = 1469.6.20
+		death_date = 1494.10.21
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1476.12.27 = {
+	monarch = {
+		name = "Gian Galeazzo"
+		dynasty = "Sforza"
+		birth_date = 1469.6.20
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1476.12.27 = {
+	heir = {
+		name = "Maria Lodovico"
+		monarch_name = "Maria Lodovico"
+		dynasty = "Sforza"
+		birth_date = 1452.7.27
+		death_date = 1508.5.27
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 4
+		leader = { name = "Maria Lodovico"       	type = general	fire = 3	shock = 2	manuever = 3	siege = 1}
+	}
+}
+
+1494.10.23 = {
+	monarch = {
+		name = "Maria Lodovico"
+		dynasty = "Sforza"
+		birth_date = 1452.7.27
+		adm = 5
+		dip = 5
+		mil = 4
+		leader = { name = "Maria Lodovico"       	type = general	fire = 3	shock = 2	manuever = 3	siege = 1}
+	}
+}
+
+1494.10.23 = {
+	heir = {
+		name = "Massimiliano"
+		monarch_name = "Massimiliano"
+		dynasty = "Sforza"
+		birth_date = 1493.1.1
+		death_date = 1530.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 1
+		leader = { name = "Massimiliano Sforza"       	type = general	fire = 1	shock = 1	manuever = 2	siege = 0 }
+	}	
+}
+
+1499.9.6 = {
+	monarch = {
+		name = "Ludovic XII"
+		dynasty = "de Valois"
+		birth_date = 1462.6.27
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1500.2.5 = {
+	monarch = {
+		name = "Maria Lodovico"
+		dynasty = "Sforza"
+		birth_date = 1452.7.27
+		adm = 5
+		dip = 5
+		mil = 4
+		leader = { name = "Maria Lodovico"       	type = general	fire = 3	shock = 2	manuever = 3	siege = 1}
+	}
+}
+
+1500.2.5 = {
+	heir = {
+		name = "Massimiliano"
+		monarch_name = "Massimiliano"
+		dynasty = "Sforza"
+		birth_date = 1493.1.1
+		death_date = 1530.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 1
+		leader = { name = "Massimiliano Sforza"       	type = general	fire = 1	shock = 1	manuever = 2	siege = 0 }
+	}	
+}
+
+1500.4.10 = {
+	monarch = {
+		name = "Ludovic XII"
+		dynasty = "de Valois"
+		birth_date = 1462.6.27
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1512.6.16 = {
+	monarch = {
+		name = "Massimiliano"
+		dynasty = "Sforza"
+		birth_date = 1493.1.25
+		adm = 2
+		dip = 4
+		mil = 1
+		leader = { name = "Massimiliano Sforza"       	type = general	fire = 1	shock = 1	manuever = 2	siege = 0 }
+	}
+}
+
+1512.6.16 = {
+	heir = {
+		name = "Francesco Maria"
+		monarch_name = "Francesco II Maria"
+		dynasty = "Sforza"
+		birth_date = 1495.2.4
+		death_date = 1535.10.24
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 1
+		leader = { name = "Francesco Maria Sforza"       	type = general	fire = 1	shock = 1	manuever = 2	siege = 0 }
+	}	
+}
+
+1515.10.8 = {
+	monarch = {
+		name = "Francis I"
+		dynasty = "de Valois"
+		birth_date = 1494.9.12
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+1521.11.19 = {
+	monarch = {
+		name = "Francesco II Maria"
+		birth_date = 1495.2.4
+		dynasty = "Sforza"
+		adm = 4
+		dip = 2
+		mil = 1
+		leader = { name = "Francesco Maria Sforza"       	type = general	fire = 1	shock = 1	manuever = 2	siege = 0 }
+	}
+}
+
+1521.11.19 = {
+	heir = {
+		name = "Giovanni Paolo"
+		monarch_name = "Giovanni Paolo"
+		dynasty = "Sforza"
+		birth_date = 1497.3.1
+		death_date = 1535.12.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 2
+	}	
+}
+
+1524.10.3 = {
+	monarch = {
+		name = "Francis I"
+		dynasty = "de Valois"
+		birth_date = 1494.9.12
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+1525.2.24 = {
+	monarch = {
+		name = "Francesco II Maria"
+		birth_date = 1495.2.4
+		dynasty = "Sforza"
+		adm = 4
+		dip = 2
+		mil = 1
+		leader = { name = "Francesco Maria Sforza"       	type = general	fire = 1	shock = 1	manuever = 2	siege = 0 }
+	}
+}
+
+1525.2.24 = {
+	heir = {
+		name = "Giovanni Paolo"
+		monarch_name = "Giovanni Paolo"
+		dynasty = "Sforza"
+		birth_date = 1497.3.1
+		death_date = 1535.12.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 2
+	}	
+}
+
+1535.1.1 = { leader = {	 name = "Marquis del Vasto"     	type = general	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1546.3.31 } }
+
+1535.10.24 = {
+	monarch = {
+		name = "Giovanni Paolo"
+		birth_date = 1497.3.1
+		dynasty = "Sforza"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1535.10.24 = {
+	heir = {
+		name = "Muzio"
+		monarch_name = "Muzio"
+		dynasty = "Sforza"
+		birth_date = 1531.1.1
+		death_date = 1553.11.23
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 1
+	}	
+}
+
+1535.12.1 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+
+1796.11.15 = { government = republic
+set_legacy_government = constitutional_republic }
+
+1796.11.15 = {
+	monarch = {
+		name = "Transpadan region"
+		adm = 3
+		dip = 4
+		mil = 1
+		regent = yes
+	}
+}
+
+1797.6.29 = {
+	monarch = {
+		name = "Cisalpine republic"
+		adm = 3
+		dip = 4
+		mil = 1
+		regent = yes
+	}
+}
+
+1799.4.29 = {
+    government = monarchy
+add_government_reform = feudalism_reform
+	monarch = {
+		name = "Franz II"
+		dynasty = "von Habsburg Lorraine"
+		birth_date = 1768.2.12
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1800.4.29 = {
+    government = republic
+set_legacy_government = constitutional_republic
+	monarch = {
+		name = "Italian Republic"
+		adm = 3
+		dip = 4
+		mil = 2
+		regent = yes
+	}
+}
+
+1805.3.18 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

@@ -1,0 +1,224 @@
+government = monarchy
+
+add_government_reform = principality
+technology_group = eastern
+government_rank = 1
+religion = orthodox
+primary_culture = ruthenian
+capital = 261	# Volhynia
+
+1199.1.1 = {
+	monarch = {
+		name = "Roman"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1205.6.19 = {
+	monarch = {
+		name = "Daniel"
+		dynasty = "Rurikovich"
+		birth_date = 1201.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1254.1.1 = {
+government_rank = 2
+}
+
+1264.1.1 = {
+	monarch = {
+		name = "Schwarten"
+		dynasty = "Rurikovich"
+		birth_date = 1230.1.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1269.1.1 = {
+	monarch = {
+		name = "Leo I"
+		dynasty = "Romanovich"
+		birth_date = 1228.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+1301.1.1 = {
+	monarch = {
+		name = "Yuri I"
+		dynasty = "Romanovich"
+		birth_date = 1252.4.24
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1308.3.18 = {
+	monarch = {
+		name = "Leo and Andrey"
+		monarch_name = "Leo and Andrey"
+		dynasty = "Romanovichi"
+		birth_date = 1275.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1308.3.18 = {
+	heir = {
+		name = "Vladimir"
+		monarch_name = "Vladimir"
+		dynasty = "Romanovich"
+		birth_date = 1305.1.1
+		death_date = 1340.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1323.1.1 = {
+	monarch = {
+		name = "Vladimir"
+		dynasty = "Romanovich"
+		birth_date = 1305.1.1
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1323.1.1 = {
+	religion = catholic
+	monarch = {
+		name = "Yuri II Boleslav"
+		dynasty = "Piast"
+		birth_date = 1308.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1340.3.21 = {
+	religion = orthodox
+	monarch = {
+		name = "Lubart"
+		dynasty = "Gediminovich"
+		birth_date = 1299.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1349.1.1 = {
+	government_rank = 1
+}
+
+1351.1.1 = {
+	heir = {
+		name = "Feodor"
+		monarch_name = "Feodor"
+		dynasty = "Gediminovich"
+		birth_date = 1351.1.1
+		death_date = 1431.6.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1366.1.1 = {
+	monarch = {
+		name = "Alexander"
+		dynasty = "Koriatovic"
+		birth_date = 1310.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1370.1.1 = {
+	monarch = {
+		name = "Lubart"
+		dynasty = "Gediminovich"
+		birth_date = 1299.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1370.1.1 = {
+	heir = {
+		name = "Feodor"
+		monarch_name = "Feodor"
+		dynasty = "Gediminovich"
+		birth_date = 1351.1.1
+		death_date = 1431.6.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1376.10.29 = {
+	government_rank = 2
+}
+
+1377.1.1 = {
+	government_rank = 1
+}
+
+1383.8.4 = {
+	monarch = {
+		name = "Feodor"
+		dynasty = "Gediminovich"
+		birth_date = 1351.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1431.6.1 = {
+	monarch = {
+		name = "Svidrigailo"
+		dynasty = Gediminovich
+		birth_date = 1370.1.1
+		death_date = 1452.2.10
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1452.2.10 = {
+	monarch = {
+		name = "(Vacant)"
+		dynasty = "Gediminovich"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

@@ -1,0 +1,24 @@
+name = "ѓреческаЯ independence war"
+war_goal = {
+	type = defend_capital_independence
+	casus_belli = cb_independence_war
+}
+
+
+1821.3.25 = {
+	add_attacker = GRE
+	add_defender = TUR
+
+}
+
+1827.10.20 = {
+    add_attacker = RFC
+	add_attacker = GBR
+}	
+
+1830.2.3 = {
+	rem_attacker = GRE
+	rem_attacker = RFC	
+	rem_attacker = GBR
+	rem_defender = TUR
+}

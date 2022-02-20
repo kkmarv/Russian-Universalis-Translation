@@ -1,0 +1,686 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = hessian
+religion = catholic
+technology_group = western
+capital = 94	# Luxembourg
+fixed_capital = 94 # Cannot move capital away from this province & no power cost to move to it
+
+963.1.1 = {
+	monarch = {
+		name = "Siegfried I"
+		dynasty = "Vigerichid"
+		birth_date = 919.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+998.10.28 = {
+	monarch = {
+		name = "Henry I"
+		dynasty = "Vigerichid"
+		birth_date = 960.1.1
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+1026.2.27 = {
+	monarch = {
+		name = "Henry II"
+		dynasty = "Vigerichid"
+		birth_date = 1005.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1047.10.14 = {
+	monarch = {
+		name = "Gilbert"
+		dynasty = "Vigerichid"
+		birth_date = 1007.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1056.8.14 = {
+	monarch = {
+		name = "Conrad I"
+		dynasty = "Vigerichid"
+		birth_date = 1040.1.1
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+1086.8.8 = {
+	monarch = {
+		name = "Henry III"
+		dynasty = "Vigerichid"
+		birth_date = 1070.1.1
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+}
+
+1096.1.1 = {
+	monarch = {
+		name = "William I"
+		dynasty = "Vigerichid"
+		birth_date = 1070.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1129.1.1 = {
+	monarch = {
+		name = "Conrad II"
+		dynasty = "Vigerichid"
+		birth_date = 1105.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1136.1.1 = {
+	monarch = {
+		name = "Henry IV"
+		dynasty = "de Namur"
+		birth_date = 1111.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1196.8.14 = {
+	monarch = {
+		name = "Otto I"
+		dynasty = "von Hohenstaufen"
+		birth_date = 1171.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1197.1.1 = {
+	monarch = {
+		name = "Ermesinda"
+		dynasty = "de Namur"
+		birth_date = 1186.7.1
+		adm = 1
+		dip = 5
+		mil = 1
+		female = yes
+	}
+}
+
+1197.6.1 = {
+	monarch = {
+		name = "Thibao I"
+		dynasty = "de Montbéliard"
+		birth_date = 1158.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1214.2.13 = {
+	monarch = {
+		name = "Ermesinda"
+		dynasty = "de Namur"
+		birth_date = 1186.7.1
+		adm = 1
+		dip = 5
+		mil = 1
+		female = yes
+	}
+}
+
+1214.6.27 = {
+	monarch = {
+		name = "Valéran I"
+		dynasty = "von Limburg"
+		birth_date = 1158.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1226.7.2 = {
+	monarch = {
+		name = "Ermesinda"
+		dynasty = "de Namur"
+		birth_date = 1186.7.1
+		adm = 1
+		dip = 5
+		mil = 1
+		female = yes
+	}
+}
+
+1247.2.12 = {
+	monarch = {
+		name = "Henry V"
+		dynasty = "von Limburg"
+		birth_date = 1217.1.1
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1281.12.24 = {
+	monarch = {
+		name = "Henry VI"
+		dynasty = "von Limburg"
+		birth_date = 1250.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1288.6.5 = {
+	monarch = {
+		name = "Henry VII"
+		dynasty = "von Luxemburg"
+		birth_date = 1275.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1310.8.31 = {
+	monarch = {
+		name = "Johann I the Blind"
+		dynasty = "von Luxemburg"
+		birth_date = 1296.8.10
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1346.8.26 = {
+	monarch = {
+		name = "Karl IV"
+		dynasty = "von Luxemburg"
+		birth_date = 1316.5.14
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+
+1354.3.13 = {
+	monarch = {
+		name = "Wenzel I"
+		dynasty = "von Luxemburg"
+		birth_date = 1337.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+
+
+1383.12.7 = {
+	monarch = {
+		name = "Wenzel II"
+		dynasty = "von Luxemburg"
+		birth_date = 1361.2.26
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1388.1.1 = {
+	monarch = {
+		name = "Jost I"
+		dynasty = "von Luxemburg"
+		birth_date = 1351.1.29
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1390.11.1 = {
+	heir = {
+		name = "Elizabeth"
+		monarch_name = "Elizabeth von Görlitz"
+		dynasty = "von Luxemburg"
+		birth_date = 1390.11.1
+		death_date = 1451.8.3
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+		female = yes
+	}
+}
+
+1402.1.1 = {
+	monarch = {
+		name = "Ludovic I"
+		dynasty = "de Valois Orleans"
+		birth_date = 1373.3.13
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1407.11.23 = {
+	monarch = {
+		name = "Jost I"
+		dynasty = "von Luxemburg"
+		birth_date = 1351.1.29
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1407.11.23 = {
+	heir = {
+		name = "Elizabeth"
+		monarch_name = "Elizabeth von Görlitz"
+		dynasty = "von Luxemburg"
+		birth_date = 1390.11.1
+		death_date = 1451.8.3
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+		female = yes
+	}
+}
+
+1411.1.18 = {
+	monarch = {
+		name = "Elizabeth von Görlitz"
+		dynasty = "von Luxemburg"
+		birth_date = 1390.11.1
+		adm = 2
+		dip = 2
+		mil = 1
+		female = yes
+	}
+}
+
+1442.12.9 = {
+	monarch = {
+		name = "Phillip I Kind"
+		dynasty = "de Valois-Bourgogne"
+		birth_date = 1396.7.31
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1467.12.9 = {
+	monarch = {
+		name = "Karl the Bold"
+		dynasty = "de Valois-Bourgogne"
+		birth_date = 1433.11.10
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+}
+
+1477.1.6 = {
+	monarch = {
+		name = "Maria I"
+		dynasty = "de Valois"
+		birth_date = 1457.2.13
+		adm = 3
+		dip = 4
+		mil = 2
+		female = yes
+	}
+}
+
+1482.3.27 = {
+	monarch = {
+		name = "Philippe II"
+		dynasty = "von Habsburg"
+		birth_date = 1478.7.22
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1506.9.25 = {
+	monarch = {
+		name = "Karl II"
+		dynasty = "von Habsburg"
+		birth_date = 1500.2.24
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+1556.1.16 = {
+	monarch = {
+		name = "Philippe III"
+		dynasty = "von Habsburg"
+		birth_date = 1527.5.21
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1598.3.31 = {
+	monarch = {
+		name = "Isabella Clara Eugenia"
+		dynasty = "von Habsburg"
+		birth_date = 1566.8.13
+		adm = 1
+		dip = 1
+		mil = 1
+		female = yes
+	}
+}
+
+1621.3.31 = {
+	monarch = {
+		name = "Philippe IV"
+		dynasty = "von Habsburg"
+		birth_date = 1578.4.14
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1665.9.17 = {
+	monarch = {
+		name = "Karl III"
+		dynasty = "von Habsburg"
+		birth_date = 1661.11.6
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1700.11.1 = {
+	monarch = {
+		name = "Karl IV"
+		dynasty = "von Habsburg"
+		birth_date = 1685.10.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1740.10.22 = {
+	monarch = {
+		name = "Maria Theresia"
+		dynasty = "von Habsburg"
+		birth_date = 1717.5.13
+		adm = 5
+		dip = 5
+		mil = 4
+		female = yes
+	}
+}
+
+1780.11.30 = {
+	monarch = {
+		name = "Joseph I"
+		dynasty = "von Habsburg Lorraine"
+		birth_date = 1741.3.13
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+}
+
+1790.2.20 = {
+	monarch = {
+		name = "Leopold I"
+		dynasty = "von Habsburg Lorraine"
+		birth_date = 1747.5.5
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1792.3.3 = {
+	monarch = {
+		name = "Franz I"
+		dynasty = "von Habsburg Lorraine"
+		birth_date = 1768.2.12
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1815.6.9 = {
+	monarch = {
+		name = "William I"
+		dynasty = "van Oranier-Nassau"
+        birth_date = 1772.8.24
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1840.10.7 = {
+	monarch = {
+		name = "William II"
+		dynasty = "van Oranier-Nassau"
+		birth_date = 1792.12.6
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+}
+
+1849.3.17 = {
+	monarch = {
+		name = "William III"
+		dynasty = "van Oranier-Nassau"
+		birth_date = 1817.2.19
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+}
+
+1849.3.17 = {
+	monarch = {
+		name = "William III"
+		dynasty = "van Oranier-Nassau"
+		birth_date = 1817.2.19
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+}
+
+1890.11.23 = {
+	monarch = {
+		name = "Adolf I"
+		dynasty = "von Nassau-Weilburg"
+		birth_date = 1817.7.24
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+}
+
+1890.11.23 = {
+	heir = {
+		name = "William"
+		monarch_name = "William IV"
+		dynasty = "von Nassau-Weilburg"
+		birth_date = 1852.4.22
+		death_date = 1912.2.25
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1905.11.17 = {
+	monarch = {
+		name = "William IV"
+		dynasty = "von Nassau-Weilburg"
+		birth_date = 1852.4.22
+		birth_date = 1852.4.22
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1905.11.17 = {
+	heir = {
+		name = "Maria Adelaide"
+		monarch_name = "Maria Adelaide"
+		dynasty = "von Nassau-Weilburg"
+		birth_date = 1894.6.14
+		death_date = 1924.1.24
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 2
+		female = yes
+	}
+}
+
+1912.2.25 = {
+	monarch = {
+		name = "Maria Adelaide"
+		dynasty = "von Nassau-Weilburg"
+		birth_date = 1894.6.14
+		adm = 5
+		dip = 4
+		mil = 2
+		female = yes
+	}
+}
+
+1912.2.25 = {
+	heir = {
+		name = "Charlotte"
+		monarch_name = "Charlotte"
+		dynasty = "von Nassau-Weilburg"
+		birth_date = 1896.1.23
+		death_date = 1964.11.12
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 5
+		female = yes
+	}
+}
+
+1919.1.14 = {
+	monarch = {
+		name = "Charlotte"
+		dynasty = "von Nassau-Weilburg"
+		birth_date = 1896.1.23
+		adm = 4
+		dip = 3
+		mil = 5
+		female = yes
+	}
+}
+
+1921.1.5 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean I"
+		dynasty = "de Bourbon-Parma"
+		birth_date = 1921.1.5
+		death_date = 2020.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1964.11.12 = {
+	monarch = {
+		name = "Jean I"
+		dynasty = "de Bourbon-Parma"
+		birth_date = 1921.1.5
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1964.11.12 = {
+	heir = {
+		name = "Henri"
+		monarch_name = "Henri I"
+		dynasty = "de Bourbon-Parma"
+		birth_date = 1955.4.16
+		death_date = 2020.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+
+2000.10.7 = {
+	monarch = {
+		name = "Henri I"
+		dynasty = "de Bourbon-Parma"
+		birth_date = 1955.4.16
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+
+2000.10.7 = {
+	heir = {
+		name = "Guillaume"
+		monarch_name = "Guillaume I"
+		dynasty = "de Bourbon-Parma"
+		birth_date = 1981.11.11
+		death_date = 3000.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}

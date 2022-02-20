@@ -1,0 +1,109 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 20 188 131 }
+
+historical_idea_groups = {
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	quantity_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Henry #1" = 40
+	"Johann #1" = 40
+	"Gerhardt #2" = 20
+	"Friedrich #1" = 20
+	"Otto #1" = 20
+	"Baldvin #0" = 20
+	"Christoph #0" = 20
+	"George #0" = 20
+	"Johann Adolf #0" = 20
+	"Johann Friedrich #0" = 20
+	"Nikolaus #0" = 20
+	"Burkhardt #2" = 15
+	"Albrecht #1" = 15
+	"Gottfried #1" = 15
+	"Bernhardt #1" = 10
+	"Florent #1" = 10
+	"Adam #0" = 0
+	"Alexander #0" = 0
+	"Andreas #0" = 0
+	"Baldur #0" = 0
+	"Bruno #0" = 0
+	"Clementz #0" = 0
+	"Denis #0" = 0
+	"Eckhardt #0" = 0
+	"Ernst #0" = 0
+	"Florian #0" = 0
+	"Gregor #0" = 0
+	"Helmfrid #0" = 0
+	"Helmut #0" = 0
+	"Isaac #0" = 0
+	"Yoachim #0" = 0
+	"Jogen #0" = 0
+	"Klaus #0" = 0
+	"Martin #0" = 0
+	"Maximilian #0" = 0
+	"Mikael #0" = 0
+	"Rainer #0" = 0
+	"Rudolph #0" = 0
+	"Siegert #0" = 0
+	"Siegmund #0" = 0
+
+	"Shelma #0" = -1
+	"Ulrike #0" = -1
+	"Barbara #0" = -1
+}
+
+leader_names = { 
+	"Adler" "Ahlers" "Bak" "Becrugge" "Bergius" "Bernighausen" 
+	"Bolken" "Balheim" "Brill" "Delius" "Drewvers" "Engels" "Fike" 
+	"Fukhard" "Gefken" "Guildmeister" "Groverman" "Happah"
+	"Heimbrüch" "Hinke" "Kindt" "Cane" "Krefting" "Laport" "Leuning" 
+	"Meyer" "Olrichs" "Ordemann" "Rainer" "Rhode" "Sanders" "Schulken"
+	"Steinwachs" "Stucken" "Truernitt" "von Bobert" "von Kapelln" 
+	"von Holten" "von Horn" "von Mainerzagen" 
+}
+
+ship_names = {
+	"Roland"
+	"Tagenbar"
+	"Gilbin"
+	"Johann Dove"
+	"Gonorius"
+	"Willehad"
+	"Yever"
+	"Weserville"
+	"Confessor"
+	"Decorated for the festivities"
+	"Furious target"
+	"Anticipation of the arrival of a new lover"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$" 
+}

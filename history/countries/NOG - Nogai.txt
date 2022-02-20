@@ -1,0 +1,283 @@
+government = tribal
+add_government_reform = steppe_horde
+primary_culture = nogaybak
+religion = sunni
+technology_group = nomad_group
+capital = 465	# Saraycik
+
+1392.1.1 = {
+	government_rank = 1
+}
+
+1392.1.1 = {
+	monarch = {
+		name = "Yedigey"
+		dynasty = "Edigeid"
+		birth_date = 1352.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+	add_piety = 0.15
+}
+
+1412.1.1 = {
+	monarch = {
+		name = "Nuraddin"
+		dynasty = "Edigeid"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1419.1.1 = {
+	monarch = {
+		name = "Mansour"
+		dynasty = "Edigeid"
+		adm = 2
+		dip = 3
+		mil = 3
+		leader = { name = "Mansur-Bi"		type = general	fire = 1	shock = 2	manuever = 3	siege = 1 }
+	}
+}
+
+1427.1.1 = {
+	monarch = {
+		name = "Gazi"
+		dynasty = "Edigeid"
+		adm = 1
+		dip = 3
+		mil = 2
+		leader = { name = "Gazi-Bi"		type = general	fire = 2	shock = 1	manuever = 2	siege = 1 }
+	}
+}
+
+1428.1.1 = {
+	monarch = {
+		name = "Wakkas"
+		dynasty = "Edigeid"
+		birth_date = 1400.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1440.1.1 = {
+	heir = {
+		name = "Jorozmi"
+		monarch_name = "Jorozmi"
+		dynasty = "Edigeid"
+		birth_date = 1440.1.1
+		death_date = 1473.1.1
+		claim = 75
+		dip = 3
+		adm = 2
+		mil = 2
+	}
+}
+
+1447.1.1 = {
+	monarch = {
+		name = "Jorozmi"
+		dynasty = "Edigeid"
+		birth_date = 1440.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1473.1.1 = {
+	monarch = {
+		name = "Abbas"
+		dynasty = "Edigeid"
+		birth_date = 1300.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1492.6.1 = {
+	monarch = {
+		name = "Musa"
+		dynasty = "Edigeid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1502.1.1 = {
+	monarch = {
+		name = "Yamgurchi"
+		dynasty = "Edigeid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1504.1.1 = {
+	monarch = {
+		name = "Hassan"
+		dynasty = "Edigeid"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1508.1.1 = {
+	monarch = {
+		name = "Sheikh Mohammed"
+		dynasty = "Edigeid"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1510.1.1 = {
+	monarch = {
+		name = "Alchagir"
+		dynasty = "Edigeid"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1516.1.1 = {
+	monarch = {
+		name = "Sheikh Mohammed"
+		dynasty = "Edigeid"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1521.1.1 = {
+	monarch = {
+		name = "Agish"
+		dynasty = "Edigeid"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1524.1.1 = {
+	monarch = {
+		name = "Sayyid Ahmad"
+		dynasty = "Edigeid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1541.1.1 = {
+	monarch = {
+		name = "Sheikh Mamay"
+		dynasty = "Edigeid"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1549.1.1 = {
+	monarch = {
+		name = "Yusuf"
+		dynasty = "Edigeid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1556.1.1 = {
+	monarch = {
+		name = "Ismayil"
+		dynasty = "Edigeid"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1563.1.1 = {
+	monarch = {
+		name = "Tinechmat"
+		dynasty = "Edigeid"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1578.1.1 = {
+	monarch = {
+		name = "Urus"
+		dynasty = "Edigeid"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1590.1.1 = {
+	monarch = {
+		name = "Uraz Muhammad"
+		dynasty = "Edigeid"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1598.1.1 = {
+	monarch = {
+		name = "Dean Muhammad"
+		dynasty = "Edigeid"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1600.1.1 = {
+	monarch = {
+		name = "Ishteriak"
+		dynasty = "Edigeid"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1619.3.1 = {
+	monarch = {
+		name = "Kanai"
+		dynasty = "Edigeid"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+# Nogai Horde destroyed by Kalmuks in 1634
+
+1635.1.1 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

@@ -1,0 +1,162 @@
+#Gotland
+
+graphical_culture = westerngfx
+
+color = { 191  113  133 }
+
+historical_idea_groups = {
+	maritime_ideas
+	economic_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Johan #0" = 40
+	"Frederick #0" = 40
+	"Chris #0" = 20
+	"Thomas #0" = 40
+	"Henry #0" = 40
+	"Olof #0" = 20
+	"Martin #0" = 20
+	"Petter #0" = 20
+	"Rickard #0" = 20
+	"Henrik #0" = 20
+	"Dan #0" = 20
+	"Danielle #0" = 20
+	"Jonas #0" = 20
+	"Mats #0" = 20
+	"Rufus #0" = 20
+	"Sarah #0" = -20
+	"Linda #0" = -20
+	"Niklas #0" = 40 
+	"David #0" = 20 
+	"Alina #0" = -20
+	"Rickard #0" = 20
+	"Jimmy #0" = 20
+	"Gustav #0" = 20
+	"Carsten #0" = 20 
+	"Carmilla #0" = -10
+	"Marco #0" = 20 
+
+	"Arthur #0" = 5 
+	"Mikael #0" = 5
+	"Dick #0" = 5
+	"Markus #0" = 5
+	"Joakim #0" = 5
+	"Dricus #0" = 5
+	"Timor #0" = 5
+	"Patrick #0" = 5
+	"Pontus #0" = 5
+	"Adam #0" = 5
+	"Victor #0" = 2
+	"Petter #0" = 2
+	"Stefan #0" = 5
+	"Bjorn #0" = 5
+	"Nina #0" = -5
+	"Anna #0" = -5
+	"Matilda #0" = -5
+	"Milla #0" = -5
+	"Adam #0" = 5
+	"Victor #0" = 2
+	"Petter #0" = 2
+	"Stefan #0" = 5
+	"Bjørn #0" = 5
+	"Nina #0" = -5
+}
+
+leader_names = {
+    "Andersson"
+	"Anvard"
+    "Baklund"
+	"Ballantine" 
+    "Bergwist"
+	"Bjork"
+	"Anciental"
+	"Edström"
+	"Eklund"
+	"Erickson"
+	"Foxander"
+	"Feraus"
+	"Glad"
+	Hansson
+	Lagerback
+	Lochmander
+	"Jacobsson"
+	"Johansson"
+	"Johannensson"
+	"Kibi"
+	"King"
+	"Kowalczyk"
+	Lagerback
+	"Lestrim"
+	"Lynde"
+	"Mannetier"
+	"Olsson"
+	"Palmquist"
+	"Runn"
+	"Sarell"
+	"Skoglund"
+	"Syostrum"
+	"Streed"
+	"Tampere"
+	"Toll"
+	Trond
+	"Tulin"
+	"Zetterman"
+	"Eberg"
+	"Aslund"
+	"Virtanen"
+	"Wendel-Urwist"
+	Skoglund
+	Sizstrzm
+	Streed
+	Tampere
+	Tiger
+	Toll
+	Tolman
+	Trond
+	Thulin
+	Zetterman
+	Willberg
+	Eberg
+	Jeslund
+	Virtanen
+	Wendel-Cartqwhist
+}
+
+ship_names = {
+	"Burgsewick"
+	"Diauwick"
+	"Feresund"
+	"Gnisverd"
+	"Clintecham"
+	"Hoburgem"
+	"Kathamra"
+	"Fighting"
+	"Lugarm"
+	"Send ."
+    "Westergan"
+    "Visby"
+}

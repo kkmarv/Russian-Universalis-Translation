@@ -1,0 +1,78 @@
+#Country Name: Please see filename.
+
+graphical_culture = inuitgfx
+
+color = { 238 51 56 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	chinese_longspear
+	eastern_bow
+	chinese_footsoldier
+}
+
+monarch_names = {	
+	"Ayan #0" = 20
+	"Ach-utagyn #0" = 20
+	"Giv-inkeev #0" = 20
+	"Nutenley #0" = 20
+	"Zhirgol Zhurn #0" = 20
+	"Tanat #0" = 20
+	"Darkhan #0" = 20
+	"Dhohsun #0" = 20
+	"Duolan #0" = 20
+	"Digin #0" = 20
+	"Dulustaan #0" = 20
+	"Kiitimei #0" = 20
+	"Kencheri #0" = 20
+	"Keskil #0" = 20
+	"Manchaari #0" = 20
+	"Michil #0" = 20
+	"Modune #0" = 20
+	"Nurgun #0" = 20
+	"Nuolan #0" = 20
+	"Sulustaan #0" = 20
+	"Tolluman #0" = 20
+	"Timir #0" = 20
+	"Ton #0" = 20
+	"Tuskul #0" = 20
+	"Wolan #0" = 20
+	"Ergis #0" = 20
+	"Erchim #0" = 20
+	"Erkin #0" = 20
+	"Irgel #0" = 20
+	"Hariskhan #0" = 1
+	
+	"Naryana #0" = -1
+	"Ayana #0" = -1
+	"Kidaana #0" = -1
+	"Tuskulaana #0" = -1
+	"Haarciana #0" = -1
+}
+
+leader_names = {
+	Garpancha Songolik Timancha Tikulcha Gudeykon
+	Adiul Hadiul Dyalunca Axik Kepele
+	Gugdaul Burgumi Wawa
+	Wade Wanho
+	Eldan Kacheda
+	Kilim Agna
+	Sebeda Saltyk
+	Alvali Aktamak
+}
+
+ship_names = {
+	Kurkyl Ulygheri "Abai Geser" "Alamji Mergen" "Aiduurai Mergen"
+	Ehrensey "Bukhara" "Abai Geser" Dalha Hormuz Erlik
+}
+

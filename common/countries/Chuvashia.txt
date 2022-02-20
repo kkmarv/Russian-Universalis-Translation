@@ -1,0 +1,91 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 33  168  103 }
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	spy_ideas
+	quantity_ideas
+	economic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Almaш #0" = 10	
+	"Asamat #0" = 10	
+	"Ahpalat #0" = 10	
+	"Athaл #0" = 10	
+	"Asamat #0" = 10	
+	"Aslamas #0" = 10	
+	"Entimer #0" = 10	
+	"Canaр #0" = 10	
+	"Кagrass #0" = 10	
+	"Lamun #0" = 10	
+	"Smiles #0" = 10	
+	"Mereke #0" = 10	
+	"Nuhai #0" = 10	
+	"Sarton #0" = 10	
+	"Sar #0" = 10
+	"Turhan #0" = 10
+	"Timeрc #0" = 10
+	"Brand #0" = 10
+	"Хafirth #0" = 10
+	"Chura #0" = 10
+	"Sheacthat #0" = 10
+	"Shang #0" = 10
+	"Avantey #0" = 10
+	"Savannah #0" = 10
+	"Timentey #0" = 10
+	"Tumantey #0" = 10
+	"Mursyanyuk #0" = 10
+	"Mursuk #0" = 10
+	"Sithrukhha #0" = 10
+	
+	"Atpyalha #0" = -1
+	"Haipula #0" = -1
+	"Sarina #0" = -1
+	"Yasmine #0" = -1
+	"Ulka #0" = -1
+	"Marina #0" = -1
+	"Marina #0" = -1
+	"Ukapi #0" = -1
+	"Sahava #0" = -1
+	"Cricket #0" = -1
+	"Shelepi #0" = -1
+}
+
+leader_names = { 
+	Jalil Gubaidulina Nasiri Nakmetdin Nigmat Nurgali
+	Ishaki Marjani Kamai "Kul Gali" Kursawi Tukai 
+	Yusupov "Aurul" "ULaп" "Shakkai" "Carche" "Ctappane"
+}
+
+ship_names = {
+	Kazgan Kazan Suyumbike Kazansu Giasetdin 
+	"Tas Ayak" Alat Arch Harets Cory Nugai
+	Sayet Sayeh Qazi
+}

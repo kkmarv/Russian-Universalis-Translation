@@ -1,0 +1,136 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 89  134  166 } 
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Abdul-Aziz #0" = 20
+	"Abdul-Karim #0" = 20
+	"Abdul-Mamin #0" = 20
+	"Abdul-Rahim #0" = 20
+	"Abdullah #0" = 20
+	"Abu Seid #0" = 20
+	"Abu-l Faizi #0" = 20
+	"Abu-l-Ghazi #0" = 20
+	"Abu-l Hayar #0" = 20
+	"Abu-l Mansour #0" = 20
+	"Agathai #0" = 20
+	"Alim #0" = 20
+	"Anusha #0" = 20
+	"Alim Mohammed #0" = 20
+	"Avanesch #0" = 20
+	"Bahadur #0" = 20
+	"Baht #0" = 20
+	"Baki Muhammad #0" = 20
+	"Buduga #0" = 20
+	"Bureke #0" = 20
+	"Daniel #0" = 20
+	"Jucie #0" = 20
+	"Dost #0" = 20
+	"Habash #0" = 20
+	"Hadji #0" = 20
+	"Haji Muhammad #0" = 20
+	"Hassan Cooley #0" = 20
+	"Haidar #0" = 20
+	"Imam Cooley #0" = 20
+	"Ilbars #0" = 20
+	"Irdana #0" = 20
+	"Isfandiyar #0" = 20
+	"Isim #0" = 20
+	"Iskander #0" = 20
+	"Janibeck #0" = 20
+	"Cal #0" = 20
+	"Hudayar #0" = 20
+	"Hudayadad #0" = 20
+	"Kochkunda #0" = 20
+	"Muhammad #0" = 20
+	"Muhammad Amin #0" = 20
+	"Muhammad Hakim #0" = 20
+	"Muhammad Rahim #0" = 20
+	"Nadir Mohammed #0" = 20
+	"Narbuta #0" = 20
+	"Nowruz Ahmad #0" = 20
+	"Niaz #0" = 20
+	"Feast Mohammed #0" = 20
+	"Sanjar #0" = 20
+	"Sevinch #0" = 20
+	"Shadi #0" = 20
+	"Chessmurad #0" = 20
+	"Shakhruh #0" = 20
+	"Sheikh Haidar #0" = 20
+	"Subhang-Kuli #0" = 20
+	"Sufian #0" = 20
+	"Suleiman #0" = 20
+	"Tahir #0" = 20
+	"Timur #0" = 20
+	"Ubaydullah Khan #0" = 20
+	"Umar #0" = 20
+	"Wali #0" = 20
+	"Wali Muhammad #0" = 20
+	"Jadgar #0" = 20
+
+	"Huda #0" = -1
+	"Malacca #0" = -1
+	"Munira #0" = -1
+	"Rabia #0" = -1
+	"Rafika #0" = -1
+}
+
+leader_names = { 
+	"Munke Nasan"
+	"Bora Chinois"
+	"Sriia Gal"
+	"Boke Arslan"
+	"Suren Unegen"
+	"Arig Gun"
+	"Kara Toomer"
+	"Bayan Checheg"
+	"Eke Burilgi"
+	"Chagan Erdenet"
+	"Altan Wahir"
+	"Munke Enk"
+	"Munke Bayar"
+}
+
+ship_names = {
+	"Amu Darya"
+	"Syrdarya"
+	"Doodle"
+	"Karsi"
+	"Guzar"
+	"Gulistan"
+	"Chimkent"
+	"Yangiul"
+	"Chudzand"
+	"Kerky"
+	"Gizduvan"
+	"Chiva"
+	"Bajsun"
+	"Mukri"
+}

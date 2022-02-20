@@ -1,0 +1,87 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 110 124 156 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Mishikinawa #0" = 10
+	"Pcomkva #0" = 10
+	"Pesheva #0" = 10
+	"Matsonakuah #0" = 10
+	"Apeconite #0" = 10
+	"Apenatskkua #0" = 10
+	"Palauansva #0" = 10
+	"vaapanaakikaapvah #0" = 10
+	"Mihtoseenia #0" = 10
+	"Keepaahpwa #0" = 10
+	"Meseekunnogkuoh #0" = 10
+	"Kakmonvetsonner #0" = 10
+	"Missingguimescan #0" = 10
+	"Vabier #0" = 10
+	"Mashekanochukah #0" = 10
+	"vanonetsana #0" = 10
+	"Metausauner #0" = 10
+	"Archekatauh #0" = 10
+	"Assonnonkuach #0" = 10
+	"Misiahuatsonakua #0" = 10
+	"Ojeauuans #0" = 10
+	"Chavapenomo #0" = 10
+	"Sheshangomekah #0" = 10
+	"Mesekenohqua #0" = 10
+	"Wafremankua #0" = 10
+	"Mushekeuogkua #0" = 10
+	"Osas #0" = 10
+	"Ketauga #0" = 10
+	"Metcheketta #0" = 10
+	"Notavas #0" = 10
+	"Wapapeslea #0" = 10
+	"Tathtenouga #0" = 10
+	"Papsejeca #0" = 10
+	"Methodosma #0" = 10
+	"Sasakutahka #0" = 10
+	"Keosacunga #0" = 10
+	"Cohenna #0" = 10
+	"Synamakhon #0" = 10
+	"Tzabma #0" = 10
+	"Ameghqua #0" = 10
+	"Navaushea #0" = 10
+
+	"Tatsumvah #0" = -1
+	"Mokonnokuach #0" = -1
+	"Kitzkkesekuach #0" = -1
+	"Oshawsekuach #0" = -1
+}
+
+leader_names = {
+	Chippaquai Choppatteye Kekihonga Kenapatsomayaua Kethippetsachnunk Kokomo Kovasikka
+	Maramek Mechingomesia Milvaukee Missinyahuimeschan Missineva Netsonga Owiatenon Osaga
+	Papakeeca Piankashav Pitskavillany Tepitzon vepecange Atchakangoyen Kilatica
+	Mengkonkia Pepikokia Piankeshav vea
+}
+
+ship_names = {
+	Alemva Neekaticashya Lenasva Mohsva Mahkva Mahkva Paapankamva Eehsipana
+	Shikaakscha Mikitsia Aanteekshcha Kinneepikva Aamaavia 
+}

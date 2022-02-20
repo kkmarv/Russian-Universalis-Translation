@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = tribal_kingdom
+primary_culture = senegambian
+religion = sunni
+technology_group = sub_saharan
+unlock_cult = yemoja_cult
+unlock_cult = roog_cult
+unlock_cult = nyame_cult
+capital = 1114	
+
+#Kings of Kaabu
+
+1537.1.1 = {
+	monarch = {
+		name = "Koli herself"
+		dynasty = "Jenung"
+		dip = 2
+		adm = 1
+		mil = 3
+	}
+}
+
+1567.1.1 = {
+	monarch = {
+		name = "Saarafa Nyaaling"
+		dynasty = "Jenung"
+		dip = 2
+		adm = 1
+		mil = 2
+	}
+}
+
+1597.1.1 = {
+	monarch = {
+		name = "Kuntinka Shira Bula"
+		dynasty = "Jenung"
+		dip = 2
+		adm = 1
+		mil = 2
+	}
+}
+
+1627.1.1 = {
+	monarch = {
+		name = "Saamanka Dala"
+		dynasty = "Jenung"
+		dip = 2
+		adm = 1
+		mil = 2
+	}
+}
+
+#Unknown afterward
+
+

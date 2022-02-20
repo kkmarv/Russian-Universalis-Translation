@@ -1,0 +1,52 @@
+bookmark =
+{
+	name = "Pirates of the Aegean Sea"
+	desc = "GOLDEN_AGE_OF_PIRACY_DESC"
+	date = 1310.8.15
+	
+	center = 1320
+	
+	country = KNI
+	country = CCZ
+	country = TUN
+	country = SCH
+	country = NGR
+	country = AYD
+	country = KRS
+	country = SRU
+	country = GRM
+	country = MEN
+	country = BYZ
+	
+	easy_country = KNI
+	easy_country = CCZ
+	easy_country = TUN
+	
+	effect = {
+		# every_country = {
+			# limit = {
+				# OR = {
+					# tag = KNI
+					# tag = CCZ
+					# tag = TUN
+					# tag = SCH
+					# tag = NGR
+					# tag = AYD
+					# tag = SRU
+					# tag = GRM
+					# tag = MEN
+				# }
+			# }
+			# add_country_modifier = {
+				# name = "stt_k_gen_start" 
+				# duration = 365
+			# }
+		# }
+		KNI = {
+			add_country_modifier = {
+				name = "stt_k_gen_start" 
+				duration = 365
+			}
+		}
+	}
+}

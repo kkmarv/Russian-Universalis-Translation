@@ -1,0 +1,111 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 195  149  155 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Janusz #0" = 40
+	"Boleslav #3" = 20
+	"Conrad #2" = 20
+	"Stanislav #0" = 20
+	"Casimir #2" = 15
+	"Zemovit #6" = 10
+	"Troyden #2" = 10
+	"Albert #0" = 0
+	"Alexey #0" = 0
+	"Andrzej #0" = 0
+	"Bartholomew #0" = 0
+	"Bohumil #0" = 0
+	"Bronislav #0" = 0
+	"David #0" = 0
+	"Dominic #0" = 0
+	"Emile #0" = 0
+	"Eugeniusz #0" = 0
+	"Ferdinand #0" = 0
+	"Grzegorz #0" = 0
+	"Gustav #0" = 0
+	"Igor #0" = 0
+	"Ivan #0" = 0
+	"Constantine #0" = 0
+	"Christian #0" = 0
+	"Lech #0" = 0
+	"Luciusz #0" = 0
+	"Ludwig #0" = 0
+	"Lukash #0" = 0
+	"Maxim #0" = 0
+	"Mariusz #0" = 0
+	"Meshko #0" = 0
+	"Miroslav #0" = 0
+	"Oscar #0" = 0
+	"Patrick #0" = 0
+	"Radoslav #0" = 0
+	"Rafal #0" = 0
+	"Sylvester #0" = 0
+	"Shimon #0" = 0
+	"Victor #0" = 0
+	"Siegfried #0" = 0
+	
+	"Anatola #0" = -1
+	"Yadzia #0" = -1
+	"Mikhalina #0" = -1
+}
+
+leader_names = { 
+	"Jagellon"
+	"Kedziezia"
+	"Leszczynski"
+	"Lubomirski"
+	"Piast"
+	"Poniatowski"
+	"Premyshlid"
+	"Radziwill"
+	"Sapega"
+	"Vishnevetskiy"
+}
+
+ship_names = {
+	"Narew"
+	"Brac"
+	"Vistula"
+	"Bzura"
+	"Pilica"
+	"Radomka"
+	"Bug"
+	"Livets"
+	"Bebja"
+	"Warsaw"
+	"Lovich"
+	"Flava"
+	"Available at ."
+	"Visa"
+}

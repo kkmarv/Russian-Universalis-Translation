@@ -1,0 +1,119 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 96 57 19 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Eskhakoli #0" = 20
+	"Quinascano #0" = 10
+	"Tabakuina #0" = 10
+	"Povetvskha #0" = 10
+	"Shabbakasha #0" = 10
+	"Nerraquasi #0" = 10
+	"Tohapappi #0" = 10
+	"Pahonsarea #0" = 10
+	"Pahkah #0" = 10
+	"Vitsitoni #0" = 10
+	"Leahviddika #0" = 10
+	"Aescharsotziki #0" = 10
+	"Pachrisula #0" = 10
+	"Etta #0" = 10
+	"Tennovica #0" = 10
+	"Kumakuoi #0" = 10
+	"Tacquano #0" = 10
+	"Kova #0" = 10
+	"Soko #0" = 10
+	"Canareta #0" = 10
+	"Vuleaboo #0" = 10
+	"Wayabatosa #0" = 10
+	"Hainixeu #0" = 10
+	"Parosavano #0" = 10
+	"Varakonalta #0" = 10
+	"Pahhauka #0" = 10
+	"Mopechukope #0" = 10
+	"Kushunapah #0" = 10
+	"Kabahamoo #0" = 10
+	"Okaartsu #0" = 10
+	"Mooracuetop #0" = 10
+	"Tabupuata #0" = 10
+	"Kahitiata #0" = 10
+	"Caihenamoura #0" = 10
+	"Night #0" = 10
+	"Pahmoovakhta #0" = 10
+	"Monneconnakhue #0" = 10
+	"Kochenakuheip #0" = 10
+	"Sabahayt #0" = 10
+	"Kuarachhapoe #0" = 10
+	"Kanakhumahka #0" = 10
+	"Ishameakui #0" = 10
+	"Moheke #0" = 10
+	"Akachuata #0" = 10
+	"Cahenabone #0" = 10
+	"Mavarra #0" = 10
+	"Keviddavippa #0" = 10
+	"Panache #0" = 10
+	"Tabenanica #0" = 10
+	"Ashetavepara #0" = 10
+	"Ashahabbit #0" = 10
+	"Kuinakheva #0" = 10
+	"Tahaayerkuoit #0" = 10
+	"Pochanavkuoip #0" = 10
+	"Hotoiococcus #0" = 10
+	"Parrivaxaimer #0" = 10
+	"Boiahbahtoiehbe #0" = 10
+	"Bovahkuassuh #0" = 10
+	"Tosavi #0" = 10
+	"Cuyailpack #0" = 10
+	"Vahtohkonk #0" = 10
+	"Sipkaya #0" = 10
+	"Satan #0" = 10
+	"Tonainko #0" = 10
+	"Settemcaia #0" = 10
+	"Kavpea #0" = 10
+	"Tohajuson #0" = 10
+	"Sattank #0" = 10
+	"Takaybull #0" = 10
+
+	"Topsanna #0" = -1
+	"Veakea #0" = -1
+	"Choni #0" = -1
+	"Mahchettawokai #0" = -1
+	"Ahukhvattakum #0" = -1
+	"Kobe #0" = -1
+	"Toipai #0" = -1
+	"Tonarsi #0" = -1
+}
+
+leader_names = {
+	Jois Jupe Cotsoteca Quahada Parkinaum Noconi Pekhnakhterku Penateca Tahneimu
+	Tenawa Weidiunnu Jamparik Ditsakana "Guae-joe" Hainenauraye Itchitabudan Ketahto
+	Kevatsana Kwashi Motsai Mawainabor Naunayim Nonaim Pagatsu Pohoi Titchakena Wai
+	Japaor
+}
+
+ship_names = {
+	Saria Puuku Tasivo Aruca Tseena Vasape. "Pia va'oo" Parauku
+	Paisaniya Quihnai O'oh Tuvaikaa Quasinboo Vakariye
+}

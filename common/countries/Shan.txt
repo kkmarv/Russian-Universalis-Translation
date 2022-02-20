@@ -1,0 +1,150 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+#color = { 189  123  130 }
+color = { 250 240 215 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+	administrative_ideas
+	spy_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Tadominpia #0" = 30
+	"Nga Well #0" = 30
+	"Swasoke #0" = 30
+	"Tarabya #0" = 30
+	"Nga San Science #0" = 30
+	"Mingown #1" = 40
+	"Tikhatou #0" = 30
+	"Minlange #0" = 30
+	"Cale Chataunho #0" = 30
+	"Minchozva #0" = 30
+	"Narapati #0" = 30
+	"Silence #0" = 30
+	"Svenanchoshin #0" = 30
+	"Tohanbwa #0" = 30
+	"Kounmain #0" = 30
+	"Mobier Narapati #0" = 30
+	"Sao Sith Pan Tu #0" = 10
+	"Sao Aye Aung #0" = 10
+	"Ai Wu Sa #0" = 10
+	"Yi Kam Ka #0" = 10
+	"Sao Sam #0" = 10
+	"Sao Cam Moo #0" = 10
+	"Paya Qiao #0" = 10
+	"Sao Mon Ka #0" = 10
+	"Sao Kam Tao #0" = 10
+	"Sao Mon How #0" = 10
+	"Sao He #0" = 10
+	"Sao In Kam #0" = 10
+	"Sao Auck #0" = 10
+	"Sao Mon Saik #0" = 10
+	"Sao Sam P #0" = 10
+	"Maun Nyo #0" = 10
+	"Sao Mong-Xin #0" = 10
+	"Sao Mon Sam #0" = 10
+	"Sao Kong Tai #0" = 10
+	"Sao Maha Kanan #0" = 10
+	
+	"Tou Umma #0" = -1
+	"Tin Bochme #0" = -1
+	"So Min #0" = -1
+	"Besa #0" = -1
+	"Palais #0" = -1
+	"Pai Chanta #0" = -1
+	"Thesa #0" = -1
+	"Omma #0" = -1
+	"Tav Oo #0" = -1
+	"Gui #0" = -1
+	"Hwey #0" = -1
+	"Rouen #0" = -1
+	"Mint #0" = -1
+	"Htut #0" = -1
+	"Mi-Nauk #0" = -1
+	"Bo-Me #0" = -1
+}
+
+leader_names = {
+	Ava
+	Mau
+	Hopon
+	Taton
+	Tamayincan
+	Taungdut
+	Tainey
+	Tigit
+	Tibau
+	Calais
+	"Chichi Bansan"
+	Chainchain
+	Chainkan
+	Chinton
+	Cocan
+	Chong
+	Chaukku
+	Ledge
+	Yatsauk
+	Left
+	Lvelon
+	Lhemau
+	Manlon
+	Monsou
+	Monlin
+	Monleam
+	Montorm
+	Maukme
+	Bonin
+	Bozain
+	Mogaun
+	Menlon
+	Moeic
+	Monet
+	Monnaun
+	mob
+	"Mong-Pang"
+	Mainpiin
+	Mainseake
+	Mynton
+	Monsieur
+	Menyaung
+	Nanke
+	Nancock
+	Nankon
+	Nantoc
+	Panlaung
+	Pangmi
+	Pindara
+	Poyla
+	Sakoy
+	Female
+	Townpen
+	Bhamo
+	Bagnin
+	"Winn To"
+	Niaungschwe
+	Yangan
+}
+
+ship_names = {
+	Salweyen Tauji Kenton Touchilake Nam Tanlvin.
+	Salween Louis Sim Ten Mitnge Pilu Inle Shveli.
+}

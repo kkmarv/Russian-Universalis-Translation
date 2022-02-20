@@ -1,0 +1,136 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 84  124  48 }
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Herman #3" = 40
+	"Friedrich #2" = 40
+	"Gebhardt #0" = 40
+	"Adolf #2" = 20
+	"Dietrich #1" = 20
+	"Philippe #1" = 20
+	"Anton #0" = 20
+	"Anton Victor #0" = 20
+	"Clemens Augustus #0" = 20
+	"Ernst #0" = 20
+	"Ferdinand #0" = 20
+	"Maximilian Franz #0" = 20
+	"Maximilian Friedrich #0" = 20
+	"Maximilian Heinrich #0" = 20
+	"Joseph Clemens #0" = 20
+	"Ruprecht #0" = 20
+	"Salentin #0" = 20
+	"Engelbert #3" = 15
+	"Henry #2" = 15
+	"Siegfried #2" = 15
+	"Conrad #1" = 15
+	"Kuno #1" = 15
+	"Valram #1" = 15
+	"Wichbold #1" = 15
+	"William #1" = 15
+	"Bruno #4" = 10
+	"Adam #0" = 0
+	"Alfred #0" = 0
+	"Christian #0" = 0
+	"Dominic #0" = 0
+	"Gotlob #0" = 0
+	"Gunter #0" = 0
+	"Hans #0" = 0
+	"Hieronymus #0" = 0
+	"Jurgen #0" = 0
+	"Karl #0" = 0
+	"Paul #0" = 0
+	"Rudolph #0" = 0
+	"Theodore #0" = 0
+	"Tobias #0" = 0
+	
+	"Carina #0" = -1
+	"Diana #0" = -1
+	"Eliza #0" = -1
+}
+
+leader_names = {
+	"Baten"
+	"Boomer"
+	"Bomback"
+	"Brocker"
+	"Bushman"
+	"Dickman"
+	"Ekrat"
+	"Fishedik"
+	"Fortkamp"
+	"Boyman"
+	"Bremer"
+	"Loman"
+	"Perdecamp"
+	"Grüter"
+	"Hegeman"
+	"Kappenberg"
+	"Hegeman"
+	"Kniuman"
+	"Leggeve"
+	"Lisenfeld"
+	"Limberg"
+	"Glasser"
+	"Lochtemper"
+	"Loe"
+	"Natrata"
+	"Ortman"
+	"Pickenbrock"
+	"Sanculer"
+	"Springman"
+	"Stratman"
+	"Stenckhoff"
+	"von Vedic"
+	"Wessels"
+	"von Westerburg"
+}
+
+ship_names = {
+	"Herzbischof Brun"
+	"Herzbischoff Anno"
+	"Bischof Hildebold"
+	"Herzbischof Guntar"
+	"Herzbischof Hero"
+	"Reynald von Dassel"
+	"Engelbert II"
+	"Konrad Gohstaden"
+	"Rhine"
+	"Erft"
+	"Agger"
+}
+
+army_names = {
+  "Archbishop's Guard"
+	"Provincial Army. $PROVINCE$"
+}

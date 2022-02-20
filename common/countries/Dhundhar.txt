@@ -1,0 +1,102 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 98  110  96 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	diplomatic_ideas
+	religious_ideas
+	aristocracy_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	mughal_mansabdar
+	sikh_hit_and_run
+	reformed_mughal_mansabdar
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Narasthmha #0" = 10
+	"Banabira #0" = 10
+	"Uddharan #0" = 10
+	"Chandra Seine #0" = 10
+	"Privitv #0" = 10
+	"Puranmal #0" = 10
+	"Beemasimha #0" = 10
+	"Ratnasimha #0" = 10
+	"Aascaran #0" = 10
+	"Barmal #0" = 10
+	"Bagwante Das #0" = 10
+	"Mann Singh #0" = 20
+	"Sri Bao Singh #0" = 10
+	"Jai Singh #0" = 20
+	"Ramsingh #0" = 10
+	"Bishan Singh #0" = 10
+	"Irrisingh #0" = 10 
+	"Madhosingh #0" = 10 
+	"Pratapshingx #0" = 10 
+	"Jagatsingh #0" = 10 
+	"Bala Bai #0" = -1
+	"Sohag Devi #0" = -1
+	"Badna Devi #0" = -1
+	"Champavati #0" = -1
+	"Ajab #0" = -1
+}
+
+leader_names = {
+	"Chauchan"
+  "Baal"
+  "Bargudjar"
+  "Ice rink"
+  "Jadeja"
+  "Judon"
+  "Chandela"
+  "Singh"
+  "Tomara"
+  "Naru"
+  "Pundir"
+  "Packchral"
+  "Minha"
+  "Kachwaha"
+  "Chattar"
+}
+
+ship_names = {
+	"Chamual" 
+  "Devi" 
+  "Durga"
+  "Gayatri"
+  "Gaggar"
+  "Godwar"
+  "Jalsen"
+  "Kala Jahazi"
+  "Lakshmi" 
+  "Lal Jahazi" 
+  "Lunie"
+  "Nausen"
+  "Marvar ka Naw"
+  "Mervar ka Naw"
+  "Nava ka Yudh"
+  "Nile Jahazi"
+  "Parvati"
+  "Radha"
+  "Rani"
+  "Ratri"
+  "Sagar"
+  "Saramvati"
+  "Seqhavati"
+  "Sita"
+}

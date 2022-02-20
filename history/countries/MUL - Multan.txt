@@ -1,0 +1,134 @@
+government = monarchy
+add_government_reform = iqta
+primary_culture = panjabi
+religion = sunni
+technology_group = indian
+capital = 506	# Multan
+fixed_capital = 506 # Cannot move capital away from this province & no power cost to move to it
+religious_school = hanafi_school
+
+#Langas
+
+1437.1.1 = {
+	monarch = {
+		name = "Kutbudin"
+		dynasty = "Lunga"
+		ADM = 0
+		DIP = 0
+		MIL = 3
+	}
+}
+
+1437.1.1 = {
+	heir = {
+		name = "Hussain"
+		monarch_name = "Hussain I"
+		dynasty = "Lunga"
+		birth_date = 1400.1.1
+		death_date = 1480.1.1
+		claim = 95
+		ADM = 2
+		DIP = 0
+		MIL = 1
+	}
+}
+
+1444.1.1 = { decision = jizya_tax }
+
+1460.1.1 = {
+	monarch = {
+		name = "Hussain I"
+		dynasty = "Lunga"
+		ADM = 2
+		DIP = 0
+		MIL = 1
+	}
+}
+
+1460.1.1 = {
+	heir = {
+		name = "Firuz"
+		monarch_name = "Fruitshah"
+		dynasty = "Lunga"
+		birth_date = 1450.1.1
+		death_date = 1500.1.1
+		claim = 95
+		ADM = 1
+		DIP = 3
+		MIL = 2
+	}
+}
+
+1480.1.1 = {
+	monarch = {
+		name = "Fruitshah"
+		dynasty = "Lunga"
+		ADM = 1
+		DIP = 3
+		MIL = 2
+	}
+}
+
+1480.1.1 = {
+	heir = {
+		name = "Mahmoud"
+		monarch_name = "Mahmoud"
+		dynasty = "Lunga"
+		birth_date = 1460.1.1
+		death_date = 1518.1.1
+		claim = 95
+		ADM = 0
+		DIP = 2
+		MIL = 3
+	}
+}
+
+1500.1.1 = {
+	monarch = {
+		name = "Mahmoud"
+		dynasty = "Lunga"
+		ADM = 0
+		DIP = 2
+		MIL = 3
+	}
+}
+
+1500.1.1 = {
+	heir = {
+		name = "Hussain"
+		monarch_name = "Hussain II"
+		dynasty = "Lunga"
+		birth_date = 1480.1.1
+		death_date = 1555.1.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 1
+	}
+}
+
+1518.1.1 = {
+	monarch = {
+		name = "Hussain II"
+		dynasty = "Lunga"
+		ADM = 0
+		DIP = 0
+		MIL = 1
+	}
+}
+
+#Mirranis
+
+1553.1.1 = {
+	government_rank = 1
+}
+
+1555.1.1 = {
+	monarch = {
+		name = "Gazi Khan Mirrani"
+		dynasty = "Mirrani"
+		ADM = 0
+		DIP = 0
+		MIL = 3
+	}
+}

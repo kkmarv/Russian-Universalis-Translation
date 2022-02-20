@@ -1,0 +1,139 @@
+# Country name see file name.
+
+graphical_culture = westerngfx
+
+color = { 131  101  85 }
+
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+leader_names = {
+	"MacAnne"
+	"Mac Aradgil"
+	"Mac Artienne"
+	"Mac Cervill"
+	"Mac Govnill"
+	"Mac Lochlinn"
+	"Mak Mahgawah"
+	"Mac Sivne"
+	"Ingusa Magician"
+	"Mag Ikhir"
+	"O'Banin"
+	"O'Bigill"
+	"O'Canannin"
+	"O'Kinnig"
+	"O'Kishide"
+	"O'Callig"
+	"O'Clereg"
+	"O'Corcrin"
+	"O'Kieleannin"
+	"O'Keenn"
+	"O'Diviva"
+	"O'Divine"
+	"O'Dohartig"
+	"O'Divilyn"
+	"O'Duéhin"
+	"O'Farahin"
+	"O'Flihvertig"
+	"O'Flihrer"
+	"O'Flannagin"
+	"O'Igagin"
+	"O'Anluin"
+	"O'Eggnig"
+	"O'Innergie"
+	"O'Ir"
+	"O'Longin"
+	"O'Lorkin"
+	"O'Milagin"
+	"O'Mildin"
+	"O'Neill"
+	"O'Rihvertig"
+}
+
+monarch_names = {
+	"Domnal #12" = 40
+	"Art #0" = 40
+	"Conn #0" = 40
+	"Enri #0" = 40
+	"Ed #13" = 20
+	"Niall #6" = 20
+	"Brian #2" = 20
+	"Ogan #1" = 20
+	"Shang #0" = 20
+	"Turloch #0" = 20
+	"Alice #0" = 0
+	"Alastar #0" = 0
+	"Ingus #0" = 0
+	"Bradan #0" = 0
+	"Brennan #0" = 0
+	"Bronach #0" = 0
+	"Calavas #0" = 0
+	"Kilan #0" = 0
+	"Carroll #0" = 0
+	"Kalah #0" = 0
+	"Cavall #0" = 0
+	"Kian #0" = 0
+	"Conan #0" = 0
+	"Connor #0" = 0
+	"Diarmid #0" = 0
+	"Doubgal #0" = 0
+	"Amonn #0" = 0
+	"Phelan #0" = 0
+	"Ferkhar #0" = 0
+	"Fergus #0" = 0
+	"Finnlag #0" = 0
+	"Flann #0" = 0
+	"Gallhovir #0" = 0
+	"Goban #0" = 0
+	"Gradig #0" = 0
+	"Loman #0" = 0
+	"Melahlin #0" = 0
+	"Murhaga #0" = 0
+	"Niwan #0" = 0
+	"Torin #0" = 0
+
+	"Tallulla #0" = -1
+	"Padraiga #0" = -1
+	"Laadeline #0" = -1
+}
+
+ship_names = {
+	"Aed"
+	"Baedan"
+	"Coleman"
+	"Cookstown"
+	"Donal"
+	"Eocha"
+	"Eogan"
+	"Fergal"
+	"Fergus"
+	"Neill"
+	"Oma"
+	"Strabein"
+	"Suibne"
+}

@@ -1,0 +1,123 @@
+# Wurttemberg
+
+graphical_culture = westerngfx
+
+color = { 111  162  128 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+	offensive_ideas
+	quality_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Eberhardt #2" = 100
+	"Ulrich #4" = 60
+	"Ludwig #0" = 50
+	"Friedrich #0" = 40
+	"Christoph #0" = 20
+	"Eburhardt #0 Ludwig" = 20
+	"Friedrich #0 Eugen" = 20
+	"Johann Friedrich #0" = 20
+	"Carl #0 Alexander" = 20
+	"Carl Eugen #0" = 20
+	"Ludwig Eugen #0" = 20
+	"William #0" = 20
+	"Wilhelm Ludwig #0" = 20
+	"Ludwig #2 Friedrich" = 15
+	"Friedrich Ludwig #0" = 15
+	"George #0" = 15
+	"Henry #0" = 15
+	"August #0" = 10
+	"Christian Eberhardt #0" = 10
+	"Eberhardt #0 Friedrich" = 10
+	"Friedrich Achilles #0" = 10
+	"George Friedrich #0" = 10
+	"Joachim Friedrich #0" = 10
+	"Julius Friedrich #0" = 10
+	"Magnus #0" = 10
+	"Maximilian #0" = 10
+	"Paul #0" = 10
+	"Philippe Friedrich #0" = 10
+	"Adolf #0" = 0
+	"Bruno #0" = 0
+	"Dieter #0" = 0
+	"Emmanuel #0" = 0
+	"Florian #0" = 0
+	"Hartman #0" = 0
+	"Joachim #0" = 0
+	"Crescenz #0" = 0
+	"Manfred #0" = 0
+	"Raimund #0" = 0
+	"Siegbert #0" = 0
+	"Tobias #0" = 0
+	
+	"Renata #0" = -1
+	"Sigurda #0" = -1
+	"Ulrike #0" = -1
+}
+
+leader_names = {
+	"Breitmeyer"
+	"Dunhauser"
+	"Goal"
+	"Guta"
+	"Helber"
+	"Henke"
+	"Kircher"
+	"Kline"
+	"Knapp"
+	"Copp"
+	"Mec"
+	"Reter"
+	"Schopp"
+	"Stutt"
+	"Schülzle"
+	"White"
+	"Vitz"
+	"Vogel"
+	"Weber"
+	"Wieland"
+	"Wurst"
+}
+
+ship_names = {
+	"Wurttemberg"
+	"Conrad Wurttemberg"
+	"Count Ulrich I"
+	"Countess Mehtilda"
+	"Stuttgart"
+	"Count Ulrich III"
+	"Count Eberhardt III"
+	"Countess Henrietta"
+	"Marbach"
+	"Neuffen"
+	"Balingen"
+	"Mempelgard"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$"
+}

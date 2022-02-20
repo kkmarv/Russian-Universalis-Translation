@@ -1,0 +1,114 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 63  150  30 }
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	administrative_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	reformed_mughal_mansabdar
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Sikandar #0" = 10
+	"Ali Shah #0" = 10
+	"Zayn al-Abidin #0" = 10
+	"Haidar Shah #0" = 10
+	"Hassan Shah #0" = 10
+	"Muhammad Shah #0" = 10
+	"Sayyid Hassan #0" = 10
+	"Fatih Shah #0" = 10
+	"Ibrahim Shah #0" = 30
+	"Nazuk Shah #0" = 10
+	"Shams ad-Din #1" = 10
+	"Ismayil Shah #0" = 20
+	"Gazi Shah #0" = 10
+	"Hussain Shah #0" = 10
+	"Yusuf Shah #0" = 10
+	"Lohir Shah #0" = 10
+	"Nabib Shah #0" = 10
+	"Yakub Shah #0" = 10
+	"Ibrahim #0" = 0
+	"Hassan #0" = 0
+	"Nasuk #0" = 0
+	"Yusuf #0" = 0
+	"Jakub #0" = 0
+	"Muhammad #0" = 0
+	"Ali #0" = 0
+	"Ishmael #0" = 0
+	"Gulab #0" = 0
+	"Ranbir #0" = 0
+	"Hari #0" = 0
+	"Pratap #0" = 0
+	"Kishore #0" = 0
+	"Zoravar #0" = 0
+	"Jonarjah #0" = 0
+	"Prague #0" = 0
+	"Hamza #0" = 0
+	"Kota #0" = -1
+	"Sibaya #0" = -1
+	"Tara #0" = -1
+}
+
+leader_names = {
+	"Bahadur"
+	"Das"
+	"Dev"
+	"Gahunia"
+	"Parmanand"
+	"Shergill"
+	"Singh"
+	"Sozi"
+	"Sochal"
+	"Paradise"
+	"Lal"
+	"Kashmiri"
+	"Jivan"
+	"Hamadani"
+	"Kralavari"
+	"Baksh"
+	"Makhdum"
+	"Batta"
+	"Packchral"
+	"World"
+	"Cystvaria"
+	"Chandral"
+	"Jamval"
+	"Malik"
+	"Mensuad"
+	"Afridi"
+	"Naga"
+	"Pundir"
+	"Ice rink"
+	"Gami"
+	"Bangalya"
+	"Pahora"
+}
+
+ship_names = {
+	"Aliya" "Alicia" "Aziza" "Beaas" "Chenab"
+	"Fatima" "Guru" "Hindu" "Jalsen" "Jelum"
+	"Khan" "Nausen" "Nava-ka-Yud" "Niknaz" 	
+	"Niloufa" "Ravi" "Sagar" "Sutlage" "Yasmine" "Zahira"
+}

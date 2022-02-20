@@ -1,0 +1,111 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 75 87 255 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	administrative_ideas
+	religious_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Didona #0" = 200
+	"Hannibal #0" = 80
+	"'Quote #0" = 60
+	"'Abdul al-Malik #0" = 40
+	"'Alo #0" = 40
+	"'Babur #2" = 20
+	"'Abdul al-Haqq #1" = 20
+	"Ismayil #1" = 20
+	"Yahub #1" = 20
+	"'Al-Walud #0" = 20
+	"Al-Mustado #0" = 20
+	"Al-Rashod #0" = 20
+	"Hishar #0" = 20
+	"Idrosid #0" = 20
+	"Suleiman #0" = 20
+	"Timur #0" = 20
+	"Hussein #0" = 20
+	"'Abdul al-Rama #0" = 15
+	"al-Yazod #0" = 15
+	"Mansour #0" = 15
+	"Murza #0" = 15
+	"Nasir #0" = 15
+	"Abdul Farris #0" = 10
+	"Abbas #0" = 10
+	"Abdul Mervan #0" = 10
+	"Al-Talib #0" = 10
+	"Hammada #0" = 10
+	"Hasam #0" = 10
+	"Hashim #0" = 10
+	"Ibranim #0" = 10
+	"Shafar #0" = 10
+	"Malimun #0" = 10
+	"Maslama #0" = 10
+	"Sayid #0" = 10
+	"Umar #0" = 10
+	"Yusuf #0" = 10
+	"Allayuh #0" = 0
+	"Jabril #0" = 0
+	"Rasul #0" = 0
+	"Sulphigar #0" = 0
+	
+	"Tamina #0" = -1
+	"View #0" = -1
+}
+
+leader_names = {
+	"Hannibal"
+	"Abu Bakr"
+	"Akbar"
+	"Jahagir"
+	"Jalal"
+	"Jami"
+	"Khalil"
+	"Mohsin"
+	"oud-Din"
+	"Zaman"
+}
+
+ship_names = {
+	"Ardabil"
+	"Bakhura"
+	"Baluches"
+	"Bulkh"
+	"Herat"
+	"Isfahan"
+	"Kirman"
+	"Kish"
+	"Khorezm"
+	"Kandahar"
+	"Lahore"
+	"Merv"
+	"Nishupur"
+	"Hormuz"
+	"Rustam"
+	"Sikandar"
+	"Sebzevar"
+	"Slurax"
+	"Samarkand"
+	"Tamerlan"
+	"Tahriz"
+	"Shah Rukh"
+}
+

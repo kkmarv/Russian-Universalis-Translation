@@ -1,0 +1,17 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+primary_culture = berber
+religion = sunni
+technology_group = muslim
+capital = 349
+
+1440.1.1 = {
+	monarch = {
+		name = "Jafar"
+		dynasty = "Al-Figuid"
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}

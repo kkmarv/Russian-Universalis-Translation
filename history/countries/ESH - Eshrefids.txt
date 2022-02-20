@@ -1,0 +1,32 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 3261	
+
+# Annexed by the Otto in 1391
+
+1302.1.1 = { 
+	monarch = {
+		name = "Mubariz Mehmed-bei"          
+		dynasty = "Ashrefidogullar"         
+		death_date = 1320.1.1
+		dip = 2
+		adm = 4
+		mil = 2
+		religion = sunni       
+		culture = turkish         
+	}
+}
+1320.1.1 = { 
+	monarch = {
+		name = "Suleiman II"          
+		dynasty = "Ashrefidogullar"         
+		death_date = 1326.1.1
+		dip = 2
+		adm = 2
+		mil = 1
+	}
+}

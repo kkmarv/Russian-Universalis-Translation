@@ -1,0 +1,110 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 56  120  191 }
+
+revolutionary_colors = { 9  8  5 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	influence_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	african_spearmen
+	african_abyssinian_light_cavalry
+	bantu_tribal_warfare
+	ethiopian_mountain_warfare
+	ethiopian_gunpowder_warfare
+	westernized_ethiopian
+	ethiopian_guerilla_warfare
+	african_somali_cavalry
+	african_abyssinian_cavalry
+	african_mossi_horsemen
+	african_hussar
+	african_dragoon	
+}
+
+monarch_names = {
+	"Iasu #0" = 60
+	"Takla Haymanot. #0" = 60
+	"Solomon #2" = 40
+	"John #0" = 40
+	"Heskeyas #0"= 40
+	"Zara Jakob #0" = 20
+	"Baeda Maryam #1" = 20
+	"Constantine #3" = 20
+	"Amda Seyon #1" = 20
+	"Naod #0" = 20
+	"Lebna Dengel #0" = 20
+	"Galavdevos #0" = 20
+	"Minas #0" = 20
+	"Sars Dengel #0" = 20
+	"Jacob #0" = 20
+	"Susanos #0" = 20
+	"Fasiladas #0" = 20
+	"Tevoflos #0" = 20
+	"Jostos #0" = 20
+	"Jonos #0" = 20
+	"David #0" = 20
+	"Amsa Georgios #0" = 20
+	"Takla Georgios #0" = 20
+	"Demetrios #0" = 20
+	"Georgios #0" = 20
+	"Fiktor #0" = 5
+	"Menas #0" = 5
+	"Marcos #0" = 5
+	"Hamalmal #0" = 5
+	"Saga Crestos #0" = 5
+	"Malta Crestos #0" = 5
+	"Fassil #0" = 5
+	"Andreas #0" = 1
+	"Yeschak #0" = 1
+	"Mikael #0" = 0
+	"Amda Seyon #0" = 0
+	"Antenatevos #0" = 0
+	"Velde Guillorghis #0" = 0
+	"Mikael Segul #0" = 0
+	"Gusho #0" = 0
+	"Vand Bevossen #0" = 0
+	"Haile #0" = 0
+	"Volda Gabrael #0" = 0
+	
+	"Abeba #0" = -1
+	"Hagos #0" = -1
+	"Shadowhunter #0" = -1
+}
+
+leader_names = {
+	"Baisa"
+	"Dredge"
+	"Ambo"
+	"Address:"
+	"You"
+	"Eschete"
+	"Ezana"
+	"Aiob"
+	"Asfaw"
+	"Dehiguffe"
+}
+
+ship_names = {
+	"Yodite"
+	"Sheva"
+	"Mara Takla"
+	"Lalibela"
+	"Yekuno Amlak"
+	"Tigray"
+	"Tatadum"
+	"Seyoum"
+	"Kedus Harbe"
+	"Naaketo Laab"
+	"Yetbarak"
+}

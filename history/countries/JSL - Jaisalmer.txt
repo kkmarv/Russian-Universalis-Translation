@@ -1,0 +1,360 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = rajput
+religion = hinduism
+technology_group = indian
+capital = 513	# Jaisalmer
+fixed_capital = 513 # Cannot move capital away from this province & no power cost to move to it
+
+1444.1.1 = {
+	monarch = {
+		name = "Bohanwar"  # "Grandson" Haven't been able to find dynastic info before 1530
+		dynasty = "Yadawa Bhachi"
+		DIP = 0
+		MIL = 1
+		ADM = 0
+	}
+}
+
+ 
+
+1480.1.1 = {
+	heir = {
+		name = "Luncaran"
+		monarch_name = "Luncaran"
+		dynasty = "Yadawa Bhachi"
+		birth_date = 1480.1.1
+		death_date = 1551.1.1
+		claim = 95
+		DIP = 2
+		MIL = 2
+		ADM = 0
+	}
+}
+
+1530.1.1 = {
+	monarch = {
+		name = "Luncaran"
+		dynasty = "Yadawa Bhachi"
+		DIP = 2
+		MIL = 2
+		ADM = 0
+	}
+}
+
+1530.1.1 = {
+	heir = {
+		name = "Maldev"
+		monarch_name = "Maldev"
+		dynasty = "Yadawa Bhachi"
+		birth_date = 1500.1.1
+		death_date = 1562.1.1
+		claim = 95
+		DIP = 2
+		MIL = 3
+		ADM = 4
+	}
+}
+
+1551.1.1 = {
+	monarch = {
+		name = "Maldev"
+		dynasty = "Yadawa Bhachi"
+		DIP = 2
+		MIL = 3
+		ADM = 4
+	}
+}
+
+1551.1.1 = {
+	heir = {
+		name = "Harrage"
+		monarch_name = "Harrage"
+		dynasty = "Yadawa Bhachi"
+		birth_date = 1530.1.1
+		death_date = 1578.1.1
+		claim = 95
+		DIP = 1
+		MIL = 3
+		ADM = 2
+	}
+}
+
+1562.1.1 = {
+	monarch = {
+		name = "Harrage"
+		dynasty = "Yadawa Bhachi"
+		DIP = 1
+		MIL = 3
+		ADM = 2
+	}
+}
+
+1562.1.1 = {
+	heir = {
+		name = "Bhim Singh"
+		monarch_name = "Bhim Singh"
+		dynasty = "Yadawa Bhachi"
+		birth_date = 1550.1.1
+		death_date = 1624.1.1
+		claim = 95
+		DIP = 0
+		MIL = 3
+		ADM = 1
+	}
+}
+
+1578.1.1 = {
+	monarch = {
+		name = "Bhim Singh"
+		dynasty = "Yadawa Bhachi"
+		DIP = 0
+		MIL = 3
+		ADM = 1
+	}
+}
+
+1578.1.1 = {
+	heir = {
+		name = "Kalyan Das"
+		monarch_name = "Kalyan Das"
+		dynasty = "Yadawa Bhachi"
+		birth_date = 1570.1.1
+		death_date = 1634.1.1
+		claim = 95
+		DIP = 1
+		MIL = 2
+		ADM = 1
+	}
+}
+
+1624.1.1 = {
+	monarch = {
+		name = "Kalyan Das"
+		dynasty = "Yadawa Bhachi"
+		DIP = 1
+		MIL = 2
+		ADM = 1
+	}
+}
+
+1624.1.1 = {
+	heir = {
+		name = "Manohar Das"
+		monarch_name = "Manohar Das"
+		dynasty = "Yadawa Bhachi"
+		birth_date = 1590.1.1
+		death_date = 1648.1.1
+		claim = 95
+		DIP = 0
+		MIL = 2
+		ADM = 2
+	}
+}
+
+1634.1.1 = {
+	monarch = {
+		name = "Manohar Das"
+		dynasty = "Yadawa Bhachi"
+		DIP = 0
+		MIL = 2
+		ADM = 2
+	}
+}
+
+1644.1.1 = {
+	heir = {
+		name = "Ramchandar"
+		monarch_name = "Ramchandar"
+		dynasty = "Yadawa Bhachi"
+		birth_date = 1610.1.1
+		death_date = 1651.1.1
+		claim = 95
+		DIP = 1
+		MIL = 2
+		ADM = 0
+	}
+}
+
+1648.1.1 = {
+	monarch = {
+		name = "Ramchandar"
+		dynasty = "Yadawa Bhachi"
+		DIP = 1
+		MIL = 2
+		ADM = 0
+	}
+}
+
+1648.1.1 = {
+	heir = {
+		name = "Sabal Singh"
+		monarch_name = "Sabal Singh"
+		dynasty = "Yadawa Bhachi"
+		birth_date = 1630.1.1
+		death_date = 1661.1.1
+		claim = 95
+		DIP = 3
+		MIL = 3
+		ADM = 2
+	}
+}
+
+1651.1.1 = {
+	monarch = {
+		name = "Sabal Singh"
+		dynasty = "Yadawa Bhachi"
+		DIP = 3
+		MIL = 3
+		ADM = 2
+	}
+}
+
+1651.1.1 = {
+	heir = {
+		name = "Amar Singh"
+		monarch_name = "Amar Singh"
+		dynasty = "Yadawa Bhachi"
+		birth_date = 1640.1.1
+		death_date = 1702.1.1
+		claim = 95
+		DIP = 0
+		MIL = 2
+		ADM = 0
+	}
+}
+
+1661.1.1 = {
+	monarch = {
+		name = "Amar Singh"
+		dynasty = "Yadawa Bhachi"
+		DIP = 0
+		MIL = 2
+		ADM = 0
+	}
+}
+
+1661.1.1 = {
+	heir = {
+		name = "Yaswant Singh"
+		monarch_name = "Yasvanth Sing"
+		dynasty = "Yadawa Bhachi"
+		birth_date = 1640.1.1
+		death_date = 1708.1.1
+		claim = 95
+		DIP = 3
+		MIL = 1
+		ADM = 1
+	}
+}
+
+1702.1.1 = {
+	monarch = {
+		name = "Yaswant Singh"
+		dynasty = "Yadawa Bhachi"
+		DIP = 3
+		MIL = 1
+		ADM = 1
+	}
+}
+
+1702.1.1 = {
+	heir = {
+		name = "Buddh Singh"
+		monarch_name = "Buddh Singh"
+		dynasty = "Yadawa Bhachi"
+		birth_date = 1680.1.1
+		death_date = 1722.1.1
+		claim = 95
+		DIP = 1
+		MIL = 2
+		ADM = 3
+	}
+}
+
+1707.3.15 = {
+	government_rank = 2 #really from 1651
+}
+
+1708.1.1 = {
+	monarch = {
+		name = "Buddh Singh"
+		dynasty = "Yadawa Bhachi"
+		DIP = 1
+		MIL = 2
+		ADM = 3
+	}
+}
+
+1708.1.1 = {
+	heir = {
+		name = "Akhai Singh"
+		monarch_name = "Akhai Singh"
+		dynasty = "Yadawa Bhachi"
+		birth_date = 1695.1.1
+		death_date = 1762.1.1
+		claim = 95
+		DIP = 4
+		MIL = 5
+		ADM = 3
+	}
+}
+
+1722.1.1 = {
+	monarch = {
+		name = "Akhai Singh"
+		dynasty = "Yadawa Bhachi"
+		DIP = 4
+		MIL = 5
+		ADM = 3
+	}
+}
+
+1722.1.1 = {
+	heir = {
+		name = "Mulraj Singh"
+		monarch_name = "Mulraj Singh II"
+		dynasty = "Yadawa Bhachi"
+		birth_date = 1710.1.1
+		death_date = 1820.1.1
+		claim = 95
+		DIP = 1
+		MIL = 2
+		ADM = 1
+	}
+}
+
+1762.1.1 = {
+	monarch = {
+		name = "Mulraj Singh II"
+		dynasty = "Yadawa Bhachi"
+		DIP = 1
+		MIL = 2
+		ADM = 1
+	}
+}
+
+1762.1.1 = {
+	heir = {
+		name = "Guy Singh"
+		monarch_name = "Guy Singh"
+		dynasty = "Yadawa Bhachi"
+		birth_date = 1750.1.1
+		death_date = 1846.11.11
+		claim = 95
+		DIP = 2
+		MIL = 2
+		ADM = 0
+	}
+}
+
+1820.1.1 = {
+	monarch = {
+		name = "Guy Singh"
+		dynasty = "Yadawa Bhachi"
+		DIP = 2
+		MIL = 2
+		ADM = 0
+	}
+}

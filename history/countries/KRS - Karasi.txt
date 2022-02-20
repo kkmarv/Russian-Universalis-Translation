@@ -1,0 +1,156 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+historical_rival = TU0
+capital = 3107
+
+1297.1.1 = {
+	monarch = {
+		name = "Calem I"
+		dynasty = "Danishmandid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1297.1.1 = {
+	heir = {
+		name = "Karesi"
+		monarch_name = "Karesi I"
+		dynasty = "Danishmandid"
+		birth_date = 1285.1.1
+		death_date = 1330.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+1307.1.1 = {
+	monarch = {
+		name = "Karesi I"
+		dynasty = "Danishmandid"
+		birth_date = 1285.1.1
+		death_date = 1330.1.1
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+1307.1.1 = {
+	heir = {
+		name = "Timur"
+		monarch_name = "Timur I"
+		dynasty = "Danishmandid"
+		birth_date = 1302.1.1
+		death_date = 1336.1.1
+		claim = 90
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1328.1.1 = {
+	monarch = {
+		name = "Timur I"
+		dynasty = "Danishmandid"
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1328.1.1 = {
+	heir = {
+		name = "Yahshi"
+		monarch_name = "Yahshi I"
+		dynasty = "Danishmandid"
+		birth_date = 1307.1.1
+		death_date = 1341.1.1
+		claim = 80
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1336.1.1 = {
+	monarch = {
+		name = "Yahshi I"
+		dynasty = "Danishmandid"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1336.1.1 = {
+	heir = {
+		name = "Ajlan"
+		monarch_name = "Ajlan I"
+		dynasty = "Danishmandid"
+		birth_date = 1320.1.1
+		death_date = 1345.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1341.1.1 = {
+	monarch = {
+		name = "Ajlan I"
+		dynasty = "Danishmandid"
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1341.1.1 = {
+	heir = {
+		name = "Sulayman"
+		monarch_name = "Sulayman I"
+		dynasty = "Danishmandid"
+		birth_date = 1335.1.1
+		death_date = 1361.1.1
+		claim = 75
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1345.1.1 = {
+	monarch = {
+		name = "Sulayman I"
+		dynasty = "Danishmandid"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1352.1.1 = {
+	heir = {
+		name = "Mustafa"
+		monarch_name = "Mustafa I"
+		dynasty = "Danishmandid"
+		birth_date = 1352.1.1
+		claim = 60
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+# Annexed by the Ottoman Empire in 1347
+

@@ -1,0 +1,88 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 250  200  70 } 
+
+historical_idea_groups = {	
+	offensive_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas	
+	economic_ideas
+	religious_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	muslim_cavalry_archers
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Eretna #0" = 20
+	"Muhammad #0" = 20
+	"Ali #0" = 20
+	"Barkhan #0" = 10
+	"Ahmed #0" = 20
+	"Sakhsuvar #0" = 20
+	"Aladdin #0" = 20
+	"Nizameddin #0" = 0
+	"Sinan #0" = 0
+	"Ferhad #0" = 0
+	"Salih #0" = 0
+	"Ismayil #0" = 0
+	"Queenide #0" = 0
+	"Bahadir #0" = 0
+
+	
+	"Fatma #0" = -1
+}
+
+leader_names = {
+	Bali
+	Eresley
+	Arif
+	Rahim
+	Alemdar Amasiali Ayas
+	Bali Barbaros Bairam
+	Ceszar Chandarli Chelebi Kerrach Cherkes Kivan Chukhadar
+	Damad Dervis Defterdar
+	Gedik Gazi Gumulkineli Gurchu
+	Hadim Hekimoglu Hersekli.
+	Koprulu Kemal Kuchuk Coca Karamanli Kose Kara Canigeli Kemankes Kaymak Kawali
+	Ishak Izzed
+	Lala Lefkeli
+	Malkoch Muezzinzade
+	Neushehirley Nisanky
+	Oruj Uluch Osmankili Ohryli Oflu
+	Rumi
+	Piri Pargali Piuale Pehliwan
+	Salih Sokullu Sari Silahdar Semiz Serdar
+	Topal Tayyar Turgut Tarkhunku.
+	Veli
+	Emisci
+	}
+
+ship_names = {
+	Zulkadriye Maras Afshin Elbistan Goksun Pazardjik 
+	Ceyhan Firat Akchadag Saimbeyli Kadirli Besni Tohma Darende
+}
+
+army_names = {
+	"Ordusu $PROVINCE$"
+}
+
+fleet_names = {
+	"$PROVINCE$ Donanmasо"
+}

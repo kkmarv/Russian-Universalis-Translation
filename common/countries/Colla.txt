@@ -1,0 +1,109 @@
+#Country Name: Please see filename.
+
+graphical_culture = southamericagfx
+
+color = { 198 131 244 }
+
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	offensive_ideas
+	maritime_ideas
+	spy_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	south_american_spearmen
+	south_american_horsemen
+	south_american_warfare
+	inca_mountain_warfare
+	incan_slingshots
+	incan_axemen
+	south_american_gunpowder_warfare
+	south_american_reformed_gunpowder_warfare
+	south_american_arquebusier
+	westernized_incan
+	reformed_westernized_incan
+	incan_guerilla_warfare
+}
+
+leader_names = {
+	Ankimarka Apo Ataualpa Apasa Auki-Ouaman
+	Kanchari Chalkuchima Caonly Chiakitinta Chilce Cola Topa Curiatao Kusi 
+	Ukra Uritito Uritopa
+	Ouachouri Waman Ouaskar Ouapalcon
+	Ilhakita Inkil
+	Lislik
+	Maila Maras Marcavilka Maita. 
+	Ninankoro
+	Oscok
+	Parinango Spider Paul Pomacapi Puma Puiu-Wilka
+	Kilako KingaLumbo Kintirauraura Kiso Kiso
+	Rimak Ronpa
+	Sauaraura Sotaurko
+	Tanks Tukuikuiche Tupak-Amaru
+	Yupanki
+}
+
+monarch_names = {
+	"Kari #0" = 20
+	"Cola Kapak #0" = 20
+	"Chuki Kapak #0" = 20
+	"Tomis Katari #0" = 10
+	"Inti #0" = 10
+	"Amaru #0" = 10
+	"Katari #0" = 10
+	"Tunupa #0" = 10
+	"Tupac #0" = 10
+	"Iliapa #0" = 10
+	"Ankimarka #0" = 0
+	"Atok Copa #0" = 0
+	"Cayo Topa #0" = 0
+	"Coylas #0" = 0
+	"Kusichaka #0" = 0
+	"Urytopa #0" = 0
+	"Uachuri #0" = 0
+	"Wypalcon #0" = 0
+	"Luíos #0" = 0
+	"Markavilka #0" = 0
+	"Ninan Kuyuchi #0" = 0
+	"Oko Varanka #0" = 0
+	"Pascais #0" = 0
+	"Pomaula #0" = 0
+	"Pumi Sopa #0" = 0
+	"Quispe Titou #0" = 0
+	"Ruminavi #0" = 0
+	"Caiararairaira #0" = 0
+	"Surandaman #0" = 0
+	"Cockroach #0" = 0
+	"Tukuykutsche #0" = 0
+	"Usuka Curiatao #0" = 0
+	"Williak Umu #0" = 0
+	"Yamky Maita #0" = 0
+	"Yupanki #0" = 0
+	"Sambisa #0" = 0
+	"Sopauaa #0" = 0
+
+	"Cantuta #0" = -1
+	"Nina #0" = -1
+}
+
+ship_names = {
+Apo Apocatekil Ataguchu
+	"Ayar Anka" "Ayar Kachi" "Ayar Uchu"
+	Catecil Cavillacé Chasca "Cailour Chapel" Koniriya Kopakati Cusco
+	Eckeco
+	"Anan Pacha"
+	Inti Iliapa
+	Con 
+	"Manko Kapak" "Mama Oakleo" "Mama Wako" "MaMa Ruaua" "MaMa Kura"
+	"MaMa Coca" "MaMa Alpa" "Mama Pacha" "MaMa Kiella" "MaMa Sarah"
+	"Pacha Kamak" Pachakuchi Pariacaca Parisià
+	Go to .
+	Titicaca
+	Urkauri "Uku Pacha"
+	Viracoca
+}

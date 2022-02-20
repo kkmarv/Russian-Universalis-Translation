@@ -1,0 +1,137 @@
+#Country Name: Seeee the Name of this File.
+
+graphical_culture = westerngfx
+
+color = { 156  179  189 }
+
+historical_score = 1000
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	trade_ideas
+	plutocracy_ideas
+	administrative_ideas
+	maritime_ideas
+	naval_ideas
+	innovativeness_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Ernst #0" = 20
+	"Friedrich #0" = 20
+	"Conrad #0" = 15
+	"Otto #0" = 15
+	"Herman #0" = 10
+	"Philippe #0" = 10
+	"Adalbert #0" = 0
+	"Albrecht #0" = 0
+	"Alexander #0" = 0
+	"Baldur #0" = 0
+	"Barnabas #0" = 0
+	"Burkhardt #0" = 0
+	"Diederick #0" = 0
+	"Dieter #0" = 0
+	"Ekbert #0" = 0
+	"Erwin #0" = 0
+	"Fabian #0" = 0
+	"Florian #0" = 0
+	"Gottschalk #0" = 0
+	"Gregor #0" = 0
+	"Hagan #0" = 0
+	"Hartwin #0" = 0
+	"Herbert #0" = 0
+	"Jeremy #0" = 0
+	"José #0" = 0
+	"Julius #0" = 0
+	"Ergen #0" = 0
+	"Kuno #0" = 0
+	"Kurt #0" = 0
+	"Markus #0" = 0
+	"Martin #0" = 0
+	"Niklas #0" = 0
+	"Oscar #0" = 0
+	"Reinhardt #0" = 0
+	"Siegfried #0" = 0
+	"Thomas #0" = 0
+	"Valentin #0" = 0
+	"Victor #0" = 0
+	"Wenzel #0" = 0
+	"Wilfrid #0" = 0
+	
+	"Amelie #0" = -1
+	"Helena #0" = -1
+	"Julianne #0" = -1
+}
+
+leader_names = {
+	"Abendrot" "Ackerman" "Adler" "Aglers" "Alpers" "Alt" 
+	"Amsink" "Baask" "Baker" "Baghebukh" "Bastian" "Billings" 
+	"Botfor" "Dublestein" "de Greve" "Dreyer" "Igers" 
+	"Engel" "von der Frechte" "Frauhain" "Gevert" "Gossler" 
+	"Grunewald" "Ganzen" "Gaineschon" "Henkel" "Hoer" "Horvig"
+	"Imbec" "Yarshu" "Kegragna" "Kellingkusen" "Kind" 
+	"von Lengerk" "Lib" "Merc" "Meyer" "Mugle" "Nanne" 
+	"Olbres" "Papa" "Fully" "Rosenbaum" "Rosendal" "Schmerse"
+    "Schmidt" "Schubert" "Schumann" "Zolto" "Stiz" "Telmann" 
+	"Tidmann" "Wikk" "Wiltier" "Volmer" "von Daeten" 
+}
+
+ship_names = {
+	"Adler von Lübeck"
+	"Lisa von Luebeck"
+	"Morian"
+	"Peter von Danzig"
+	"Rebellion Kuh"
+	"Houke Hayen"
+	"Güdekke Michaels"
+	"Heyligenbyl"
+	"Bartenstein"
+	"Furst un Shrek"
+	"Flegendera Gest."
+	"Fresh Haas"
+	"Gechtenwish"
+	"Igorne"
+	"Ziewulf"
+	"Sterterbecker"
+	"Fenritzfulff"
+	"Adler von Wismar"
+	"Lisa von Wismar"
+	"Peter von Wismar"
+	"Christopher von Wismar"
+	"Georg von Wismar"
+	"Catherine von Wismar"
+	"Marie von Wismar"
+	"Niklas von Wismar"
+	"Adler von Rostock"
+	"Lisa von Rostock"
+	"Peter von Rostock"
+	"Christopher von Rostock"
+	"Georg von Rostock"
+	"Katerina von Rostock"
+	"Marie von Rostock"
+	"Niklas von Rostock"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$" 
+}

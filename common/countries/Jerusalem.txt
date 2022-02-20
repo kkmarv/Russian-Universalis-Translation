@@ -1,0 +1,87 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 211  230  211 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	innovativeness_ideas
+	economic_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Godfrey #1" = 60
+	"Balduin #5" = 60
+	"Henry #2" = 40
+	"Amalrick #2" = 30
+	"John #2" = 10
+	"Fulk #1" = 10
+	"Conrad #3" = 10
+	"Symbilla #1" = -5
+	"Isabella #2" = -10
+	"Melicenda #1" = -5
+	"Maria #1" = -5
+	"Guy #1" = 5
+	"Hugo #1" = 5
+}
+
+ship_names = {
+	"Holy Cross"
+	"Grail"
+	"Faith"
+	"Hammer of the Lord"
+	"True Believer"
+	"Redemption"
+	"Balduin Gate"
+	"Delight"
+	"God will know his"
+	"Paladin"
+	"Cleaner"
+	"Crusader"
+	"Guard"
+	"Pilgrim"
+	"Absolute"
+	"Avenger"
+	"Proponent"
+	"Beach"
+}
+
+leader_names = { 
+	"Bragadin" 
+	"Crispo"
+	"Doria"	
+	"Fadrig"
+	"Luzinyan"
+	"Melisinos" 
+	"Pleton"
+	"Randy"
+	"Saraceno" 
+	"Tocco"
+	"Maxwell"
+	"Duncan" "Douglas" "Selkirk"
+	"Shredder" "Sorzap" "Minucci" "Sulzerzky" "Stixhenstein" "Hagedorn" "Arenberg"
+	"de La Bart" "de la Fernandi" "de La Gallizonora" "de la Motte" "de la Motte d'Ayran" "de la Portais" "Le Tellier" "de Laurent" "de Louisne"
+	"di Pasana" "Paleologist Montiferrato" "Pallavicini" "Paradisy" "Petrucci" "Pico" "Pignatelli" "Dalla Rosa" "della Rovere"
+}

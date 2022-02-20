@@ -1,0 +1,61 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 110 48 50 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {	
+	"Membectoe #0" = 20
+	"Ounaginitish #0" = 20
+	"Eargamet #0" = 20
+	"Ciccanicto #0" = 20
+	"Armquannott #0" = 20
+	"Attanas #0" = 20
+	"Rekiboktou #0" = 20
+	"Chichabenades #0" = 20
+	"Midukuk #0" = 20
+	"Nelanoit #0" = 20
+	"Spoonoit #0" = 20
+	"Nugkhkuit #0" = 20
+	"Begamonite #0" = 20
+	"Cigaiquisht #0" = 20
+
+	"Mali #0" = -1
+	"Malian #0" = -1
+	"Maliazonis #0" = -1
+	"Azonis #0" = -1
+	"Malgelit #0" = -1
+}
+
+leader_names = {
+	Epekvik Epeeggoitg Eskikevakik Eszgigiag Kespukvitk Kespukvitk Gespogoitg Sikniknikt
+	Shigenitog Sipeknekatik Segepenegatig Tayamkuk Tagamgoog Vunamakik Onamagigig Aboushagan
+	Antigonishe Bhikuktouke Chignekto Ekoupahag Edaik Kigikapigiak Miramichi
+	Nalkihtoniash Nipigiguit Pohomoosh Shediak Tabogimik Tabusintatsk Vaykobakh
+}
+
+ship_names = {
+	Thiyam Lentuk Paiyatism Muvin Tkokwei Vovkvis Amaliyikwei Matuves Kitpu.
+	Sinimkv Kukukves Mteskm Mikiyiki Amuvov 
+}

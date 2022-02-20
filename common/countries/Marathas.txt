@@ -1,0 +1,107 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 67  124  181 }
+
+historical_idea_groups = {
+	offensive_ideas
+	administrative_ideas
+	defensive_ideas
+	quality_ideas
+	trade_ideas
+	economic_ideas
+	spy_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	reformed_mughal_musketeer
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Shivaji #0" = 10
+	"Shambaþi #0" = 10
+	"Rajaram #0" = 10
+	"Sakhuja #0" = 10
+	"Balazhi #0" = 10
+	"Badji Rao #0" = 10
+	"Madhu Rao #0" = 10
+	"Narayan Rao #0" = 10
+	"Ragunat Rao #0" = 10
+	"Pratap Singh #0" = 10
+	"Firangoji #0" = 0
+	"Kanhoji #0" = 0
+	"Netaji #0" = 0
+	"Moropant #0" = 0
+	"Baji Prabhu #0" = 0
+	"Suryaji #0" = 0
+	"Tanaji #0" = 0
+	"Chimaji #0" = 0
+	"Ranoji #0" = 0
+	"Raghunatrao #0" = 0
+	"Malhar #0" = 0
+	"Tukozhirao #0" = 0
+	"Harypant #0" = 0
+	"Jashvantrao  #0" = 0
+	"Tarabai #0" = -10
+	"Soyarabai #0" = -5
+	"Tucabay #0" = -1
+}
+
+leader_names = {
+	Bohnsle
+	Baht
+	Shinde
+	Gaicquad
+	Pavar
+	Palkar
+	Satawahana
+	Jadava
+	Jadhav
+	Bhoyt
+	Holcar
+	Cadam
+	Yagtap
+	Moit
+	Malusare
+	Nicam
+	Dabhad
+	Shirke
+	Morey
+	Nymbalk
+	Kate
+	Chavan
+	Ran
+	Guiyar
+	Aher
+	Savant
+	Kauschal
+	Khursh
+	Narsala
+	Krishnaum
+	Lolaxie
+	Maruti
+	Narage
+	Ramiach
+}
+
+ship_names = {
+	Agni Bhim Brahma Devi Durga.
+	Ganesha Gayatri Hanumaun Indra
+	Jalsen "Cala Jahasi" Cali Kubera
+	Krishna Lakshmi "Lal Jahasi" Nausen
+	"Nava ka Yudh" "Nile Jahasi" Parvati
+	Radha Ratri Sagar Saraswati Shiva
+	Sita Soma Surya Varuna Wayu Vishnu Yama
+}

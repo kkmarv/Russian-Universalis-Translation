@@ -1,0 +1,77 @@
+#Country Name: Please see filename.
+
+graphical_culture = southamericagfx
+
+color = { 162 182 64 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	maritime_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+
+historical_units = {
+	south_american_spearmen
+	south_american_horsemen
+	south_american_warfare
+	inca_mountain_warfare
+	incan_slingshots
+	incan_axemen
+	south_american_gunpowder_warfare
+	south_american_reformed_gunpowder_warfare
+	south_american_arquebusier
+	westernized_incan
+	reformed_westernized_incan
+	incan_guerilla_warfare
+}
+
+leader_names = {
+	Aguasuke Soacha Sipakon Cancuamo Iraq Onsaga
+	Hachuri Waman Ouaskar Wypalcon Tanduma Chipata
+	Busbansa Saboia Tenza Tibirita Duitam Pipe Serins
+	Tiban Charal Toka
+}
+
+monarch_names = {
+	"Meikuchuka #0" = 10
+	"Saguanmachika #0" = 10
+	"Nemekene #0" = 10
+	"Tiskesusa #0" = 10
+	"Sygipa #0" = 10
+	"Michuas #0" = 10
+	"Kemuenciatocha #0" = 10
+	"Akiminsake #0" = 10
+	"Ah Kahn #0" = 0
+	"Cookcinega #0" = 0
+	"Uzatama #0" = 0
+	"Tibaku #0" = 0
+	"Gucha #0" = 0
+	"Miko Chuko #0" = 0
+	"Akimin #0" = 0
+	"Tomagata #0" = 0
+	"Tutasa #0" = 0
+	
+	"Chia #0" = -1
+}
+
+ship_names = {
+	Apo Apocatekil Ataguchu
+	"Ayar Anka" "Ayar Kachi" "Ayar Uchu"
+	Catecil Cavillaca Chasca "Coyllour Chapel" Soniraya Kopakati Cusco
+	Eckeco
+	"Hanan Pacha"
+	Inti Illapa
+	Con 
+	"Manko Kapak" "Mama Oklio" "Wako Mama" "Pai's mom" "Mama Kura"
+	"Coke's mom" "Mama Alpa" "Mama Pacha" "Kiella's mother" "Zara's mother"
+	"Pacha Kamak" Pachakuchi Pariacaca Parikia
+	Go to .
+	Titicaca
+	Urkavari "Uku Pacha"
+	Viracoca
+}

@@ -1,0 +1,21 @@
+#Kola
+
+capital = "Cola"	### STT
+culture = sapmi
+religion = siberian_shamanism
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+discovered_by = western
+discovered_by = eastern
+add_local_autonomy = 25
+
+1309.1.1 = { owner = NOV controller = NOV  add_core = NOV is_city = no }
+1478.1.15 = { owner = MOS controller = MOS add_core = MOS remove_core = NOV }
+1500.1.1 = { is_city = yes }
+1547.1.16 = { owner = TSR controller = TSR add_core = TSR remove_core = MOS } ## Ivav IV - tsar
+1721.11.2 = { owner = RUS controller = RUS add_core = RUS remove_core = TSR } ## Potr I - imperator
+1910.1.1 = { capital = "Romanov na Murmane" }
+1917.1.1 = { capital = "Murmansk" }

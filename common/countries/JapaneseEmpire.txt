@@ -1,0 +1,163 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+		
+color = { 194  53  60 }
+
+random_nation_chance = 0
+
+historical_score = 500
+
+historical_idea_groups = {
+	economic_ideas
+	quality_ideas
+	expansion_ideas
+	offensive_ideas
+	administrative_ideas
+	maritime_ideas
+	trade_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	japanese_archer
+	eastern_bow
+	japanese_footsoldier
+	japanese_samurai
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+    "Motohito #0" = 20
+    "Mihito #0" = 20
+    "Nikohito #0" = 20
+    "Fusahito #0" = 20
+    "Katsuhito #0" = 20
+    "Tomohito #0" = 20
+    "Mitihito #0" = 20
+    "Kazuhito #0" = 20
+    "Kotohito #0" = 20
+    "Okiko #0" = -20
+    "Tsuguhito #0" = 20
+    "Nagahito #0" = 20
+    "Satohito #0" = 20
+    "Asahito #0" = 20
+    "Toshiko #0" = -10
+    "Yasuhito #0" = 20
+    "Teruhito #0" = 20
+    "Hidehito #0" = 20
+    "Morojito #0" = 20
+    "Ayahito #0" = 20
+    "Takaoji #0" = 20
+    "Yoshiakira #0" = 20
+    "Yoshimitsu #0" = 20
+    "Yoshimochi #0" = 20
+    "Yoshikazu #0" = 20
+    "Yoshinori #0" = 20
+    "Yoshikatsu #0" = 20
+    "Yoshimasa #0" = 20
+    "Yoshihisa #0" = 20
+    "Yoshitanae #0" = 20
+    "Yoshizumi #0" = 20
+    "Yoshiharu #0" = 20
+    "Yoshiteru #0" = 20
+    "Yoshihide #0" = 20
+    "Yoshiaki #0" = 20
+    "Nobutada #0" = 20
+    "Hidenobu #0" = 20
+    "Hideyoshi #0" = 20
+    "Hideyori #0" = 20
+    "Ieyasu #0" = 20
+    "Hidetada #0" = 20
+    "Iamizu #0" = 20
+    "Ietsuna #0" = 20
+    "Tsunayoshi #0" = 20
+    "Ienobu #0" = 20
+    "Yetsugu #0" = 20
+    "Yoshimune #0" = 20
+    "Yeshige #0" = 20
+    "Ieharu #0" = 20
+    "Ianari #0" = 20
+    "Ieyoshi #0" = 20
+    "Iesada #0" = 20
+    "Iemochi #0" = 20
+    "Yoshinobu #0" = 20
+    "Akihito #0" = 20
+    "Hirohito #0" = 20
+    "Curioto #0" = 20
+    "Makoto #0" = 20
+    "Jun #0" = 20
+    "Hikigaya #0" = 20
+
+    "Akemi #0" = -5
+    "Aska #0" = -5
+    "Kyo #0" = -5
+    "Megumi #0" = -5
+    "Miku #0" = -5    
+    "Toku #0" = -5
+    "Sen #0" = -5
+    "Tama #0" = -5
+    "Aya #0" = -5
+    "Ina #0" = -5
+    "Minako #0" = -5
+    "Misaki #0" = -5
+    "Ray #0" = -5
+    "Shinobu #0" = -5
+    "Juno #0" = -5
+    "Hinagiku #0" = -5
+    "Kirakisho #0" = -5
+    "Rimi #0" = -5
+    "Kurumi #0" = -5
+    "Canade #0" = -5    
+    "Rurie #0" = -5
+    "Zion #0" = -5
+    "Setsuna #0" = -5
+    "Yukino #0" = -5
+    "Kyoko #0" = -5
+    "Sunako #0" = -5
+    "Misa #0" = -5
+    "Misaka #0" = -5
+    "Kurisu #0" = -5
+    "Kuroko #0" = -5
+    "Azusa #0" = -5
+    "Rumio #0" = -5
+    "Rumicho #0" = -5
+}
+
+leader_names = {
+    # Daimyo names
+	"Akamatsu" "Akechi" "Ashikaga" "Amago" Kyogoku "Rocaca" "Asakura" "Asano" "Aso" "Tesokabe" "Date" "Hara"
+	"Hatakayama" "Hodjo" "Hosokawa" "Ichizo" "Ceda" "Imagawa" "Ishikawa" "Ito" "Inoue" "Kiso" "Kono" "Maeda"
+	"Matsuda" "Miura" "Miyoshi" "Mogami" "Maury" "Nambu" "Nagao" "Oda" "Osagawara" "Otomo" "Ouchi"
+	"Ryujoji" "Sagara" "Saito" "Sanada" "Satake" "Satomi" "Syba" "Sybata" "Shimazu" "Sony" "Takeda" "Toki"
+	"Tokugawa" "Matsudaira" "Toyotomi" "Tsutsui" "Wesugi" "Hurricanes" "Yamana" "Yamauchi"
+}
+
+ship_names = {
+	"Mutsu Maru" "Deva Maru" "Shimotsuke Maru"
+	"Hitati Maru"
+	"Kazusa Maru" "Simousa Maroux" "Awa Maru" "Musashi Maru" "Kojuke Maru" "Izu Maru" "This Maru" "Ettu Maroux"
+	"Kaga Maru" "Noto Maru" "Suruga Maru" "Totomi Maru" "Josu Maru" "Aenseu Maru" "Bushu Maru" "Essue Maroux"
+	"Mikawa Maru" "Usu Maru" "Sosu Maru" "Bosu Maru" "Kai Maru" "Shinshu Maru" "Kosu Maru"
+	"Owari Maru" "Bisu Maru" "Mino Maru" "Etizen Maru" "Ise Maru" "Sima Maru" "Omi Maru" 
+	"Gosiu Maru" "Yamashiro Maru" "Vakasa Maru" "Tamba Maru" "Tango Maru" "Yamato Maru" "Ki Maru"
+	"Kishu Maru" "Iga Maru" "Sanguki Maru" "Toza Maru"
+	"Yeo Maru" "Harima Maru" "Bansiu Maru"
+	"Hoki Maru" "Inaba Maru" "Bizen Maru" "Mimasaka Maru" "Binsu Maru"
+	"Bingo Maru" "Bittu Maru" "Aki Maru" "Izumo Maru" "Ywami Maru" "Suo Maru" "Nagato Maru" "Bungo Maru"
+	"Budzeng Maru" "Tikuzen Maru"
+	"Tikugo Maru" "Hizzan Maru" "Higo Maru" "Tikushu Maru" "Huga Maru" "Osumi Maru" "Satsuma Maru" "Sassou Marou"
+}
+
+army_names = {
+	"imperial army" "Gong prov. $PROVINCE$" "Provincial Army. $PROVINCE$" "Dan prov. $PROVINCE$"
+}
+
+fleet_names = {
+	"Imperial Navy" "Prov. Navy. $PROVINCE$" "Sandan prov. $PROVINCE$" "Tai Prov. $PROVINCE$"
+}

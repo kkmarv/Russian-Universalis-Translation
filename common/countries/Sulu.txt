@@ -1,0 +1,90 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 89  164  144 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	spy_ideas
+	religious_ideas
+	offensive_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Sharif Al-Hashim #0" = 20
+	"Kamal al-Din #0" = 20
+	"Sharif Sayid Ala ad-Din #0" = 20
+	"Amiroul Umara #0" = 20
+	"Muizz al-Mutawaddin #0" = 20
+	"Batar Shah Tang #0" = 20
+	"Muvallit Wasit #0" = 20
+	"Muhammad Alim al-Din #0" = 20
+	"Muhammad Al-Halim #0" = 20
+	"Muizz ad-Din #0" = 20
+	"Nasir ad-Din #0" = 10
+	"Azim ad-Din #0" = 10
+	"Salah ad-Din Bakhtiar #0" = 10
+	"Shihab ad-Din #0" = 10
+	"Mustafa Shafi #0" = 10
+	"Muhammad Badaruddin #0" = 10
+	"Muizz ad-Din Bantilan #0" = 10
+	"Muhammad Israil #0" = 10
+	"Muhammad Sharaf ad-Din #0" = 10
+	"Ali al-Din #0" = 10
+	"Shakirullah #0" = 10
+
+	"Anela #0" = -1
+}
+
+leader_names = {
+	"Agung"
+	"Batar"
+	"Bima"
+	"Elok"
+	"Karna"
+	"Rimba"
+	"Saleh"
+	"Satria"
+	"Sentosa"
+	"Yuda"
+}
+
+ship_names = {
+	"Cooling Pool"
+	"Pangutaran"
+	"Pandukan"
+	"Marungas"
+	"Cap"
+	"Laparan"
+	"Dummyle"
+	"Lapak"
+	"Syasi"
+	"Lungus"
+	"Tapul"
+	"Cabingaan"
+	"Yulu"
+	"Pata"
+	"Kalinhalan"
+	"Capual"
+	"Bangalao"
+	"Symsa"
+	"Balanguingle"
+	"Bucutua"
+	"Suluan"
+}

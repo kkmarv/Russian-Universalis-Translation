@@ -1,0 +1,141 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 201  79  95 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+	quality_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Abdul-Karim #0" = 40
+	"Abdul-Latif #0" = 20
+	"Abdul-Rahman #0" = 40
+	"Abdullah #0" = 20
+	"Agalak #0" = 20
+	"Ahmed #0" = 50
+	"А #0" = 40
+	"Alibek #0" = 20
+	"Arab Shah #0" = 20
+	"Arslan #0" = 20
+	"Barak #0" = 30
+	"Б #0" = 20
+	"Bolak #0" = 20
+	"Circassia #0" = 20
+	"Chokra #0" = 20
+	"Daniel #0" = 20
+	"Darwish #0" = 20
+	"Darwish Ali #0" = 20
+	"Devlette Berdi #0" = 20
+	"Yedigey #0" = 20
+	"Х #0" = 20
+	"Hussain #0" = 30
+	"Ibak #0" = 20
+	"Ibrahim #0" = 50
+	"Ilham #0" = 20
+	"Ishim #0" = 20
+	"Jabbar Berdi #0" = 20
+	"Д #0" = 20
+	"Jan Ali #0" = 20
+	"Janai #0" = 20
+	"Janibeck #0" = 20
+	"Jumaduk #0" = 20
+	"Karim Berdi #0" = 20
+	"Kebek #0" = 20
+	"Khalil #0" = 30
+	"Х #0" = 20
+	"К #0" = 40
+	"Kuchum #0" = 20
+	"Mahmoud #0" = 80
+	"Mahmudak #0" = 50
+	"Mama #0" = 20
+	"Mamuk #0" = 30
+	"Mansour #0" = 20
+	"Muhammad #0" = 50
+	"Murtaza #0" = 20
+	"Mustafa Ali #0" = 20
+	"Nogai #0" = 20
+	"Pulad #0" = 20
+	"Pulad Timur #0" = 20
+	"Kadir Berdi #0" = 20
+	"Kasim #0" = 60
+	"Sain Bulat #0" = 20
+	"С #0" = 20
+	"Sayid-Ahmad #0" = 60
+	"Sayid-Burhan #0" = 20
+	"Sayid-Mahmoud #0" = 20
+	"Shadibek #0" = 20
+	"Shah-Ali #0" = 20
+	"Sheikh Ahmad #0" = 20
+	"Ш #0" = 20
+	"Sheikh Haidar #0" = 20
+	"Sheban #0" = 20
+	"Taibuga #0" = 20
+	"Timur #0" = 20
+	"Timur Kutlug #0" = 20
+	"Tohtamysh #0" = 20
+	"Ulu Muhammad #0" = 40
+	"Urus #0" = 20
+	"Urus-Mohammed #0" = 20
+	"Yadigar Muhammad #0" = 20
+	"Yamgurchi #0" = 20
+	
+	"Fatima #0" = -1
+	"Ibtisan #0" = -1
+	"Complaint . #0" = -1
+	"Jeanne #0" = -1
+	"Lilah #0" = -1
+	"Sakina #0" = -1
+	"Sharif #0" = -1
+}
+
+leader_names = {
+	"К"
+	"Д"
+	"А"
+	"К"
+	"Suren Unegen"
+	"Т"
+	"К"
+	"Б"
+	"А"
+	"Е"
+	"С"
+	"К"
+}
+
+ship_names = {
+	"А"
+	"Volga"
+	"А"
+	"К"
+	"Genghis Khan"
+	"Kuchuk"
+	"А"
+	"С"
+	"Х"
+	"Г"
+	"Ц"
+}

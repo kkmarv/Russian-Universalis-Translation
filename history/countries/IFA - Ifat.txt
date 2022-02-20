@@ -1,0 +1,89 @@
+government = monarchy
+add_government_reform = iqta
+technology_group = muslim
+unit_type = sub_saharan
+religion = sunni
+primary_culture = somali
+capital = 1212
+historical_rival = ETH
+
+
+1307.1.1 = {
+	monarch = {
+		name = "Hakk ad-Din I"
+		dynasty = "Valashma"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1328.1.1 = {
+	monarch = {
+		name = "Sabir ad-Din Mahamed"
+		dynasty = "Valashma"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1332.1.1 = {
+	monarch = {
+		name = "Jamal ad-Din"
+		dynasty = "Valashma"
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}
+
+1341.1.1 = {
+	monarch = {
+		name = "Nasr ad-Din"
+		dynasty = "Valashma"
+		adm = 0
+		dip = 5
+		mil = 5
+	}
+}
+
+1348.1.1 = {
+	monarch = {
+		name = "Ali Sabir ad-Din Mahammad"
+		dynasty = "Valashma"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1355.1.1 = {
+	monarch = {
+		name = "Ahmed Ar Ad Ali"
+		dynasty = "Valashma"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1368.1.1 = {
+	monarch = {
+		name = "Hak ad-Din Ahmed"
+		dynasty = "Valashma"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1374.1.1 = {
+	monarch = {
+		name = "Saad ad-Din Ahmed"
+		dynasty = "Valashma"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}

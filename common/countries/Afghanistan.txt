@@ -1,0 +1,77 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 102  128  52 } 
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+	religious_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	durrani_swivel
+	durrani_rifled_musketeer
+	durrani_dragoon
+}
+
+monarch_names = {
+	"Wai World #0" = 20
+	"Humayun #0" = 20
+	"Ahmad #0" = 30
+	"Timur #0" = 20
+	"Shuja al-Mulk #0" = 10
+	"Muhammad #0" = 20
+	"Shuja #0" = 20
+	"Fat Jan #0" = 20
+	"Shapur #0" = 20
+	"Zaman #0" = 20
+	"Mahmoud #0" = 20
+	"Ayüb #0" = 20
+	
+	"Nawal #0" = -1
+	"Munya #0" = -1
+	"Haniyah #0" = -1
+	"Firose #0" = -1
+	"Sultanim #0" = -1
+	"Ak #0" = -1
+	"Fatima #0" = -1
+	"Aisha #0" = -1
+	"Maryam #0" = -1
+	"Munawar #0" = -1
+}
+
+leader_names = {
+	Hotaki
+	Cockroaches
+	Amin
+	Karmal
+	Najibullah
+	Akhund
+	Rahman
+	Gazi
+	Ahmad
+	Kadir
+}
+
+ship_names = {
+	Arghandab Hash Farah Harut Tejen.
+	Murghab Balkh Kovkchen Kabol Job
+	Kech Dasht Hingol
+}

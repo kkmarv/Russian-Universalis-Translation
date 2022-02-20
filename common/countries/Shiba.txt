@@ -1,0 +1,99 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 0  163  175 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	maritime_ideas
+	trade_ideas
+	quality_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	japanese_archer
+	eastern_bow
+	japanese_footsoldier
+	japanese_samurai
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = { # Most Monarchs were named with "Yoshi"
+	"Takatsune #0" = 50
+	"Yoshimasa #0" = 50
+	"Yoshiatsu #0" = 50
+	"Yoshisato #0" = 50
+	"Yoshitake #0" = 50	
+	"Yoshikado #0" = 50	
+	"Yoshitatsu #0" = 50	
+	"Yoshihiro #0" = 50
+	"Yoshimune #0" = 50
+	"Yoshikane #0" = 50
+	"Yoshitanae #0" = 50
+	"Mititanae #0" = 20
+	"Motitane #0" = 20
+	"Yoshiharu #0" = 50
+	"Yoshisué #0" = 50
+    "Yoshiyuki #0" = 50
+	"Yoshitoshi #0" = 50
+	"Yoshiaki #0" = 50
+	"Ikane #0" = 20	
+	"Ujitsue #0" = 20	
+	"Yoshitojo #0" = 50	
+	"Yoshinobu #0" = 50
+	"Toku #0" = -5
+	"Sen #0" = -5
+	"Tama #0" = -5
+	"Aya #0" = -5
+	"Ina #0" = -5
+}
+
+leader_names = {
+    # Daimyo names
+	Akamatsu Akechi Ashikaga Amago Kyogoku Rokkaku Asakura Asano Aso Tosokabe Date Hatisuka
+	Hatakayama Hojo Hosokawa Ichizyo Keda Imagawa Ishiki Ito Jimbo Kikuchi Kono Maeda
+	Mitsunaga Mimura Miyoshi Mogami Mori Nabesima Nagao Oda Ogasawara Otomo Ouchi
+	Ryujoji Sagara Saito Sanada Satake Satomi Shiba Shimazu Shuni Takeda Toki
+	Tokugawa Matsudaira Toyotomi Tsutsui Uesugi Uragami Yamana Yamauchi
+	# Siba 
+	Shiba Shiba Shiba Shiba Shiba Shiba Shiba Shiba Shiba. 
+	Shiba Shiba Shiba Shiba Shiba Shiba Shiba Shiba Shiba. 
+	# The vassals of the Shiba clan
+    Kai Kai Kai Asakura Asakura Asakura Asakura Asakura 
+	Ninomia Ninomia Ninomia Horie Horie Horie Horie Horie 
+	Oda Oda Oda Oda Oda 
+}
+
+ship_names = {
+	"Mutsu Maru" "Deva Maru" "Shimotsuke Maru"
+	"Hitati Maru"
+	"Kazusa Maru" "Simousa Maroux" "Awa Maru" "Musashi Maru" "Kojuke Maru" "Izu Maru" "This Maru" "Ettu Maroux"
+	"Kaga Maru" "Noto Maru" "Suruga Maru" "Totomi Maru" "Josu Maru" "Aenseu Maru" "Bushu Maru" "Essue Maroux"
+	"Mikawa Maru" "Usu Maru" "Sosu Maru" "Bosu Maru" "Kai Maru" "Shinshu Maru" "Kosu Maru"
+	"Owari Maru" "Bisu Maru" "Mino Maru" "Etizen Maru" "Ise Maru" "Sima Maru" "Omi Maru" 
+	"Gosiu Maru" "Yamashiro Maru" "Vakasa Maru" "Tamba Maru" "Tango Maru" "Yamato Maru" "Ki Maru"
+	"Kishu Maru" "Iga Maru" "Sanguki Maru" "Toza Maru"
+	"Yeo Maru" "Harima Maru" "Bansiu Maru"
+	"Hoki Maru" "Inaba Maru" "Bizen Maru" "Mimasaka Maru" "Binsu Maru"
+	"Bingo Maru" "Bittu Maru" "Aki Maru" "Izumo Maru" "Ywami Maru" "Suo Maru" "Nagato Maru" "Bungo Maru"
+	"Budzeng Maru" "Tikuzen Maru"
+	"Tikugo Maru" "Hizzan Maru" "Higo Maru" "Tikushu Maru" "Huga Maru" "Osumi Maru" "Satsuma Maru" "Sassou Marou"
+}
+
+army_names = {
+	"Shiba Gong" "$PROVINCE$ gun" "$PROVINCE$ Jay" "$PROVINCE$ given at"
+}
+
+fleet_names = {
+	"Shiba Xuigong" "$PROVINCE$ Sungun" "$PROVINCE$ sandan" "$PROVINCE$ "
+}

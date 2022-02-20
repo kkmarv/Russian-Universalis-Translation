@@ -1,0 +1,112 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+
+color = { 127  180  60 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	economic_ideas
+	administrative_ideas
+	innovativeness_ideas
+	religious_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Reachea Bar #2" = 45
+	"Narayana Ramazidhati #0" = 20
+	"Soritey #1" = 20
+	"Thommo Reachea #0" = 35
+	"Srey Sukontor #0" = 20
+	"Ang Chang #0" = 15
+	"Reachea Ramazidhati #0" = 20
+	"Reachea Bar #0" = 20
+	"Whose Chettha #0" = 40
+	"Nei Khan #0" = 20
+	"Prei Rum #0" = 25
+	"Keo Hua #0" = 30
+	"Oteya Reachea #0" = 35
+	"Sri Dharmaja #0" = 30
+	"Padumaraja #0" = 30
+	"Ramazidhati #0" = 30
+	"Satha #1" = 20
+	"Rheam Reachea #0" = 20
+	"Narayanaraja #1" = 20
+	"Ponhua Yat #0" = 5
+	"Narayanaraja #0" = 5
+	"Sri Raj #0" = 5
+	"Rajajadhiraja #0" = 5
+	"Dharmarajhiraja #0" = 5
+	"Damcat Sukontor #0" = 5
+	"Ramea Chungprei #0" = 5
+	"Keo Ban Ohn. #0" = 5
+	"Ponhua Yor #0" = 5
+	"Ponhua An #0" = 5
+	"Ponhua Nôme #0" = 10
+	"Srey Soreyapir #0" = 5
+	"Udayaraja #0" = 5
+	"Pohnhea To #0" = 5
+	"Ang Non #0" = 10
+	"Ponghea Chan #0" = 5
+	"Ang Sur #0" = 5
+	"Ang Chea #0" = 5
+	"Ang Nan #0" = 5
+	"Ang Sor #0" = 5
+	"Ang Yong #0" = 5
+	"Ang Ehm #0" = 10
+	"Ang Tam #0" = 5
+	"Ang Sngone #0" = 5
+	"Ang Tong #0" = 5
+	"Ang Tong #0" = 5
+	"Ang Yong #0" = 5
+	"Ang Duong #0" = 5
+	
+	"Bofa #0" = -1
+	"Sacknea #0" = -1
+	"Ang Mei #0" = -1
+	"Anak Moneyang Krachap #0" = -1
+	"Neang Powe #0" = -1
+}
+
+leader_names = {
+	"Ann" "Bofa" "Chuck" "Charlie" "Chea" "Tea" "Chowb" "Chim" "Chowan" "Chop" "Dara"
+	"Daro" "Em ." "Heyang" "Hut" "Hou" "Ho" "High" "In" "Khai" "Khan" "Chuloth" "Khoen" "Khun"
+	"Khun" "Khut" "Lim" "Lorne" "Moon" "Mac" "Miang" "Meuse" "Meng" "Mok" "Mon" "Moul" "Nuck" "Us"
+	"Nari" "Nick" "Nimal" "Norodom" "Nung" "Noorne" "Nut" "Aun" "It's ." "Or" "Oh" "Oak" "Pang"
+	"Pen" "Phann" "Phaul" "Feng" "Von" "Picenda" "Prak" "Preap" "Prum" "Rangxi"
+	"Rat" "Riti" "Rose" "Saluk" "itself." "San" "Samfan" "Sarit" "Sari" "Sem" "Saint" "Syme"
+	"Cyn" "Syvorne" "Juice" "Juice" "Sokal" "Som" "Sorm" "Sun" "Tchit" "Thong" "T" "Touch" "Tum"
+	"Van" "Vannet" "Wiche" "Vojum" "Wooty" "Wai"
+}
+
+ship_names = {
+	"Angkor" "Angkor Tom" "Angkor Wat"
+	"Bayonne" "Bafoon" "Bati" "Bathay Srey"
+	"Banthey Kday" "Bantei Chmar" "Beng Melea"
+	"Isanapura"
+	"Koh Ker" "Kra Istmus" "Kompong Swi" "Koh Kor"
+	"Mekong" "Muang Xing" "Muang Tam"
+	"Nick Ping"
+	"Fimai" "Pre-Co" "Phnom Baheng" "Pra Pang Sam Yod" "Phnom Rang"
+	"Phnom Chisor" "Pre Vicher" "Prasat Kamfeng Yai"
+	"Roy Et"
+	"Sychhoraphum" "Strah Srang"
+	"Ta Keo" "Ta Prohm" "Tonle Sap"
+	"Vyadhapura" "Wat Banon" "Wat Nocor" "Wat Fu"
+	"Zhenla"
+}

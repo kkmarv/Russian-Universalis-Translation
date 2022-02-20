@@ -1,0 +1,104 @@
+# Country name see file name.
+
+graphical_culture = westerngfx
+
+color = { 15  128  253 }
+
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+leader_names = {
+	"McAnne" "McArhal" "McArthin" "McCarval" "McGonald"
+	"McLochlinn" "McMahama" "McSivna" "McEngusa" "McWeeder"
+	"O'Banan" "O'Baggill" "O'Canannaine" "O'Kinneh" "O'Casid" "O'Kella"
+	"O'Clereh" "O'Corcrane" "O'Kilenan" "O'Quinn" "O'Dubemha"
+	"O'Davin" "O'Dohart" "O'Dobylin" "O'Duhan" "O'Farahan"
+	"O'Flybertaig" "O'Flari" "O'Flannagan" "O'Higan" "O'Hanluan"
+	"O'Heinich" "O'Hinnerh" "O'Hira" "O'Longan" "O'Lorkan" "O'Malahan"
+	"O'Maldun" "O'Neill" "O'Ratbert"
+}
+
+monarch_names = {
+	"Art #0" = 60
+	"Conn #0" = 40
+	"Carbra #0" = 40
+	"Donal #0" = 40
+	"Ade #0" = 10
+	"Murha #0" = 10
+	"Rudhreich #0" = 10
+	"Felim #0" = 10
+	"Cormac #0" = 20
+	"Sean #0" = 10
+	"Torla #0" = 10
+	"Alois #0" = 0
+	"Alastar #0" = 0
+	"Angus #0" = 0
+	"Brady #0" = 0
+	"Brennan #0" = 0
+	"Brinach #0" = 0
+	"Calvah #0" = 0
+	"Kilan #0" = 0
+	"Carroll #0" = 0
+	"Kellach #0" = 0
+	"Cerball #0" = 0
+	"Kian #0" = 0
+	"Conan #0" = 0
+	"Connor #0" = 0
+	"Diarmeid #0" = 0
+	"Dual #0" = 0
+	"Eamon #0" = 0
+	"Phelan #0" = 0
+	"Farhar #0" = 0
+	"Fergus #0" = 0
+	"Finnlo'#0" = 0
+	"Flann #0" = 0
+	"Gallagher #0" = 0
+	"Goban #0" = 0
+	"Gradie #0" = 0
+	"Loman #0" = 0
+	"Malehan #0" = 0
+	"Murha #0" = 0
+	"Niwan #0" = 0
+	"Torin #0" = 0
+	
+	"Tallulla #0" = -1
+	"Padregin #0" = -1
+	"Liadan #0" = -1
+}
+
+ship_names = {
+	Ed
+	Badan
+	Coleman Cookstown 
+	Donal
+	Oha Ohan 
+	Fergal Fergus
+	Niall
+	Oma
+	Straban Suibne
+}

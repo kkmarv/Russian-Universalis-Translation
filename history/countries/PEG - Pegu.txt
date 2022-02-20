@@ -1,0 +1,296 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = mon
+religion = buddhism
+technology_group = chinese
+capital = 586	# Pegu
+
+
+1384.1.23 = {
+	monarch = {
+		name = "Razadarite"
+		dynasty = "Taungu"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1393.1.1 = {
+	heir = {
+		name = "Binha Dammaiza"
+		monarch_name = "Binha Dammaiza"
+		dynasty = "Taungu"
+		birth_date = 1393.1.1
+		death_Date = 1426.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1421.2.1 = {
+	monarch = {
+		name = "Binha Dammaiza"
+		dynasty = "Taungu"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1421.2.1 = {
+	heir = {
+		name = "Biña Ran"
+		monarch_name = "Biña Ran I"
+		dynasty = "Taungu"
+		birth_date = 1395.1.1
+		death_Date = 1446.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1426.1.1 = {
+	monarch = {
+		name = "Biña Ran I"
+		dynasty = "Taungu"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1426.1.1 = {
+	heir = {
+		name = "Biña Varu"
+		monarch_name = "Biña Varu"
+		dynasty = "Taungu"
+		birth_date = 1415.1.1
+		death_Date = 1450.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1446.1.1 = {
+	monarch = {
+		name = "Biña Varu"
+		dynasty = "Taungu"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1446.1.1 = {
+	heir = {
+		name = "Biña Chiang"
+		monarch_name = "Biña Chiang"
+		dynasty = "Taungu"
+		birth_date = 1426.1.1
+		death_Date = 1453.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1450.1.1 = {
+	monarch = {
+		name = "Biña Chiang"
+		dynasty = "Taungu"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1450.1.1 = {
+	heir = {
+		name = "Modo"
+		monarch_name = "Modo"
+		dynasty = "Taungu"
+		birth_date = 1450.1.1
+		death_Date = 1472.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1453.4.1 = {
+	monarch = {
+		name = "Modo"
+		dynasty = "Taungu"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1453.4.1 = {
+	heir = {
+		name = "Shinsobu"
+		monarch_name = "Shinsobu"
+		dynasty = "Taungu"
+		female = yes
+		birth_date = 1394.2.11
+		death_Date = 1471.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1453.11.1 = {
+	monarch = {
+		name = "Shinsobu"
+		dynasty = "Taungu"
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1453.11.1 = {
+	heir = {	
+		name = "Dimmazedi"
+		monarch_name = "Dimmazedi"
+		dynasty = "Taungu"
+		birth_date = 1412.1.1
+		death_Date = 1492.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1472.1.1 = {
+	monarch = {
+		name = "Dimmazedi"
+		dynasty = "Taungu"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1472.1.1 = {
+	heir = {
+		name = "Takayutpi"
+		monarch_name ="Takayutpi"
+		dynasty = "Taungu"
+		birth_date = 1461.1.1
+		death_Date = 1526.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1492.1.1 = {
+	monarch = {
+		name = "Takayutpi"
+		dynasty = "Taungu"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1511.1.1 = {
+	heir = {
+		name = "Smymsothu"
+		monarch_name = "Smymsothu"
+		dynasty = "Taungu"
+		birth_date = 1511.1.1
+		death_Date = 1539.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1526.1.1 = {
+	monarch = {
+		name = "Smymsothu"
+		dynasty = "Taungu"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1539.1.1 = { capital = 2403 } # Martaban
+
+# 1539-1550:Occupation by Taungu
+
+1550.6.1 = {
+	monarch = {
+		name = "Smeemsamut"
+		dynasty = "Hantawaddi"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1550.8.1 = {
+	monarch = {
+		name = "Smithto"
+		dynasty = "Taungu"
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+# 1552.3.12 End of the Wareru dynasty
+
+1740.1.1 = { capital = 586 } # Pegu
+
+1740.1.1 = {
+	monarch = {
+		name = "Smim Htav Buddakety"
+		dynasty = "Mon"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1740.1.1 = {
+	heir = {
+		name = "Biña Dala"
+		monarch_name = "Biña Dala"
+		birth_date = 1720.1.1
+		death_Date = 1767.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1747.12.1 = {
+	monarch = {
+		name = "Biña Dala"
+		dynasty = "Mon"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}

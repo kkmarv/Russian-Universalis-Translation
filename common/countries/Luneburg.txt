@@ -1,0 +1,97 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 135  109  147 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Otto #0" = 60
+	"Henry #5" = 40
+	"Ernst #0" = 40
+	"Friedrich #2" = 20
+	"Bernhardt #1" = 20
+	"August #0" = 20
+	"Christian #0" = 20
+	"Christian Ludwig #0" = 20
+	"Ernst August #0" = 20
+	"Franz #0" = 20
+	"George #0 Wilhelm" = 20
+	"George #0" = 20
+	"Johann Friedrich #0" = 20
+	"Magnus #2" = 10
+	"Franz Otto #0" = 10
+	"Johann #0" = 10
+	"Alexander #0" = 0
+	"Alois #0" = 0
+	"Anton #0" = 0
+	"Bruno #0" = 0
+	"Clemens #0" = 0
+	"Denis #0" = 0
+	"Herfrid #0" = 0
+	"Gottfried #0" = 0
+	"Gunter #0" = 0
+	"Helmut #0" = 0
+	"Herbert #0" = 0
+	"Ignatz #0" = 0
+	"Isidore #0" = 0
+	"Jacob #0" = 0
+	"Constantine #0" = 0
+	"Kuno #0" = 0
+	"Markus #0" = 0
+	"Martin #0" = 0
+	"Oscar #0" = 0
+	"Reinhardt #0" = 0
+	"Sylvester #0" = 0
+	"Stefan #0" = 0
+	"Victor #0" = 0
+	"Waldemar #0" = 0
+	
+	"Ingrid #0" = -1
+	"Katinka #0" = -1
+	"Martin #0" = -1
+}
+
+leader_names = {
+	"Ahlers" "Martin" "Pilken" "Rhinebeck" "Sylter" "von Hodenburg"
+	"Westermann" "Basedov" "Beu" "Bostelmann" "Braden" "Boermeister"
+	"Dietz" "Dupner" "Flatmann" "Garbad" "Gefken" "Herken" 
+}
+
+ship_names = {
+	"Margrave Billung" "Bishop Amelung"
+	"San Michael" "Lünenburg" "Duke Otto"
+	"Kulberk" "Ilmenau" "Duke Wilhelm"
+	"Magnus Torquatus" "Duke Ernst"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$" 
+}

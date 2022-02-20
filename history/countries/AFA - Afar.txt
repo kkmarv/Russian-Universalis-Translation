@@ -1,0 +1,121 @@
+government = monarchy
+add_government_reform = iqta
+technology_group = east_african
+unit_type = sub_saharan
+religion = sunni
+primary_culture = somali
+capital = 2764	#Aussa
+
+
+1573.1.1 = {
+	monarch = {
+		name = "Mansour"
+		dynasty = "Karanli"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1583.1.1 = {
+	monarch = {
+		name = "Adan"
+		dynasty = "Karanli"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1585.1.1 = {
+	monarch = {
+		name = "Sabraddin"
+		dynasty = "Karanli"
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+1613.1.1 = {
+	monarch = {
+		name = "Garden"
+		dynasty = "Karanli"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1632.1.1 = {
+	monarch = {
+		name = "Adan"
+		dynasty = "Karanli"
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1646.1.1 = {
+	monarch = {
+		name = "Ahmed"
+		dynasty = "Karanli"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1647.1.1 = {
+	monarch = {
+		name = "Umardin"
+		dynasty = "Karanli"
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}
+
+# Goes back to Harar, reformed by Mudaito dynasty
+
+1734.1.1 = {
+	monarch = {
+		name = "Gaddafi"
+		dynasty = "Modaito"
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+}
+
+1749.1.1 = {
+	monarch = {
+		name = "Mahamad"
+		dynasty = "Modaito"
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+1779.1.1 = {
+	monarch = {
+		name = "This is ."
+		dynasty = "Modaito"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1801.1.1 = {
+	monarch = {
+		name = "Asa"
+		dynasty = "Modaito"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+

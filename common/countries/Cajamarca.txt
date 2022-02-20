@@ -1,0 +1,108 @@
+#Country Name: Please see filename.
+
+graphical_culture = southamericagfx
+
+color = { 162 123 64 }
+
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	offensive_ideas
+	maritime_ideas
+	spy_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	south_american_spearmen
+	south_american_warfare
+	south_american_horsemen
+	inca_mountain_warfare
+	incan_slingshots
+	incan_axemen
+	south_american_gunpowder_warfare
+	south_american_reformed_gunpowder_warfare
+	south_american_arquebusier
+	westernized_incan
+	reformed_westernized_incan
+	incan_guerilla_warfare
+}
+
+leader_names = {
+	Ankimarka Apo Ataualpa Atok Atok-Suki Auki-Ouaman
+	Kanchari Chalkuchima Chalko Chiakitinta Chilce Cola Topa Curiatao Kusi 
+	Ukra Uritito Uritopa
+	Wachouri Waman Waskar Wypalcon
+	Ilawhale Inkil
+	Lliklik
+	Maila Maras Markavilka Maita 
+	Ninankoro
+	Oscok
+	Parinango Spider Paul Pomacapi Puma Puiu-Wilka
+	Kilako Kinhalumbo Kintirauraura Pussy Kiso
+	Rimak Ronpa
+	Kauauaraura Sothaurko
+	Tansy Tukuikuiché Tupak-Amaru
+	Yupanki
+}
+
+monarch_names = {
+	"Anka #0" = 10
+	"Anta #0" = 10
+	"Apurimac #0" = 10
+	"Atau #0" = 10
+	"Atauchi #0" = 10
+	"Atok #0" = 10
+	"Chosé #0" = 10
+	"Contour #0" = 10
+	"Uman #0" = 10
+	"Ankimarka #0" = 0
+	"Atok Sopa #0" = 0
+	"Cayo Topa #0" = 0
+	"Coylla #0" = 0
+	"Kusichaka #0" = 0
+	"Urytopa #0" = 0
+	"Uachuri #0" = 0
+	"Wypalcon #0" = 0
+	"Luíos #0" = 0
+	"Markavilka #0" = 0
+	"Ninan Kuiuchi #0" = 0
+	"Oko Varanka #0" = 0
+	"Pasca #0" = 0
+	"Pomaula #0" = 0
+	"Pumi Sopa #0" = 0
+	"Quispe Titou #0" = 0
+	"Ruminami #0" = 0
+	"Sauaraura #0" = 0
+	"Surandaman #0" = 0
+	"Cockroach #0" = 0
+	"Tukuykuche #0" = 0
+	"Usuka Curiatão #0" = 0
+	"Williak Umu #0" = 0
+	"Maita's Yamks #0" = 0
+	"Yupanki #0" = 0
+	"Sambisa #0" = 0
+	"Sopia #0" = 0
+
+	"Tamaya #0" = -1
+	"Vain #0" = -1
+}
+
+ship_names = {
+Apo Apocateekeel Ataguchu
+	"Ayar Anka" "Ayar Kachi" "Ayar Uchu"
+	Catecil Cavillacé Chasca "Cailour Chapel" Koniraya Kopakati Cusco
+	Eckeco
+	"Anan Pacha"
+	Inti Ilyapa
+	Con 
+	"Manko Kapak" "Mama Oklio" "Mama Wako" "Mama Raua" "Mama Kura"
+	"Coke's mom" "Mama Alpa" "Mama Pacha" "Kiella's mother" "Mama Sarah"
+	"Pacha Kamak" Pachakuchi Pariacaca Parisiya
+	Go to .
+	Titicaca
+	Urkauri "Uku Pacha"
+	Viracoca
+}

@@ -1,0 +1,411 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = bavarian
+religion = catholic
+capital = 65	# Mьnchen!
+
+
+1397.1.1 = {
+	monarch = {
+		name = "Ernst I"
+		dynasty = "von Vittelcbang"
+		birth_date = 1373.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+    	}
+}
+
+1401.3.27 = {
+	heir = {
+		name = "Albert"
+		monarch_name = "Albert III"
+		dynasty = "von Vittelcbang"
+		birth_date = 1401.3.27
+		death_date = 1460.2.29
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1438.7.3 = {
+	monarch = {
+		name = "Albert III"
+		dynasty = "von Vittelcbang"
+		birth_date = 1401.3.27
+		adm = 2	
+		dip = 2
+		mil = 2
+    	}
+}
+
+1438.7.3 = {
+	heir = {
+		name = "Johan"
+		monarch_name = "Johan IV"
+		dynasty = "von Vittelcbang"
+		birth_date = 1438.7.3
+		death_date = 1463.11.18
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1460.2.28  = {
+	monarch = {
+		name = "Johan IV"
+		dynasty = "von Vittelcbang"
+		birth_date = 1438.7.3
+		adm = 1	
+		dip = 0	
+		mil = 1
+	}
+}
+
+1460.2.28 = {
+	heir = {
+		name = "Sigmund"
+		monarch_name = "Sigmund I"
+		dynasty = "von Vittelcbang"
+		birth_date = 1437.7.26
+		death_date = 1501.2.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1463.11.20 = {
+	monarch = {
+		name = "Sigmund I"
+		dynasty = "von Vittelcbang"
+		birth_date = 1437.7.26
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1463.11.20 = {
+	heir = {
+		name = "Albert the Great"
+		monarch_name = "Albert IV Great"
+		dynasty = "von Vittelcbang"
+		birth_date = 1447.12.15
+		death_date = 1508.3.18
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1467.9.4   = {
+	monarch = {
+		name = "Albert IV Great"
+		dynasty = "von Vittelcbang"
+		birth_date = 1447.12.15
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1493.11.13 = {
+	heir = {
+		name = "William"
+		monarch_name = "William IV"
+		dynasty = "von Vittelcbang"
+		birth_date = 1493.11.13
+		death_date = 1550.3.7
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+1508.3.19  = {
+	monarch = {
+		name = "William IV"
+		dynasty = "von Vittelcbang"
+		birth_date = 1493.11.13
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+
+1528.2.29 = {
+	heir = {
+		name = "Albert"
+		monarch_name = "Albert V"
+		dynasty = "von Vittelcbang"
+		birth_date = 1528.2.29
+		death_date = 1579.10.24
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+}
+
+1550.3.7   = {
+	monarch = {
+		name = "Albert V"
+		dynasty = "von Vittelcbang"
+		birth_date = 1528.2.29
+		adm = 2	
+		dip = 3	
+		mil = 0
+	}
+}
+
+1550.3.7 = {
+	heir = {
+		name = "William"
+		monarch_name = "William V"
+		dynasty = "von Vittelcbang"
+		birth_date = 1548.9.29
+		death_date = 1626.2.7
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1579.10.25 = {
+	monarch = {
+		name = "William V"
+		dynasty = "von Vittelcbang"
+		birth_date = 1548.9.29
+		adm = 4	
+		dip = 1	
+		mil = 1
+	}
+}
+
+1579.10.25 = {
+	heir = {
+		name = "Maximilian"
+		monarch_name = "Maximilian I"
+		dynasty = "von Vittelcbang"
+		birth_date = 1573.4.17
+		death_date = 1651.9.27
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+}
+
+1597.10.16 = {
+	monarch = {
+		name = "Maximilian I"
+		dynasty = "von Vittelcbang"
+		birth_date = 1573.4.17
+		adm = 2	
+		dip = 4	
+		mil = 0
+	}
+}
+
+1609.1.1   = { leader = { name = "Tilly"	type = general	fire = 4	shock = 4	manuever = 3	siege = 1	death_date = 1632.4.30 } }
+
+1609.7.1 = {
+	join_league = catholic
+}
+
+1630.1.1   = { leader = { name = "Merky"	type = general	fire = 3	shock = 3	manuever = 1	siege = 0	death_date = 1645.8.3 } }
+
+1635.1.1   = { leader = { name = "von Werth"	type = general	fire = 3	shock = 2	manuever = 4	siege = 0	death_date = 1652.9.16 } }
+
+1636.10.31 = {
+	heir = {
+		name = "Ferdinand Maria"
+		monarch_name = "Ferdinand Maria I"
+		dynasty = "von Vittelcbang"
+		birth_date = 1636.10.31
+		death_date = 1679.5.26
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1641.1.1   = { leader = { name = "Grunsfield"	type = general	fire = 2	shock = 2	manuever = 2	siege = 0	death_date = 1660.1.1 } }
+
+1647.3.15 = {
+	leave_league = catholic
+}
+
+1651.9.28  = {
+	monarch = {
+		name = "Ferdinand Maria I"
+		dynasty = "von Vittelcbang"
+		birth_date = 1636.10.31
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1662.7.11 = {
+	heir = {
+		name = "Maximilian Emmanuelle"
+		monarch_name = "Maximilian II Emmanuel"
+		dynasty = "von Vittelcbang"
+		birth_date = 1662.7.11
+		death_date = 1726.2.26
+		claim = 95
+		adm  = 7
+		dip = 3
+		mil = 2
+		leader = { name = "Maximilian II Emmanuel"	type = general	fire = 2	shock = 3	manuever = 3	siege = 0 }
+	}
+}
+
+1679.5.27  = {
+	monarch = {
+		name = "Maximilian II Emmanuel"
+		dynasty = "von Vittelcbang"
+		birth_date = 1662.7.11
+		adm = 4
+		dip = 3
+		mil = 2
+		leader = { name = "Max II Emmanuel"	type = general	fire = 2	shock = 3	manuever = 3	siege = 0 }
+	}
+}
+
+1697.8.6 = {
+	heir = {
+		name = "Carl Albert"
+		monarch_name = "Carl Albert I"
+		dynasty = "von Vittelcbang"
+		birth_date = 1697.8.6
+		death_date = 1745.1.20
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+	
+1726.2.25  = {
+	monarch = {
+		name = "Carl Albert I"
+		dynasty = "von Vittelcbang"
+		birth_date = 1697.8.6
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1727.3.28 = {
+	heir = {
+		name = "Maximilian Joseph"
+		monarch_name = "Maximilian III Joseph"
+		dynasty = "von Vittelcbang"
+		birth_date = 1727.3.28
+		death_date = 1777.12.30
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+
+1740.1.1   = { leader = { name = "Sekendorf"	type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1763.11.23 } }
+
+
+1745.1.21  = {
+	monarch = {
+		name = "Maximilian III Joseph"
+		dynasty = "von Vittelcbang"
+		birth_date = 1727.3.28
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+
+1745.1.21 = {
+	heir = {
+		name = "Carl Theodore"
+		monarch_name = "Carl Theodore I"
+		dynasty = "von Vittelcbang"
+		birth_date = 1724.12.11
+		death_date = 1799.2.16
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+}
+
+1777.12.30 = {
+	monarch = {
+		name = "Carl Theodore I"
+		dynasty = "von Vittelcbang"
+		birth_date = 1724.12.11
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+}
+
+1777.12.30 = {
+	heir = {
+		name = "Maximilian Joseph"
+		monarch_name = "Maximilian IV Joseph"
+		dynasty = "von Vittelcbang"
+		birth_date = 1756.5.27
+		death_date = 1825.10.13
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+}
+
+1799.2.15  = {
+	monarch = {
+		name = "Maximilian IV Joseph"
+		dynasty = "von Vittelcbang"
+		birth_date = 1756.5.27
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+}
+
+1799.2.15 = {
+	heir = {
+		name = "Ludwig"
+		monarch_name = "Ludwig I"
+		dynasty = "von Vittelcbang"
+		birth_date = 1786.8.25
+		death_date = 1868.2.29
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1806.7.12 = { government_rank = 1 } # The HRE is formally abolished #government_rank = 2
+
+1813.10.20 = {
+	government_rank = 2
+}

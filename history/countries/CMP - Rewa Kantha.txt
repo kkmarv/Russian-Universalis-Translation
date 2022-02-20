@@ -1,0 +1,119 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = gujarati
+religion = hinduism
+technology_group = indian
+capital = 2056	# Rewa Kantha
+
+#Rulers of Champaner / Pavagadh
+
+1400.1.1 = {
+	monarch = {
+		name = "Palandev"
+		dynasty = "Chauhan"
+		DIP = 2
+		MIL = 3
+		ADM = 3
+	}
+}
+
+1400.1.1 = {
+	heir = {
+		name = "Patai Rawai"
+		monarch_name = "Patai Rawai"
+		dynasty = "Chauhan"
+		birth_date = 1400.1.1
+		death_date = 1484.1.1
+		claim = 95
+		DIP = 3
+		MIL = 4
+		ADM = 2
+	}
+}
+
+1440.1.1 = {
+	monarch = {
+		name = "Patai Rawai"
+		dynasty = "Chauhan"
+		DIP = 3
+		MIL = 4
+		ADM = 2
+	}
+}
+
+1440.1.1 = {
+	heir = {
+		name = "Privitraj"
+		monarch_name = "Patai Rawai"
+		dynasty = "Chauhan"
+		birth_date = 1440.1.1
+		death_date = 1484.1.1
+		claim = 95
+		DIP = 3
+		MIL = 4
+		ADM = 2
+	}
+}
+
+#1484 annexed
+
+#Chhota Udaipur rulers:
+
+1762.1.1 = {
+	monarch = {
+		name = "Arsisinji"
+		dynasty = "Chauhan"
+		DIP = 3
+		MIL = 3
+		ADM = 3
+	}
+}
+
+1762.1.1 = {
+	heir = {
+		name = "Hamirsinji"
+		monarch_name = "Hamirsinji II"
+		dynasty = "Chauhan"
+		birth_date = 1740.1.1
+		death_date = 1777.1.1
+		claim = 95
+		DIP = 3
+		MIL = 2
+		ADM = 2
+	}
+}
+
+1771.1.1 = {
+	monarch = {
+		name = "Hamirsinji II"
+		dynasty = "Chauhan"
+		DIP = 3
+		MIL = 2
+		ADM = 2
+	}
+}
+
+1771.1.1 = {
+	heir = {
+		name = "Bihimsinhji"
+		monarch_name = "Bihimsinhji"
+		dynasty = "Chauhan"
+		birth_date = 1760.1.1
+		death_date = 1822.1.1
+		claim = 95
+		DIP = 2
+		MIL = 2
+		ADM = 2
+	}
+}
+
+1777.1.1 = {
+	monarch = {
+		name = "Bihimsinhji"
+		dynasty = "Chauhan"
+		DIP = 2
+		MIL = 2
+		ADM = 2
+	}
+}

@@ -1,0 +1,114 @@
+government = monarchy
+add_government_reform = iqta
+technology_group = muslim
+religion = shiite
+primary_culture = bedouin_arabic ### STT
+capital = 398	# Sharjah
+
+
+1719.1.1= {
+	monarch = {
+		name = "Rashid I"
+		dynasty = "al-Qasimi"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+	add_piety = 0.1
+}
+
+1757.1.1 = {
+	heir = {
+		name = "Sacr"
+		monarch_name = "Sacr I"
+		dynasty = "al-Qasimi"
+		birth_date = 1757.1.1
+		death_date = 1803.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1777.1.1 = {
+	monarch = {
+		name = "Sacr I"
+		dynasty = "al-Qasimi"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1783.1.1 = {
+	heir = {
+		name = "Sultan"
+		monarch_name = "Sultan I"
+		dynasty = "al-Qasimi"
+		birth_date = 1783.1.1
+		death_date = 1808.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1803.1.1 = {
+	monarch = {
+		name = "Sultan I"
+		dynasty = "al-Qasimi"
+		dip = 2
+		adm = 1
+		mil = 2
+	}
+}
+
+1803.1.1 = {
+	heir = {
+		name = "Ah-Hussein"
+		monarch_name = "Ah-Hussein"
+		dynasty = "al-Qasimi"
+		birth_date = 1785.1.1
+		death_date = 1814.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+1808.1.1 = {
+	monarch = {
+		name = "Ah-Hussein"
+		dynasty = "al-Qasimi"
+		dip = 0
+		adm = 3
+		mil = 2
+	}
+}
+
+1808.1.1 = {
+	heir = {
+		name = "Al-Hassan"
+		monarch_name = "Al-Hassan"
+		dynasty = "al-Qasimi"
+		birth_date = 1790.1.1
+		death_date = 1814.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1814.1.1 = {
+	monarch = {
+		name = "Al-Hassan"
+		dynasty = "al-Qasimi"
+		dip = 1
+		adm = 2
+		mil = 2
+	}
+}

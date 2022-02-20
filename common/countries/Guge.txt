@@ -1,0 +1,81 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 50  37  125 }
+
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	chinese_longspear
+	eastern_bow
+	chinese_footsoldier
+	chinese_steppe
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	manchu_banner
+	han_banner
+	asian_musketeer
+	chinese_dragoon
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+	reformed_manchu_rifle
+}
+
+monarch_names = {
+	"Nam Ryal Lde. #0" = 20
+	"Nam Mha and Dban on Fun Chogs Lde. #0" = 20
+	"Nam Ri Sang Ryas Lde. #0" = 20
+	"Blo Bzan Rab Brtan #0" = 20
+	"Stood Cha Fags Pa Lha #0" = 20
+	"Shakya Od #0" = 20
+	"Jig Rten Dban Fug Pad Kar Lde #0" = 20
+	"Ngag Guy Dban Fug #0" = 20
+	"Nam Mha Dban Fueg #0" = 20
+	"Hri Ni Ma Dban Fueg #0" = 20
+	"Hris Grugs Pai Dban Fueg #0" = 20
+	"Hri Nam Ryal Grugs Pa Lde. #0" = 20
+	"Chris Bkra Shees Grugs Pa Lde #0" = 20
+	"Pratapamalla #0" = 20
+	"Halleanamallah #0" = 20
+	"Ajitamallah #0" = 20
+
+	"Kamala #0" = -1
+	"Indira #0" = -1
+}
+
+leader_names = {
+	Gampo
+	Song
+	Sregse
+	Tekchen
+	Sonam
+	Tashi
+	Zevan
+	Wande
+	Wandak
+	Funzk
+}
+
+ship_names = {
+	Barkam
+	Darcendo
+	Giangze Garza
+	Lhasa Lhotse
+	Makalu
+	Nagku Ninchi Nedun
+	Pelbar
+	Camdo
+	Shigatse Sakya
+	Tingri
+}

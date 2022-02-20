@@ -1,0 +1,268 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 211  220  178 }
+revolutionary_colors = { 1  0  5 } #Roman Republic (1798-1799)
+
+historical_score = 50
+
+historical_idea_groups = {
+	administrative_ideas
+	diplomatic_ideas
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Clement #6" = 160
+	"Innocentius #6" = 140
+	"Pius #1" = 120
+	"Gregory #11" = 80
+	"Paul #1" = 80
+	"Alexander #5" = 60
+	"Benedict #12" = 40
+	"Leo #9" = 40
+	"Urban #6" = 40
+	"Sixtus #3" = 40
+	"Julius #1" = 40
+	"Boniface #8" = 20
+	"Adrian #5" = 20
+	"Martin #4" = 20
+	"Nicholas #4" = 20
+	"Eugene #3" = 20
+	"Calixtus #2" = 20
+	"Marcellus #1" = 20
+	"John #22" = 15
+	"Celestine #5" = 15
+	"Gonorius #4" = 10
+	"Aldo #0" = 0
+	"Alfonso #0" = 0
+	"Baldovino #0" = 0
+	"Chirillo #0" = 0
+	"Cosimo #0" = 0
+	"Damiano #0" = 0
+	"Edgidio #0" = 0
+	"Franco #0" = 0
+	"Jambattista #0" = 0
+	"Ippolito #0" = 0
+	"Leandro #0" = 0
+	"Marzio #0" = 0
+	"Ovideo #0" = 0
+	"Pietro #0" = 0
+	"Prospero #0" = 0
+	"Rafaello #0" = 0
+	"Spike #0" = 0
+	"Theodosio #0" = 0
+	"Vittorio #0" = 0
+	
+	"Magdalene #0" = -1
+	"Maria #0" = -1
+	"Eva #0" = -1
+}
+
+leader_names = {
+	"Abano"
+	"Adria"
+	"Agno"
+	"Alvise"
+	"Anconna"
+	"Argenta"
+	"Bardolino"
+	"Barilla"
+	"Bassano"
+	"Belfuno"
+	"Belluno"
+	"Bembo"
+	"Brent"
+	"Brescia"
+	"Casanova"
+	"Cassandro"
+	"Castiglione"
+	"Canton"
+	"Kyoja"
+	"Kommacchio"
+	"Kontarini"
+	"Corfini"
+	"Corleone"
+	"Cornaro"
+	"Cremona"
+	"de Blatzio"
+	"di Castrozza"
+	"Dolphin"
+	"Emo"
+	"Erizzo"
+	"Ermelli"
+	"Feltre"
+	"Farm"
+	"Ferrara"
+	"Fiume"
+	"Flagini"
+	"Foscarini"
+	"Friuli"
+	"GARDA"
+	"Gardone"
+	"Judica"
+	"Giustani"
+	"Gorizia"
+	"Gordo"
+	"Grimani"
+	"Gritty"
+	"Idro"
+	"Iseo"
+	"Izonzo"
+	"Lando"
+	"Latizana"
+	"Legiano"
+	"Lido"
+	"Lignano"
+	"Lissa"
+	"Livenza"
+	"Loredano"
+	"Manho"
+	"Mantova"
+	"Meduna"
+	"Memmo"
+	"Mestre"
+	"Mincho"
+	"Modigliano"
+	"Molini"
+	"Montfalconet"
+	"Oglio"
+	"Padova"
+	"Panaro"
+	"Pesaro"
+	"Pezzini"
+	"Piave"
+	"Ponte Vechio"
+	"Pontebba"
+	"Pordenone"
+	"Pramajorie"
+	"Priuli"
+	"Ragusse"
+	"Rovereto"
+	"Rovigo"
+	"Ruzzini"
+	"São Paulo"
+	"Syo"
+	"Serio"
+	"Sugayna"
+	"Tagliamento"
+	"Tartaro"
+	"Tolmezzo"
+	"Toscani"
+	"Trento"
+	"Trevisano"
+	"Treviso"
+	"Trieste"
+	"Udine"
+	"Valieri"
+	"Verona"
+	"Vicenza"
+	"Vittorio"
+	"Dzara"
+	"Giustiniani"
+}
+
+ship_names = {
+	"Abraham"
+	"Adam"
+	"Angels"
+	"Archangels"
+	"Archangel Gabriel"
+	"Archangel Michael"
+	"Archangel Raphael"
+	"Cherubs"
+	"Body of Christ"
+	"King David"
+	"Domains"
+	"Bishop of Rome"
+	"Eva"
+	"Francis of Assisi"
+	"Jerusalem"
+	"Jesus Christ"
+	"John Baptist"
+	"Job"
+	"Isaac"
+	"Moses"
+	"Noah"
+	"Father and Pastor"
+	"Pontiff"
+	"Powers"
+	"Start ."
+	"King Solomon"
+	"St. Birgitte"
+	"St. Alexander"
+	"St. Ambrosius"
+	"St. Andrew"
+	"St. Anselm"
+	"St. Augustine"
+	"St. Bartholomew"
+	"St. Bernard"
+	"St Bonaventure"
+	"St. Cassian"
+	"St. Cyprian"
+	"St. Dominic"
+	"St. Jerome"
+	"St. Hilary"
+	"St. Hippolyte"
+	"St. John"
+	"St. Joseph"
+	"St. Isidore"
+	"St. Jude."
+	"St. Leo"
+	"St. Lin"
+	"St. Matthew"
+	"St. Matthias"
+	"St. Patricia"
+	"St. Paul"
+	"St. Peter"
+	"St. Philip"
+	"Saint Simon"
+	"St. Sinesius"
+	"St. Thomas"
+	"St. Urbana"
+	"Seraphs"
+	"St. Albert the Great"
+	"St. Anthony Padovansky"
+	"St. Basil the Great"
+	"St. Trouble The Honourable"
+	"St. Catherine of Siena"
+	"St. Cyrus Senior"
+	"St. Kirian Jr."
+	"St. Ephraim Syriac"
+	"St. Gregory the Great"
+	"St. Jacob's Alphaeus"
+	"St. James the Younger"
+	"St. John Damascene"
+	"St. Peter the Christologist"
+	"St. Peter Damian"
+	"St. Thomas Aquinas"
+	"Thrones"
+	"Virgin Mary"
+	"Authorities"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$"
+}

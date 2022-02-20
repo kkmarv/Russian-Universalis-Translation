@@ -1,0 +1,123 @@
+#Riga
+
+graphical_culture = westerngfx
+
+color = { 183  176  194 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	spy_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+}
+
+monarch_names = {
+	"Johann #4" = 60
+	"Henning #0" = 20
+	"Kaspar #0" = 20
+	"Michael #0" = 20
+	"Sylvester #0" = 20
+	"Stefan #0" = 20
+	"Thomas #0" = 20
+	"William #0" = 20
+	"Frommhold #1" = 15
+	"Henning #1" = 15
+	"Siegfried #1" = 15
+	"Albrecht #2" = 10
+	"Engelbert #1" = 10
+	"Friedrich #1" = 10
+	"Nikolaus #1" = 10
+	"Adalbert #0" = 0
+	"Adam #0" = 0
+	"Arnold #0" = 0
+	"Bernhardt #0" = 0
+	"Boniface #0" = 0
+	"Cornelius #0" = 0
+	"Dietrich #0" = 0
+	"Egon #0" = 0
+	"Ferdinand #0" = 0
+	"Gregor #0" = 0
+	"Gunter #0" = 0
+	"Humbert #0" = 0
+	"Isidore #0" = 0
+	"Joseph #0" = 0
+	"Constantine #0" = 0
+	"Lothar #0" = 0
+	"Marzel #0" = 0
+	"Markus #0" = 0
+	"Matthias #0" = 0
+	"Oscar #0" = 0
+	"Pankratz #0" = 0
+	"Rudolph #0" = 0
+	"Siegbert #0" = 0
+	"Theodore #0" = 0
+	"Xavier #0" = 0
+	
+	"Lyme #0" = -1
+	"Valda #0" = -1
+	"Brigita #0" = -1
+}
+
+leader_names = {
+	"Stein"
+	"Finkelstein"
+	"Canter"
+	"Nyman"
+	"Shaper"
+	"Levin"
+	"Nyman"
+	"Elkins"
+	"Gerder"
+	"Balderis"
+	"Eisenstein"
+	"Shtrock"
+	"Tal"
+	"Zander"
+	"von Nauen"
+	"Sauerbeer"
+	"background moon"
+	"von Wechten"
+	"von Schwerin"
+	"Tacon"
+	"von Pernstein"
+	"von Dahlen"
+	"Blomberg"
+	"von Zinten"
+	"von Wallenrodt"
+	"Ambundi"
+	"Sharpenberg"
+}
+
+ship_names = {
+	"George"
+	"Maria"
+	"Christopher"
+	"Barbara"
+	"Margaret"
+	"Leonard"
+	"Thomas"
+	"Julian"
+	"Johan"
+	"Katerina"
+}

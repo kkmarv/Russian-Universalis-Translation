@@ -1,0 +1,112 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 123  71  65 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	maritime_ideas
+	trade_ideas
+	quality_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	japanese_archer
+	eastern_bow
+	japanese_footsoldier
+	japanese_samurai
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = { # Most Monarchs were named with "Chika"
+	"Tikayo #0" = 50
+	"Yoshinao #0" = 50
+	"Tikahide #0" = 50
+	"Tikatoki #0" = 50
+	"Yoriasu #0" = 50	
+	"Sadatica #0" = 50	
+	"Sadamune #0" = 50	
+	"Ujitoki #0" = 50	
+	"Ujiyasu #0" = 50
+	"Ujitsugu #0" = 50
+	"Tikaaki #0" = 50
+	"Motinao #0" = 50
+	"Tikatsuna #0" = 50
+	"Tikataka #0" = 50
+	"Tikashige #0" = 50
+    "Masatica #0" = 50
+	"Yoshisuke #0" = 50
+	"Tikaharu #0" = 50
+	"Yoshinaga #0" = 50	
+	"Yoshiaki #0" = 50	
+	"Yoshige #0" = 50	
+	"Tikaie #0" = 50	
+	"Tikamori #0" = 50
+	"Yoshimune #0" = 50
+	"Yoshinori #0" = 50
+	"Toku #0" = -5
+	"Sen #0" = -5
+	"Tama #0" = -5
+	"Aya #0" = -5
+	"Ina #0" = -5
+}
+
+leader_names = {
+   # Daimyo names
+	Akamatsu Akichi Asakura Ashikaga Amago Aso Tosokabe Date Hatakeyama	
+	Ichizyo Imagawa Ishiki Ito Jimbo Kikuchi Kono Matsunaga Miyoshi Mogami
+	Mori Nagao Oda Ogasawara Otomo Outi Ryujoji Sagara Saito Satake Satomi
+	Shiba Shimazu Takeda Toki Toyotomi Tsutsui Ukita Uesugi Uragami
+	Yamana Hosokawa Hojo Mimura
+	# Otomo 
+	Otomo Otomo Otomo Otomo Otomo Otomo Otomo Otomo 
+	Otomo Otomo Otomo Otomo Otomo Otomo Otomo Otomo 
+	# Vassals of the Otomo clan
+    Tabata Tabata Tabata Hetsugi Hetsugi Hetsugi Hetsugi 
+	Tsutsumi Tsutsumi Tsutsumi Tsutsumi Shiga Shiga Shiga 
+	Takuma Takuma Takuma Takuma Irita Irita Irita Irita Irita Irita 
+	Usuki Usuki Usuki Yoshihiro Yoshihihiro Yoshihihiro Yoshihihiro 
+	Kituke Kituke Kituke Kituke Ichimada Ichimada Ichimada Ichimada Ichimada 
+	Tahoeka Tahoeka Tahoeka Tahoeka Tatibana Tatibana Tatibana Tatibana 
+	Kiyota Kiyota Kiyota Saeki Saeki Saeki Saeki Saeki Saeki 
+    Takahashi Takahashi Takahashi Takahashi Kamati Kamati Kamati Kamati 
+	# Regional names:Kyushu
+	Shuni Munakata Akizuki Harada Tatibana Shibukawa Ki Aso Moji Kamati Takahashi
+	Kusano Montyujo Hoshino Ryujoji Tiba Nabesima Kamishiro Otomo Hetsugi Shiga Ichimada
+	Saeki Usuki Yoshihiro Kikuchi Aso Sagara Akahoshi Jo Kumabe Kai Amakusa Ito Tsushimoti
+	Hongo Niyiro Mayor Shimazu Irikiin Ei Ijuin Togo Kawakami Gamo Najime Tanegashima Kimotsuki
+}
+
+ship_names = {
+	"Mutsu Maru" "Deva Maru" "Shimotsuke Maru"
+	"Hitati Maru"
+	"Kazusa Maru" "Simousa Maroux" "Awa Maru" "Musashi Maru" "Kojuke Maru" "Izu Maru" "This Maru" "Ettu Maroux"
+	"Kaga Maru" "Noto Maru" "Suruga Maru" "Totomi Maru" "Josu Maru" "Aenseu Maru" "Bushu Maru" "Essue Maroux"
+	"Mikawa Maru" "Usu Maru" "Sosu Maru" "Bosu Maru" "Kai Maru" "Shinshu Maru" "Kosu Maru"
+	"Owari Maru" "Bisu Maru" "Mino Maru" "Etizen Maru" "Ise Maru" "Sima Maru" "Omi Maru" 
+	"Gosiu Maru" "Yamashiro Maru" "Vakasa Maru" "Tamba Maru" "Tango Maru" "Yamato Maru" "Ki Maru"
+	"Kishu Maru" "Iga Maru" "Sanguki Maru" "Toza Maru"
+	"Yeo Maru" "Harima Maru" "Bansiu Maru"
+	"Hoki Maru" "Inaba Maru" "Bizen Maru" "Mimasaka Maru" "Binsu Maru"
+	"Bingo Maru" "Bittu Maru" "Aki Maru" "Izumo Maru" "Ywami Maru" "Suo Maru" "Nagato Maru" "Bungo Maru"
+	"Budzeng Maru" "Tikuzen Maru"
+	"Tikugo Maru" "Hizzan Maru" "Higo Maru" "Tikushu Maru" "Huga Maru" "Osumi Maru" "Satsuma Maru" "Sassou Marou"
+}
+
+army_names = {
+	"Otomo Gong" "$PROVINCE$ gun" "$PROVINCE$ Jay" "$PROVINCE$ given at"
+}
+
+fleet_names = {
+	"Otomo Sung" "$PROVINCE$ Sungun" "$PROVINCE$ sandan" "$PROVINCE$ "
+}

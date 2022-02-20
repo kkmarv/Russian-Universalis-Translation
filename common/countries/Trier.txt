@@ -1,0 +1,122 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 208  104  44 }
+
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Johann #1" = 100
+	"Jacob #0" = 60
+	"Clemens Wenzel #0" = 20
+	"Franz George #0" = 20
+	"Franz Ludwig #0" = 20
+	"Johann Hugo #0" = 20
+	"Johann Ludwig #0" = 20
+	"Johann Philippe #0" = 20
+	"Karl Joseph #0" = 20
+	"Karl Kaspar #0" = 20
+	"Lothar #0" = 20
+	"Otto #0" = 20
+	"Philip Christoph #0" = 20
+	"Raban #0" = 20
+	"Richard #0" = 20
+	"Werner #0" = 20
+	"Boehmund #2" = 15
+	"Kuno #2" = 15
+	"Henry #3" = 10
+	"Arnold #2" = 10
+	"Dieter #1" = 10
+	"Alexander #0" = 0
+	"Andreas #0" = 0
+	"Baldur #0" = 0
+	"Bruno #0" = 0
+	"Clemens #0" = 0
+	"Denis #0" = 0
+	"Eckhardt #0" = 0
+	"Ernst #0" = 0
+	"Florian #0" = 0
+	"Gregor #0" = 0
+	"Guntram #0" = 0
+	"Helmfried #0" = 0
+	"Jurgen #0" = 0
+	"Martin #0" = 0
+	"Maximilian #0" = 0
+	"Mikael #0" = 0
+	"Rainer #0" = 0
+	"Siegert #0" = 0
+	"Sigismund #0" = 0
+
+	"Casimir #0" = -1
+	"Lydia #0" = -1
+	"Nicola #0" = -1
+}
+
+leader_names = {
+	"Bakkes"
+	"Corgell"
+	"Dunfels"
+	"Feltes"
+	"Gehrig"
+	"Hecker"
+	"Gerrych"
+	"Kettler"
+	"Loman"
+	"Longhnich"
+	"Pinkernell"
+	"Schmitt"
+	"Tristante"
+	"Wellner"
+	"Zimmer"
+}
+
+ship_names = {
+	"Sweich"
+	"Kenn"
+	"Longueich"
+	"Mertesdorf"
+	"Kassel"
+	"Waldrach"
+	"Morshide"
+	"Corlingen"
+	"Gusterat"
+	"Hockweiler"
+	"Needle"
+	"Aah"
+	"Nevel"
+	"Cordelle"
+	"Cemmer"
+}
+
+army_names = {
+	"Archbishop's Guard"
+	"Provincial Army. $PROVINCE$"
+}

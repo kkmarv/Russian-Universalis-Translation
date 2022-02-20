@@ -1,0 +1,105 @@
+#Muzaffarids
+
+graphical_culture = muslimgfx
+
+color = { 139  95  158 }
+
+historical_idea_groups = {
+	administrative_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	maritime_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Hussain #0" = 20
+	"Uweiss #0" = 20
+	"Ahmad #0" = 20
+	"Mahmoud #0" = 20
+	"Muhammad #0" = 20
+	"Shah Walad #0" = 20
+	"Hassan #0" = 15
+	"Rushud #0" = 15
+	"Ismayil #0" = 10
+	"Kasim #0" = 10
+	"Abbas #0" = 0
+    "Abdul-Karim #0" = 0
+	"Abdul-Rahman #0" = 0
+	"Anwar #0" = 0
+	"Atuf #0" = 0
+	"Bakr #0" = 0
+	"Fahd #0" = 0
+	"Farouk #0" = 0
+	"Fouad #0" = 0
+	"Hakim #0" = 0
+    "Harun #0" = 0
+	"Hikmad #0" = 0
+	"Hisham #0" = 0
+	"Iqbal #0" = 0
+	"Jafar #0" = 0
+    "Jamaal #0" = 0
+	"Karim #0" = 0
+	"Khalil #0" = 0
+    "Malik #0" = 0
+	"Mirza #0" = 0
+	"Najib #0" = 0
+	"Rasul #0" = 0
+	"Shimun #0" = 0
+	"Taruk #0" = 0
+	"Osama #0" = 0
+	"Yassir #0" = 0
+	"Yusuf #0" = 0
+	"Zaid #0" = 0
+	"Zayad #0" = 0
+	"Zulkifar #0" = 0
+}
+
+leader_names = {
+	Ruh
+	Jaagir
+	Sayid
+	Uweiss
+	Hussein
+	Ahmad
+	Mahmoud
+	Mirza
+	Mausin
+	Zaman
+}
+
+ship_names = {
+	Ardabil
+	Bahura Balukh Balkh
+	Herat
+	Isfahan
+	Kerman Kish Khorezm Kandahar
+	Lahore
+	Merv
+	Nishapur
+	Hormuz
+	Rustam
+	Sikandar Sebzevar Shurlakh Samarkand
+	Tamerlan Tariz
+	"Hash Rukh"
+}
+
+
+

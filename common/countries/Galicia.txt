@@ -1,0 +1,114 @@
+#Country Name: Galicia
+
+graphical_culture = westerngfx
+
+color = { 240  167  130 }
+
+historical_idea_groups = {
+	religious_ideas
+	maritime_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Garcia #1" = 20
+	"Ordonio #2" = 20
+	"Alfonso #5" = 15
+	"Sancho #1" = 15
+	"Ramiro #3" = 10
+	"Bermudo #2" = 10
+	"Frouela #2" = 10
+	"Aleixo #0" = 0
+	"Alvaro #0" = 0
+	"Ankso #0" = 0
+	"Balthasar #0" = 0
+	"Bernaldo #0" = 0
+	"Bret #0" = 0
+	"Carlos #0" = 0
+	"Kristovo #0" = 0
+	"Domingos #0" = 0
+	"Estevo #0" = 0
+	"Felipe #0" = 0
+	"Fernand #0" = 0
+	"Francisco #0" = 0
+	"Frederico #0" = 0
+	"Gonzalo #0" = 0
+ 	"Guillerme #0" = 0
+	"Humersindo #0" = 0
+	"Enrique #0" = 0
+	"Ermenexildo #0" = 0
+	"Hixino #0" = 0
+	"Hugo #0" = 0
+	"Yago #0" = 0
+	"Ignacio #0" = 0
+	"Leandro #0" = 0
+	"Lope #0" = 0
+	"Miguel #0" = 0
+	"Nunho #0" = 0
+	"Odon #0" = 0
+	"Paulo #0" = 0
+	"Pedro #0" = 0
+	"Ramon #0" = 0
+	"Roe #0" = 0
+	"Tom #0" = 0
+	"Vitor #0" = 0
+	"Joan #0" = 0
+	"Jorge #0" = 0
+	
+	"Branca #0" = -1
+	"Irya #0" = -1
+	"Sabela #0" = -1
+}
+
+leader_names = {
+	"de Aguirre" "de Alarcón" "de Toledo" "de Andrade" "de Ayala"
+	"de Bassan" "de Benavides" Campomanes "de Castilla" "de la Serda" "Cienfuegos" "Column" "Coronado" "Cortez"
+	"de Toledo" "de Cordoba" "de la Cueva" "de Figueroa" "Fonseca"
+	Galves Gomez "de Guzmán" "Jimenez de Cisneros"
+	"de Leyva" "Lopez de Aro" "de Luna"
+	"de Lara" "de Velasco" "de Villein" "de Mendoza"
+	"Narvaes" "de Nebrija" "Nuñez de Balboa" "de Ojeda" "Orellana" "Osorio" 
+	"Pimento" "Pinson" "Pizarro" "Ponce de León" "Portocarrero"
+	"de Rojas" "Teles-Hiron" "de la Vega" "de Zúñiga"
+}
+
+ship_names = {
+	"Galicia" "Argonauta" "Asturias" "Asunción" "Atrevido" "Azor"
+	"Kartagonova" "Castilla" "Castillo Negro" "Castor" "Cervo Volante"
+	"Doncella" "Dragon" 
+	"El Grande Green" "El Retiro" "Eneas" "Eolo" "Esperanza" "Espiritu Santo" "Extremadura"
+	"Furore" "Grand Griffin" "Alkon" "Ercules" "Isabela" "Hooper"
+	"La Concepcion" "La Magdalena" "La Manuela" "Leon" "Lehera" "Lobo Marino"
+	"Marte" "Mercurio" "Neptuno" "Ninja" "Orion"
+	"Paloma Blanca" "Pegaso" "Perro Marino" "Pinta" "Pluto" "Pollux" "Principe de Asturias"
+	"Rayo" "Real Alfonso" "Real Enrique" "Real Juan" "Ray Pelayo" "Ray Rodrigo"
+	"San Andres" "San Antonio" "San Bartolomé" "San Bernabé" "San Cristobal" "San Enrique"
+	"San Esteban" "San Fernando" "San Francisco" "San Gabriel" "San Isidoro" "San Jeronimo"
+	"San Jose" "San Juan" "San Juan Bautista" "San Leandro" "San Miguel" "San Pedro"
+	"San Rafael" "San Salvador" "San Sebastian" "Santa Ana" "Santa Barbara" "Santa Beatrice"
+	"Santa Catalina" "Santa Cruz" "Santa Fe" "Santa Isabel" "Santa Justa" "Santa Maria"
+	"Santa Marta" "Santa Rita" "Santa Teresa" "Santiago" "Santisima Trinidad" "Santo Domingo" "Serena"
+	"Terror" "Toledo" "Trinidad" "Triton" "Unicornio"
+	"Vensedora" "Ventura" "Victoria" "Vihilante" "Whiskaya" "Vulcano" "Sunyga"
+}

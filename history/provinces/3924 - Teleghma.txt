@@ -1,0 +1,25 @@
+#3924 - Teleghma
+
+owner = TUN
+controller = TUN 
+culture = algerian
+religion = sunni
+capital = "Telegram"
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = TUN
+add_core = KBA
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+1521.1.1 = { owner = ALG controller = ALG add_core = ALG }
+1570.1.1 = { owner = TUR controller = TUR add_core = TUR } 
+1711.1.1 = { owner = ALG controller = ALG remove_core = TUR }
+1837.10.13 = { controller = RFC }
+1847.12.22 = { owner = RFC add_core = RFC }

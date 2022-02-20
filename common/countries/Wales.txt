@@ -1,0 +1,176 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 117  127  174 }
+
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	offensive_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+leader_names = {
+	"Bennett"
+	"Bevan"
+	"Bauen"
+	"Cadelle"
+	"Cadwallader"
+	"Daniels"
+	"Davis"
+	"Davis"
+	"Edwards"
+	"Ellis"
+	"Evans"
+	"Griffiths"
+	"Gow"
+	"Guin"
+	"Harris"
+	"Hopkins"
+	"Howells"
+	"Hughes"
+	"Humphreys"
+	"James"
+	"Jenkins"
+	"John"
+	"Jones"
+	"Lewis"
+	"Lliwelin"
+	"Lloyd"
+	"Madog"
+	"Matthews"
+	"Meredith"
+	"Merrick"
+	"Morgan"
+	"Morris"
+	"Mostin"
+	"Owen"
+	"Perry"
+	"Phillips"
+	"Powell"
+	"Pris"
+	"Price"
+	"Pritchard"
+	"Protero"
+	"Pew"
+	"Fig"
+	"Richards"
+	"Roberts"
+	"Rogers"
+	"Thomas"
+	"Vaughan"
+	"Watkins"
+	"Williams"
+}
+
+monarch_names = {
+	"Avain #3" = 20
+	"Davit . #3" = 10
+	"Griffith #3" = 10
+	"Lliwelin #3" = 10
+	"Rodri #3" = 10
+	"Maredit #2" = 10
+	"Keenan #1" = 10
+	"Cadualadar #3" = 5
+	"Yago #3" = 5
+	"Edwal #2" = 5
+	"Mailguin #2" = 5
+	"Aion #1" = 5
+	"Ioruet #1" = 5
+	"Trajaiarn #1" = 5
+	"Iron #0" = 0
+	"Aled #0" = 0
+	"Aneirin #0" = 0
+	"Arvel #0" = 0
+	"Beruin #0" = 0
+	"Brynmore #0" = 0
+	"Cadweil #0" = 0
+	"Kadok #0" = 0
+	"Kadugaun #0" = 0
+	"Keline #0" = 0
+	"Cleduin #0" = 0
+	"Colwin #0" = 0
+	"Give me . #0" = 0
+	"Dilwin #0" = 0
+	"Emir #0" = 0
+	"Gauain #0" = 0
+	"Glynn #0" = 0
+	"Guin #0" = 0
+	"Hetween #0" = 0
+	"Hailin #0" = 0
+	"Howell #0" = 0
+	"Ryan #0" = 0
+	"Tristan #0" = 0
+	"Tidor #0" = 0
+	"Urien #0" = 0
+	"Vaughan #0" = 0
+	
+	"Keridwen #0" = -1
+	"Elaine #0" = -1
+	"Gwenite #0" = -1
+}
+
+ship_names = {
+	"Bedouir"
+	"Bricheiniog"
+	"Cadualadre"
+	"Cairdit"
+	"Kairnarvon"
+	"Karadok"
+	"Coredigion"
+	"Conui"
+	"Kulhukh"
+	"Deheubart"
+	"Dewey Sant"
+	"Dolbadarn"
+	"Doluydelan"
+	"Dived"
+	"Eririe"
+	"Gliwysing"
+	"Gualhmey"
+	"Guenan Horn"
+	"Guidion"
+	"Guin"
+	"Guinet"
+	"Lleu"
+	"Lliwelin Faur"
+	"Mabinogi"
+	"Math"
+	"Meirionite"
+	"Morgannug"
+	"Oluen"
+	"Owine Glyndour"
+	"Penfro"
+	"Poweys"
+	"Preiteus Annunus"
+	"Dressers"
+	"Pulle"
+	"Rhiannon"
+	"Taf"
+	"Tavey"
+	"Tayrnon"
+	"Tiwi"
+	"Inis Mon"
+}

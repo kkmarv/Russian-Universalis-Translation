@@ -1,0 +1,145 @@
+government = tribal
+add_government_reform = steppe_horde
+technology_group = muslim
+primary_culture = persian
+religion = shiite
+
+1332.1.1 = {
+	monarch = {
+		name = "Abd al-Razzaq"
+		dynasty = "Serbedar"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1338.1.1 = {
+	monarch = {
+		name = "Waji ad-Din Fazlullah."
+		dynasty = "Serbedar"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1343.1.1 = {
+	monarch = {
+		name = "Muhammad Aitimur"
+		dynasty = "Serbedar"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1346.1.1 = {
+	monarch = {
+		name = "Kaba Isfendiyar"
+		dynasty = "Serbedar"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1347.1.1 = {
+	monarch = {
+		name = "Lutf Allah"
+		dynasty = "Serbedar"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1348.1.1 = {
+	monarch = {
+		name = "Hwaja Taj ad-Din Ali"
+		dynasty = "Serbedar"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1353.1.1 = {
+	monarch = {
+		name = "Yahya"
+		dynasty = "Serbedar"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1356.1.1 = {
+	monarch = {
+		name = "Zahir ad-Din"
+		dynasty = "Serbedar"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1359.1.1 = {
+	monarch = {
+		name = "Haidar al-Qassab"
+		dynasty = "Serbedar"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1360.1.1 = {
+	monarch = {
+		name = "Lutf Allah"
+		dynasty = "Serbedar"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1361.1.1 = {
+	monarch = {
+		name = "Hassan al-Damgan"
+		dynasty = "Serbedar"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1364.1.1 = {
+	monarch = {
+		name = "Hwaja Ali-yi Muayad"
+		dynasty = "Serbedar"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1376.1.1 = {
+	monarch = {
+		name = "Rukn ad-Din"
+		dynasty = "Serbedar"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1379.1.1 = {
+	monarch = {
+		name = "Hwaja Ali-yi Muayad"
+		dynasty = "Serbedar"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

@@ -1,0 +1,19 @@
+government = monarchy
+
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+primary_culture = ruthenian
+religion = orthodox
+capital = 1940
+
+1299.1.1 = {
+	monarch = {
+		name = "Narimunt"
+		dynasty = "Rurikovich"
+		adm = 5
+		dip = 1
+		mil = 4
+		birth_date = 1278.1.1
+	}
+}

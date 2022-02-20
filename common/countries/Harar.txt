@@ -1,0 +1,96 @@
+#Country Name: Please seefilename.
+
+graphical_culture = muslimgfx
+
+color = { 175  75  15 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	religious_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	african_spearmen
+	bantu_tribal_warfare
+	african_hill_warfare
+	adal_gunpowder_warfare
+	westernized_adal
+	adal_guerilla_warfare
+	african_somali_cavalry
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_hussar
+	african_dragoon		
+}
+
+monarch_names = {
+	"Mohammed #0" = 100
+	"Ahmad #0" = 60
+	"Ibrahim #0" = 60
+	"Ali #0" = 40
+	"Talha #0" = 40
+	"Abd al-Rahman #0" = 20
+	"Umar Dean #0" = 20
+	"Barakat Bin Umar #0" = 20
+	"Bat'iah Del Vanbara #0" = 20
+	"Noor #0" = 20
+	"Usman #0" = 20
+	"Nasr #0" = 20
+	"Sa'ad al-Din #0" = 20
+	"Sabr al-Din #0" = 20
+	"Sabir al-Din #0" = 20
+	"Garden #0" = 20
+	"Malac Adam #0" = 20
+	"Hashim #0" = 20
+	"Abdallah #0" = 20
+	"Abu Bakr #0" = 20
+	"Halaf #0" = 20
+	"Hamid #0" = 20
+	"Yusuf #0" = 20
+	"Cadhafo #0" = 0 
+	"Cadhafo Muhammad #0" = 0 
+	"Idahis #0" = 0 
+	"Anfari #0" = 0
+	"Aydai #0" = 0
+	"Hakk al-Din #0" = 0
+	"Jamal al-Din #0" = 0
+	"Badlay #0" = 0
+	"Shams al-Din #0" = 0
+	"Hanfadhe #0" = 0
+	"Yahya #0" = 0
+	"Abd al-Shakur #0" = 0
+	"Abd al-Karim #0" = 0
+	"Fahr al-Din #0" = 0
+	"Mansour #0" = 0
+	"Hussain #0" = 0
+	"Basi #0" = 0
+	"Fassil #0" = 0
+	
+	"Wellness #0" = -1
+	"Sadaf #0" = -1
+}
+
+leader_names = {
+	Zige
+	Barre
+	Bol
+	Deng
+	Abdelrashid
+	Seven
+	Jag
+	Fly
+	Lemn
+	Teca
+}
+
+ship_names = {
+	Aura Awash Asayita Berakhle Chifra
+	Dallol Dubti Duleca Elidar Eva Gevane.
+	Koneba Mille Semera Simurobi Yalo.
+}

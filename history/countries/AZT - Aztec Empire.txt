@@ -1,0 +1,219 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = aztek
+religion = nahuatl
+technology_group = mesoamerican
+capital = 852	# Mexico
+
+
+1391.1.1 = {
+	monarch = {
+		name = "Huitziluitl"
+		dynasty = "Akamapichtli"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1397.1.1 = {
+	heir = {
+		name = "Oimalpopoka"
+		monarch_name = "Oimalpopoka"
+		dynasty = "Akamapichtli"
+		birth_date = 1397.1.1
+		death_Date = 1427.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+1415.1.1 = {
+	monarch = {
+		name = "Oimalpopoka"
+		dynasty = "Akamapichtli"
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+1415.1.1 = {
+	heir = {
+		name = "Itzkoatl"
+		monarch_name = "Itzkoatl"
+		dynasty = "Akamapichtli"
+		birth_date = 1400.1.1
+		death_Date = 1440.8.14
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1426.1.1 = {
+	monarch = {
+		name = "Itzkoatl"
+		dynasty = "Akamapichtli"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1426.1.1 = {
+	heir = {
+		name = "Montesuma Iluikamina"
+		monarch_name = "Montezuma I Iluikamina"
+		dynasty = "Akamapichtli"
+		birth_date = 1398.1.1
+		death_Date = 1468.11.22
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 5
+		leader = {	name = "Montesuma I"           	type = general	fire = 3	shock = 4	manuever = 4	siege = 0}
+	}
+}
+
+1440.8.14 = {
+	monarch = {
+		name = "Montezuma I Iluikamina"
+		dynasty = "Akamapichtli"
+		adm = 4
+		dip = 3
+		mil = 5
+		leader = {	name = "Montesuma I"           	type = general	fire = 3	shock = 4	manuever = 4	siege = 0}
+	}
+}
+
+1440.8.14 = {
+	heir = {
+		name = "Ashayakatl"
+		monarch_name ="Ashayakatl"
+		dynasty = "Akamapichtli"
+		birth_date = 1440.1.1
+		death_Date = 1481.10.30
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+}
+
+1468.11.22 = {
+	monarch = {
+		name = "Ashayakatl"
+		dynasty = "Akamapichtli"
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+}
+
+1468.11.22 = {
+	heir = {
+		name = "Tussock"
+		monarch_name = "Tussock"
+		dynasty = "Akamapichtli"
+		birth_date = 1468.1.1
+		death_date = 1486.4.14
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1481.10.30 = {
+	monarch = {
+		name = "Tussock"
+		dynasty = "Akamapichtli"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1481.10.30 = {
+	heir = {
+		name = "Auitzotl"
+		monarch_name = "Auitzotl"
+		dynasty = "Akamapichtli"
+		birth_date = 1460.1.1
+		death_date = 1502.9.16
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 6
+		leader = {	name = "Auitzotl"             	type = general	fire = 3	shock = 5	manuever = 3	siege = 0}
+	}
+}
+		
+1486.4.14 = {
+	monarch = {
+		name = "Auitzotl"
+		dynasty = "Akamapichtli"
+		adm = 5
+		dip = 3
+		mil = 6
+		leader = {	name = "Auitzotl"             	type = general	fire = 3	shock = 5	manuever = 3	siege = 0}
+	}
+}
+
+1486.4.14 = {
+	heir = {
+		name = "Montesuma"
+		monarch_name = "Montesuma II Shokoytsin"
+		dynasty = "Akamapichtli"
+		birth_date = 1466.1.1
+		death_Date = 1520.6.30
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 0
+		leader = {	name = "Montesuma II"          	type = general	fire = 2	shock = 3	manuever = 2	siege = 0}
+	}
+}
+		
+1502.9.16 = {
+	monarch = {
+		name = "Montesuma II Shokoytsin"
+		dynasty = "Akamapichtli"
+		adm = 2
+		dip = 0
+		mil = 0
+		leader = {	name = "Montesuma II"          	type = general	fire = 2	shock = 3	manuever = 2	siege = 0}
+	}
+}
+
+1502.9.16 = {
+	heir = {
+		name = "Kuautemok"
+		monarch_name = "Kuautemok"
+		dynasty = "Akamapichtli"
+		birth_date = 1502.1.1
+		death_Date = 1525.2.28
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1520.6.30 = {
+	monarch = {
+		name = "Kuautemok"
+		dynasty = "Akamapichtli"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1521.8.13 = {
+	government_rank = 1
+}

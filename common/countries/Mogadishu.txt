@@ -1,0 +1,97 @@
+#Country Name: Please seefilename.
+
+graphical_culture = muslimgfx
+
+color = { 212 175 55 }
+
+historical_idea_groups = {
+	maritime_ideas
+	trade_ideas
+	innovativeness_ideas
+	defensive_ideas
+	religious_ideas
+	diplomatic_ideas
+	administrative_ideas
+	economic_ideas
+
+}
+
+historical_units = {
+	african_spearmen
+	bantu_tribal_warfare
+	african_hill_warfare
+	adal_gunpowder_warfare
+	westernized_adal
+	adal_guerilla_warfare
+	african_somali_cavalry
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_hussar
+	african_dragoon		
+}
+
+monarch_names = {
+	"Ahmad #0" = 60
+	"Abu Bakr #0" = 40
+	"Abdikarim #0" = 40
+	"Uthman #0" = 20
+	"Mahmoud #0" = 30
+	"Abdallah #0" = 20
+	"Ibrahim #0" = 20
+	"Liban #0" = 20
+	"Ali #0" = 30
+	"Omar #0" = 20
+	"Hassan #0" = 20
+	"Fakr-el-Din #0" = 20
+	"Mahamoud #0" = 20
+	"Abdul #0" = 20
+	"Yusuf Ali #0" = 0 
+	"Khaleed #0" = 0 
+	"Husain  #0" = 0 
+	"Cadhafo #0" = 0
+	"Mukhtar #0" = 0
+	"Basi #0" = 0
+	"Barracat #0" = 0
+	"Rashid #0" = 0
+	"Ayüb #0" = 0
+	
+	"Jamilya #0" = -1
+	"Zeynab #0" = -1
+}
+
+leader_names = {
+	Abdallah
+	Abdikarim
+	Abubakar
+	Ahmad
+	Ayb
+	Dalmar
+	Ghedy
+	Gurey
+	Hassan
+	Khaleed
+	Liban
+	Mahad
+	Mosa
+	Muhammad
+	Omar
+	Rahim
+	Saad
+	Sadia
+	Sharif
+}
+
+ship_names = {
+	Abdiaziz Aura Awash Berakhle Banaadir
+	Cifra Dallol Dubti Duleka Elidar Eve.
+	Gevane Hamar Koneba Mille Mukdisho.
+	Semera Shibais Simurobi Hamar Yalo
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$"
+}
+
+fleet_names = {
+	"Prov. Navy. $PROVINCE$"
+}

@@ -1,0 +1,88 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 107 21 196 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	aristocracy_ideas
+	religious_ideas
+	quality_ideas
+	economic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	mughal_mansabdar
+	sikh_hit_and_run
+	reformed_mughal_mansabdar
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Beringingham Deo #1" = 20
+	"Pulkit #1" = 20
+	"Dungar Singh #1" = 20
+	"Uddharandev #1" = 20
+	"Vikramdav #1" = 20
+	"Ganapatidev #1" = 20
+	"Dugarendrasingh #1" = 20
+	"Kalyanmalla #1" = 20
+	"Gokula #0" = 20
+	"Ram #0" = 20
+	"Churaman #0" = 20
+	"Badan Singh #0" = 10
+	"Suray Mal #0" = 10
+	"Jawahar Singh #0" = 10
+	"Ratan Singh #0" = 5
+	"Nawal Singh #0" = 5
+	"Ranyit Singh #0" = 5
+	"Randhir Singh #0" = 5
+	"Baldeo Singh #0" = 5
+	"Balvant Singh #0" = 5
+	"Kehri Singh #0" = 5
+	"Yashwant Singh #0" = 5
+	"Kishan Singh #0" = 5
+	"Briendra Singh #0" = 5
+	"Chand Kaur #0" = -1
+	"Rayeshwari #0" = -1
+	"Hava Kanwar #0" = -1
+}
+
+leader_names = {
+	Boomla
+	Sardulus
+	Yodh
+	Budh
+	Deep
+	Grant
+	Culendra
+	Yhotti
+	Krishan
+	Lohaar
+	Parmanand
+	Reisingh
+	Shergill
+	Sodhi
+	Sohal
+	Paradise
+	Udasi
+}
+
+ship_names = {
+	Chambal Devi Durga Gayatri Ghaggar
+	Godschar Jalsen "Kala Yahazi" Lakshmi
+	"Lal Yahazi" Luni Nausen "Marchar ka Naw"
+	"Mershare ka nave" "Nava ka Yudh" "Neela Yahazi"
+	Parvati Radha Rani Ratri Sagar Saraswati
+	Sekhasati Sita
+}

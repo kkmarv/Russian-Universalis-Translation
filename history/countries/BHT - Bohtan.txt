@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+primary_culture = kurdish
+religion = sunni
+technology_group = muslim
+capital = 2308 # Cizre ### STT
+religious_school = shafii_school
+
+1444.1.1 = {
+	monarch = {
+		name = "Badr Khan"
+		dynasty = "Coves"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+	add_piety = 0.1
+}

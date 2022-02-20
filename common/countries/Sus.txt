@@ -1,0 +1,94 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 255  255  240 } 
+
+historical_score = 100
+
+historical_idea_groups = {
+	maritime_ideas
+	defensive_ideas
+	religious_ideas
+	expansion_ideas
+	administrative_ideas
+	offensive_ideas
+	trade_ideas
+	economic_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Muhammad #0" = 200
+	"Ahmad #0" = 80
+	"'Abdallah #0" = 60
+	"'Abd al-Malik #0" = 40
+	"'Alo #0" = 40
+	"'Usman #2" = 20
+	"'Abd al-Haqq #1" = 20
+	"Isma'ol #1" = 20
+	"Yahiv #1" = 20
+	"'al-Walad #0" = 20
+	"Al-Mustado #0" = 20
+	"Al-Rushoud #0" = 20
+	"Hisham #0" = 20
+	"Idroxide #0" = 20
+	"Suleiman #0" = 20
+	"Zeydan #0" = 20
+	"Zane #0" = 20
+	"'Abd al-Rahman #0" = 15
+	"al-Yazod #0" = 15
+	"Mansour #0" = 15
+	"Muhraz #0" = 15
+	"Nasir #0" = 15
+	"Abu Faris #0" = 10
+	"Abbas #0" = 10
+	"Abu Mervan #0" = 10
+	"Al-Talib #0" = 10
+	"Hammada #0" = 10
+	"Hasam #0" = 10
+	"Hashim #0" = 10
+	"Ibrahim #0" = 10
+	"Jafar #0" = 10
+	"Maimoon #0" = 10
+	"Maslama #0" = 10
+	"Sayid #0" = 10
+	"Umar #0" = 10
+	"Yusuf #0" = 10
+	"Ataullah #0" = 0
+	"Jabril #0" = 0
+	"Rasul #0" = 0
+	"Zulficar #0" = 0
+	
+	"Tamina #0" = -1
+	"View #0" = -1
+}
+
+leader_names = {
+	Sahiri
+	Hyde
+	Sellami
+	Arazi
+	Berui
+	Lahcini
+	Skah
+	Barek
+	Alami
+	Behar
+}
+
+ship_names = {
+	Tawwab Muntakim Afouf Fa'ur "Malik Mulk"
+	"Jahal Ikram" Muksit Jami Khani Mugni
+	Mani Darr Nafi Nur Hadi Badi Baki Warith.
+	Rashid Saboor "Fazl Azim"
+}

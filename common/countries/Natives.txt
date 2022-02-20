@@ -1,0 +1,58 @@
+#Natives
+
+graphical_culture = westerngfx
+
+color = { 203  164  103 }	
+
+# Used for colonial nations
+historical_idea_groups = {	
+	expansion_ideas
+	trade_ideas		
+	plutocracy_ideas	
+	economic_ideas
+	quality_ideas	
+	maritime_ideas	
+	quantity_ideas	
+	administrative_ideas
+}
+
+monarch_names = {
+	"Mapi #0" = 10
+	"Cuando #0" = 10
+	"Illa #0" = 10
+	"Rimac #0" = 10
+	"Tiso #0" = 10
+	"Kusi #0" = 10
+	"Maita #0" = 10
+	"Roca #0" = 10
+	"Zope #0" = 10
+	"Guriata #0" = 10
+	"Guacro #0" = 10
+	"Maila #0" = 10
+	"Tanquoi #0" = 10
+	"Taipei #0" = 10
+	
+	"Sanga #0" = -1
+}
+
+leader_names = {
+	Tivan Toto Lavi Hasana Vioh Illa Kuizo Tanquoi Tarakui Tari Pakun
+}
+
+ship_names = {
+	"Yamro"
+	"Sanga"
+	"Mani"
+	"Muratara"
+	"Hasana"
+	"Juhi"
+	"Chigeri"
+	"Kemba"
+	"Adero"
+	"Aayan"
+	"Mahdi"
+	"Gukunda"
+	"Nalungo"
+	"Kilolo"
+	"Gahji"
+}

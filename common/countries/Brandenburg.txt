@@ -1,0 +1,186 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 123  90  90 }
+
+revolutionary_colors = { 1  0  4 }
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	innovativeness_ideas
+	offensive_ideas
+	diplomatic_ideas
+	quality_ideas
+	economic_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	prussian_frederickian
+	prussian_uhlan
+	prussian_drill
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Friedrich #0" = 60
+	"Albrecht #3 Achilles" = 20
+	"Friedrich Wilhelm #0" = 20
+	"Georg Wilhelm #0" = 20
+	"Joachim #0 Hector" = 20
+	"Joachim #0 Nestor" = 20
+	"Jobst #0" = 20
+	"Johann Cicero #0" = 20
+	"Johann Friedrich #0" = 20
+	"Johann Georg #0" = 20
+	"Johann Sigismund #0" = 20
+	"Sigismund #0" = 20
+	"Albrecht #3" = 15
+	"Wilhelm Friedrich #0" = 15
+	"Karl #0" = 15
+	"Johann #5" = 10
+	"Henry #2" = 10
+	"Albrecht Christians #0" = 10
+	"Albrecht Friedrich #0" = 10
+	"August #0" = 10
+	"Christian #0" = 10
+	"Christian William #0" = 10
+	"Ernst #0" = 10
+	"George #0" = 10
+	"Georg Albrecht #0" = 10
+	"Joachim #0" = 10
+	"Joachim #0 Ernst" = 10
+	"Joachim #0 Sigismund" = 10
+	"Paul #0" = 10
+	"Adolf #0" = 0
+	"Clemens #0" = 0
+	"Diderik #0" = 0
+	"Eberhardt #0" = 0
+	"Helmut #0" = 0
+	"Herman #0" = 0
+	"Jacob #0" = 0
+	"Leopold #0" = 0
+	"Markus #0" = 0
+	"Stefan #0" = 0
+	"Victor #0" = 0
+	
+	"Miriam #0" = -1
+	"Paulv #0" = -1
+	"Ulrike #0" = -1
+	"Sabina #0" = -1
+	"Anna Maria #0" = -1
+	"Sofia #0" = -1
+	"Heldviga #0" = -1
+	"Magdalena #0" = -1
+	"Margarita #0" = -1
+	"Agnes #0" = -1
+	"Barbara #0" = -1
+	"Amalia #0" = -1
+	"Frederick #0" = -1
+}
+
+leader_names = {	
+	"Arnim"
+	"von Schwerin"
+	"Blankensee"
+	"von Taubeneck"
+	"von Dossov"
+	"Perlkowski"
+	"von Buhler"
+	"von Dessau"
+	"von Kiau"
+	"Arnnswald"
+	"Fink"
+	"Cizwitz"
+	"von Plothes"
+	"Billerback"
+	"von Stilla"
+	"von Angalt-Dessau"
+	"Knobelsdorf"
+	"von Rauch"
+	"von Kvernheimberg"
+	"Heltsendorff"
+	"von Kwitzow"
+	"Ciselski"
+	"Linkendorf"
+	"Uclanski"
+	"Zelazinka"
+	"von Citen"
+	"Munich"
+	"Brizen"
+	"Rivotski"
+	"Schnittern"
+	"von Mercatz"
+	"von Manstein"
+	"Shah"
+	"von Seele"
+	"Treskav"
+	"von Hohenloe"
+	"von Rottenburg"
+	"Truxes"
+	"Kreuz"
+	"von Ruijts"
+	"von Derfflinger"
+	"von Wermsdorff"
+	"Casimir"
+	"von Hohenzollern"
+	"Belov"
+	"von Bimbak"
+	"von Mah"
+	"Posadofsky"
+	"von Proysen"
+}
+
+ship_names = {
+	"Neumark"
+	"Prignitz"
+	"Ukkermark"
+	"Mittelmark"
+	"Altmark"
+	"Sternberg"
+	"Friedrich I"
+	"Friedrich II"
+	"Ludwig I"
+	"Ludwig II"
+	"Otto V"
+	"Wenzel"
+	"Sigismund"
+	"Jobst von Meren"
+	"Albrecht der Ber"
+	"Otto I"
+	"Otto II"
+	"Albrecht II"
+	"Johann I"
+	"Otto III"
+	"Albrecht III"
+	"Otto IV"
+	"Henry I"
+	"Waldemar"
+	"Henry II"
+}
+
+army_names = {
+	"Electorate Guard"
+	"Elbe Army"
+	"Oder Army"
+	"Provincial Army. $PROVINCE$"
+}
+
+fleet_names = {
+	 "Electorate Fleet"
+}

@@ -1,0 +1,472 @@
+stt_plu = {
+	graphical_culture = easterngfx
+
+	stt_plu_polish = {
+		primary = POL
+		male_names = {
+			August Stanislav Kazimir Alexander Henryk Albert Kazimierz Michal Stefan 
+			August Oleksander Karl Kazimierz Krzysztow Fryderyk Olbrach Jan Karol Patryk
+			Ferdynand Olbracht Albert Alexy Andrzej Bartlomiej Bohumil Bronislaw David Dominik Eugeniusz 
+			Ferdinand Gustav Igor Ivan Christian Lech Luciusz Ludwig Lukash Maxim Mariusz Mieszko Mirosław 
+			Raphael Sylvester Shimon Siegfried Oscar
+			Alexander Andrei Bartolomey Bezprim Bogukhwal Bohumil Boleslav 
+			"Boleslav" "Boncia" "Boniface" "Bojislav" "Bojidar" "Theodihad" "Borivoy" "Borivoy" "Budzivuy" "Chcibor"
+			"Chizhneh" "Dalimir" "Daniel" "Danielle" Dobeslaw Dobrogogost Doman Domavui Dietrich Thierry 
+			Eustachius Eustace Gaudents Herald Gnevomir Gnevosh Goshchon Henrik Henry 
+			Selection Jozef Josef Jacek Jakob Jakob Jakush John Janislav Ivan 
+			Ioann Janusz Ioann Jarosław Jerzy Karol Karl Kazimir Konrad Konrad
+			Crimea Kristan Krzesztaw Lambert Lambert Leszek Ctibor
+			Maciej Matej Matjko Maljowa Marcin Masław Mateusz Miekola
+			Mykola Myslibor Miloslav Mstsivoy Nadbor Nezamyslivoy Odon 
+			Paul Paul Pelka Piotr Piskla Prendota Przemysław Przybor Sambor Sedzej 
+			Seche Semomysl Semovit Scarbimir Snovid Spytko Stanislav
+			Stefan Stoigniew Strasz Sulislaw Sviatopolk Sventoslav
+			Puppies Felix Thomas Troyden Velislav Wieslaw Vincent Witosz Wladyslaw Wojciech
+			Zelibrat Sigmund Lavrentij Veleslav Vincentij Vincent Wit Witosz Vladislav Wojciech
+			Warfare Wshebor Zbigniew Zbyshko Zegota Ignat Zelibrat
+			Jigmund Albert Wawrzyniec Svyatoslav Senjimir Otto Christine Janko Imram
+		}
+		female_names = {
+			Adelaide Adelaide Adelaide Agnes Aldonas Anastasia Anastasia Anna Beate of God Danut.
+			Good Dobroneg Elizabeth Euphemia Euphemia Euphrosyne Gertrude
+			Gelena Elena Yadviga Yolanda Yudita Katarzyna Katerina Kazimera Kenna
+			King Constantia Constanta Cristina Christina Kunegunda Lucy Lucy Ludmila Magdalena
+			Malgojata Maria Mozhislava Mstislava Moimira
+			Matilda Milena Nadzej Navoj Pehna Rõõhez Ryks Salome Samboj Samboj Skolastika Skolastika
+			Smehna Stanislav Svetoslav Wojsław Wojsław Vojsław Vojsław
+			Wolisław Wszebor Wszebor Wszebor Wszebor Sofia Zwinisława
+		}
+		dynasty_names = {
+			Griff Piast Jagiellon Wisniewiecki Sobieski Leszczynski 
+			Poniatowski Radziwill Zamoyski Potocki Lubomirski 
+			Premyslovich Podebrad 
+			"Khodcevic" "Chartorysky" "Lianzkoronsky" "Milzinski" "Oginsky"
+			Ostrozhsky Ostrog Sapega Sangushko Tarnovsky Tenchinsky
+			Tyshkevich Kurnatovsky Tachanovsky Gossevsky Opalinsky
+		}
+	}
+	
+	stt_plu_ruthenian = {
+		primary = UKR
+		male_names = {
+			Ivan Dmitry Yuri Andrey Semen Boris Fedor Oleg Afanasy Akim Alexander Anatoly Arkady 
+			Dorofei Theodosius Theophylact Gabriel Innocent Joseph Lavrentius Makar Matvei Michael Nazar 
+			Onisim Paul Prokopy Peter Radomir Saveliy Sergey Terenty Valery Yakim Yevgeny Yaropolk 
+			Vyacheslav Vsevolod Igor Izyaslav Rostislav Vladimir Mstislav Gleb Roman Rurik Svyatoslav Ingvar 	
+			Stanislav Daniel Nikifor
+		}
+		female_names = {
+			Gavriila Larissa Alexandra Alla Bronislava Svetlana Yuliya Yaroslava Vladislava Lyudmila Nadezhda Rostislava
+		}
+	}
+	
+	stt_plu_lithuanian = {
+		primary = LIT
+		male_names = {
+			Žigimantas Kazimir Alexandras Ioann Albertas Sigismund Augustas Vitovt Yagailo Vladislav 
+			Olgerd Stanislav Svidrigailo Mindovg Albert Andrius Antanas Arthuras Azuolas
+			Gedimin Giedrius Gintaras Henrikas Janos Janusz Josef Jurgis Koribut Karolis Kryzas 
+			Louis Marius Mikola Pavel Peter Francis Raimondas Ramunas Steponas Skirgailo Thomas 
+			Vincentas Wilhelm Viten Keistut Viktoras Lev Linas Bronislaw Darius
+		}
+		female_names = {
+			Agne Morte Vitaute Agne Aldona Amalia Avdra Aurelius Auschra Avstey Varvar Daina Daiva Daliya Danuta Diana Dorothea
+			Egla Elena Elsa Emilia Ernesta Estera Agata Gabriel Gedra Gintara Eva Ilona Inga Irena Yadwiga 
+			Janina Ilena Iolanta Julia Justyna Camila Carolina Catherine Cristina Lyme Lyme Lilia Lyceum 
+			Ludwiga Margarita Maria Melanie Migla Milda Monica Morte Ona Rasa Regina Rosalia Ruta Sandra Saule. 
+			Smilte Sofia Solveig Svayona Tatiana Ugne Urte Valeria Veronica Victoria Wilhelmina Vitaute Vilte Vita Vitalia
+		}
+		dynasty_names = {
+			"Ugandi" "Gediminai" "Radziwill" "Gashtold" "Ostikovich" "Kesgailo" "Khodkevich" "Olszanski" "Chartorussky"
+			Hedroichi Park Plater Tizenhaus Sapega Ostrozhski Oginsky
+			# CKII
+			"Hedroic" "Montigerdovich" "Khodkevich" "Syndromontovich" "Coribut" "Yagailovich" "Gediminovich"
+		}
+	}
+	
+	stt_plu_byelorussian = {
+		primary = PLT
+		male_names = {
+			Andrey Lyubko Olgerd Brjachislav Vasily Svyatoslav Vladimir Izyaslav Vseslav Boris Alexander Adrian 
+			Athanasius Daniel Dmitry Dorofey Thaddeus Theodosius Theophilus Thomas Theodore Gabriel Gregory Igor Ivan 
+			Mikhail Naum Nikita Nikolay Pankratiy Prokhor Peter Radoslav Ruslan Semyon Seraphim Sevastian Stanislav 
+			Timothy Bartholomew Vikenty Yaroslav Mefodiy
+		}
+		female_names = {
+			Gavriila Larissa Alexandra Alla Bronislava Svetlana Yuliya Yaroslava Vladislava Lyudmila Nadezhda Rostislava
+		}
+	}
+	
+	dynasty_names = {
+		Griff Piast Jagiellon Bathory Vishniewiecki Sobieski Leszczynski 
+		Poniatowski Radziwill Zamoyski Potocki Lubomirski Hunyadi Zapolia 
+		Premyslovich "from Podebrady" Rakotsi Bochkai Rurikovich Godunov Shui Romanov Sheremetev Golitsyn Naryshkin Hilkov Gorchakov
+		"Beloselski" "Chelyadnin" "Potemkin" "Shogin" "Gediminovich" "Radziwill" "Gochtovt" "Astikas" "Kezgailo" "Khodkevich" "Olshansky" "Chartorysky" 
+		"Gedraitis" "Pats" "Plater" "Tisengauz" "Sapega" "Ostrozhsky" "Oginsky"
+	}
+}
+stt_sla = {
+	graphical_culture = easterngfx
+	stt_sla_croatian = {
+		primary = CRO
+		male_names = {
+			Kresimir Stepan Almos Dimitrie Zvonomir Trpimir Gorislav Slavik Svetoslav Miroslav Mutimir 
+			Ladislav Carlo Andrey Luy Pero Vladislav Ventseslav Alexander Dragutin Franjo Gavrilo Ivan 
+			Juraj Luca Matija Marco Mihailo Milan Mirko Nenad Nicola Slavko Toma Vladko Zvonomir
+			Adam Andrea Bartol Bartolomeus Besar Boyan Boris Branimir Castimir Daniel Dmitar 
+			Dobromir Dragan Dragomir Drzhislav Dudjam Inch Philip Gaspar George Gregory 
+			"Hranislav" "Snatch" "Igor" "Ioan" "John" "Ivan" "John" "Ivanis" "Carlo" "Charles" "Koloman"
+			Ladislav Ludevit Lutomysl Lovro Matthew Mikhailo Milman Miloslav Mutimir
+			Nikolic Nicholas Ognjen Petar Peter Prohor Radomir Ratimir Sebeslav Slavic 
+			Stanislav Stepan Silvan Theodore Tomislav Tvrdoslav Tvrtko Ulfo Ulf Vid Vitomir Wlaiku
+			Vukana Call Kresimir Gregory Kaspar Yosip
+		}
+		female_names = {
+			Adrianna Anna Borislava Dorothea Dorothy Ekaterina Helena Helen Yadviga 
+			Giovanna Kera Ladica Maria Michaela Nada Petra Viola Yolanda Yadranka Mara
+			"Antonia" "Capeka" "Dragana" "Dubravka" "Emilia" "Emily" "Gordana" "Berry" "Helen" "Christmas tree" "Lucia" 
+			Catherine Maria Mary Mariana Mirana Mirana Moika Natalya Natalya
+			River Sylvia Snezhana Sophia Susanna Svetlana Tatiana Tihana 
+			Cherry Vedrana Vzhekoslav Zlat Zvonomir Valeriya Catalina
+		}
+		dynasty_names = {
+			"Kulinic" "Trpimirovich" "Mikhalzhevich" "Subik" "Hrvatinic" 
+			"Kosacha" "Vukšić" "Vukashin" "Dukashin" "Babonich" "Frankopan" "Kacic" "Drašković" 
+			"Bebek" "Svetoslavic" "Krelimirovich" "Domagoevich" "Feltetich" "Gorzhanski"
+			"Svachich" "Kobilich" "Lakovich" "Lubitsch"
+			"Berislavic" "Nepilic" "Jelačić" "Zrinsky" "Garage" "Elz" "Kaboja" 
+			"Crnkovich" "Cerv" "Rubido"
+		}
+	}
+	stt_sla_serbian = {
+		primary = SER
+		male_names = {
+			Stefan Lazar George Djuradj Milosh George Alexa Gregory Petriya Todor Alexander Mikhailo Milan 
+			Vratislav Darko Dragan Dubravko Dusan Philip Goran Ivan Iosif Konstantin Luca Marco Matei Miroslav 
+			Nebojsa Nemanja Nenad Nicola Pedrag Stanko Toma Vinko Vekoslav Zdravko Zvonimir
+			Aldimir Asen Berbat Blaz Blaz Boleslav Born Branimir Budimir Kosmin Danilo Danielle 
+			George Dmitar Dobroslav Dragoslav Dragutin Gabriel Godimir Goran
+			Gregory Ilya Ivan Ivan John Joseph Joseph Joseph Giovanni John Casian Constantine 
+			Lazar Luis Luca Marco Marcus Martin Matia Matthew Michailo Milorad 
+			Mircea Miroslav Miloslav Nenad Nicodemus Nikolaus
+			Ninoslav Petar Peter Porin Prvoslav Radoslav Rastko Ratomir Roman Serapion Simeon 
+			Sinisha Slavko Slobodan Stefan Feodosij Trajan Juros Vissarion Vladimir Vladimir 
+			Vladislav Sladyslav Vlastimir MMilyutin Krsto George Bohdan Branko 
+			Vuk Lupo Vukan Vukasin Vukoman Zoran Ringer Simon Infant
+		}
+		female_names = {
+			Agata Agata Barbara Branimir Desislav Dubravka Elena Helena Khisela Elena Carolina 
+			Proverb Maria Maria Milka Neda For the sake of Zdenka Angela Antonia
+			Biljana Bistrina Bojana Tower Dejan Dragana Dragoslav Dug Dusica Gordana 
+			Gran Grubana Berry Jovanka Jovanka Carica
+			Love Luca Mike Milena Milena Miriti Milana Milada Mudra Nada 
+			Nastasia Kosan Brank Mirna Negomira
+		}
+		dynasty_names = {
+			"Nemanjic" "Vlastimirovich" "Obrenovich" "Obilich" "Karageorgievich" "Kovacevic" "Petrovich"
+			"Dragutinovic" "Vojislavljevic" "Sokolovich" "Ilic" "Vukanovic" "Mrnyavchevich" "Lazarevich"
+			"Brankovic" "Balsić" "Vukovich" "Branovic"
+		}
+	}
+	stt_sla_bosnian = {
+		primary = BOS
+		male_names = {
+			Stefan Lazar George Djuradj Milosh George Alexa Gregory Petriya Todor Alexander Mikhailo Milan 
+			Vratislav Darko Dragan Dubravko Dusan Philip Goran Ivan Iosif Konstantin Luca Marco Matei Miroslav 
+			Nebojsa Nemanja Nenad Nicola Pedrag Stanko Toma Vinko Vekoslav Zdravko Zvonimir
+			Aldimir Asen Berbat Blaz Blaz Boleslav Born Branimir Budimir Kosmin Danilo Danielle 
+			George Dmitar Dobroslav Dragoslav Dragutin Gabriel Godimir Goran
+			Gregory Ilya Ivan Ivan John Joseph Joseph Joseph Giovanni John Casian Constantine 
+			Lazar Luis Luca Marco Marcus Martin Matia Matthew Michailo Milorad 
+			Mircea Miroslav Miloslav Nenad Nicodemus Nikolaus
+			Ninoslav Petar Peter Porin Prvoslav Radoslav Rastko Ratomir Roman Serapion Simeon 
+			Sinisha Slavko Slobodan Stefan Feodosij Trajan Juros Vissarion Vladimir Vladimir 
+			Vladislav Sladyslav Vlastimir MMilyutin Krsto George Bohdan Branko 
+			Vuk Lupo Vukan Vukasin Vukoman Zoran Ringer Simon Infant
+		}
+		female_names = {
+			Agata Agata Barbara Branimir Desislav Dubravka Elena Helena Khisela Elena Carolina 
+			Proverb Maria Maria Milka Neda For the sake of Zdenka Angela Antonia
+			Biljana Bistrina Bojana Tower Dejan Dragana Dragoslav Dug Dusica Gordana 
+			Gran Grubana Berry Jovanka Jovanka Carica
+			Love Luca Mike Milena Milena Miriti Milana Milada Mudra Nada 
+			Nastasia Kosan Brank Mirna Negomira
+		}
+		dynasty_names = {
+			"Nemanjic" "Vlastimirovich" "Obrenovich" "Obilich" "Karageorgievich" "Kovacevic" "Petrovich"
+			"Dragutinovic" "Vojislavljevic" "Sokolovich" "Ilic" "Vukanovic" "Mrnyavchevich" "Lazarevich"
+			"Brankovic" "Balsić" "Vukovich" "Branovic"
+		}
+	}
+	stt_sla_slovene = {
+		primary = SLN
+		male_names = {
+			Kresimir Stepan Almos Dimitrie Zvonomir Trpimir Gorislav Slavik Svetoslav Miroslav Mutimir 
+			Ladislav Carlo Andrey Luy Pero Vladislav Ventseslav Alexander Dragutin Franjo Gavrilo Ivan 
+			Juraj Luca Matija Marco Mihailo Milan Mirko Nenad Nicola Slavko Toma Vladko Zvonomir
+			Adam Andrea Bartol Bartolomeus Besar Boyan Boris Branimir Castimir Daniel Dmitar 
+			Dobromir Dragan Dragomir Drzhislav Dudjam Inch Philip Gaspar George Gregory 
+			"Hranislav" "Snatch" "Igor" "Ioan" "John" "Ivan" "John" "Ivanis" "Carlo" "Charles" "Koloman" 
+			Ladislav Ludevit Lutomysl Lovro Matthew Mikhailo Milman Miloslav Mutimir
+			Nikolic Nicholas Ognjen Petar Peter Prohor Radomir Ratimir Sebeslav Slavic 
+			Stanislav Stepan Silvan Theodore Tomislav Tvrdoslav Tvrtko Ulfo Ulf Vid Vitomir Wlaiku
+			Vukana Call Kresimir Gregory Kaspar Yosip	
+		}
+		female_names = {
+			Adrianna Anna Borislava Dorothea Dorothy Ekaterina Helena Helen Yadviga 
+			Giovanna Kera Ladica Maria Michaela Nada Petra Viola Yolanda Yadranka Mara
+			"Antonia" "Capeka" "Dragana" "Dubravka" "Emilia" "Emily" "Gordana" "Berry" "Helen" "Christmas tree" "Lucia" 
+			Catherine Maria Mary Mariana Mirana Mirana Moika Natalya Natalya
+			River Sylvia Snezhana Sophia Susanna Svetlana Tatiana Tihana 
+			Cherry Vedrana Vzhekoslav Zlat Zvonomir Valeriya Catalina
+		}
+		dynasty_names = {
+			"Bot" "Buzimski" "Chelsky" "Cesnegić" "Coronini" "Crnkovic" "Derrenchin" "Drakovich" "Elz" "Frankopan"
+			Gorjanski Horvat Kaniski Krbavski Lachkovic Radic Subic Talovac Zrinski
+		}
+	}
+	stt_sla_bulgarian = {
+		primary = BUL
+		male_names = {
+			Ivan Asen Koloman Petar Todor Michael Alexander Ivan Kaloyan Georgy Konstantin Stepan Strazimir 
+			Simeon Andrew Atanas Angel Bogdan Bogdan Branimir Damian Dimitar Emil Gabriel Christ Jordan 
+			Krasimir Lazar Marco Mikhail Miroslav Nikola Pavel Radomir Samuel Vasil Vladimir Zhivko
+			Alexey Balin Bernardin Bernard Bertalan Bogoris Boril Bozhidar Theodat Braslav Dan Dionisius 
+			Dionysus Dominique Dragoman Dragshan Evtimius Hermann Grgur Khranimir Kuzma Kosma
+			Joachim Ivan John Jerolim Kozma Kosma Kresimir Kulin Kund Kiten Marco Kirilla Kiprian
+			Michael Michael Mikika Miroslav Kassian Momchil Nicola Nicholas Ognjen Petar Peter Krum Kurdo 
+			Prizhezda Radislav Radu Sava Sermon Slavak Soimir Strasimir Svetislav Tomislav Trpimir 
+			Basil Viseslav Vladislav Tikhon Todor Trofim Zhdeslav Markus Vasily Boris Kliment
+		}
+		female_names = {
+			Alexandra Alexandrin Bilyan Bogdan Bogdan Borislav Bojan Dana Desislav Donka 
+			Elizabeth Emily Eudocia Philip Gerdan.
+			Christina Iskra Ivana Ivanka Yvet Lala Lidia Lilyana Lyudmila Maya Nadezhda Nevena 
+			Foam Rada Radka Rayna Rayna Rosa Nikolina
+			Rose Silva Silvia Snezhana Parking Teresa Teresa Todorca Colours Flowers Vasilka Flowers 
+			Yolanda Ianan Yordanka Givka Violet Bogomilia Sofia Krasimir
+		}
+		dynasty_names = {
+			"Krum" "Dulo" "Komitopoules" "Asen" "Terter" "Shishman" "Telecs"
+		}
+	}
+	stt_sla_wallahian = {
+		primary = WAL
+		dynasty_names = {
+			"Basarab" "Danesti" "Draculesti"
+			Kallimaki Gica Cantacuzen Cantemiresti Rakovica Caraja Sturdza 
+			Konaki Suzu Golescu Vekerescu Mavrocordat Craiova Hasdeu
+			Kogalnichanu Grave
+		}
+		male_names = {
+			Alexandru Radu Vlad Constantine Michael Mircea Giorgi Grigore Michnia Nicola Besarab Vladislav Matia 
+			Radu Ilias Scarlat Stefan Dan Alexander Elijah Gabriel Ioan Gheorghe Leon Moise Nyagoe Basarab
+			Leo Radu Mihnja Serban Simeon Theodosius Vintila Vold Milos Corneliu Flaviu Julio Octavian Sergius 
+			Valerie Petru Petrescu Radu
+			Adrian Alexander Alexander Angel Aron Bayan Balk Barbat Basarab Bogdan Carol
+			"Cyprian" "Chubar" "Claudio"
+			Cornel Cornelius Costin Damian Dan Dragos Dumitru Emeric Florin Franco Francis Gavril
+			Jorge Gregory Grigore Jacob Gabriel.
+			Janku Jeremiah Elijah John Jorga Joseph Yuga Janosch Ladislau Lazko Laurenzio Laurenzio Laurenzio Laurenzio
+			Lithuanian Lucian Lucius Marin Marius
+			Mihai Milos Miloš Mircea Moise Nikolai Petre Pirvu Radovan Radu Roman Sas Seneslav 
+			Sergiu Simion Simon
+			Stefan Stefan Stelian Theodore Tepes Tibor Tikhomir Timothy Tudor Thierry Valentin 
+			Valentin Valeriu Vasily Basil Vyacheslav
+			Victor Wilhelm William Vintila Vlad
+		}
+		female_names = {
+			Angelina Adriana Athena Alexandra Ana Anastasia Angela Arina Christina 
+			Cristina Clara Dana Catherine Gabriel Georgeta Georgiana Gloria
+			Elena Helen Elizabeth Emilia Emily Felicia Flora Horia Eremiah Ilyana Ilinka
+			Ioan Ionel Irina Juliana Maria Maria Monica Jacob Ioanela Irina Isabella
+			Natalia Olimpia Parashiva Peter Roxan Ruxandra Smaranda Sofia Stan Stefan 
+			Stephanie Stephanie Theodore Rachel Flavia Cosmina Laura Lavinia Livia Loren
+			Teresa Vasilica Violet Yolanda Zina Nina Norik Octavian Pauline Petran Petrik
+		}
+	}
+	stt_sla_moldavian = {
+		primary = MOL
+		dynasty_names = {
+			"Basarab" "Danesti" "Draculesti"
+			Kallimaki Gica Cantacuzen Cantemiresti Rakovica Caraja Sturdza 
+			Konaki Suzu Golescu Vekerescu Mavrocordat Craiova Hasdeu
+			Kogalnichanu Grave
+		}
+		male_names = {
+			Alexandru Radu Vlad Constantine Michael Mircea Giorgi Grigore Michnia Nicola Besarab Vladislav Matia 
+			Radu Ilias Scarlat Stefan Dan Alexander Elijah Gabriel Ioan Gheorghe Leon Moise Nyagoe Basarab
+			Leo Radu Mihnja Serban Simeon Theodosius Vintila Vold Milos Corneliu Flaviu Julio Octavian Sergius 
+			Valerie Petru Petrescu Radu
+			Adrian Alexander Alexander Angel Aron Bayan Balk Barbat Basarab Bogdan Carol
+			"Cyprian" "Chubar" "Claudio"
+			Cornel Cornelius Costin Damian Dan Dragos Dumitru Emeric Florin Franco Francis Gavril
+			Jorge Gregory Grigore Jacob Gabriel.
+			Janku Jeremiah Elijah John Jorga Joseph Yuga Janosch Ladislau Lazko Laurenzio Laurenzio Laurenzio Laurenzio
+			Lithuanian Lucian Lucius Marin Marius
+			Mihai Milos Miloš Mircea Moise Nikolai Petre Pirvu Radovan Radu Roman Sas Seneslav 
+			Sergiu Simion Simon
+			Stefan Stefan Stelian Theodore Tepes Tibor Tikhomir Timothy Tudor Thierry Valentin 
+			Valentin Valeriu Vasily Basil Vyacheslav
+			Victor Wilhelm William Vintila Vlad
+		}
+		female_names = {
+			Angelina Adriana Athena Alexandra Ana Anastasia Angela Arina Christina 
+			Cristina Clara Dana Catherine Gabriel Georgeta Georgiana Gloria
+			Elena Helen Elizabeth Emilia Emily Felicia Flora Horia Eremiah Ilyana Ilinka
+			Ioan Ionel Irina Juliana Maria Maria Monica Jacob Ioanela Irina Isabella
+			Natalia Olimpia Parashiva Peter Roxan Ruxandra Smaranda Sofia Stan Stefan 
+			Stephanie Stephanie Theodore Rachel Flavia Cosmina Laura Lavinia Livia Loren
+			Teresa Vasilica Violet Yolanda Zina Nina Norik Octavian Pauline Petran Petrik
+		}
+	}
+	stt_sla_slovakian = {
+		primary = SLK
+		male_names = {
+			Joseph Jan Petr Martin Stefan Milan Mikhail Miroslav Thomas Ladislav
+		}
+		female_names = {
+			Maria Anna Zuzana Katarina Eva Yana
+		}
+		dynasty_names = {
+			Adamek Blaha Borovski Brazda Buzik Burian Kapkovik Celko Cervenka Tsibulka 
+			Smrek Fractional Fool Fiala Gadojos Garvan Glinka Gradeski Gudak Gvidzdoslav 
+			Janik Janosik Jurko Kogut Komarovski Kovasova Moravitz Novak Patchka Pelican Petras
+			Ruziska Rubar Safarik Sladkovich Sedlak Simum Spilar Stafura Stur Statoslavsky
+			Sukura Snitrak Tiso Tomchikova Tupi Zasek
+		}
+	}
+	stt_sla_czech = {
+		primary = BOH
+		dynasty_names = {
+			"Yankovskiy from Vlashima" Jotek Lichnowski Lobkowice Nostrice Kutca 
+			"Kaunitz" "Vitkovic" "Zerotin" "Chernin" "Von Harrach" Kinsky Rosenberg
+			Waldstein Jessenski
+		}
+		male_names = {
+			Wenceslas Jiří Karl Premysl Zikmund František Jozev Bozek 
+			Vladislav Vladimir Peter Viktorin Jan Matthias Ferdinand
+			Vratislav Boleslav Vilem Viktor Yaromir Yaroslav Ludwik Otakar
+		}
+		female_names = {
+			Anesthesia Eliška Kateřina Maria Ludmila Alžbeta Agnes Andela Anna Berta Bogusław Bozszań 
+			Branislava Dagmar Danjuta Dobrava
+		}
+	}
+	stt_sla_polish = {
+		primary = POL
+		male_names = {
+			August Stanislav Kazimir Alexander Henryk Albert Kazimierz Michal Stefan 
+			August Oleksander Karl Kazimierz Krzysztow Fryderyk Olbrach Jan Karol Patryk
+			Ferdynand Olbracht Albert Alexy Andrzej Bartlomiej Bohumil Bronislaw David Dominik Eugeniusz 
+			Ferdinand Gustav Igor Ivan Christian Lech Luciusz Ludwig Lukash Maxim Mariusz Mieszko Mirosław 
+			Raphael Sylvester Shimon Siegfried Oscar
+			Alexander Andrei Bartolomey Bezprim Bogukhwal Bohumil Boleslav 
+			"Boleslav" "Boncia" "Boniface" "Bojislav" "Bojidar" "Theodihad" "Borivoy" "Borivoy" "Budzivuy" "Chcibor" 
+			"Chizhneh" "Dalimir" "Daniel" "Danielle" "Dobeslav" "Dobrost" "Dobromir" "Doman" "Domavui" "Dietrich" "Thierry" 
+			Eustachius Eustace Gaudents Herald Gnevomir Gnevosh Goshchon Henrik Henry 
+			Selection Jozef Josef Jacek Jakob Jakob Jakush John Janislav Ivan 
+			Ioann Janusz Ioann Jarosław Jerzy Karol Karl Kazimir Konrad Konrad
+			Crimea Kristan Krzesztaw Lambert Lambert Leszek Ctibor
+			Maciej Matej Matjko Maljowa Marcin Masław Mateusz Miekola
+			Mykola Myslibor Miloslav Mstsivoy Nadbor Nezamyslivoy Odon 
+			Paul Paul Pelka Piotr Piskla Prendota Przemysław Przybor Sambor Sedzej 
+			Seche Semomysl Semovit Scarbimir Snovid Spytko Stanislav
+			Stefan Stoigniew Strasz Sulislaw Sviatopolk Sventoslav
+			Puppies Felix Thomas Troyden Velislav Wieslaw Vincent Witosz Wladyslaw Wojciech
+			Zelibrat Sigmund Lavrentij Veleslav Vincentij Vincent Wit Witosz Vladislav Wojciech
+			Warfare Wshebor Zbigniew Zbyshko Zegota Ignat Zelibrat
+			Jigmund Albert Wawrzyniec Svyatoslav Senjimir Otto Christine Janko Imram
+		}
+		female_names = {
+			Adelaide Adelaide Adelaide Agnes Aldonas Anastasia Anastasia Anna Beate of God Danut.
+			Good Dobroneg Elizabeth Euphemia Euphemia Euphrosyne Gertrude
+			Gelena Elena Yadviga Yolanda Yudita Katarzyna Katerina Kazimera Kenna
+			King Constantia Constanta Cristina Christina Kunegunda Lucy Lucy Ludmila Magdalena
+			Malgojata Maria Mozhislava Mstislava Moimira
+			Matilda Milena Nadzej Navoj Pehna Rõõhez Ryks Salome Samboj Samboj Skolastika Skolastika
+			Smehna Stanislav Svetoslav Wojsław Wojsław Vojsław Vojsław
+			Wolisław Wszebor Wszebor Wszebor Wszebor Sofia Zwinisława
+		}
+		dynasty_names = {
+			Griff Piast Jagiellon Wisniewiecki Sobieski Leszczynski 
+			Poniatowski Radziwill Zamoyski Potocki Lubomirski 
+			Premyslovich Podebrad 
+			"Khodcevic" "Chartorysky" "Lianzkoronsky" "Milzinski" "Oginsky"
+			"Ostrozhsky" "Ostroug" "Sapega" "Sangushko" "Tarnovsky" "Tenchinsky"
+			Tyshkevich Kurnatovsky Tachanovsky Gossevsky Opalinsky
+		}
+	}	
+	stt_sla_russian = {
+		primary = MOS
+		male_names = {
+			Vasily Ivan Dmitry Yuri Andrey Semyon Fedor Afanasy Akim Alexander Anatoly Arkady 
+			Dorofei Theodosius Theophylact Gabriel Innocent Joseph Lavrentius Makar Matvei Michael Nazar 
+			Onisim Paul Prokopy Peter Radomir Savely Sergey Terenty Valery Yakim Eugene.
+			Afanasy Alexander Alexey Andrey Andrey Boris Brjachislav 
+			Brzetislav Nikifor
+			Daniel Danil David David Demetrius Dobrynya Fedot Theodore Theodore 
+			Gabriel Gabriel Gleb
+			Grigory Gregory Yakov Jacob Igor Ilya Ingvar Ivan Ivan Izyaslav Kirill 
+			Konstantin Konstantin Kuzma Kuzmu Leo Matthew Mikhail Mitrofan 
+			Mstislav Nikita Oleg Helgi Pavel Ravel Putyata Radoslav Rodislav Rogvolod Roman 
+			Rostislav Rurik 
+			Rurik Ruslan Semyon Simon Stanislav Stepan Sudislav
+			Svetozar Svyatopolk Svyatoslav Terenty Trifon Vasily Vasilko 
+			Vyacheslav Vladimir Vladislav Voislav Volodar Alleslav
+			Vsevolod Vyshata Vysheslav Yaropolk Yaroslav Efimiy Elisey Emelyan Emil Eremey 
+			Eus
+		}
+		female_names = {
+			Agafia Agata Agrafena Alexander Anastasia Anna Boleslava Daria Dobrava 
+			Dobronega Dobroslava Efimia Efrosinia Catherine Catherine
+			Elizabeth Yevdokia Yevdokia Eupraxia Theodora Theodora Theodosia 
+			Fevroniya Gorislava Gramislava Irina Kseniya Lyubava
+			Ludmila Malfrida Malusha Maria Marina Olena Olga Pereyaslava Praskovya Praxida 
+			Predslava Premslava Svetlana Julia
+			Prisbislav Rogned Rostislav Sofia Svyatoslav Tatiana Ulita Ulyana
+			Vasilis Veleslav Veleslav Upper Slav Vyacheslav Yaroslav Zvenislav Zvenislav Barbara
+		}
+		dynasty_names = {
+			Rurikovich Godunov Shuisky Romanov Sheremetyev Golitsin Naryshkin Khilkov Gorchakov
+			"Beloselski" "Chelyadin" "Potemkin" "Shelf" "Shogin" "Selection" "Tver" "Lukowski" "Pleskov" "Toropetsky" "Dukhovsky"
+			Koroviev Voland Tyvorsky Buzhansky Slutskiy Pinsky Zhitomirsky Vinnitsky Polansky Lomonosov Griboedov 
+			Zhukov Roslavsky Turgenev
+			Dolgorukov Gagarin Golitsyn Masalsky Pushkin Gantimurov Siberian Lermontov
+			# CKII
+			Demidov Lopukhin Tolstoy "Lobanov-Rostovsky" Menshikov Obolensky
+		}
+	}
+	stt_sla_byelorussian = {
+		primary = PLT
+		male_names = {
+			Andrey Lyubko Olgerd Brjachislav Vasily Svyatoslav Vladimir Izyaslav Vseslav Boris Alexander Adrian 
+			Athanasius Daniel Dmitry Dorofey Thaddeus Theodosius Theophilus Thomas Theodore Gabriel Gregory Igor Ivan 
+			Mikhail Naum Nikita Nikolay Pankratiy Prokhor Peter Radoslav Ruslan Semyon Seraphim Sevastian Stanislav 
+			Timothy Bartholomew Vikenty Yaroslav Mefodiy
+		}
+		female_names = {
+			Gavriila Larissa Alexandra Alla Bronislava Svetlana Yuliya Yaroslava Vladislava Lyudmila Nadezhda Rostislava
+		}
+	}
+	stt_sla_ruthenian = {
+		primary = UKR
+		male_names = {
+			Ivan Dmitry Yuri Andrey Semen Boris Fedor Oleg Afanasy Akim Alexander Anatoly Arkady 
+			Dorofei Theodosius Theophylact Gabriel Innocent Joseph Lavrentius Makar Matvei Michael Nazar 
+			Onisim Paul Prokopy Peter Radomir Saveliy Sergey Terenty Valery Yakim Yevgeny Yaropolk 
+			Vyacheslav Vsevolod Igor Izyaslav Rostislav Vladimir Mstislav Gleb Roman Rurik Svyatoslav Ingvar 	
+			Stanislav Daniel Nikifor
+		}
+		female_names = {
+			Gavriila Larissa Alexandra Alla Bronislava Svetlana Yuliya Yaroslava Vladislava Lyudmila Nadezhda Rostislava
+		}
+	}
+	dynasty_names = {
+		Rurikovich Godunov Shuisky Romanov Sheremetev Golitsyn Naryshkin Hilkov Gorchakov
+		"Beloselski" "Chelyadnin" "Potemkin" "Shogin" "Trimirovich" "Svetoslavic" "Kosovic" "Kresimirovich" 
+		Zrinski Domagojevic Hrvatinic Kotromanic Brankovic Lazarevic Griff Piast Jagellon 
+		Batory Vishnevetskiy Sobieski Leszczynski Poniatowski Radziwill Zamoyski Potocki 
+		Lubomirski Hunyadi Zapolya Przemysłowicz "from Podebrady" Rakoczi Bochkai
+	}
+}

@@ -1,0 +1,280 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+color = { 220  138  57 }
+
+historical_score = 3500
+revolutionary_colors = { 6  0  14 }
+
+preferred_religion = reformed
+
+historical_idea_groups = {
+	administrative_ideas
+	exploration_ideas
+	defensive_ideas
+	maritime_ideas
+	innovativeness_ideas
+	quality_ideas
+	trade_ideas
+	economic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	austrian_tercio
+	austrian_grenzer
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"William #0" = 100
+	"Ludovic #0" = 40
+	"Friedrich Heinrich #0" = 20
+	"Moritz #0" = 20
+	"Philippe Wilhelm #0" = 15
+	"Henry Louis #0" = 15
+	"Carl #0 Ludovic" = 15
+	"Louis #0 Carl" = 15
+	"Adrian #0" = 10
+	"Andris #0" = 10
+	"Antony #0" = 10
+	"Friedrich #0" = 10
+	"Gaspar #0" = 10
+	"Isaac #0" = 10
+	"Jacob #0" = 10
+	"Johann #0" = 10
+	"Lawrence #0" = 10
+	"Paul #0" = 10
+	"Peter #0" = 10
+	"Simon #0" = 10
+	"Abraham #0" = 0
+	"Anton #0" = 0
+	"Barkhout #0" = 0
+	"Christiaan #0" = 0
+	"Christoffel #0" = 0
+	"Constantine #0" = 0
+	"Cornelius #0" = 0
+	"Danielle #0" = 0
+	"David #0" = 0
+	"Phillips #0" = 0
+	"Dirk #0" = 0
+	"Ace #0" = 0
+	"Frans #0" = 0
+	"Gabrielle #0" = 0
+	"Gerard #0" = 0
+	"Gerben #0" = 0
+	"Godfrid #0" = 0
+	"Hans #0" = 0
+	"Yerun #0" = 0
+	"Hugo #0" = 0
+	"Jan #0" = 0
+	"Jost #0" = 0
+	"Nicholas #0" = 0
+	"Roland #0" = 0
+	"Rogir #0" = 0
+	"Rutger #0" = 0
+	"Thomas #0" = 0
+	"Vincent #0" = 0
+	"Zachariah #0" = 0
+	
+	"Margarita #0" = -1
+	"Rosanna #0" = -1
+	"Tamara #0" = -1
+}
+
+leader_names = {
+	"van der Aa"
+	"van Assendelft"
+	"van Bronckhorst"
+	"Batenburg"
+	"Bentink"
+	"Brandt"
+	"van Bréderode"
+	"Brower"
+	"Chorn"
+	"Cohen"
+	"Cransen"
+	"van Culemborg"
+	"Dundels"
+	"van Dimen"
+	"van der Doose"
+	"van Dewewenworth"
+	"van Egmont"
+	"Evertsen"
+	"van Galen"
+	"de Grove"
+	"van Garen"
+	"van Heemskerck"
+	"de Guttmann"
+	"van Huchtenbroek"
+	"van Ilpendam"
+	"Boat"
+	"van Keppel"
+	"Cortenar"
+	"van Marnix"
+	"Martin"
+	"de Maure"
+	"Nachtegaal"
+	"van Nieuwenaar"
+	"van Noort"
+	"van Pallandt"
+	"van Rephorst"
+	"van Rechteren"
+	"Reyersen"
+	"van Renesse"
+	"van Ribeck"
+	"de Rijk"
+	"van Rossum"
+	"Schouten"
+	"Schenk"
+	"Spiegel"
+	"Steltman"
+	"Stewesant"
+	"van Sweeten"
+	"Tasman"
+	"van Troyen"
+	"van Vlihop"
+	"van Worst"
+	"van Utenhove"
+	"van Valbec"
+	"van Wassenar"
+	"van der Verff"
+	"van Wesembeke"
+	"van Wingle"
+	"van Weingaarden"
+	"de Winter"
+}
+
+ship_names = {
+	"Adelaar"
+	"Ajax"
+	"Alkmaar"
+	"Amelia"
+	"Amsterdam"
+	"Atalanta"
+	"Bantam"
+	"Batavia"
+	"Bechermer"
+	"Braderode"
+	"Brower"
+	"Brutus"
+	"Kampen"
+	"Cerberus"
+	"Comestar"
+	"Daphne"
+	"Delfland"
+	"Delft"
+	"Den Svarten Raven"
+	"Dolphin"
+	"Daventer"
+	"Deifken"
+	"Endracht"
+	"Enhorn"
+	"Embuscade"
+	"Engel"
+	"Erasmus"
+	"Gesterland"
+	"Hekrunde Lifde"
+	"Geleihaid"
+	"Gouda"
+	"Gouden Rent"
+	"Gouden Leev"
+	"Grotto Frisia"
+	"Grootte St. Joris"
+	"Grotto Zon"
+	"Harlem"
+	"Geldin"
+	"Hercules"
+	"De Halve Maen"
+	"Holland"
+	"Hollandsche Tayne"
+	"Huys Te Oosterwijk"
+	"Huys te Sweeten."
+	"Huys van Nassau"
+	"Yong Prince te Paard"
+	"Jupiter"
+	"Kline Zone"
+	"Kline Shin Yoris"
+	"Comedian"
+	"Cronede Rent"
+	"Leiden"
+	"Lifde van Hoorn"
+	"Maagd van Dordrecht"
+	"Mars"
+	"Moritz"
+	"Middelburg"
+	"Minerva"
+	"Moon"
+	"Monnikendam"
+	"Muiderberg"
+	"Nassau"
+	"Niev Flissingen"
+	"Oliphant"
+	"Oncrust"
+	"Oohivaar"
+	"Orange"
+	"Patient"
+	"Posthorn"
+	"Prince Friseau"
+	"Prince Willem"
+	"Rotterdam"
+	"Rozendaal"
+	"Shakerloo"
+	"Shermer"
+	"Spiegel"
+	"State General"
+	"Statenland"
+	"Stern"
+	"St. Yago de Victoria"
+	"St. Martin"
+	"St. Matthew's"
+	"Tolen"
+	"Tiger"
+	"Vereenigde Province"
+	"Flissingen"
+	"Wednesday"
+	"Wreidheid"
+	"Waakzaamheid"
+	"Walharen"
+	"Vapen van Holland"
+	"Wapen van Medenblick"
+	"Wassenaar"
+	"Winhond"
+	"Witte Leev"
+	"Worden"
+	"Zerayp"
+	"Zeven Provincienne"
+	"Ziriksee"
+	"Zone"
+	"Sueidholland"
+	"Svarte Leov"
+}
+
+
+army_names = {
+	"Dutch Army"
+	"Royal Army"
+	"Provincial Army. $PROVINCE$"
+}
+
+fleet_names = {
+	"Dutch Navy"
+	"North Sea Squadron"
+	"Eastern Squadron"
+	"East India Squadron"
+	"West India Squadron"
+	"Mediterranean Squadron"
+	"Provincial Squadron. $PROVINCE$"
+}

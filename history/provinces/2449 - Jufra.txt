@@ -1,0 +1,16 @@
+#2449 - Jufra
+
+culture = berber
+religion = sunni
+capital = "Zella"
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+discovered_by = muslim
+discovered_by = ottoman
+
+owner = FZA
+controller = FZA
+add_core = FZA

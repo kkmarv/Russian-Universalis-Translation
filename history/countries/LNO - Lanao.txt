@@ -1,0 +1,82 @@
+government = republic
+	add_government_reform = noble_elite_reform
+	set_legacy_government = noble_republic
+technology_group = chinese
+religion = sunni
+primary_culture = filipino
+capital = 653	# Lanao
+religious_school = shafii_school
+
+1399.1.1 = {
+	add_piety = -0.15
+}
+
+1640.1.1 = {
+	monarch = {
+		name = "Barahaman" # fictional
+		dynasty = "Dumalong"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1670.1.1 = {
+	monarch = {
+		name = "Muhammad Tahir oud-din" # fictional
+		dynasty = "Ditsaan"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1700.1.1 = {
+	monarch = {
+		name = "Laut Bouisan" # fictional
+		dynasty = "Bacholod"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1730.1.1 = {
+	monarch = {
+		name = "Maca Alang Saripada" # fictional
+		dynasty = "Ballroom"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1760.1.1 = {
+	monarch = {
+		name = "Dundang Tidulai" # fictional
+		dynasty = "Boutig"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1790.1.1 = {
+	monarch = {
+		name = "Kahar oud-din Kuda" # fictional
+		dynasty = "Maribo"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1820.1.1 = {
+	monarch = {
+		name = "Kahar oud-din Kuda" # fictional
+		dynasty = "Mada"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

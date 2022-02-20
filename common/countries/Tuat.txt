@@ -1,0 +1,154 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 153 25 102 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	expansion_ideas
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	humanist_ideas
+	quality_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Abiatar #0" = 10
+	"Ahijia #0" = 10
+	"Acabon #0" = 10
+	"Alon #0" = 10
+	"Amit #0" = 10
+	"Avram #0" = 10
+	"Ananel #0" = 10
+	"Ananius #0" = 10
+	"Areth #0" = 10
+	"Aristobul #0" = 10
+	"Azrikam #0" = 10
+	"Barak #0" = 10
+	"Baruch #0" = 10
+	"Belshazar #0" = 10
+	"Costobar #0" = 10
+	"Deror #0" = 10
+	"Dory #0" = 10
+	"Eyran #0" = 10
+	"Eleazar #0" = 10
+	"Erotimus #0" = 10
+	"Ezra #0" = 10
+	"Hadassah #0" = 10
+	"Herod #0" = 10
+	"Gillel #0" = 10
+	"Hirkan #0" = 10
+	"Jannei #0" = 10
+	"Joazar #0" = 10
+	"Joseph #0" = 10
+	"Josiad #0" = 10
+	"Kagana #0" = 10
+	"Godavia #0" = 10
+	"Gonio #0" = 10
+	"Maire #0" = 10
+	"Nagum #0" = 10
+	"Nathan #0" = 10
+	"Nehemiah #0" = 10
+	"Nicanor #0" = 10
+	"Nir #0" = 10
+	"Obadia #0" = 10
+	"Offer #0" = 10
+	"Omri #0" = 10
+	"Pinha #0" = 10
+	"Fanny #0" = 10
+	"Fazel #0" = 10
+	"Raanan #0" = 10
+	"Malich #0" = 10
+	"Manass #0" = 10
+	"Leg #0" = 10
+	"Shamgar #0" = 10
+	"Shammai #0" = 10
+	"Shaul #0" = 10
+	"Shemaya #0" = 10
+	"Shemida #0" = 10
+	"Power #0" = 10
+	"Simeon #0" = 10
+	"Sosa #0" = 10
+	"Talmon #0" = 10
+	"Tarfon #0" = 10
+	"Tovia #0" = 10
+	"Yair #0" = 10
+	"Yohanan #0" = 10
+	"Zadok #0" = 10
+	
+	"Adena #0" = -10
+	"Adi #0" = -10
+	"Adva #0" = -10
+	"Aguva #0" = -10
+	"Alexandra #0" = -10
+	"Aliza #0" = -10
+	"Alta #0" = -10
+	"Aria #0" = -10
+	"Asher #0" = -10
+	"Basia #0" = -10
+	"Boaz #0" = -10
+	"Shana #0" = -10
+	"Cypros #0" = -10
+	"Dana #0" = -10
+	"Dara #0" = -10
+	"Deena #0" = -10
+	"Doris #0" = -10
+	"Dov #0" = -10
+	"Yard #0" = -10
+	"Elisheva #0" = -10
+	"Esther #0" = -10
+	"Galiya #0" = -10
+	"Galit #0" = -10
+	"Lea #0" = -10
+	"Liat #0" = -10
+	"Liora #0" = -10
+	"Mahla #0" = -10
+	"Maryam #0" = -10
+	"Marnie #0" = -10
+	"May #0" = -10
+	"Meital #0" = -10
+	"Menachem #0" = -10
+	"Milka #0" = -10
+	"Naama #0" = -10
+	"Nagal #0" = -10
+	"Nava #0" = -10
+	"Nissa #0" = -10
+	"Aura #0" = -10
+	"Orith #0" = -10
+	"Oscher #0" = -10
+	"Rachel #0" = -10
+	"Risa #0" = -10
+	"Rivka #0" = -10
+	"Salampsio #0" = -10
+	"Sarah #0" = -10
+	"Shayna #0" = -10
+	"Tamara #0" = -10
+	"Tirza #0" = -10
+	"Yael #0" = -10
+	"Yoheved #0" = -10
+}
+
+leader_names = {
+	Abiatar Ahijja Akabon Alon Amith Avram Ananel Ananiyaret Aristobul Azrikam Barack Baruch Belshazar Costobar Deror Dori Eiran Eleazar 
+	Erotimus Ezra Hadassah Herod Gillem Hirkan Yannay Yoazar Joseph Kagana Gillem Godavia Gonio Meira Nagum Nathan Nehemiah Nikanor Nir 
+	Obadia Ofer Omri Pinha Fanny Fazel Raanan Malich Manass Nagum Noga Shamgar Shammai Shaul Shemaya Shamida Sila Simeon Sosa Talmon Tarfon
+	Tovia Yair Johanan Zadok
+}
+
+ship_names = {
+	Tuat
+}

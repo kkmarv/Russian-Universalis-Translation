@@ -1,0 +1,212 @@
+#Country Name: Please see filename.
+
+graphical_culture = southamericagfx
+
+color = { 94  136  191 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	maritime_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+
+historical_units = {
+	mesoamerican_spearmen
+	central_american_horsemen
+	maya_tribal_warfare
+	maya_forest_warfare
+	maya_gunpowder_warfare
+	westernized_mayan
+	maya_guerilla_warfare
+}
+
+leader_names = {
+	"Aquinxock"
+	"Ametaccukul"
+	"Amok"
+	"Anakuppech"
+	"Apop-Achi"
+	"Arana"
+	"Can"
+	"Balam"
+	"Bohr"
+	"Kaneke"
+	"Chaob"
+	"Chiam"
+	"Nuig"
+	"Kay"
+	"Kiin"
+	"Kukumac"
+	"Mochkouo"
+	"Started ."
+	"Noochakum"
+	"Pacal"
+	"Kitse Balam"
+	"Tekunuman"
+	"Wataki"
+	"Yumkax"
+	"Sots"
+}
+
+monarch_names = {
+	"Kang Ek #0" = 60
+	"Balam Kitze #0" = 20
+	"Coke #1" = 20
+	"Pacal #1" = 20
+	"Waxaki Kam #0" = 20
+	"And Cacao #1" = 15
+	"Chum Balun #1" = 15
+	"Ku X #1" = 15
+	"Pakal Balam #1" = 15
+	"Yaksum Balam #1" = 15
+	"Buz Chan #1" = 10
+	"Chang Muang #1" = 10
+	"Can Boar #1" = 10
+	"Yax Cook Mok #1" = 10
+	"Yax Pak #1" = 10
+	"A Kahn #0" = 0
+	"Aquinxock #0" = 0
+	"Amok #0" = 0
+	"Apop-Achi #0" = 0
+	"Arana #0" = 0
+	"Can #0" = 0
+	"Bohr #0" = 0
+	"Cocaibe #0" = 0
+	"Kokoha #0" = 0
+	"Konache #0" = 0
+	"Cotuha #0" = 0
+	"Hukamac #0" = 0
+	"Nuig #0" = 0
+	"Can Balun Moe #0" = 0
+	"Kay #0" = 0
+	"Kukumac #0" = 0
+	"Mochkouo #0" = 0
+	"Noochakum #0" = 0
+	"Oxib Que #0" = 0
+	"Tekunuman #0" = 0
+	"Xiu Tutulus #0" = 0
+	"Zikin #0" = 0
+	"Wataki #0" = 0
+	"Yamkaas #0" = 0
+	"Sots #0" = 0
+	
+	"Sacknit #0" = -1
+}
+
+ship_names = {
+	"Ake"
+	"A Pugh"
+	"Altoon Ha"
+	"Bonampak"
+	"Bacan"
+	"Bolognese"
+	"Chuck"
+	"Kamasots"
+	"Cancún"
+	"Karakol"
+	"Kerros"
+	"Chakchoben"
+	"Chakmultun"
+	"Cinicia"
+	"Chinkultik"
+	"Chunchukmil"
+	"Syviltuk"
+	"Calakmul"
+	"Copan"
+	"Koba"
+	"Cicen Itza"
+	"Dzibilchultun"
+	"Dzibilnock"
+	"Jilam"
+	"Dzibilchultun"
+	"Doss Pilas"
+	"Kaal Pej"
+	"Edna"
+	"Ekab"
+	"Ek Balam"
+	"Gumarkah"
+	"Hukumac"
+	"Hokchob"
+	"Hormigero"
+	"Hunapu"
+	"Hurakan"
+	"Ixcbalanke"
+	"Ixchel"
+	"Ixstab"
+	"Ichmak"
+	"Ichmul"
+	"Yitzan"
+	"Ixil"
+	"Icsimche"
+	"Xlu"
+	"Isamal"
+	"X Chelle"
+	"Labna"
+	"Lamanay"
+	"Louisville"
+	"Lubantun"
+	"Lubantune Jaina"
+	"Holya"
+	"Hoya de Seren"
+	"Cainalluiu"
+	"Kabah"
+	"Kiwick"
+	"Cantunile Quin"
+	"Lamanay"
+	"Mayapan"
+	"Machakila"
+	"Mani"
+	"Muluccekel"
+	"Muyil"
+	"Nakum"
+	"Nakbe"
+	"Naranho"
+	"Sky"
+	"Is Nime Punit"
+	"Trench"
+	"Oxcuscab"
+	"Okskintok"
+	"Palenke"
+	"Pomona"
+	"Pusilla"
+	"Piedras Negras"
+	"Kiriguya"
+	"Rio Azul"
+	"Rio Beck"
+	"Sayle"
+	"Sabal"
+	"Cicely"
+	"Tonina"
+	"Tikal"
+	"Tulum"
+	"Tank"
+	"Tatsumal"
+	"Teco"
+	"Topoxte"
+	"Uxmal"
+	"Waxactune"
+	"Channel"
+	"Uki"
+	"Utatlan"
+	"Waka"
+	"Kskalumkin"
+	"Skaret"
+	"Xcorralche"
+	"Craigslist"
+	"Pod"
+	"Kslapak"
+	"Kspuchil"
+	"Xcultura"
+	"Ksunantunich"
+	"Yaklmay"
+	"Yaxchilan"
+	"Jaxa"
+	"Yookop"
+	"Zipasna"
+	"Zakuleu"
+}

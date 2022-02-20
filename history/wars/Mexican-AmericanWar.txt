@@ -1,0 +1,17 @@
+name = "American-Mexican War"
+
+war_goal = {
+	type = take_core
+	casus_belli = cb_core
+	province = 887
+}
+
+1846.4.23 = {
+	add_attacker = MEX
+	add_defender = USA
+}
+
+1848.2.2 = {
+	rem_attacker = MEX
+	rem_defender = USA
+}

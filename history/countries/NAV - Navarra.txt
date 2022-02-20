@@ -1,0 +1,360 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = basque
+religion = catholic
+technology_group = western
+capital = 210	# Pamplona
+
+1285.10.5 = {
+	monarch = {
+		name = "Phillip I Beautiful"
+		dynasty = "Capeting"
+		birth_date = 1268.4.8
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+1289.10.4 = {
+	heir = {
+		name = "Ludovic"
+		monarch_name = "Louis I Svarly"
+		dynasty = "Capeting"
+		birth_date = 1289.10.4
+		death_date = 1316.6.5
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+}
+
+1314.11.29 = {
+	monarch = {
+		name = "Louis I Svarly"
+		dynasty = "Capeting"
+		birth_date = 1289.10.4
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+}
+
+1316.6.5 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1316.11.15 = {
+	monarch = {
+		name = "John I Postmortem"
+		dynasty = "Capeting"
+		birth_date = 1316.11.15
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+1316.11.20 = {
+	monarch = {
+		name = "Phillip II Long"
+		dynasty = "Capeting"
+		birth_date = 1291.11.17
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1316.11.20 = {
+	heir = {
+		name = "Karl"
+		monarch_name = "Charles I Beautiful"
+		dynasty = "Capeting"
+		birth_date = 1294.6.18
+		death_date = 1328.2.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1322.1.3 = {
+	monarch = {
+		name = "Charles I Beautiful"
+		dynasty = "Capeting"
+		birth_date = 1294.6.18
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1328.2.1 = {
+	monarch = {
+		name = "Philippe III"
+		dynasty = "de Dreux"
+		birth_date = 1306.3.27
+		death_date = 1343.9.23
+		adm = 1
+		dip = 0
+		mil = 3		
+	}
+	define_consort = {
+		name = "Juanna"
+		monarch_name = "Juanna II French"
+		dynasty = "Capeting"
+		birth_date = 1312.1.28
+		adm = 1
+		dip = 2
+		mil = 0
+		female = yes
+	}
+}
+
+1332.10.10 = {
+	heir = {
+		name = "Carlos"
+		monarch_name = "Carlos II"
+		dynasty = "de Dreux"
+		birth_date = 1332.10.10
+		death_date = 1387.1.1
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+
+1343.9.23 = {
+	monarch = {
+		name = "Juanna II French"
+		dynasty = "Capeting"
+		birth_date = 1312.1.28
+		death_date = 1349.10.6
+		adm = 0
+		dip = 1
+		mil = 3
+		female = yes
+	}
+}
+
+1343.9.23 = {
+	heir = {
+		name = "Carlos"
+		monarch_name = "Carlos II"
+		dynasty = "de Dreux"
+		birth_date = 1332.10.10
+		death_date = 1387.1.1
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+
+1349.10.6 = {
+	monarch = {
+		name = "Carlos II"
+		dynasty = "de Dreux"
+		birth_date = 1332.10.10
+		death_date = 1387.1.1
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+
+1361.1.1 = {
+	heir = {
+		name = "Carlos"
+		monarch_name = "Carlos III"
+		dynasty = "de Dreux"
+		birth_date = 1361.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+1387.1.1 = {
+	monarch = {
+		name = "Carlos III"
+		dynasty = "de Dreux"
+		birth_date = 1361.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1425.1.1 = {
+	monarch = {
+		name = "Juan II"
+		dynasty = "de Trastamara"
+		birth_date = 1398.1.20
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1479.1.20 = {
+	monarch = {
+		name = "Leonor I"
+		dynasty = "de Trastamara"
+		birth_date = 1426.2.2
+		adm = 1
+		dip = 2
+		mil = 0
+		female = yes
+	}
+}
+
+1479.1.20 = {
+	heir = {
+		name = "Francis"
+		monarch_name = "Francis I Feb"
+		dynasty = "de Foie"
+		birth_date = 1469.1.1
+		death_date = 1483.1.1
+		claim = 80
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1479.2.12 = {
+	monarch = {
+		name = "Francis I Feb"
+		dynasty = "de Foie"
+		birth_date = 1469.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1479.2.12 = {
+	heir = {
+		name = "Catalina"
+		monarch_name = "Catalina I"
+		dynasty = "de Foie"
+		birth_date = 1468.1.1
+		death_date = 1518.2.18
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 0
+		female = yes
+	}
+}
+
+1483.1.1 = {
+	monarch = {
+		name = "Catalina I"
+		dynasty = "de Foie"
+		birth_date = 1468.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+		female = yes
+	}
+}
+
+1503.4.18 = {
+	heir = {
+		name = "Enrique"
+		monarch_name = "Enrique II"
+		dynasty = "d'Albre"
+		birth_date = 1503.4.18
+		death_date = 1555.5.25
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+1512.9.1 = { capital = 176 government = monarchy
+add_government_reform = autocracy_reform } # Bearn/Foix 
+  
+1517.1.1 = {
+	monarch = {
+		name = "Enrique II"
+		dynasty = "d'Albre"
+		birth_date = 1503.4.18
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+1528.1.7 = {
+	heir = {
+		name = "Juana"
+		monarch_name = "Juana III"
+		dynasty = "d'Albre"
+		birth_date = 1528.1.7
+		death_date = 1572.6.9
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 1
+		female = yes
+	}
+}
+
+1555.5.25 = {
+	monarch = {
+		name = "Juana III"
+		dynasty = "d'Albre"
+		birth_date = 1528.1.7
+		adm = 4
+		dip = 4
+		mil = 1
+		female = yes
+	}
+}
+
+1555.5.25 = {
+	heir = {
+		name = "Enrique"
+		monarch_name = "Enrique III"
+		dynasty = "de bourbon"
+		birth_date = 1553.12.13
+		death_date = 1610.5.14
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 5
+		leader = { 	name = "Enrique III"		type = general	fire = 4	shock = 4	manuever = 2	siege = 0 }
+	}
+}
+
+1560.1.1 = { religion = reformed set_legacy_government = administrative_monarchy }
+
+1562.1.1 = { leader = {	name = "Louis I de Condé"	type = general	fire = 2	shock = 3	manuever = 4	siege = 3	death_date = 1569.1.1 } }
+
+1572.6.9 = {
+	monarch = {
+		name = "Enrique III"
+		dynasty = "de bourbon"
+		birth_date = 1553.12.13
+		adm = 5
+		dip = 5
+		mil = 5
+		leader = { 	name = "Enrique III"		type = general	fire = 4	shock = 4	manuever = 2	siege = 0 }
+	}
+}
+
+1661.3.9 = { government = monarchy
+add_government_reform = autocracy_reform }

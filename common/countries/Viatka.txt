@@ -1,0 +1,139 @@
+#Viatka
+#Tag VIA
+
+graphical_culture = easterngfx
+
+color = { 145  165  95 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	maritime_ideas
+	religious_ideas
+	economic_ideas
+	spy_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+leader_names = {
+    "Aksakov"
+	"Baryatinsky"
+	"Beleutov"
+	"Bielski"
+	"Bibikov"
+	"Buturlin"
+	"Volynsky"
+	"Vorontsov"
+	"Vorotynsky"
+	"Kvashnin"
+	"Kurbsky"
+	"Kutuzov"
+	"Lykov"
+	"Shogin"
+	"Morozov"
+	"Nashchokin"
+	"Novosiletsov"
+	"Obolensky"
+	"Odoyevsky"
+	"Patrykeev"
+	"Plescheev"
+	"Protasov"
+	"Chelyadnin"
+	"Shuisky"
+}
+
+monarch_names = {
+	"Ivan #3" = 60
+	"Feodor #1" = 60
+	"Peter #0" = 60
+	"Vasily #2" = 20
+	"Alexander #0" = 20
+	"Alexey #0" = 20
+	"Boris #0" = 20
+	"Michael #0" = 20
+	"Paul #0" = 20
+	"Catherine #0" = -20
+	"Dmitry #6" = 15
+	"Yuri #4" = 15
+	"Anna #0" = -15
+	"Elizabeth #0" = -15
+	"Constantine #0" = 15
+	"Andrei #3" = 10
+	"Semyon #1" = 10
+	"Nicholas #0" = 0
+	"Afanasiy #0" = 0
+	"Vladimir #0" = 0
+	"Anton #0" = 0
+	"Arseniy #0" = 0
+	"Artamon #0" = 0
+	"Artemy #0" = 0
+	"Bogdan #0" = 0
+	"Demian #0" = 0
+	"Daniel #0" = 0
+	"Maxim #0" = 0
+	"Gabriel #0" = 0
+	"Gregory #0" = 0
+	"Igor #0" = 0
+	"Roman #0" = 0
+	"Kirill #0" = 0
+	"Matthew #0" = 0
+	"Osip #0" = 0
+	"Leo #0" = 0
+	"Jacob #0" = 0
+	"Zakhar #0" = 0
+	"Victor #0" = 0
+	"Vsevolod #0" = 0
+	"Nicephorus #0" = 0
+	"Nikita #0" = 0
+	"Oleg #0" = 0
+	"Plato #0" = 0
+	"Sevastian #0" = 0
+	"Sergei #0" = 0
+	"Stanislav #0" = 0
+	"Ruslan #0" = 0
+	
+	"Agafia #0" = -1
+	"Svetlana #0" = -1
+	"Julia #0" = -1
+}
+
+ship_names = {
+	"Dmitry Donskoy"
+	"Vasily I"
+	"Dmitry Alexandrovich"
+	"Rurik"
+	"Ivan Kalita"
+	"Moscow"
+	"Volga"
+	"Dmitrov"
+	"Kolomna"
+	"Zvenigorod"
+	"Mozhaisk"
+	"Oslobya"
+	"Sync & corrections by"
+	"Troitskoe"
+	"Volokolamsk"
+	"Clint"
+	"Sergiy Radonezhsky"
+}

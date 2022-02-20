@@ -1,0 +1,65 @@
+government = republic 
+add_government_reform = cossacks_reform
+historical_friend = TUR
+technology_group = eastern
+unit_type = eastern
+religion = orthodox
+primary_culture = ruthenian
+capital = 1943	# Bratslav
+
+
+
+
+1669.1.1 = {
+	monarch = {
+		name = "Peter Doroshenko"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1677.1.1 = {
+	monarch = {
+		name = "Yuri Khmelnitsky"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1681.1.1 = {
+	monarch = {
+		name = "George Duca"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1684.1.1 = {
+	monarch = {
+		name = "Theodore Sulimenko"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1687.1.1 = {
+	monarch = {
+		name = "Ivan Mazepa"
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+
+1685.1.1 = {
+	monarch = {
+		name = "Yuri Khmelnitsky"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}

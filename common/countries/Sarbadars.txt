@@ -1,0 +1,188 @@
+#Sarbadars
+
+graphical_culture = muslimgfx
+
+color = { 240  34  34 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Juneyd #0" = 30
+	"Haidar #0" = 30
+	"Ismayil #0" = 30
+	"Tahmasp #0" = 20
+	"Muhammad Khudabanda #0" = 10
+	"Abbas #0" = 30
+	"Sephie #0" = 15
+	"Suleiman #0" = 20
+	"Hussain #0" = 10
+	"Nadir #0 Check" = 10
+	"Adil #0 Check" = 10
+	"Ibrahim #0" = 10
+	"Shakhruh #0" = 10
+	"Nadir Mirza #0" = 5
+	"Karim #0 Khan" = 10
+	"Abul Fath #0" = 10
+	"Muhammad Ali #0" = 10
+	"Muhammad Sadeq #0" = 10
+	"Ali Murad #0" = 10
+	"Jafar #0" = 10
+	"Loft Ali #0" = 10
+	"Aga Muhammad #0" = 10
+	"Fatah Ali #0" = 10
+	
+	"Atia #0" = -1
+}
+
+leader_names = {
+	"Sabiri"
+	"Jalili"
+	"Azizi"
+	"Shahi"
+	"Dai"
+	"Kazai"
+	"Dalvand"
+	"Ahrani"
+	"Fatemi"
+	"Sabet"
+	"Ansari"
+}
+
+ship_names = {
+	"Abatur"
+	"Adamn Kasia"
+	"Aesma Daeva"
+	"Agas"
+	"Ahriman"
+	"Ahura"
+	"Ahura Mazda"
+	"Ahuran"
+	"Ayriaman"
+	"Aka Manah"
+	"Aladdin"
+	"Allatum"
+	"Amashaspan"
+	"Ameratat"
+	"Amesha Spentas"
+	"Anahita"
+	"Angra Mainu"
+	"Andjuman"
+	"Apam-natat"
+	"Apaso"
+	"Aredvi"
+	"Arishtat"
+	"Armaiti"
+	"Arsacas"
+	"Asha Wahista"
+	"Asman"
+	"Asto Vidatu"
+	"Astvat-Ereta"
+	"Athar"
+	"Azi Dahaka"
+	"Bug"
+	"Bahram"
+	"Burijas"
+	"Bushasta"
+	"Buyasta"
+	"Kamros"
+	"Daena"
+	"Daevas"
+	"Ahaka"
+	"Dahhak"
+	"Dena"
+	"Dev"
+	"Diva"
+	"Friend"
+	"Drvaspa"
+	"Frashegird"
+	"Fravashis"
+	"Gandareva"
+	"Gao-Keren"
+	"Gayomard"
+	"Gayomart"
+	"Geus-Tassan"
+	"Geus-Urvan"
+	"Haoma"
+	"Hawwatatat"
+	"Humai"
+	"Hvar"
+	"Hvarekshaet"
+	"Indar"
+	"Indra"
+	"Izna"
+	"Jamshid"
+	"Jeh"
+	"Card"
+	"Kavi"
+	"Kara"
+	"Kstatra Vaira"
+	"Kundrav"
+	"Mah"
+	"Mahre"
+	"Mahrianaag"
+	"Manu"
+	"Manuchihir"
+	"Mao"
+	"Mashiane"
+	"Mashee"
+	"Menog"
+	"Mitra"
+	"Nairosanga"
+	"Nangaitya"
+	"Neriosang"
+	"Hormuzd"
+	"Paris"
+	"Pesdadianz"
+	"Rapitwin"
+	"Rushnu"
+	"Rustam"
+	"Saurva"
+	"Symburg"
+	"Spenta Mainu"
+	"Sraosa"
+	"Srosh"
+	"Taurikh"
+	"Tunaupa"
+	"Tistya"
+	"Tushnamatai"
+	"Vanant"
+	"Wata"
+	"Veretragna"
+	"Wohu Manah"
+	"Vouruskasha"
+	"Yam"
+	"Yasht"
+	"Yazata"
+	"Daedee"
+	"Ima"
+	"Sal"
+	"Deputy"
+	"Zam-Armatai"
+	"Zarathustra"
+	"Zarich"
+	"Zend-Avestia"
+	"Zurvan"
+}

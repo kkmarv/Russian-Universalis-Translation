@@ -1,0 +1,121 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 136  157  23 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	administrative_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Alexandre #0" = 280
+	"Stefan #1" = 180
+	"Constantine #0" = 120
+	"Michael #0" = 80
+	"Gregory #0" = 60
+	"Ion #0" = 60
+	"Petra #1" = 40
+	"Bogdan #1" = 40
+	"Antioch #0" = 40
+	"Ilyas #0" = 40
+	"Scarlat #0" = 40
+	"Stefanito #0" = 40
+	"George #0" = 40
+	"Petra #2 Aron" = 20
+	"Aaron #0" = 20
+	"Dmitry #0" = 20
+	"Dumitrašku #0" = 20
+	"Emmanuel #0" = 20
+	"Eustratius #0" = 20
+	"Gaspar #0" = 20
+	"George Stefan #0" = 20
+	"Yanku #0" = 20
+	"Ilyas Alexandru #0" = 20
+	"Ion #0 Jacob" = 20
+	"Ion Theodore #0" = 20
+	"South #0" = 20
+	"Jeremiah #0" = 20
+	"Matthew #0" = 20
+	"Milos #0" = 20
+	"Moses #0" = 20
+	"Nicholas #0" = 20
+	"Radu #0" = 20
+	"Simeon #0" = 20
+	"Vasily #0" = 20
+	"Jon #0 Bogdan" = 15
+	"Sergei #0" = 10
+	"Roman #2" = 5
+	"Andrei #0" = 0
+	"Julian #0" = 0
+	"Mircea #0" = 0
+	
+	"Camellia #0" = -1
+	"Doina #0" = -1
+	"Olga #0" = -1
+}
+
+leader_names = {
+	"Kallimaki"
+	"Kampinyanu"
+	"Cantacuzin"
+	"Cantemir"
+	"Karaja"
+	"Krajovescu"
+	"Dooka"
+	"Geek"
+	"Ilyash"
+	"Lupu"
+	"Mavrocordat"
+	"Moruzi"
+	"Moviele"
+	"Musatin"
+	"Moroka"
+	"Rakovita"
+	"Rouchet"
+	"Sturdza"
+	"Suta"
+	"Wode"
+}
+
+ship_names = {
+	"Athletic Christie"
+	"Baja"
+	"Bogdan I"
+	"Luga"
+	"Moldova"
+	"Reul Prut"
+	"Stefan cel Mare"
+	"Sychava"
+	"Tergul Moldovei"
+	"You're welcome ."
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$" 
+}

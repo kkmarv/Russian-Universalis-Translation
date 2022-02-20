@@ -1,0 +1,195 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 187 206 247 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	swedish_gustavian
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Jean #3" = 40
+	"Karl #0" = 40
+	"Bernard #6" = 20
+	"Henri #0" = 10
+	"Margarita #0" = -10
+	"Jero #6" = 5
+	"Guillaume #1" = 5
+	"Arno-Bernard #2" = 1
+	"Masqueros #1" = 1
+	"Eskiva #1" = 1
+	"Pierre-Jerot #1" = 1
+	"Arman #0" = 0
+	"Arno #0" = 0
+	"Emeric #0" = 0
+	"Bartomew #0" = 0
+	"Berna #0" = 0
+	"Bertrand #0" = 0
+	"Dominion #0" = 0
+	"Eneko #0" = 0
+	"Esteve #0" = 0
+	"Esemen #0" = 0
+	"Ferran #0" = 0
+	"Fulk #0" = 0
+	"Free #0" = 0
+	"Gaston #0" = 0
+	"Joffre #0" = 0
+	"Guilhem #0" = 0
+	"Jacquet #0" = 0
+	"Jourdain #0" = 0
+	"Lua #0" = 0
+	"Marty #0" = 0
+	"Mathieu #0" = 0
+	"Myke #0" = 0
+	"From . #0" = 0
+	"Per #0" = 0
+	"Paul #0" = 0
+	"Romé #0" = 0
+	"Tom #0" = 0
+	"Vicenc #0" = 0
+	"Vive #0" = 0
+}
+
+leader_names = {
+	"d'Artagnan"
+	"d'Astarac"
+	"d'Avençaque"
+	"d'Avesan"
+	"Barry de Puillet"
+	"de Baz"
+	"de Brock"
+	"de Bureaus"
+	"de Calbhiac"
+	"de Kambayrak"
+	"de Castaña"
+	"de Castelbajac"
+	"de Cattellan"
+	"Chastene de Puisegür"
+	"de Cheveni"
+	"de Cornéian"
+	"du Coe de la Itte"
+	"d'Esclignac"
+	"d'Esparbes"
+	"de Fodoa"
+	"de Forcade"
+	"de Gallar de Brassac"
+	"de Gesta"
+	"de Gauteau"
+	"de Grossolais"
+	"de La Bart"
+	"de la Brief"
+	"de Lacaz"
+	"de Lasseran"
+	"de Lavardac"
+	"de L'Ile Jourdin"
+	"de Lisare"
+	"de Lomagnaieu"
+	"de Lupiac"
+	"de Lluppe"
+	"de Moléon"
+	"de Mopa"
+	"de Moncornay"
+	"de Montague"
+	"de Montluc"
+	"de Monpéez"
+	"de Nogare"
+	"de Pardayan"
+	"de Roquelor"
+	"de Salle"
+	"de Sensac"
+	"de Serignac"
+	"de Solage"
+	"de Tour Moburg"
+	"de Vuissin"
+}
+
+ship_names = {
+	"Enyang"
+	"Osh"
+	"Weathering"
+	"Brunien"
+	"Caster Verduran"
+	"Casteljalu"
+	"Castijón-Massa"
+	"Condom"
+	"Koolum-Mondeba"
+	"Duran"
+	"Oz"
+	"Espareban"
+	"Florance"
+	"Grey"
+	"Agetmo"
+	"Zhegun"
+	"Lalanne"
+	"Larrumuac"
+	"Lasserad"
+	"Lasseb Prospect"
+	"La Tester"
+	"Laurencean"
+	"Lavardance"
+	"Lecturer"
+	"Lupiak"
+	"Massen"
+	"Miramon-Latur"
+	"Mirand"
+	"Mirepoois"
+	"Monto-le-Crenault"
+	"Montesquieu"
+	"Montestruc"
+	"Nogaro"
+	"Poiak"
+	"Peruss-Massas"
+	"Prenjan"
+	"Rumber"
+	"Roquefort"
+	"Rocklore"
+	"Saint-Honey-Langiro"
+	"Saint-Clar"
+	"Saint Christie"
+	"St. Gried"
+	"Saint-Lari"
+	"Saint-Puis"
+	"Saint-Radegion"
+	"Saint-North"
+	"Tournecup"
+	"Tudel"
+	"Wick Fezansak"
+}
+
+army_names = {
+	"Armagnac Army"
+	"Lomani Army"
+	"Condomois Army"
+	"L'Astarak Army"
+	"Fezensage Army"
+	"Zhimua army"
+	"Gasconi Army"
+	"Provincial Army. $PROVINCE$"
+}

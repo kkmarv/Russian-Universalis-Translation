@@ -1,0 +1,109 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 108  153  65 }
+
+historical_idea_groups = {
+	humanist_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Agbargin #0" = 20
+	"Adai #0" = 20
+	"Altan #0" = 20
+	"Arigaba #1" = 10
+	"Arugtai #0" = 10
+	"Ayurparibhadara #1" = 10
+	"Bodie #0" = 20
+	"Beck #0" = 20
+	"Bahamu #0" = 20
+	"Bars #0" = 20
+	"Buyan #0" = 20
+	"Biligit #1" = 10
+	"Diane #0" = 20
+	"Darysung #0" = 20
+	"Delbeg #0" = 20
+	"Aj #1" = 10
+	"Elbeg #1" = 10
+	"Engke #1" = 10
+	"Guyuk #1" = 10
+	"Gyun #0" = 20
+	"Gulici #0" = 20
+	"Irincibal #1" = 10
+	"Joringtu #1" = 10
+	"Kublai #1" = 10
+	"Kwoke #0" = 10
+	"Ligdan #0" = 20
+	"Marcurgis #0" = 10
+	"Mungke #1" = 10
+	"Mulan #0" = 20
+	"Mandouloun #0" = 20
+	"Ulej #0" = 20
+	"Orug #0" = 15
+	"Oiradai #0" = 20
+	"Uskhal #1" = 10
+	"Kayshan #1" = 10
+	"Koshila #1" = 10
+	"Sain #0" = 20
+	"Suddhippala #1" = 10
+	"Taisung #0" = 20
+	"Temudgin #1" = 10
+	"Timur #1" = 10
+	"Tohun #1" = 10
+	"Tyumen #0" = 10
+	"Tolui #1" = 10
+	"Talk #1" = 10
+	"Scaled up . #1" = 10
+	"Yesun #1" = 10
+	"Arik #0" = 0
+	"Batu #0" = 0
+	"Elihydei #0" = 0	
+	"Yoichi #0" = 0
+
+	"Temenulene #0" = -1
+	"Burte #0" = -1
+	"Mandukai #0" = -1
+	"Samara #0" = -1
+	"Yaufishan #0" = -1
+}
+
+leader_names = {
+	Borzhigin Borzhigin Borzhigin Borzhigin Borzhigin Borzhigin Borzhigin Borzhigin Borzhigin Borzhigin # Ghengisid supremacy among the Mongols
+	Kalka Chakhar Uriankhai Ordos Yongshiebu
+	Ingchan Karakorum Hohhot Chagaan
+	Nooyan Darkan Wang Korchin Onrut Abaga Abaganar Ast Karachin
+	Jurim Xylingol Ulancab "Kara Timur" "Batu Unegen" "Nasantai"
+}
+
+ship_names = {
+	Yingchang Karakorum Hohhot Chagaan
+	"Genghis Khan" Jucie Belberei Tolui.
+	Munke Kubilay Hulagu Kabul
+	Jingim Kmaoa Dharmapala Timur Hulagu Batu
+	Adai Elbeg Batu Mugali Borchu Borokula Chilown
+	Kubilai Jelme Zhebe Subutai
+	"El Chukai" Shikikhtung "Socran Shira" "Khar Khirug"
+	 "Durben Neuas"
+}

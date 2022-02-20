@@ -1,0 +1,220 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+capital = 3761	# Edessa
+fixed_capital = 3761 # Cannot move capital away from this province & no power cost to move to it
+
+1216.1.1 = {
+	monarch = {
+		name = "Feodor"
+		dynasty = "Comnen Dooka"
+		birth_date = 1180.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1230.1.1 = {
+	monarch = {
+		name = "Manuel"
+		dynasty = "Comnen Dooka"
+		birth_date = 1187.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1237.1.1 = {
+	monarch = {
+		name = "John"
+		dynasty = "Comnen Dooka"
+		birth_date = 1190.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1239.1.1 = {
+	monarch = {
+		name = "Manuel"
+		dynasty = "Comnen Dooka"
+		birth_date = 1187.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1241.1.1 = {
+	monarch = {
+		name = "Michael II"
+		dynasty = "Comnen Dooka"
+		birth_date = 1205.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1268.1.1 = {
+	monarch = {
+		name = "John I"
+		dynasty = "Comnen Dooka"
+		birth_date = 1240.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1289.11.3 = {
+	monarch = {
+		name = "Constantine I"
+		dynasty = "Comnen Dooka"
+		birth_date = 1275.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1303.1.1 = {
+	monarch = {
+		name = "John II"
+		dynasty = "Comnen Dooka"
+		birth_date = 1290.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1303.1.1 = {
+	heir = {
+		name = "Stefan"
+		monarch_name = "Stefan"
+		dynasty = "Gavriylopul"
+		birth_date = 1280.1.1
+		death_date = 1333.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1318.1.1 = {
+	monarch = {
+		name = "Stefan"
+		dynasty = "Gavriylopul"
+		birth_date = 1280.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1333.1.1 = {
+	monarch = {
+		name = "John II"
+		dynasty = "Orsini-Duca"
+		birth_date = 1300.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1335.1.1 = {
+	monarch = {
+		name = "Michael"
+		dynasty = "Monomakh"
+		birth_date = 1315.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1342.1.1 = {
+	monarch = {
+		name = "John"
+		dynasty = "Angel"
+		birth_date = 1300.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1348.1.1 = {
+	monarch = {
+		name = "Gregory"
+		dynasty = "Prelude"
+		birth_date = 1312.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1356.1.1 = {
+	monarch = {
+		name = "Nicephorus II"
+		dynasty = "Orsini-Duca"
+		birth_date = 1312.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1359.1.1 = {
+	monarch = {
+		name = "Simeon Ourosh"
+		dynasty = "Nemanjic"
+		birth_date = 1326.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1371.1.1 = {
+	monarch = {
+		name = "Joasaph Meteorite"
+		dynasty = "Nemanjic"
+		birth_date = 1350.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1373.1.1 = {
+	monarch = {
+		name = "Alexey"
+		dynasty = "Angel Philanthropene"
+		birth_date = 1350.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1390.1.1 = {
+	monarch = {
+		name = "Manuel"
+		dynasty = "Angel Philanthropene"
+		birth_date = 1370.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

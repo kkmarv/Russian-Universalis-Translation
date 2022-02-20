@@ -1,0 +1,287 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+primary_culture = baluchi
+religion = sunni
+technology_group = muslim
+capital = 577	# Quetta
+religious_school = shafii_school
+
+#Mirwaris, ancestors of later Kambarani dynasty:
+
+1444.1.1 = {
+	monarch = {
+	name = "Kumbar"
+		dynasty = "Mirvari"
+		dip = 1
+		adm = 1 
+		mil = 1
+	}
+}
+
+#Rind kingdom:
+
+1468.1.1 = { 
+	monarch = {
+	name = "Chakar Mir"
+		dynasty = "Rind"
+		dip = 2
+		adm = 1 
+		mil = 3
+	}
+}
+
+1468.1.1 = {
+	heir = {
+		name = "Shahrzad World"
+		monarch_name = "Shahrzad World"
+		dynasty = "Rind"
+		birth_date = 1450.1.1
+		death_Date = 1580.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1547.1.1 = { capital = 576 } # Kalat
+
+1565.1.1 = { 
+	monarch = {
+	name = "Shahrzad World"
+		dynasty = "Rind"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+#Rinds migrate into Multan and become Mughal jagirholders after helping Humayun retake Hindusthan from Sher Shah
+
+#Kambaranis (kingdom of Kalat)
+
+1580.1.1 = {
+	monarch = {
+	name = "Kumbar"
+		dynasty = "Kambarani"
+		dip = 2
+		adm = 1 
+		mil = 2
+	}
+}
+
+
+1638.1.1 = {
+	monarch = {
+	name = "Hassan"
+		dynasty = "Kambarani"
+		dip = 2
+		adm = 1 
+		mil = 2
+	}
+}
+
+1666.1.1 = {
+	government = monarchy
+add_government_reform = autocracy_reform
+	monarch = { 
+		name = "Ahmad I"
+		dynasty = "Ahmadji"
+		dip = 2
+		adm = 2 
+		mil = 3
+	}
+} #Kingdom of Kalat
+
+1670.1.1 = {
+	heir = {
+		name = "Mihrab"
+		monarch_name = "Mihrab I"
+		dynasty = "Ahmadji"
+		birth_date = 1670.1.1
+		death_Date = 1696.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1695.1.1 = {
+	monarch = { 
+		name = "Mihrab I"
+		dynasty = "Ahmadji"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1695.1.1 = {
+	heir = {
+		name = "Samandar"
+		monarch_name = "Samandar"
+		dynasty = "Ahmadji"
+		birth_date = 1675.1.1
+		death_Date = 1713.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1696.1.1 = {
+	monarch = { 
+		name = "Samandar"
+		dynasty = "Ahmadji"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1696.1.1 = {
+	heir = {
+		name = "Ahmad"
+		monarch_name = "Ahmad II"
+		dynasty = "Ahmadji"
+		birth_date = 1680.1.1
+		death_Date = 1714.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1713.1.1 = {
+	monarch = { 
+		name = "Ahmad II"
+		dynasty = "Ahmadji"
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1713.1.1 = {
+	heir = {
+		name = "Abdullah"
+		monarch_name = "Abdullah"
+		dynasty = "Ahmadji"
+		birth_date = 1690.1.1
+		death_Date = 1730.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+
+1715.1.1 = {
+	monarch = { 
+		name = "Abdullah"
+		dynasty = "Ahmadji"
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+
+1715.1.1 = {
+	heir = {
+		name = "Muhabbat"
+		monarch_name = "Muhabbat"
+		dynasty = "Ahmadji"
+		birth_date = 1702.1.1
+		death_Date = 1749.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1730.1.1 = {
+	monarch = { 
+		name = "Muhabbat"
+		dynasty = "Ahmadji"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1730.1.1 = {
+	heir = {
+		name = "Nasir"
+		monarch_name = "Nasir I"
+		dynasty = "Ahmadji"
+		birth_date = 1718.1.1
+		death_Date = 1794.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1749.1.1 = {
+	monarch = { 
+		name = "Nasir I"
+		dynasty = "Ahmadji"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1760.1.1 = {
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Muhammad I"
+		dynasty = "Ahmadji"
+		birth_date = 1760.1.1
+		death_Date = 1831.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1794.1.1 = {
+	monarch = { 
+		name = "Muhammad I"
+		dynasty = "Ahmadji"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1794.1.1 = {
+	heir = {
+		name = "Mihrab"
+		monarch_name = "Mihrab II"
+		dynasty = "Ahmadji"
+		birth_date = 1780.1.1
+		death_Date = 1839.11.13
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}
+
+1817.1.1 = {
+	monarch = { 
+		name = "Mihrab II"
+		dynasty = "Ahmadji"
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}

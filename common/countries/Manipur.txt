@@ -1,0 +1,80 @@
+#Country Name: Please see filename.
+
+graphical_culture = indiangfx
+
+color = { 149  191  117 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	diplomatic_ideas
+	administrative_ideas	
+	expansion_ideas
+	spy_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	indian_archers
+	indian_arquebusier
+	sikh_hit_and_run
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Pengshiba #0" = 10
+	"Ningtow Homba #0" = 10
+	"Senbi Kyamba #0" = 10
+	"Coiremba #0" = 10
+	"Chinghong Lamgai Ngamba #0" = 10
+	"Nongin Phaaba #0" = 10
+	"Senby Homba #0" = 10
+	"Taanjamba #0" = 10
+	"Chalaamba #0" = 10
+	"Munghaamba #0" = 10
+	"Hagemba #0" = 10
+	"Hundjaoba #0" = 10
+	"Pajhomba #0" = 10
+	"Charayrongba #0" = 10
+	"Paamheiba #0" = 10
+	"Cheat Sai #0" = 10
+	"Sai Borot #0" = 10
+	"Mariamba #0" = 10
+	"Chingtang Homba #0" = 10
+	"Labeynachandra #0" = 10
+	"Maramaba #0" = 10
+	"Madhujchandra #0" = 10
+	"Chourdjit #0" = 10
+	"Marjit #0" = 10
+	"Mangaldahi #0" = -1
+	"Gira #0" = -1
+	"Hira #0" = -1
+}
+
+leader_names = {
+	Shubol
+	Chandrakirti
+	Hanavira
+	Marjit
+	Chairajit
+	Pitambara
+	Moduchandra
+	Harshchandra
+	Nara
+	Devendra
+}
+
+ship_names = {
+	"Chingri Much"  Davie "Durga Ma" Ganga
+	"Hilsa Much" "Ilish-Machs" Imphal Iril
+	Jalangi Machli "Kali Ma" "Cali Megana"
+	"Kali Nauk" Kongba Cushiari "Lal Science"
+	"Loki Davy" "Manasa Davi" Megana Nambul
+	"Neil Sciences" "Nile Sagor" Padma "Parvati Davi"
+	"Rui Mach" Sarasvoti "Sagorer Bahimi"
+	Shakti "Shaktir Science" "Shasti Ma"
+	Surma Trishul "Uma Davi"
+}    

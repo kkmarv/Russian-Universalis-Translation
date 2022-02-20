@@ -1,0 +1,370 @@
+government = theocracy
+add_government_reform = leading_clergy_reform
+primary_culture = hessian
+religion = catholic
+technology_group = western
+capital = 2972
+
+1188.3.1 = {
+	monarch = {
+		name = "Bernhardt II"
+		dynasty = "von Ibbenburen"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1203.5.23 = {
+	monarch = {
+		name = "Bernhardt III"
+		dynasty = "von Oesede"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1223.3.23 = {
+	monarch = {
+		name = "Thomas"
+		dynasty = "Oliver"
+		birth_date = 1170.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1225.9.28 = {
+	monarch = {
+		name = "Wilbrand"
+		dynasty = "von Oldenburg"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1227.1.1 = {
+	monarch = {
+		name = "Bernhardt IV"
+		dynasty = "Zur Lippe"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1247.4.14 = {
+	monarch = {
+		name = "Simon I"
+		dynasty = "Zur Lippe"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1277.6.7 = {
+	monarch = {
+		name = "Otto von Ritberg"
+		dynasty = "van Quijk"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1307.10.23 = {
+	monarch = {
+		name = "Gunter I von Schwalenberg"
+		dynasty = "von Waldek"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1310.5.15 = {
+	monarch = {
+		name = "Dietrich II"
+		dynasty = "von Itter"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1321.9.20 = {
+	monarch = {
+		name = "Bernhardt V"
+		dynasty = "Zur Lippe"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1341.1.30 = {
+	monarch = {
+		name = "Balduin"
+		dynasty = "von Steinfurt"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1361.3.17 = {
+	monarch = {
+		name = "Henry III"
+		dynasty = "von Spiegel zum Desenberg"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1380.3.21 = {
+	monarch = {
+		name = "Simon II"
+		dynasty = "von Sternberg"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1389.1.25 = {
+	monarch = {
+		name = "Ruprecht"
+		dynasty = "von Berg"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1394.6.28 = {
+	monarch = {
+		name = "Johann"
+		dynasty = "von Hoya"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1399.2.28 = {
+	monarch = {
+		name = "Bertrando"
+		dynasty = "d'Arvazzano"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1400.11.5 = {
+	monarch = {
+		name = "William"
+		dynasty = "von Berg"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1415.4.13 = {
+	monarch = {
+		name = "Dietrich"
+		dynasty = "von Moyers"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1463.2.13 = {
+	monarch = {
+		name = "Simon III"
+		dynasty = "Zur Lippe"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1498.3.7 = {
+	monarch = {
+		name = "Ermanno"
+		dynasty = "d'Asssia"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1508.9.27 = {
+	monarch = {
+		name = "Eric"
+		dynasty = "von Braunschweig-Grubbenhagen"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1532.5.14 = {
+	monarch = {
+		name = "Herman"
+		dynasty = "background view"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1547.2.25 = {
+	monarch = {
+		name = "Rembert"
+		dynasty = "von Kerssenbrock"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1568.2.12 = {
+	monarch = {
+		name = "Johann"
+		dynasty = "von Hoya zu Stolsenau"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1574.4.5 = {
+	monarch = {
+		name = "Salentin"
+		dynasty = "von Isenburg"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1577.9.5 = {
+	monarch = {
+		name = "Enric"
+		dynasty = "von Saxe-Lauenburg"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1585.4.22 = {
+	monarch = {
+		name = "Dietrich"
+		dynasty = "von Fürstenberg"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1618.12.14 = {
+	monarch = {
+		name = "Ferdinand"
+		dynasty = "von Wittelsbach"
+		birth_date = 1577.10.6
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+
+1650.9.13 = {
+	monarch = {
+		name = "Dietrich Adolf"
+		dynasty = "von Rijk"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1661.1.30 = {
+	monarch = {
+		name = "Ferdinand"
+		dynasty = "von Fürstenberg"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1683.6.26 = {
+	monarch = {
+		name = "Hermann Werner"
+		dynasty = "von Wolf-Metternich zur Gracht"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1704.5.21 = {
+	monarch = {
+		name = "Franz Arnold"
+		dynasty = "von Wolf-Metternich zur Gracht"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1718.12.25 = {
+	monarch = {
+		name = "Clemens Augustus"
+		dynasty = "von Wittelsbach"
+		birth_date = 1700.8.17
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1761.2.6 = {
+	monarch = {
+		name = "William Anton"
+		dynasty = "von der Asseburg"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1782.12.26 = {
+	monarch = {
+		name = "Frederico Gulelmo"
+		dynasty = "Westfalia"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1789.1.6 = {
+	monarch = {
+		name = "Franz Egon"
+		dynasty = "von Fürstenberg"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}

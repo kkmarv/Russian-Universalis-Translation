@@ -1,0 +1,19 @@
+government = monarchy
+
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+primary_culture = novgorodian
+religion = orthodox
+capital = 3189
+
+1301.1.1 = {
+	monarch = {
+		name = "Ivan"
+		dynasty = "Rurikovich"
+		adm = 5
+		dip = 4
+		mil = 3
+		birth_date = 1278.1.1
+	}
+}	

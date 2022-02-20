@@ -1,0 +1,113 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 191  110  62 } 
+
+revolutionary_colors = { 8  0  5 } #Alleged Tricolor of the Republic of Salй
+
+historical_score = 100
+
+historical_idea_groups = {
+	maritime_ideas
+	defensive_ideas
+	religious_ideas
+	expansion_ideas
+	administrative_ideas
+	offensive_ideas
+	trade_ideas
+	economic_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Muhammad #0" = 200
+	"Ahmed #0" = 80
+	"Abdallah #0" = 60
+	"Abd al-Malik #0" = 40
+	"Ali #0" = 40
+	"Osman #2" = 20
+	"Abd al-Haqq #1" = 20
+	"Ismayil #1" = 20
+	"Yahya #1" = 20
+	"Al-Walid #0" = 20
+	"Al-Mustadi #0" = 20
+	"Al-Rashid #0" = 20
+	"Hisham #0" = 20
+	"Idriside #0" = 20
+	"Suleiman #0" = 20
+	"Zaidan #0" = 20
+	"Zein #0" = 20
+	"Abd al-Rahman #0" = 15
+	"Al-Yazid #0" = 15
+	"Mansour #0" = 15
+	"Muhraz #0" = 15
+	"Nasir #0" = 15
+	"Abu Faris #0" = 10
+	"Abbas #0" = 10
+	"Abu Mervan #0" = 10
+	"Al-Talib #0" = 10
+	"Hammada #0" = 10
+	"Hasam #0" = 10
+	"Hashim #0" = 10
+	"Ibrahim #0" = 10
+	"Jafar #0" = 10
+	"Maimoon #0" = 10
+	"Maslama #0" = 10
+	"Sayid #0" = 10
+	"Omar #0" = 10
+	"Yusuf #0" = 10
+	"Ataulla #0" = 0
+	"Jabril #0" = 0
+	"Rasul #0" = 0
+	"Zulficar #0" = 0
+	
+	"Thamina #0" = -1
+	"View #0" = -1
+}
+
+leader_names = {
+	"Sahiri"
+	"Hyde"
+	"Sellami"
+	"Arazi"
+	"Take it ."
+	"Lahcini"
+	"Skah"
+	"Barek"
+	"Alami"
+	"Behar"
+}
+
+ship_names = {
+	"Tawwab"
+	"Muntakim"
+	"Afuww"
+	"Fauf"
+	"Malik Mulk"
+	"Jalal Ikram"
+	"Muxit"
+	"Jami"
+	"Hani"
+	"Mooney"
+	"Mani"
+	"Darr"
+	"Nafi"
+	"Noor"
+	"Hadi"
+	"Badi"
+	"Bucky"
+	"Varis"
+	"Rashid"
+	"Sabur"
+	"Fazl Azim"
+}

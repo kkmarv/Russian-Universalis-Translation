@@ -1,0 +1,65 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 178  103  5 }
+
+historical_idea_groups = {
+	diplomatic_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Muhammad #0" = 10
+	"Sadoon #0" = 10
+	"Barrac #0" = 10
+	"Ali #0" = 10
+	"Suleiman #0" = 10
+	"Uriir ibn Dhujain #0" = 10
+	"Hamadan #0" = 10
+	"Butaiyin #0" = 10
+	"Dudejain #0" = 10
+	"Najim ibn Duhaynim #0" = 10
+	"Zayid #0" = 10
+	
+	"Ilham #0" = -1
+}
+
+leader_names = {
+	"Anwar"
+	"Atef"
+	"Faraj"
+	"Saleh"
+	"Ismayil"
+	"Al-Karachi"
+	"al-Mawalid"
+	"Siham"
+	"Madari"
+	"Anwar"
+}
+
+ship_names = {
+	"Al-Ahsa" "Hofufuf" "al-Qubar" "Al-Zahran" "Al-Dammam"
+	"al-Quatif" "Ras Tannura" "Al-Jubail" "as-Saffanyia"
+	"Ras Al Mishzab" "Al-Nakira" "Wabra" "Abu Ali"
+}

@@ -1,0 +1,107 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx		### STT
+
+color = { 245 200 30 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	maritime_ideas
+	economic_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Jacques #1" = 40
+	"Jean #1" = 40
+	"Henri #2" = 15
+	"Hugo #4" = 10
+	"Guy #1" = 10
+	"Ed #0" = 10
+	"Philippe #0" = 10
+	"Amory #2" = 5
+	"Pierre #1" = 5
+	"Aiol #0" = 0
+	"Bartholomew #0" = 0
+	"Dionysius #0" = 0
+	"Eusebius #0" = 0
+	"Gregory #0" = 0
+	"Heliodor #0" = 0
+	"Hermogen #0" = 0
+	"Iernonim #0" = 0
+	"John #0" = 0
+	"Isidore #0" = 0
+	"Constantine #0" = 0
+	"Creon #0" = 0
+	"Laurentian #0" = 0
+	"Matthew #0" = 0
+	"Nicholas #0" = 0
+	"Nicomachus #0" = 0
+	"Nomics #0" = 0
+	"Anisim #0" = 0
+	"Pamphylia #0" = 0
+	"Panthelemon #0" = 0
+	"Parius #0" = 0
+	"Pelagius #0" = 0
+	"Seraphim #0" = 0
+	"Spiridon #0" = 0
+	"Thaddeus #0" = 0
+	"Feodor #0" = 0
+	"Uri #0" = 0
+	"Xenocrates #0" = 0
+	"Zachariah #0" = 0
+	"Zenobium #0" = 0
+
+	"Charlotte #0" = -15
+	"Barbara #0" = -1
+	"Helen #0" = -1
+}
+
+ship_names = {
+	"Agios Georgios"
+	"Kato Ialla"
+	"Lachi"
+	"Levadi"
+	"Lempa"
+	"Maa"
+	"Morvolle"
+	"Paxammos"
+	"Pomos"
+	"Symbolos"
+}
+
+leader_names = { 
+	"Bragadin"
+	"Crispo"
+	"Doria"
+	"Fadrige"
+	"Luzinyan"
+	"Mellisino"
+	"Playphone"
+	"Randy"
+	"Saraceno"
+	"Tocco"
+}

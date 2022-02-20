@@ -1,0 +1,136 @@
+government = republic
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = castillian
+capital = 2850 # Montevideo
+
+1821.7.18 = {
+	monarch = {
+		name = "José Cervasio Artigas"
+		birth_date = 1764.6.19
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1825.8.25 = {
+	monarch = {
+		name = "Juan Antonio Lavalleja"
+		birth_date = 1784.6.24
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1828.12.1 = {
+	monarch = {
+		name = "Joaquín Suarez"
+		birth_date = 1781.8.16
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1828.12.22 = {
+	monarch = {
+		name = "Jose Rondo"
+		birth_date = 1773.3.4
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1830.4.17 = {
+	monarch = {
+		name = "Vacant"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1830.10.24 = {
+	monarch = {
+		name = "Luis Eduardo Perez"
+		birth_date = 1774.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1830.11.6 = {
+	monarch = {
+		name = "Structuoso Rivera"
+		birth_date = 1784.10.17
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1834.10.24 = {
+	monarch = {
+		name = "Carlos Anaya"
+		birth_date = 1777.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1835.3.1 = {
+	monarch = {
+		name = "Manuel Oribe"
+		birth_date = 1792.8.26
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1838.10.24 = {
+	monarch = {
+		name = "Gabriel Antonio Pereira"
+		birth_date = 1794.3.17
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1838.11.11 = {
+	monarch = {
+		name = "Structuoso Rivera"
+		birth_date = 1784.10.17
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1843.2.16 = {
+	monarch = {
+		name = "Manuel Oribe"
+		birth_date = 1792.8.26
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1843.3.1 = {
+	monarch = {
+		name = "Joaquín Suarez"
+		birth_date = 1781.8.16
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

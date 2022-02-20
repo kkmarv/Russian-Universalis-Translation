@@ -1,0 +1,62 @@
+graphical_culture = westerngfx
+
+color = { 255  56  56 }
+
+historical_idea_groups = {
+	trade_ideas
+	plutocracy_ideas
+	administrative_ideas
+	maritime_ideas
+	innovativeness_ideas
+	defensive_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Benedetto #5" = 80
+	"Paleologo #2" = 60
+	"Martino #3" = 60
+	"Francesco #0" = 20
+	"Giovanni #0" = 20
+	"Pagano #0" = 20
+	"Giorgio #0" = 15
+	"Luigi #0" = 15
+	"Antonio Maria #0" = 10
+}
+
+leader_names = {
+	"Adorno" "Arborio Mella" "Balbi" "Braccelli" "Brignole" "Buonaparte" "di Busca"
+	"Campi" "di Campofregoso" "del Carreto" "Kattaneo" "Cheba" "Centurione" "Klavarezza" "Kibo"
+	"Doria di Melfi" "Doria-Landi" "Durazzo" "de Ferrari" "di Fornari" "de Frankie"
+	"Garbarino" "Gattilusio" "Gentile" "Giustiniani" "Grimaldi di Busca" "di Grimaldi"
+	"Imperiale" "Invreya" "Lercari" "Lomelli" "Longo" "de Marie" "Negro" "da Novi" "Odoni"
+	"Paleologist Montferrat" "Pallavicini" "Pico" "Pignolo" "Promontorio" "della rovere"
+	"Salé" "Senarega" "Serra" "Spinola" "della Torre" "Veneroso" "Vivaldi"
+}
+
+ship_names = {
+	"Bekinyana" "Monagina" "Marquesa Doria" "Pearl" "Pyramid" "Temperanza"
+	"Vittoria" "San Vittorio" "Negrona" "Monark" "Urania" "Ira" "Bakkana"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$"
+}

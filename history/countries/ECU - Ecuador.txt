@@ -1,0 +1,86 @@
+government = republic
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = castillian
+capital = 820 # Quito
+
+1830.5.13 = {
+	monarch = {
+		name = "Juan José Flores"
+		birth_date = 1800.6.19
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1835.6.8 = {
+	monarch = {
+		name = "Vicente Rocafuerte"
+		birth_date = 1783.5.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1839.1.31 = {
+	monarch = {
+		name = "Juan José Flores"
+		birth_date = 1800.6.19
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1845.3.7 = {
+	monarch = {
+		name = "Jose Joaquín de Olmedo"
+		birth_date = 1780.3.20
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1845.12.7 = {
+	monarch = {
+		name = "Vicente Ramón Roca"
+		birth_date = 1792.9.2
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1849.10.15 = {
+	monarch = {
+		name = "Manuel de Ascasubi"
+		birth_date = 1804.12.30
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1850.6.10 = {
+	monarch = {
+		name = "Vacant"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1850.12.8 = {
+	monarch = {
+		name = "Diego Noboa"
+		birth_date = 1789.4.19
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

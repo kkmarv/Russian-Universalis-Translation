@@ -1,0 +1,166 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 177  150  109 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+	religious_ideas
+	offensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Gabriele Maria #0" = 20
+	"Gerardo #0 Leonardo." = 20
+	"Jacopo #1" = 15
+	"Emanuele #0" = 15
+	"Alessandro #0" = 5
+	"Belizario #0" = 5
+	"Adriano #0" = 0
+	"Alessio #0" = 0
+	"Baldovino #0" = 0
+	"Benjamino #0" = 0
+	"Biaggio #0" = 0
+	"Bonaventure #0" = 0
+	"Chelio #0" = 0
+	"Constantino #0" = 0
+	"Damiano #0" = 0
+	"Danilo #0" = 0
+	"Eros #0" = 0
+	"Eustacio #0" = 0
+	"Evangelista #0" = 0
+	"Fortunato #0" = 0
+	"Gennaro #0" = 0
+	"Giancarlo #0" = 0
+	"Giovanni #0" = 20
+	"Justino #0" = 0
+	"Innocenzo #0" = 0
+	"Leonardo #0" = 0
+	"Leone #0" = 0
+	"Marco #0" = 0
+	"Mauro #0" = 0
+	"Orfeo #0" = 0
+	"Pasquale #0" = 0
+	"Pietro #0" = 0
+	"Roberto #0" = 0
+	"Sergio #0" = 0
+	"Severino #0" = 0
+	"Hugo #0" = 0
+	"Valerio #0" = 0
+	"Vincenzo #0" = 0
+	"Vitale #0" = 0
+	"Vittorio #0" = 0
+	
+	"Lodovica #0" = -1
+	"Mariangela #0" = -1
+	"Petronilla #0" = -1
+}
+
+leader_names = {
+	"del Agnello"
+	"Amelia"
+	"Appiani"
+	"d'Appiani d'Aragona"
+	"Barone"
+	"Bartoli"
+	"Bartzalie"
+	"Basile"
+	"Birindelli"
+	"Brunforte"
+	"Buonarroti"
+	"Buttery"
+	"Captains"
+	"Kjellini"
+	"Conti"
+	"Deanie"
+	"Fibonacci"
+	"Galileo"
+	"Gambacorte"
+	"Ganza"
+	"Gentileski"
+	"della Gerardesca"
+	"Burn"
+	"Greco"
+	"Grosso"
+	"Guidi"
+	"Letta"
+	"Lombardi"
+	"Mancini"
+	"Marchetti"
+	"Marianelli"
+	"Notaro"
+	"Oddo"
+	"Pacinotti"
+	"Pesce"
+	"del Pierrot"
+	"Pini"
+	"Pisano"
+	"Pontecorvo"
+	"Pozzi"
+	"de Rossi"
+	"Ruffo"
+	"Sonnino"
+	"Tabucci"
+	"Tosetti"
+	"Tumicelli"
+	"della Ubaldini"
+	"Ulivelli"
+	"Ventura"
+	"Dzaccardo"
+}
+
+ship_names = {
+	"Andreotto Saraceno"
+	"Bartolo da Sassoferrato"
+	"Bernardo dei Paganelli"
+	"Ugolino della Gerardesca"
+	"Diberto Pisano"
+	"Fazio della Gerardesca"
+	"Fiumi Arnault"
+	"Francesco da Booty"
+	"Giovanni di Simone"
+	"Giuseppe Setaioli"
+	"Leonardo Fibonacci"
+	"Monty Pisani"
+	"Morozini da Venice"
+	"Rustichello"
+	"San Frediano"
+	"San Giovanni Battista"
+	"San Michele"
+	"San Nicola"
+	"Santa Agata"
+	"San Antonio"
+	"Santa Maria Assunta"
+	"Santa Maria della Spina"
+	"Sao Paolo a Ripa d'Arno."
+	"San Piero a Grado"
+	"San Rossoro"
+	"San Sisto"
+	"Ugolino Caccini"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$"
+}

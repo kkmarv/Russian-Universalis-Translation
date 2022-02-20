@@ -1,0 +1,123 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 23 242 52 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"George #6" = 120
+	"David #9" = 60
+	"Vakhtang #3" = 60
+	"Bagrat #5" = 40
+	"Alexander #0" = 20
+	"Irakli #0" = 40
+	"Constantine #0" = 40
+	"Luarsab #0" = 40
+	"Simon #0" = 40
+	"Teymuraz #0" = 40
+	"Archil #0" = 20
+	"Bakar #0" = 20
+	"Yesse #0" = 20
+	"Kaihosro #0" = 20
+	"Rostom #0" = 20
+	"Levan #0" = 15
+	"Dmitry #2" = 10
+	"Stefan #0" = 10
+	"Anzor #0" = 0
+	"Babur #0" = 0
+	"Birtveli #0" = 0
+	"Jurha #0" = 0
+	"Gulicho #0" = 0
+	"Cartlos #0" = 0
+	"Cocky #0" = 0
+	"Cviria #0" = 0
+	"Lukhum #0" = 0
+	"Malkhazi #0" = 0
+	"Mushni #0" = 0
+	"Ochopir #0" = 0
+	"Orbeli #0" = 0
+	"Revaz #0" = 0
+	"Taha #0" = 0
+	"Torgva #0" = 0
+	"Tornik #0" = 0
+	"Zotne #0" = 0
+	"Xareba #0" = 0
+	"Zviadi #0" = 0
+	
+	"Tamar #0" = -20
+	"Rusudan #0" = -10
+	"Nestan Daryan #0" = -10
+	"Daryan #0" = -5
+	"Ketevan #0" = -5
+	"Tinatin #0" = -5
+	"Nino #0" = -1
+	"Helen #0" = -1
+	"Ana #0" = -1
+	"Mariam #0" = -1
+	"Horeshan #0" = -1
+}
+
+leader_names = { 
+	"Andronikashvili"
+	"Asrenidze" "Avashvili "
+	"Bakradze" "Chkheidze "
+	"Chengkeli" "Devdariani"
+	"Gabashvili" "Gardaphadze"
+	"Gedevanishvili" "Gegechkori"
+	"Gulisashvili" "Gwazava"
+	"Javakhishvili" "Karalashvili"
+	"Kereselidze" "Kvinitadze"
+	"Lomtatidze" "Maglakelidze"
+	"Mazniashvili" "Natadze"
+	"Nicoladze" "Robakidze"
+	"Sharashidze" "Surguladze"
+	"Takaishvili" "Tsereteli"
+	"Tsulukidze" "Vachnadze"
+	"Zaldastanishvili" "Jordies"
+}
+
+ship_names = {
+	"Aragveti" "Anakopy" "Artaani" "Abkhazia"
+	"Bichvinta" "Batumi"
+	"Dmanisi" "Demeter"
+	"Eretti"
+	"Geguchi" "Gelati"
+	"Kutaisi" "Karnabuji" "Kura"
+	"Lasharisjvari" "Laura"
+	"Mtkvari"
+	"Narikala"
+	"Ruisi" "Racha"
+	"Networks" "Svaneti"
+	"Tamara" "Tbilisi" "Telavi" "Tashhiri"
+	"Urbnisi"
+}

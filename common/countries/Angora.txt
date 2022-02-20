@@ -1,0 +1,114 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 98 129 187 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	expansion_ideas
+	spy_ideas	
+	religious_ideas
+	diplomatic_ideas
+	quality_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Muhammad #0" = 20
+	"Izz-ud-Din Hamza Run #0" = 20
+	"Taj ad-Din Ibrahim #1" = 20
+	"Ishak #0" = 20
+	"Ahmad #0" = 20
+	"Kasim #0" = 20
+	"Mahmoud #0" = 20
+	"Ibrahim #0" = 10
+	"Ali #0" = 10
+	"Mustafa #0" = 10
+	"Darwish #0" = 10 
+	"Dundar #0" = 0
+	"Omar #0" = 0
+	"Khalil #0" = 0
+	"Selim #0" = 0
+	"Kubad #0" = 0
+	"Ilyas #0" = 0
+	"Cheesir #0" = 0	
+	"Abdul-Hamid #0" = 0
+	"Abdullah #0" = 0
+	"Abdul-Medjid #0" = 0
+	"Jahangir #0" = 0
+	"Giyas oud-Din #0" = 0
+	"Isa #0" = 0
+	"Numan #0" = 0
+	"Jam #0" = 0
+	"Orhan #1" = 0
+	"Abdul-Aziz #0" = 0
+	"Abdul-Malik #0" = 0
+	"Abdul-Rahman #0" = 0
+	"Ala oud-Din #0" = 0
+	"Ali #0" = 0
+	"Dowd #0" = 0
+	"Hassan #0" = 0
+	"Hussain #0" = 0
+	"Ishak #0" = 0
+	"Kamar #0" = 0
+	"Kasim #0" = 0
+	"Corcud #0" = 0
+	"Mourad #0" = 0
+	"Saif-ud-Din #0" = 0
+	"Jakub #0" = 0
+	"Yusuf #0" = 0
+	"Iskander #0" = 0
+	
+	"Havva #0" = -1
+}
+
+leader_names = {
+	"Alemdar" "Amaziali" "Ayas"
+	"Bali" "Barbaros" "Bairam"
+	"Cesar" "Zandarli" "Zelebi" "Kerra" "Zerkes" "Kivan" "Zuhadar"
+	"Damad" "Dervish" "Defterdar"
+	"Gedik" "Gazi" "Gumelcineli" "Gurs"
+	"Hadim" "Hekimoglu" "Hersekly"
+	"Kepril" "Kemal" "Case" "Kosa" "Carmanley" "Kuse" "Kara" "Canigeli" "Kemankes" "Kaymak" "Kavali"
+	"Ishak" "Izzed"
+	"Lala" "Lefkeli"
+	"Malcose" "Mzzinzade"
+	"Neusechioli" "Nisanky"
+	"Oruz" "Usage" "Osmankikli" "Ohryli" "Oflu"
+	"Rumi"
+	"Peary" "Pargali" "Drinks" "Pehliwani"
+	"Salih" "Sokullu" "Sari" "Szilahdar" "Semiz" "Serdar"
+	"Topal" "Tayyar" "Turgut" "Tarchunku"
+	"Veli"
+	"Emissie"
+}
+
+ship_names = {
+	"Nure Sufi" "Sadaddin" "Bay Karaman" "Ermenek"
+	"Mouth" "Gulnara" "Mer" "Pilifke" "Cilicia" "Larande"
+	"Bunsus" "Zeynul-Hak" "Semceddin Mehmet" "Hexa"
+}
+
+army_names = {
+	"Ordusu $PROVINCE$"
+}
+
+fleet_names = {
+	"Donanmaso $PROVINCE$"
+}

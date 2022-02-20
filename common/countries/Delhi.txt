@@ -1,0 +1,104 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 157  200  42 }
+
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	economic_ideas
+	defensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	administrative_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Nusrat #0" = 20
+	"Sayid Hydr #0" = 20
+	"Daulat Khan #0" = 20
+	"Heidr Khan #0" = 20
+	"Mubarrak Shah #1" = 30
+	"Muhammad Shah #3" = 40
+	"Aladdin Alam #0" = 10
+	"Bahlul #0" = 20
+	"Sicander #0" = 20
+	"Ibrahim #1" = 20
+	"Cher #0" = 20
+	"Islam Shah #0" = 20
+	"Saadat #0" = 0
+	"Safdarjung #0" = 0
+	"Header #0" = 0
+	"Birgis Kadra #0" = 0
+	"Ali #0" = 0
+	"Iqbal #0" = 0
+	"Aladdin #0" = 0
+	"Bhi #0" = 0
+	"Malik #0" = 0
+	"renta #0" = 0
+	"Bismilla #0" = 0
+	"Obaid #0" = 0
+	"Hemu #0" = 0
+	"Gazi #0" = 0
+	"Razia #0" = -5
+	"Bahar #0" = -1
+	"Roshanara #0" = -1
+	"Fahr-un-Nisa #0" = -1
+}
+
+leader_names = {
+	"Ali"
+	"Azad"
+	"Bhutto"
+	"Hussein"
+	"Jahan"
+	"Khan"
+	"Lodi"
+	"Lokia"
+	"Musharif"
+	"Nagar"
+	"Nazimuddin"
+	"Raana"
+	"Charm"
+	"Sinan"
+	"Singh"
+	"Sharif"
+	"Vicar-ul-Mulk"
+}
+
+ship_names = {
+	"Aliya"
+	"Chumbal"
+	"Fatima"
+	"Jalsen"
+	"Gang"
+	"Kala Jahazi"
+	"Khan"
+	"Lal Jahazi"
+	"Nausen"
+	"Nava-ka-Yud"
+	"Niknaz"
+	"Nile Jazari"
+	"Niloufa"
+	"Noor"
+	"Sagar"
+	"Sleepy"
+	"Yamuna"
+	"Yasmine"
+}

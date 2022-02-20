@@ -1,0 +1,86 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 201  97  74 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	spy_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+}
+
+monarch_names = {
+	"Vikramavardhana #0" = 20
+	"Sukhita #0" = 20
+	"Diya Kertawijaya #0" = 20
+	"Ketut Ngulesir #0" = 20
+	"Vatu Rengongong #0" = 20
+	"Dalem Beckung #0" = 20
+	"Dalem Di Madé #0" = 20
+	"Maiden Agung Jambe #0" = 20
+	"Maiden Aguong Di Madei #0" = 20
+	"Virgo Agung Sakti #0" = 20
+	"Virgo Agung Putra #0" = 20
+	"Virgin Ketut #0" = 20
+	"Sri Aji Baturenggong #0" = 20
+	"Maiden Beckung #0" = 20
+	"Anglura Agung #0" = 20
+	"Virgin Pasekan #0" = 20
+
+	"Angkasa #0" = -1
+	"Melati #0" = -1
+	"Suri #0" = -1
+}
+
+leader_names = {
+	"Hamengku"
+	"Agung"
+	"Slamet"
+	"Budi"
+	"Harto"
+	"Carno"
+	"Vani"
+	"Mas"
+	"Kenkono"
+	"Ratri"
+}
+
+ship_names = {
+	"Pendet"
+	"Legong"
+	"Baris"
+	"Topeng"
+	"Barong"
+	"Kesak"
+	"Batur"
+	"Caturus"
+	"Bro"
+	"Penguin"
+	"Lesong"
+	"Sanggyang"
+	"Batukaru"
+	"Patas"
+	"Moosey"
+	"Messe"
+	"Agong"
+	"Gray"
+	"Merbuk"
+	"Sangglang"
+	"Kelatakan"
+}

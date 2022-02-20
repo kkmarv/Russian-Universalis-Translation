@@ -1,0 +1,112 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+
+color = { 159  127  255 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	administrative_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Thammaracha #2" = 40
+	"Lothai #1" = 15
+	"Nguanamthom #1" = 15
+	"Sysonghram #1" = 15
+	"Ban Muang #1" = 10
+	"Sri Indiraditya #1" = 10
+	"Ramhamhang #1" = 10
+	"Ramhamhaeng #1" = 1
+	"Mahinthrathirat #1" = 1
+	"Ramesuan #1" = 1
+	
+	"Lavan #0" = -1
+	"Vissutkasat #0" = -1
+	"Suriethai #0" = -1
+	"Borodilok #0" = -1
+	"Tepkasattry #0" = -1
+}
+
+leader_names = {
+	"Akradej"
+	"Ariyanuntaka"
+	"Boonmi"
+	"Chaipatana"
+	"Chuckrabonsse"
+	"Chuasiriporn"
+	"Discussion"
+	"Ekaluk"
+	"Hitapot"
+	"Inchareon"
+	"Kavrungruang"
+	"Khuntilanont"
+	"Clinpranite"
+	"Kriangsak"
+	"Moncoltham"
+	"Nitpattanasai"
+	"Noppachorn"
+	"Nut"
+	"Panamiaong"
+	"Phatipathanavong"
+	"Sitdhiraddr"
+	"Sivarax"
+	"Scricure"
+	"Supachai"
+	"Supasawat"
+	"Tantasatitianon"
+	"Thabchumpon"
+	"Thomson"
+	"Vongrutiyan"
+	"Yongchaiyudh"
+}
+
+ship_names = {
+	"Ramithibodi"
+	"Ramesuan"
+	"Boromaracha"
+	"Thong Chang"
+	"Ramaratca"
+	"Intharatcha"
+	"Borotrailokanat"
+	"Ratsada"
+	"Chairacha"
+	"Jotfa"
+	"Voravongsa"
+	"Chakkrafat"
+	"Mahin"
+	"Sanpet"
+	"At ."
+	"Ekathotsarot"
+	"Si Saovaphak"
+	"Songtham"
+	"Czech Republic"
+	"Somdet Phra"
+	"Prasat Tong"
+	"Tea"
+	"Sutammaracha"
+	"Naray"
+	"Petratcha"
+	"Sua"
+	"Pkhumintharacha"
+	"Uthumpon"
+	"Eccatechat"
+}

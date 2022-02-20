@@ -1,0 +1,193 @@
+government = tribal
+add_government_reform = steppe_horde
+primary_culture = oirats
+religion = vajrayana
+technology_group = nomad_group
+capital = 718	# Kobdo
+
+
+1634.1.1 = {
+	monarch = {
+		name = "Erdenie-Batur"
+		dynasty = "Choros"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1634.1.1 = {
+	heir = {
+		name = "Senge"
+		monarch_name = "Senge"
+		dynasty = "Choros"
+		birth_date = 1630.1.1
+		death_date = 1671.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1653.1.1 = {
+	monarch = {
+		name = "Senge"
+		dynasty = "Choros"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+
+}
+
+1653.1.1 = {
+	heir = {
+		name = "Galdan Boschocktu"
+		monarch_name = "Galdan Boschocktu"
+		dynasty = "Choros"
+		birth_date = 1644.1.1
+		death_Date = 1698.9.4
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1671.1.1 = {
+	monarch = {
+		name = "Galdan Boschocktu"
+		dynasty = "Choros"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1680.1.1 = {
+	heir = {
+		name = "Cevan Rabdan"
+		monarch_name = "Cevan Rabdan"
+		dynasty = "Choros"
+		birth_date = 1680.1.1
+		death_Date = 1727.12.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1698.9.4 = {
+	monarch = {
+		name = "Cevan Rabdan"
+		dynasty = "Choros"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1698.9.4 = {
+	heir = {
+		name = "Galdan Cairn"
+		monarch_name = "Galdan Cairn"
+		dynasty = "Choros"
+		birth_date = 1690.1.1
+		death_Date = 1745.8.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1727.12.1 = {
+	monarch = {
+		name = "Galdan Cairn"
+		dynasty = "Choros"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1727.12.1 = {
+	heir = {
+		name = "Lama Dorje"
+		monarch_name = "Lama Dorje"
+		dynasty = "Choros"
+		birth_date = 1700.1.1
+		death_Date = 1750.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1745.8.1 = {
+	monarch = {
+		name = "Lama Dorje"
+		dynasty = "Choros"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1745.8.1 = {
+	heir = {
+		name = "Dabachi"
+		monarch_name = "Dabachi"
+		dynasty = "Choros"
+		birth_date = 1700.1.1
+		death_Date = 1755.10.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1750.1.1 = {
+	monarch = {
+		name = "Dabachi"
+		dynasty = "Choros"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+}
+
+1750.1.1 = {
+	heir = {
+		name = "Amursana"
+		monarch_name = "Amursana"
+		dynasty  = "Choros"
+		birth_date = 1750.1.1
+		death_Date = 1756.3.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1755.10.1 = {
+	monarch = {
+		name = "Amursana"
+		dynasty = "Choros"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+}
+
+#Annexed by Qing in March 1756

@@ -1,0 +1,104 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 138  151  103 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	quantity_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Nasir Khan #0" = 15
+	"Miran Adil Khan #0" = 15
+	"Miran Mubarak Khan #0" = 15
+	"Daud Khan #0" = 10
+	"Ghazni Khan #0" = 10
+	"Adil Khan #0" = 10
+	"Miran Mohammed Khan #0" = 15
+	"Miran Mubarak Shah #0" = 15
+	"Miran Mohammed Shah #0" = 15
+	"Alam Shah #0" = 15
+	"Raj Ali Khan #0" = 15
+	"Miran Bahadur Shah #0" = 15
+	"Mahmoud  #0" = 0
+	"Ferishta #0" = 0
+	"Giyas-ad-Din #0" = 0
+	"Kadir #0" = 0
+	"Mohammed #0" = 0
+	"Base #0" = 0
+	"Salim #0" = 0
+	"Nazir #0" = 0
+	"Amir #0" = 0
+	"Hoshang #0" = 0
+	"Ahmadi #0" = -1
+	"Mumtaz #0" = -1
+	"Malika #0" = -1
+}
+
+leader_names = {
+	"Chirag"
+	"Bonjani"
+	"Bhatti"
+	"Buchar"	
+	"Durai"
+	"Esvara"
+	"Kota"
+	"Murty"
+	"Maury"
+	"Hajj"
+	"UZBEC"
+	"Gilani"
+	"Paramara"
+	"Bahadur"
+	"Gauri"
+	"Giurjani"
+	"Khan"
+	"Malik"
+	"Sultan"
+	"Khorasani"
+	"Farouki"
+	"Changesy"
+	"Turani"
+	"Latif"
+	"Bilala"
+	"Solani"
+	"Chattary"
+	"Kanjar"
+	"Guri"
+	"Naru"
+	"Chudasama"
+	"Pahora"
+	"Tomara"
+}
+
+ship_names = {
+	"Aliya" "Arusa" "Bory" "Fatima"
+	"Jalsen" "Myrna" "Kala Jahazi"
+	"Khan" "Lal Jahazi" "Narmada" "Nausen"
+	"Nava-ka-Yud" "Niknaz" "Nile Jahazi"
+	"Niloufa" "Noor" "Panjhra" "Sagar" "Saleema"
+	"Shamina" "Sukhaliya" "Tapi" "Yasmine" "Zahira"
+}

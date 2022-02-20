@@ -1,0 +1,844 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = norwegian
+religion = catholic
+technology_group = western
+historical_friend = DAN
+capital = 17 #Akershus
+
+872.1.1 = {
+	monarch = {
+		name = "Harald I Beautifully hairy"
+		dynasty = "Horphager"
+		birth_date = 850.1.1
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+
+930.1.1 = {
+	monarch = {
+		name = "Eirik I"
+		dynasty = "Horphager"
+		birth_date = 885.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+934.1.1 = {
+	monarch = {
+		name = "Hakon I"
+		dynasty = "Horphager"
+		birth_date = 920.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+961.1.1 = {
+	monarch = {
+		name = "Harald II"
+		dynasty = "Horphager"
+		birth_date = 935.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+970.1.1 = {
+	monarch = {
+		name = "Hakon the Mighty"
+		dynasty = "av Hladir"
+		birth_date = 955.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+995.1.1 = {
+	monarch = {
+		name = "Olav I Krakaben"
+		dynasty = "Horphager"
+		birth_date = 963.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1000.9.9 = {
+	monarch = {
+		name = "Eirik Hakonarson"
+		dynasty = "av Hladir"
+		birth_date = 957.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1014.2.3 = {
+	monarch = {
+		name = "Hakon Eiriksson"
+		dynasty = "av Hladir"
+		birth_date = 998.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1015.1.1 = {
+	monarch = {
+		name = "Olav II Sainted"
+		dynasty = "Horphager"
+		birth_date = 995.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1028.1.1 = {
+	monarch = {
+		name = "Whip I Great"
+		dynasty = "Knutling"
+		birth_date = 995.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1035.11.12 = {
+	monarch = {
+		name = "Magnus I Noble"
+		dynasty = "Horphager"
+		birth_date = 1024.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1047.10.25 = {
+	monarch = {
+		name = "Harald III Hardrad"
+		dynasty = "Hardrar"
+		birth_date = 1015.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1066.9.25 = {
+	monarch = {
+		name = "Magnus II"
+		dynasty = "Hardrar"
+		birth_date = 1048.1.1
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1069.4.28 = {
+	monarch = {
+		name = "Olav III Quiet"
+		dynasty = "Hardrar"
+		birth_date = 1050.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1093.9.22 = {
+	monarch = {
+		name = "Hakon I Pupil Torir"
+		dynasty = "Hardrar"
+		birth_date = 1068.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1094.2.1 = {
+	monarch = {
+		name = "Magnus III Barefoot"
+		dynasty = "Hardrar"
+		birth_date = 1073.1.1
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+}
+
+1103.8.24 = {
+	monarch = {
+		name = "Olaf"
+		dynasty = "Hardrar"
+		birth_date = 1099.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1115.12.22 = {
+	monarch = {
+		name = "Aystein I"
+		dynasty = "Hardrar"
+		birth_date = 1088.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1123.8.29 = {
+	monarch = {
+		name = "Sigurd I Crusader"
+		dynasty = "Hardrar"
+		birth_date = 1090.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1130.3.26 = {
+	monarch = {
+		name = "Magnus IV"
+		dynasty = "Hardrar"
+		birth_date = 1115.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1135.1.7 = {
+	monarch = {
+		name = "Harald IV Gillie"
+		dynasty = "Gilly"
+		birth_date = 1103.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1136.12.14 = {
+	monarch = {
+		name = "Sigurd II Munn"
+		dynasty = "Gilly"
+		birth_date = 1133.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1155.10.6 = {
+	monarch = {
+		name = "Aystein II"
+		dynasty = "Gilly"
+		birth_date = 1125.1.1
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+1136.12.14 = {
+	monarch = {
+		name = "Inge I Hunchback"
+		dynasty = "Gilly"
+		birth_date = 1135.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1161.2.3 = {
+	monarch = {
+		name = "Hakon II Broad shoulder"
+		dynasty = "Gilly"
+		birth_date = 1147.1.1
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+}
+
+1162.7.7 = {
+	monarch = {
+		name = "Magnus V"
+		dynasty = "Gilly"
+		birth_date = 1156.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1176.1.1 = {
+	monarch = {
+		name = "Aystein III Girl"
+		dynasty = "Birkebanner"
+		birth_date = 1157.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1177.1.1 = {
+	monarch = {
+		name = "Magnus V"
+		dynasty = "Gilly"
+		birth_date = 1156.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1184.6.15 = {
+	monarch = {
+		name = "Sverr"
+		dynasty = "Birkebanner"
+		birth_date = 1151.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1186.9.1 = {
+	monarch = {
+		name = "Jon I Kuwlung"
+		dynasty = "Gilly"
+		birth_date = 1160.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+1188.6.1 = {
+	monarch = {
+		name = "Sverr"
+		dynasty = "Birkebanner"
+		birth_date = 1151.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1202.3.9 = {
+	monarch = {
+		name = "Inge Magnusson"
+		dynasty = "Gilly"
+		birth_date = 1151.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1202.9.1 = {
+	monarch = {
+		name = "Hakon III"
+		dynasty = "Birkebanner"
+		birth_date = 1178.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+1204.1.2 = {
+	monarch = {
+		name = "Guttorm I"
+		dynasty = "Birkebanner"
+		birth_date = 1199.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1204.8.12 = {
+	monarch = {
+		name = "Inge II"
+		dynasty = "Birkebanner"
+		birth_date = 1185.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1217.4.23 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1217.6.1 = {
+	monarch = {
+		name = "Hakon IV"
+		dynasty = "Sverre"
+		birth_date = 1204.3.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1263.12.16 = {
+	monarch = {
+		name = "Magnus VI Legislator"
+		dynasty = "Sverre"
+		birth_date = 1238.5.1
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1280.5.9 = {
+	monarch = {
+		name = "Eric II Popov Chaser"
+		dynasty = "Sverre"
+		birth_date = 1268.10.4
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+1299.7.15 = {
+	monarch = {
+		name = "Hakon V Saint"
+		dynasty = "Sverre"
+		birth_date = 1270.4.10
+		adm = 1
+		dip = 4
+		mil = 4
+		clear_scripted_personalities = yes
+		add_ruler_personality = infertile_personality
+	}
+}
+
+1319.5.8 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1319.8.1 = {
+	monarch = {
+		name = "Magnus VII Smack"
+		dynasty = "Eric"
+		birth_date = 1316.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1343.8.15 = {
+	monarch = {
+		name = "Hakon VI"
+		dynasty = "Volkung"
+		birth_date = 1340.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1380.1.1 = {
+	monarch = {
+		name = "Olaf VII"
+		dynasty = "Volkung"
+		birth_date = 1370.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1388.2.2 = {
+	monarch = {
+		name = "Margrethe I"
+		dynasty = "Estridsen"
+		birth_date = 1353.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+		female = yes
+	}
+}
+
+1389.9.6 = {
+	monarch = {
+		name = "Eric III"
+		dynasty = "Griff"
+		birth_date = 1382.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+
+1436.1.1 = { 
+	leader = { 
+		name = "Amund Bolt"
+		type = general 
+	 
+		fire = 1 
+		shock = 2 
+		manuever = 2 
+		siege = 0 
+		death_date = 1440.1.1 
+	} 
+}
+
+1520.1.1 = { 
+	leader = { 
+		name = "Olav Halle" 
+		type = general 
+	 
+		fire = 1 
+		shock = 2 
+		manuever = 2 
+		siege = 0 
+		death_date = 1530.1.1 
+	} 
+}
+
+1521.1.1 = { leader = { name = "Engelbrichtsson"         type = general fire = 1 shock = 1 manuever = 3 siege = 0 death_date = 1538.2.7 } }
+
+1537.1.1 = { religion = protestant } # Christian III decrees Lutheranism as State Church
+
+1670.2.10 = { government = monarchy
+add_government_reform = autocracy_reform }
+
+1814.2.16 = {
+	monarch = {
+		name = "Christian Frederick"
+		dynasty = "von Oldenburg"
+		culture = danish
+		birth_date = 1786.9.18
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1814.5.19 = {
+	queen = {
+		country_of_origin = MKL
+		name = "Charlotte Frederic"
+		dynasty = "von Mecklenburg"
+		birth_date = 1784.12.4
+		death_date = 1840.7.13
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1814.5.19 = {
+	heir = {
+		name = "Frederick"
+		monarch_name = "Frederick I"
+		dynasty = "von Oldenburg"
+		birth_date = 1808.10.6
+		death_date = 1863.11.15
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+}
+
+1814.10.10 = {
+	monarch = {
+		name = "(Vacant)"
+		regent = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1905.11.25 = {
+	monarch = {
+		name = "Hokon VII"
+		dynasty = "von Gluxburg"
+		birth_date = 1872.8.3
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1905.11.25 = {
+	queen = {
+		country_of_origin = GBR
+		name = "Maude"
+		dynasty = "von Saxe-Coburg-Gotha"
+		birth_date = 1869.11.26
+		death_date = 1938.11.20
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1905.11.18 = {
+	heir = {
+		name = "Ulaf"
+		monarch_name = "Ulaf V"
+		dynasty = "von Gluxburg"
+		birth_date = 1903.7.2
+		death_date = 1991.1.17
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1957.9.21 = {
+	monarch = {
+		name = "Ulaf V"
+		dynasty = "von Gluxburg"
+		birth_date = 1903.7.2
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+# 1957.9.21 = {
+	# heir = {
+		# name = "Harald"
+		# monarch_name = "Harald V"
+		# dynasty = "von Gluxburg"
+		# birth_date = 1937.2.21
+		# death_date = 3000.1.1
+		# claim = 95
+		# adm = 3
+		# dip = 5
+		# mil = 2
+	# }
+# }
+
+# 1991.1.17 = {
+	# monarch = {
+		# name = "Harald V"
+		# dynasty = "von Gluxburg"
+		# birth_date = 1937.2.21
+		# adm = 3
+		# dip = 5
+		# mil = 2
+	# }
+# }
+
+# 1991.1.17 = {
+	# queen = {
+		# country_of_origin = NOR
+		# name = "Sonia"
+		# dynasty = "Haraldsen"
+		# birth_date = 1937.6.4
+		# death_date = 3000.1.1
+		# female = yes
+		# adm = 2
+		# dip = 2
+		# mil = 2
+	# }
+# }
+
+# 1991.1.17 = {
+	# heir = {
+		# name = "Hokon"
+		# monarch_name = "Hokon VIII"
+		# dynasty = "von Gluxburg"
+		# birth_date = 1973.7.20
+		# death_date = 3000.1.1
+		# claim = 95
+		# adm = 4
+		# dip = 4
+		# mil = 3
+	# }
+# }
+
+# 2003.11.25 = {
+	# monarch = {
+		# name = "Hokon VIII"
+		# dynasty = "von Gluxburg"
+		# birth_date = 1973.7.20
+		# adm = 4
+		# dip = 4
+		# mil = 3
+	# }
+# }
+
+# 2003.11.25 = {
+	# queen = {
+		# country_of_origin = NOR
+		# name = "Mette-Marit"
+		# dynasty = "Thiessem Hoibi."
+		# birth_date = 1973.8.19
+		# death_date = 3000.1.1
+		# female = yes
+		# adm = 2
+		# dip = 2
+		# mil = 2
+	# }
+# }
+
+# 2004.4.12 = {
+	# monarch = {
+		# name = "Harald V"
+		# dynasty = "von Gluxburg"
+		# birth_date = 1937.2.21
+		# adm = 3
+		# dip = 5
+		# mil = 2
+	# }
+# }
+
+# 2004.4.12 = {
+	# queen = {
+		# country_of_origin = NOR
+		# name = "Sonia"
+		# dynasty = "Haraldsen"
+		# birth_date = 1937.6.4
+		# death_date = 3000.1.1
+		# female = yes
+		# adm = 2
+		# dip = 2
+		# mil = 2
+	# }
+# }
+
+# 2004.4.12 = {
+	# heir = {
+		# name = "Hokon"
+		# monarch_name = "Hokon VIII"
+		# dynasty = "von Gluxburg"
+		# birth_date = 1973.7.20
+		# death_date = 3000.1.1
+		# claim = 95
+		# adm = 4
+		# dip = 4
+		# mil = 3
+	# }
+# }
+
+# 2005.3.29 = {
+	# monarch = {
+		# name = "Hokon VIII"
+		# dynasty = "von Gluxburg"
+		# birth_date = 1973.7.20
+		# adm = 4
+		# dip = 4
+		# mil = 3
+	# }
+# }
+
+# 2005.3.29 = {
+	# queen = {
+		# country_of_origin = NOR
+		# name = "Mette-Marit"
+		# dynasty = "Thiessem Hoibi."
+		# birth_date = 1973.8.19
+		# death_date = 3000.1.1
+		# female = yes
+		# adm = 2
+		# dip = 2
+		# mil = 2
+	# }
+# }
+
+# 2005.3.29 = {
+	# heir = {
+		# name = "Ingrid Alexandra"
+		# monarch_name = "Ingrid Alexandra"
+		# dynasty = "von Gluxburg"
+		# birth_date = 2004.1.21
+		# death_date = 3000.1.1
+		# claim = 95
+		# adm = 3
+		# dip = 3
+		# mil = 3
+		# female = yes
+	# }
+# }
+
+# 2005.4.1 = {
+	# monarch = {
+		# name = "Harald V"
+		# dynasty = "von Gluxburg"
+		# birth_date = 1937.2.21
+		# adm = 3
+		# dip = 5
+		# mil = 2
+	# }
+# }
+
+# 2005.4.1 = {
+	# queen = {
+		# country_of_origin = NOR
+		# name = "Sonia"
+		# dynasty = "Haraldsen"
+		# birth_date = 1937.6.4
+		# death_date = 3000.1.1
+		# female = yes
+		# adm = 2
+		# dip = 2
+		# mil = 2
+	# }
+# }
+
+# 2005.4.1 = {
+	# heir = {
+		# name = "Hokon"
+		# monarch_name = "Hokon VIII"
+		# dynasty = "von Gluxburg"
+		# birth_date = 1973.7.20
+		# death_date = 3000.1.1
+		# claim = 95
+		# adm = 4
+		# dip = 4
+		# mil = 3
+	# }
+# }

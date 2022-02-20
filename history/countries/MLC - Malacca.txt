@@ -1,0 +1,245 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = malayan
+religion = sunni
+technology_group = chinese
+capital = 596	# Malacca
+fixed_capital = 596 # Cannot move capital away from this province & no power cost to move to it
+
+1399.1.1 = {
+	monarch = {
+		name = "Aghi himself"
+		dynasty = "Sriwijaya"
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+	add_piety = 0.1
+}
+
+1399.1.1 = {
+	heir = {
+		name = "Paramesvara"
+		monarch_name = "Paramesvara"
+		dynasty = "Sriwijaya"
+		birth_date = 1370.1.1
+		death_Date = 1414.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1402.1.1 = {
+	monarch = {
+		name = "Paramesvara"
+		dynasty = "Sriwijaya"
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1402.1.1 = {
+	heir = {
+		name = "Megat Iskander Shah"
+		monarch_name = "Megat Iskander Shah"
+		dynasty = "Sriwijaya"
+		birth_date = 1380.1.1
+		death_date = 1424.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1414.1.1 = {
+	monarch = {
+		name = "Megat Iskander Shah"
+		dynasty = "Sriwijaya"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1414.1.1 = {
+	heir = {
+		name = "Muhammad Shah"
+		monarch_name = "Muhammad Shah"
+		dynasty = "Sriwijaya"
+		birth_date = 1400.1.1
+		death_Date = 1444.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+		
+
+1424.1.1 = {
+	monarch = {
+		name = "Muhammad Shah"
+		dynasty = "Sriwijaya"
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1424.1.1 = {
+	heir = {
+		name = "Abu Suahid"
+		monarch_name = "Abu Suahid"
+		dynasty = "Sriwijaya"
+		birth_date = 1424.1.1
+		death_Date = 1446.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1444.1.1 = {
+	monarch = {
+		name = "Abu Suahid"
+		dynasty = "Sriwijaya"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Muzaffar Shah"
+		monarch_name = "Muzaffar Shah"
+		dynasty = "Sriwijaya"
+		birth_date = 1420.1.1
+		death_Date = 1459.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1446.1.1 = {
+	monarch = {
+		name = "Muzaffar Shah"
+		dynasty = "Sriwijaya"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1446.1.1 = {
+	heir = {
+		name = "Mansour Shah"
+		monarch_name = "Mansour Shah"
+		dynasty = "Sriwijaya"
+		birth_date = 1440.1.1
+		death_Date = 1477.10.2
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+1458.1.1 = { leader = {	name = "Hang Jebat"            	type = general	fire = 3	shock = 3	manuever = 3	siege = 1	death_date = 1477.1.1 } }
+
+1459.1.1 = {
+	monarch = {
+		name = "Mansour Shah"
+		dynasty = "Sriwijaya"
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+1459.1.1 = {
+	heir = {
+		name = "Riyat Shah"
+		monarch_name = "Riyat Shah"
+		dynasty = "Sriwijaya"
+		birth_date = 1450.1.1
+		death_date = 1488.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 5
+		leader = { name = "Riyat Shah"		type = general	fire = 3	shock = 2	manuever = 3	siege = 0 }
+	}
+}
+
+1460.1.1 = { leader = {	name = "Hang Tuah"             	type = admiral	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1488.1.1 } }
+
+1477.10.2 = {
+	monarch = {
+		name = "Riyat Shah"
+		dynasty = "Sriwijaya"
+		adm = 3
+		dip = 1
+		mil = 5
+		leader = { name = "Riyat Shah"		type = general	fire = 3	shock = 2	manuever = 3	siege = 0 }
+	}
+}
+
+1477.10.2 = {
+	heir = {
+		name = "Mahmoud Shah"
+		monarch_name = "Mahmoud Shah"
+		dynasty = "Sriwijaya"
+		birth_date = 1470.1.1
+		death_date = 1528.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+1488.1.1 = {
+	monarch = {
+		name = "Mahmoud Shah"
+		dynasty = "Sriwijaya"
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+1488.1.1 = {
+	heir = {
+		name = "Riyat Shah"
+		monarch_name = "Riyat Shah"
+		dynasty = "Sriwijaya"
+		birth_date = 1488.1.1
+		death_Date = 1564.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1511.1.1 = { leader = {	name = "Hang Nadim"            	type = admiral	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1528.1.1 } }
+
+# Annexed by Portugal 1511
+
+1528.1.1 = {
+	monarch = {
+		name = "Riyat Shah"
+		dynasty = "Sriwijaya"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}

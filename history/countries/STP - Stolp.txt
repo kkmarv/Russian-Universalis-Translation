@@ -1,0 +1,34 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = kashubian
+religion = catholic
+technology_group = western
+capital = 2995 # Stettin
+fixed_capital = 2995
+
+1432.1.1 = {
+	monarch = {
+		name = "Vartislav IX"
+		dynasty = "Griff"
+		birth_date = 1407.1.1
+		death_date = 1446.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Otto"
+		monarch_name = "Otto III"
+		dynasty = "Griff"
+		birth_date = 1444.1.1
+		death_date = 1464.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}

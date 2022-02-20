@@ -1,0 +1,338 @@
+government = monarchy
+add_government_reform = iqta
+technology_group = muslim
+religion = sunni
+primary_culture = turkmeni
+historical_rival = SHY
+historical_rival = BUK
+capital = 1973	# Urgench
+fixed_capital = 1973 # Cannot move capital away from this province & no power cost to move to it
+
+# Khiva (Khwarizm)
+1511.1.1 = {
+	monarch = {
+		name = "Ilbars"
+		dynasty ="Arabshahid"
+		dip = 1
+		adm = 1
+		mil = 3
+	}
+	add_piety = 0.25
+}
+
+1518.1.1 = {
+	monarch = {
+		name = "Sultan Hajji"
+		dynasty ="Arabshahid"
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}
+
+1519.1.1 = {
+	monarch = {
+		name = "Hassan Cooley"
+		dynasty ="Arabshahid"
+		dip = 1
+		adm = 0
+		mil = 1
+	}
+}
+
+1522.1.1 = {
+	monarch = {
+		name = "Budzhunga Khan"
+		dynasty ="Arabshahid"
+		dip = 1
+		adm = 1
+		mil = 1
+	}
+}
+
+1529.1.1 = {
+	monarch = {
+		name = "Sufian Khan"
+		dynasty ="Arabshahid"
+		dip = 2
+		adm = 0
+		mil = 2
+	}
+}
+
+1538.1.1 = {
+	monarch = {
+		name = "Kul Khan"
+		dynasty ="Arabshahid"
+		dip = 1
+		adm = 2
+		mil = 1
+	}
+}
+
+1547.1.1 = {
+	monarch = {
+		name = "Agathai Khan"
+		dynasty ="Arabshahid"
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}
+
+1557.1.1 = {
+	monarch = {
+		name = "Dost Khan"
+		dynasty ="Arabshahid"
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}
+
+1558.1.1 = {
+	monarch = {
+		name = "Haji Muhammad I"
+		dynasty ="Arabshahid"
+		dip = 3
+		adm = 1
+		mil = 3
+	}
+}
+
+1598.1.1 = { capital = 441 } # Khiva
+
+1603.3.1 = {
+	monarch = {
+		name = "Arab Mohammed I"
+		dynasty = "Arabshahid"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1623.8.1 = {
+	monarch = {
+		name = "Isfandiyar"
+		dynasty = "Arabshahid"
+		dip = 2
+		adm = 2
+		mil = 1
+	}
+}
+
+1643.7.1 = {
+	monarch = {
+		name = "Aboul Gazi I"
+		dynasty = "Arabshahid"
+		dip = 3
+		adm = 4
+		mil = 0
+	}
+}
+
+1663.1.1 = {
+	monarch = {
+		name = "Anusha Mohammed"
+		dynasty = "Arabshahid"
+		dip = 2
+		adm = 4
+		mil = 3
+	}
+}
+
+1686.1.1 = {
+	monarch = {
+		name = "Where to"
+		dynasty = "Arabshahid"
+		dip = 2
+		adm = 1
+		mil = 1
+	}
+}
+
+1689.1.1 = {
+	monarch = {
+		name = "Arang Muhammad"
+		dynasty = "Arabshahid"
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}
+
+1694.10.27 = {
+	monarch = {
+		name = "Jucie"
+		dynasty = "Genghisid"
+		dip = 1
+		adm = 1
+		mil = 0
+	}
+}
+
+1697.1.1 = {
+	monarch = {
+		name = "Wali"
+		dynasty = "Genghisid"
+		dip = 2
+		adm = 0
+		mil = 3
+	}
+}
+
+1698.1.1 = {
+	monarch = {
+		name = "Shah Niaz"
+		dynasty = "Genghisid"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1704.1.1 = {
+	monarch = {
+		name = "Yadiger Khan"
+		dynasty = "Genghisid"
+		dip = 1
+		adm = 1
+		mil = 1
+	}
+}
+
+1714.1.1 = {
+	monarch = {
+		name = "Ezim"
+		dynasty = "Genghisid"
+		dip = 1
+		adm = 1
+		mil = 0
+	}
+}
+
+1715.1.1 = {
+	monarch = {
+		name = "Sher Khan"
+		dynasty = "Genghisid"
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}
+
+1728.1.1 = {
+	monarch = {
+		name = "Ilbars II"
+		dynasty = "Genghisid"
+		dip = 1
+		adm = 2
+		mil = 2
+	}
+}
+
+1740.1.1 = {
+	monarch = {
+		name = "Abu Mohammed"
+		dynasty = "Genghisid"
+		dip = 1
+		adm = 0
+		mil = 0
+	}
+	government_rank = 1
+}
+
+1745.1.1 = {
+	monarch = {
+		name = "Aboul Gazi II"
+		dynasty = "Genghisid"
+		dip = 1
+		adm = 0
+		mil = 0
+	}
+}
+
+1746.1.1 = {
+	monarch = {
+		name = "Gaib Khan I"
+		dynasty = "Tukvatimurid"
+		dip = 2
+		adm = 1
+		mil = 2
+	}
+}
+
+1747.6.19 = {
+	government_rank = 2
+}
+
+1757.1.1 = {
+	monarch = {
+		name = "Abdallah Kara Beg"
+		dynasty = "Tukvatimurid"
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}
+
+1757.7.1 = {
+	monarch = {
+		name = "Timur Gazi"
+		dynasty = "Tukvatimurid"
+		dip = 1
+		adm = 2
+		mil = 1
+	}
+}
+
+1763.1.1 = {
+	monarch = {
+		name = "Tovke"
+		dynasty = "Tukvatimurid"
+		dip = 1
+		adm = 1
+		mil = 1
+	}
+}
+
+1764.1.1 = {
+	monarch = {
+		name = "Gaib Khan II"
+		dynasty = "Tukvatimurid"
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}
+
+1767.1.1 = {
+	monarch = {
+		name = "Aboul Gazi III"
+		dynasty = "Tukvatimurid"
+		dip = 2
+		adm = 1
+		mil = 2
+	}
+}
+
+1804.1.1 = {
+	monarch = {
+		name = "Iltazar Inak ibn Ivas"
+		dynasty = "Ungirat"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1806.6.1 = {
+	monarch = {
+		name = "Muhammad Rahim I"
+		dynasty = "Ungirat"
+		dip = 2
+		adm = 2
+		mil = 4
+	}
+}

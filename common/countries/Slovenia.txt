@@ -1,0 +1,119 @@
+graphical_culture = westerngfx
+
+color = { 92 172 238 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	quantity_ideas
+	administrative_ideas
+	religious_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	germanized_pike
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+}
+
+monarch_names = {
+	"Matej #0" = 30
+	"Jan #0" = 30
+	"Lucas #0" = 30
+	"Stefan #0" = 30
+	"Peter #0" = 30
+	"Pavol #0" = 30
+	"Jurai #0" = 30
+	"Jozef #0" = 30
+	"Marek #0" = 10
+	"Daniel #0" = 10
+	"Moritz #0" = 10
+	"Samuel #0" = 10
+	"Martin #0" = 10
+	"Ondrej #0" = 10
+	"Anton #0" = 10
+	"Carol #0" = 10
+	"Yugolen #0" = 10
+	"Thomas #0" = 10
+	"Ludovit #0" = 10
+	"William #0" = 10
+	"Mikulash #0" = 10
+	"Ignatz #0" = 10
+	"Maria #0" = -1
+	"Anna #0" = -1
+	"Aljbeta #0" = -1
+	"Ludmila #0" = -1
+	"Eva #0" = -1
+	"Yaroslava #0" = -1
+	"Amalia #0" = -1
+	"Yarmila #0" = -1
+	"Margaret #0" = -1
+	"Hana #0" = -1
+	"Yaroslav #0" = 0
+	"Yaromir #0" = 0
+	"Miroslav #0" = 0
+	"Dragoslav #0" = 0
+	"Svatopluk #0" = 0
+	"Mojmir #0" = 0
+	"Dobroslav #0" = 0
+	"Radoslav #0" = 0
+	"Radomir #0" = 0
+	"Casimir #0" = 0
+	"Power . #0" = 0
+	"Vityazoslav #0" = 0
+	"Blessing #0" = 0
+	"Svetozar #0" = 0
+	"Boniface #1" = 0
+	"Vratislav #0" = 0
+	"Vladislav #0" = 0
+	"Vladimir #0" = 0
+	"Cyril #0" = 0
+	"Constantine #0" = 0
+	"Method #0" = 0
+	"Bohuslav #0" = 0
+	"Dragomir #0" = 0
+	"Prokop #0" = 0
+	"Yergush #0" = 0
+	"Tikhomir #0" = 0
+	"Bartholomew #0" = 0
+	"Lyuboslav #0" = 0
+	"Lubomir #0" = 0
+	"Levoslav #0" = 0
+	"Stanislav #0" = 0
+}
+
+leader_names = {
+	Stribor
+	Bel
+	Collar
+	Podmaniski
+	Khatnyansky
+	Pongraz
+	Bosniak
+	Veselenie
+	Pongraz
+	Merry
+	Beskovsky
+	Esensky
+	Benevsky
+	Elefanti
+	Balasha
+}
+
+ship_names = { 
+	Bodrog Bebrava Bela Blava Bodva Dunajec "Black Water" Gornad Ipel
+	Latoritsa Morava Ondawa Poprad Rimava Slana Litava Toris.
+}

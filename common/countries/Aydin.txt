@@ -1,0 +1,95 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 255  151  40 }
+
+historical_idea_groups = {
+	maritime_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Omar #1" = 20
+	"Junyde #0" = 20
+	"Musa #0" = 20
+	"Isa #1" = 15
+	"Kidr #1" = 15
+	"Muhammad #1" = 15
+	"Ali #0" = 10
+	"Ibrahim #0" = 10
+	"Aydin #0" = 5
+	"Abdul-Medjid #0" = 0
+	"Adil #0" = 0
+	"Bayezid #0" = 0
+	"Cheesir #0" = 0
+	"Ilhamy #0" = 0
+	"Ishaq #0" = 0
+	"Iskander #0" = 0
+	"Kamar #0" = 0
+	"Kasim #0" = 0
+	"Corcud #0" = 0
+	"Mourad #0" = 0
+	"Safettin #0" = 0
+	"Suleiman #0" = 0
+	"Dowd #0" = 0
+	"Hassan #0" = 0
+	"Hussain #0" = 0
+	"Jakub #0" = 0
+	"Yusuf #0" = 0
+	
+	"Sekhnaz #0" = -1
+	"Yasmine #0" = -1
+}
+
+leader_names = {
+	"Avsar"
+	"Baikurt"
+	"Halis"
+	"Mansour"
+	"Organ"
+	"Erim"
+	"Aras"
+	"Aydin"
+	"Bayar"
+	"Isa"
+}
+
+ship_names = {
+	"Temur Yaman"
+	"Baezid"
+	"Kandaroglu"
+	"Isfendiar"
+	"Suleiman"
+	"Castamon"
+	"Tosya"
+	"Sarayduzu"
+	"Devrekani"
+	"Agli"
+	"Give it to ."
+	"Bozkuri"
+	"Kure"
+	"Arak"
+	"Kargi"
+	"Canonu"
+}

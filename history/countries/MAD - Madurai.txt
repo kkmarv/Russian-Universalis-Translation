@@ -1,0 +1,325 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = indian
+religion = sunni	### STT
+primary_culture = tamil
+capital = 2101 #Tirunelveli
+#capital = 536 #Madurai
+fixed_capital = 536 # Cannot move capital away from this province & no power cost to move to it
+
+#Rajas of Madurai 
+
+#Last Pandyas - Unsubdued by the Madurai Sultanate and continues to exist after Madurai is annexed by Vijayanagar
+
+1431.1.1 = {
+	monarch = {
+		name = "Parakrama"
+		dynasty = "Pandya"
+		ADM = 3
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1431.1.1 = {
+	heir = {
+		name = "Vira"
+		monarch_name = "Vira"
+		dynasty = "Pandya"
+		birth_date = 1410.1.1
+		death_Date = 1475.1.1
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1437.1.1 = {
+	monarch = {
+		name = "Vira"
+		dynasty = "Pandya"
+		ADM = 3
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1437.1.1 = {
+	heir = {
+		name = "Vira"
+		monarch_name = "Vira II"
+		dynasty = "Pandya"
+		birth_date = 1430.1.1
+		death_Date = 1516.1.1
+		claim = 95
+		ADM = 4
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1475.1.1 = {
+	monarch = {
+		name = "Vira II"
+		dynasty = "Pandya"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1475.1.1 = {
+	heir = {
+		name = "Parakrama"
+		monarch_name = "Parakrama II"
+		dynasty = "Pandya"
+		birth_date = 1450.1.1
+		death_Date = 1543.1.1
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 3
+	}
+}
+
+1516.1.1 = {
+	monarch = {
+		name = "Parakrama II"
+		dynasty = "Pandya"
+		ADM = 2
+		DIP = 1
+		MIL = 3
+	}
+}
+
+1516.1.1 = {
+	heir = {
+		name = "Vikram"
+		monarch_name = "Vikram"
+		dynasty = "Pandya"
+		birth_date = 1480.1.1
+		death_Date = 1565.1.1
+		claim = 95
+		ADM = 3
+		DIP = 1
+		MIL = 4
+	}
+}
+#Annexed
+
+#Independent from Vijayanagar:
+#Madurai Nayaka dynasty, Nayaka = vassal king, but from sources it seems the Madurai Nayakas took it as their dynasty name?
+
+1529.1.1 = {
+	monarch = {
+		name = "Vishwanatha"
+		dynasty = "Nighthouse"
+		ADM = 4
+		DIP = 4
+		MIL = 5
+	}
+}
+
+1529.1.1 = {
+	heir = {
+		name = "Kumara Peria Krishnappa"
+		monarch_name = "Kumara Peria Krishnappa"
+		dynasty = "Nighthouse"
+		birth_date = 1527.1.1
+		death_Date = 1572.1.1
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 4
+	}
+}
+
+1564.1.1 = {
+	monarch = {
+		name = "Kumara Peria Krishnappa"
+		dynasty = "Nighthouse"
+		ADM = 1
+		DIP = 2
+		MIL = 4
+	}
+}
+
+1564.1.1 = {
+	heir = {
+		name = "Krishnappa Peria"
+		monarch_name = "Krishnappa Peria"
+		dynasty = "Nighthouse"
+		birth_date = 1560.1.1
+		death_Date = 1595.3.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1572.1.1 = {
+	monarch = {
+		name = "Krishnappa Peria"
+		dynasty = "Nighthouse"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1572.1.1 = {
+	heir = {
+		name = "Lingaya Kumara"
+		monarch_name = "Lingaya Kumara"
+		dynasty = "Nighthouse"
+		birth_date = 1570.1.1
+		death_Date = 1601.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1595.3.1 = {
+	monarch = {
+		name = "Lingaya Kumara"
+		dynasty = "Nighthouse"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1595.3.1 = {
+	heir = {
+		name = "Mutu Krishnappa"
+		monarch_name = "Mutu Krishnappa"
+		dynasty = "Nighthouse"
+		birth_date = 1590.1.1
+		death_Date = 1609.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1601.1.1 = {
+	monarch = {
+		name = "Mutu Krishnappa"
+		dynasty = "Nighthouse"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1601.1.1 = {
+	heir = {
+		name = "Muttu Virappa"
+		monarch_name = "Muttu Virappa I"
+		dynasty = "Nighthouse"
+		birth_date = 1590.1.1
+		death_Date = 1623.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1609.1.1 = {
+	monarch = {
+		name = "Muttu Virappa I"
+		dynasty = "Nighthouse"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1623.1.1 = {
+	monarch = {
+		name = "Tyrumala"
+		dynasty = "Nighthouse"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1659.1.1 = {
+	monarch = {
+		name = "Muttu Virappa II"
+		dynasty = "Nighthouse"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1662.1.1 = {
+	monarch = {
+		name = "Chockanatha I"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1678.1.1 = {
+	monarch = {
+		name = "Mutto Ling"
+		dynasty = "Nighthouse"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1680.1.1 = {
+	monarch = {
+		name = "Chockanatha I"
+		dynasty = "Nighthouse"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+#Restored
+
+1682.1.1 = {
+	monarch = {
+		name = "Muttu Virappa III"
+		dynasty = "Nighthouse"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1689.1.1 = {
+	monarch = {
+		name = "Chockanatha II"
+		dynasty = "Nighthouse"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1731.1.1 = {
+	monarch = {
+		name = "Minakshi"
+		dynasty = "Nighthouse"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+#Annexed by the Carnatic in April 1736

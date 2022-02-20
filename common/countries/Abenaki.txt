@@ -1,0 +1,82 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 49 115 90 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {	
+	"Kvalebenives #0" = 20
+	"Madocavango #0" = 20
+	"Wanagemeshau #0" = 20
+	"Bungavarravit #0" = 20
+	"Varrancansite #0" = 20
+	"Beaumosin #0" = 20
+	"Edaranquin #0" = 20
+	"Eneas #0" = 20
+	"Iteansis #0" = 20
+	"Jacquot #0" = 20
+	"Pecuaret #0" = 20
+	"Webonose #0" = 20
+	"Caterramogus #0" = 20
+	"Nuktungus #0" = 20
+	"Queenawus #0" = 20
+	"Quirebuset #0" = 20
+	"Neguskavit #0" = 20
+	"Abinnavai #0" = 20
+	"Skaviiz #0" = 20
+	"Addeavango #0" = 20
+	"Segusevik #0" = 20
+	"Kissyranguing #0" = 20
+	"Pittariskwanne #0" = 20
+	"Moksosson #0" = 20
+	"Erixis #0" = 20
+	"Estienne #0" = 20
+	"Venemoet #0" = 20
+	"Honumbanet #0" = 20
+	"Sandbuddis #0" = 20
+	"Chocorua #0" = 1
+	
+	"Mali #0" = -1
+	"Malian #0" = -1
+	"Maliazonis #0" = -1
+	"Azonis #0" = -1
+	"Malgelite #0" = -1
+}
+
+leader_names = {
+	Amosquey Chokeso Kovasuk Koacek Masipskwoyk
+	Nashua Osipi Pemigevasset Pennacouk Pegouette
+	Piskataku Saugehan Vinnibisauga
+	Amaseconti Alesicantekv
+	Kinipekv Odanak
+	Osipi Panavazek
+	Apiccabi Rocamese
+	Vavinak Flinak
+}
+
+ship_names = {
+	Abenaki Penobscot Malisit Passamakwodi Mikmak
+	Alemos Ahaso Beziko Vobos Molsem Avasos Bezo Voxes Azeban
+	Kogv Mategvas Megezo Wobtegwa Gokohoko Skog Doleba Vavilomva
+}

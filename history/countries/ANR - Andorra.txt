@@ -1,0 +1,566 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = catalan
+religion = catholic
+capital = 3629	# Andorra la Vella
+historical_friend = ARA
+historical_friend = FRA
+historical_friend = NAV
+
+1278.9.8 = {
+	monarch = {
+		name = "Roger Bernard III"
+		dynasty = "de Foie"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1287.1.1 = {
+	heir = {
+		name = "Gaston"
+		monarch_name = "Gaston I"
+		dynasty = "de Foie"
+		birth_date = 1287.1.1
+		death_date = 1315.12.13
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1302.3.3 = {
+	monarch = {
+		name = "Gaston I"
+		dynasty = "de Foie"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1308.1.1 = {
+	heir = {
+		name = "Gaston"
+		monarch_name = "Gaston II Bogatyr"
+		dynasty = "de Foie"
+		birth_date = 1308.1.1
+		death_date = 1343.9.26
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1315.12.13 = {
+	monarch = {
+		name = "Gaston II Bogatyr"
+		dynasty = "de Foie"
+		adm = 3
+		dip = 2
+		mil = 4
+		leader = {	name = "Gaston Bogatyr"         	type = general	fire = 1	shock = 2	manuever = 2	siege = 1 }
+	}
+}
+
+1331.4.30 = {
+	heir = {
+		name = "Gaston"
+		monarch_name = "Gaston III Feb"
+		dynasty = "de Foie"
+		birth_date = 1331.4.30
+		death_date = 1391.8.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1343.1.1 = {
+	monarch = {
+		name = "Gaston III Feb"
+		dynasty = "de Foie"
+		adm = 3
+		dip = 3
+		mil = 5
+		leader = {	name = "Gaston Feb"         	type = general	fire = 2	shock = 3	manuever = 2	siege = 2 }
+	}
+}
+
+1363.1.1 = {
+	heir = {
+		name = "Mathieu"
+		monarch_name = "Mathieu"
+		dynasty = "de Foie"
+		birth_date = 1363.1.1
+		death_date = 1398.8.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1391.12.20 = {
+	monarch = {
+		name = "Mathieu"
+		dynasty = "de Foie"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1391.12.20 = {
+	heir = {
+		name = "Isabella"
+		monarch_name = "Isabella"
+		dynasty = "de Foie"
+		birth_date = 1360.1.1
+		death_date = 1428.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1398.8.1 = {
+	monarch = {
+		name = "Isabella"
+		dynasty = "de Foie"
+		adm = 1
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1398.8.1 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean I"
+		dynasty = "de Foie"
+		birth_date = 1382.1.1
+		death_date = 1436.5.4
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+1412.1.1 = {
+	monarch = {
+		name = "Jean I"
+		dynasty = "de Foie"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+1423.2.26 = {
+	heir = {
+		name = "Gaston"
+		monarch_name = "Gaston IV"
+		dynasty = "de Foie"
+		birth_date = 1423.2.26
+		death_date = 1472.7.25
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}
+
+
+1436.1.1 = {
+	monarch = {
+		name = "Mathieu"
+		dynasty = "de Foie"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+
+1438.2.26 = {
+	monarch = {
+		name = "Gaston IV"
+		dynasty = "de Foie"
+		adm = 2
+		dip = 3
+		mil = 5
+		leader = {	name = "Gaston IV"         	type = general	fire = 3	shock = 3	manuever = 3	siege = 2 }
+	}
+}
+
+1466.12.1 = {
+	heir = {
+		name = "Francis"
+		monarch_name = "Francis Feb"
+		dynasty = "de Foie"
+		birth_date = 1466.12.1
+		death_date = 1483.1.30
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1472.1.1 = {
+	monarch = {
+		name = "Madeleine"
+		dynasty = "de Foie"
+		adm = 2
+		dip = 2
+		mil = 1
+		regent = yes
+	}
+}
+
+1481.12.1 = {
+	monarch = {
+		name = "Francis Feb"
+		dynasty = "de Foie"
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1481.12.1 = {
+	heir = {
+		name = "Catherine"
+		monarch_name = "Catherine I"
+		dynasty = "de Foie"
+		birth_date = 1468.1.1
+		death_date = 1518.2.18
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 0
+		female = yes
+	}
+}
+
+1483.1.7 = {
+	monarch = {
+		name = "Catherine I"
+		dynasty = "de Foie"
+		birth_date = 1468.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+		female = yes
+	}
+}
+
+1503.4.18 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry II"
+		dynasty = "d'Albre"
+		birth_date = 1503.4.18
+		death_date = 1555.5.25
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+  
+1517.1.1 = {
+	monarch = {
+		name = "Henry II"
+		dynasty = "d'Albre"
+		birth_date = 1503.4.18
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+1528.1.7 = {
+	heir = {
+		name = "Jeanne"
+		monarch_name = "Jeanne III"
+		dynasty = "d'Albre"
+		birth_date = 1528.1.7
+		death_date = 1572.6.9
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 1
+		female = yes
+	}
+}
+
+1555.5.25 = {
+	monarch = {
+		name = "Jeanne III"
+		dynasty = "d'Albre"
+		birth_date = 1528.1.7
+		adm = 4
+		dip = 4
+		mil = 1
+		female = yes
+	}
+}
+
+1555.5.25 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry III"
+		dynasty = "de bourbon"
+		birth_date = 1553.12.13
+		death_date = 1610.5.14
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 5
+		leader = { 	name = "Henry III"		type = general	fire = 4	shock = 4	manuever = 2	siege = 0 }
+	}
+}
+
+1572.6.9 = {
+	monarch = {
+		name = "Henry III"
+		dynasty = "de bourbon"
+		birth_date = 1553.12.13
+		adm = 5
+		dip = 5
+		mil = 5
+		leader = { 	name = "Henry III"		type = general	fire = 4	shock = 4	manuever = 2	siege = 0 }
+	}
+}
+
+1601.9.27 = {
+	heir = {
+		name = "Ludovic"
+		monarch_name = "Ludovic XIII"
+		dynasty = "de bourbon"
+		birth_date = 1601.9.27
+		death_date = 1643.5.14
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1610.5.14 = {
+	monarch = {
+		name = "Ludovic XIII"
+		dynasty = "de bourbon"
+		birth_date = 1601.9.27
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1638.9.5 = {
+	heir = {
+		name = "Ludovic"
+		monarch_name = "Ludovic XIV"
+		dynasty = "de bourbon"
+		birth_date = 1638.9.5
+		death_date = 1715.9.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+}
+
+1643.5.14 = {
+	monarch = {
+		name = "Ludovic XIV"
+		dynasty = "de bourbon"
+		birth_date = 1638.9.5
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+}
+
+1710.2.15 = {
+	heir = {
+		name = "Ludovic"
+		monarch_name = "Ludovic XV"
+		dynasty = "de bourbon"
+		birth_date = 1710.2.15
+		death_date = 1774.5.10
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1715.9.1 = {
+	monarch = {
+		name = "Ludovic XV"
+		dynasty = "de bourbon"
+		birth_date = 1710.2.15
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1754.8.23 = {
+	heir = {
+		name = "Ludovic"
+		monarch_name = "Ludovic XVI"
+		dynasty = "de bourbon"
+		birth_date = 1754.8.23
+		death_date = 1793.1.21
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+}
+
+1774.5.10 = {
+	monarch = {
+		name = "Ludovic XVI"
+		dynasty = "de bourbon"
+		birth_date = 1754.8.23
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+}
+
+1785.3.27 = {
+	heir = {
+		name = "Ludovic"
+		monarch_name = "Ludovic XVII"
+		dynasty = "de bourbon"
+		birth_date = 1785.3.27
+		death_date = 1795.6.8
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1792.9.21 = {
+	monarch = {
+		name = "National Convention"
+		adm = 3
+		dip = 0
+		mil = 4
+		regent = yes
+	}
+}
+
+1795.11.2 = {
+	monarch = {
+		name = "Revolutionary Council"
+		adm = 3
+		dip = 0
+		mil = 4
+		regent = yes
+	}
+}
+
+1799.11.10 = {
+	monarch = {
+		name = "Napoleon I"
+		adm = 6
+		dip = 3
+		mil = 6
+		dynasty = "Bonaparte" 
+		birth_date = 1769.8.15
+	}
+}
+
+1811.3.20 = {
+	heir = {
+		name = "Napoleon"
+		monarch_name = "Napoleon II"
+		dynasty = "Bonaparte"
+		birth_date = 1811.3.20
+		death_date = 1832.7.22
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1814.4.11 = {
+	monarch = {
+		name = "Ludovic XVIII"
+		dynasty = "de bourbon"
+		birth_date = 1755.11.17
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1814.4.11 = {
+	heir = {
+		name = "Karl"
+		monarch_name = "Karl X"
+		dynasty = "de bourbon"
+		birth_date = 1757.10.9
+		death_date = 1836.11.6
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1830.8.2 = {
+	monarch = {
+		name = "Karl X"
+		adm = 2
+		dip = 3
+		mil = 1
+		dynasty = "de bourbon" 
+		birth_date = 1757.10.9
+	}
+}
+
+1830.8.2 = {
+	heir = {
+		name = "Louis-Philippe"
+		monarch_name = "Louis-Philippe I"
+		dynasty = "de bourbon"
+		birth_date = 1773.10.6
+		death_date = 1850.8.26
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}
+
+1848.1.24 = {
+	monarch = {
+		name = "Louis-Philippe I"
+		adm = 2
+		dip = 3
+		mil = 5
+		dynasty = "de bourbon" 
+		birth_date = 1773.10.6
+	}
+}

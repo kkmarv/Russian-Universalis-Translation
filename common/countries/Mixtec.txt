@@ -1,0 +1,97 @@
+#Country Name: Please see filename.
+
+graphical_culture = southamericagfx
+
+color = { 158  18  120 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	maritime_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+
+historical_units = {
+	mesoamerican_spearmen
+	central_american_horsemen
+	zapotec_tribal_warfare
+	zapotec_plains_warfare
+	zapotec_gunpowder_warfare
+	westernized_zapotec
+	mexican_guerilla_warfare
+}
+
+monarch_names = {
+	"Kosihoesa #0" = 20
+	"Kosyhopi Xolo #0" = 20
+	"Nukano #0" = 20
+	"Cosihawks #1" = 15
+	"Koshihopi #1" = 15
+	"Zacchilla #1" = 15
+	"Cosihouse #0" = 10
+	"Koshihopi Jizi #0" = 10
+	"Pwix Tao #0" = 10
+	"Beljew #0" = 0
+	"Biebedge #0" = 0
+	"Binec #0" = 0
+	"Bzodge Chsaksej #0" = 0
+	"Chbalaksa #0" = 0
+	"Chonna Biku #0" = 0
+	"Kokui #0" = 0
+	"Djooraxa #0" = 0
+	"Gwibiopi #0" = 0
+	"Giazob #0" = 0
+	"Gijege #0" = 0
+	"Ipalnemoani #0" = 0
+	"Ji Jii #0" = 0
+	"Jitukh #0" = 0
+	"Jzzy #0" = 0
+	"Lexdyxo #0" = 0
+	"Liebe #0" = 0
+	"Mbalaz #0" = 0
+	"Na Yale #0" = 0
+	"Nakichinisa #0" = 0
+	"Naxicanguiyu #0" = 0
+	"Ngolbex An #0" = 0
+	"Nguiyu Rire #0" = 0
+	"Nisa Ro #0" = 0
+	"Pigegee Jzie. #0" = 0
+	"Toby Rusigunda #0" = 0
+	"Vieni #0" = 0
+	"Vesibe #0" = 0
+	"Zne Yel #0" = 0
+	"Znib #0" = 0
+	"Zirks #0" = 0
+	"Ziania #0" = -1
+	"Nayeli #0" = -1
+}
+
+leader_names = {
+	Beljue Biebedgev Binach "Bzodge Chsaksej"
+	Chbalaksa Kokui
+	Djooraxa
+	Gvpeibioni Giazob Ghiezh
+	"Ji Jii" Jitukh Jizi
+	Lexdixo Liebe
+	Mbalaz
+	"Na Yale" "Ngolbex An"
+	"Pigegee Jzie." "Pwix Tao"
+	Vieni Vzib
+	"Zne Yel" Znib Zirks
+}
+
+ship_names = {
+	Atoyak Atsapa
+	Chalciutlikue Chico Kokijo
+	Ipalnemoani
+	"Monte Alban"
+	Necociautl Nahuatl
+	Oaxaca Omakatl
+	Quetzalcoatl
+	Tlaloc Texcatlipoca Texistekatl
+	Shochiketzal
+}

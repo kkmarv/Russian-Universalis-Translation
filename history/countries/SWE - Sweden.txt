@@ -1,0 +1,2054 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+unit_type = western
+primary_culture = swedish
+religion = catholic
+add_accepted_culture = finnish
+capital = 1	#Stockholm
+
+national_focus = MIL
+
+700.1.1 = {
+	monarch = {
+		name = "Haakon Ring"
+		dynasty = "Ingling"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+765.1.1 = {
+	monarch = {
+		name = "Sigurd Ring"
+		dynasty = "Ingling"
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+}
+
+812.1.1 = {
+	monarch = {
+		name = "Stan Sluggish"
+		dynasty = "Aw Munshoe"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+835.1.1 = {
+	monarch = {
+		name = "Björn I Ironsided"
+		dynasty = "Aw Munshoe"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+846.1.1 = {
+	monarch = {
+		name = "Eric II"
+		dynasty = "Aw Munshoe"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+850.1.1 = {
+	monarch = {
+		name = "Eric III"
+		dynasty = "Aw Munshoe"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+866.1.1 = {
+	monarch = {
+		name = "Karl U usurper"
+		dynasty = "Aw Munshoe"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+868.1.1 = {
+	monarch = {
+		name = "Bjørn II"
+		dynasty = "Aw Munshoe"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+887.1.1 = {
+	monarch = {
+		name = "Eric IV"
+		dynasty = "Aw Munshoe"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+906.1.1 = {
+	monarch = {
+		name = "Anund Uppsala"
+		dynasty = "Aw Munshoe"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+910.1.1 = {
+	monarch = {
+		name = "Bjørn III"
+		dynasty = "Aw Munshoe"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+925.1.1 = {
+	monarch = {
+		name = "Eric V"
+		dynasty = "Aw Munshoe"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+929.1.1 = {
+	monarch = {
+		name = "Bjørn IV"
+		dynasty = "Aw Munshoe"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+979.1.1 = {
+	monarch = {
+		name = "Eric VI Segerselle"
+		dynasty = "Aw Munshoe"
+		birth_date = 945.1.1
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+}
+
+995.1.1 = {
+	monarch = {
+		name = "Olaf III Shetkonung"
+		dynasty = "Aw Munshoe"
+		birth_date = 980.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1022.1.1 = {
+	monarch = {
+		name = "Anund Jacob"
+		dynasty = "Aw Munshoe"
+		birth_date = 1007.7.25
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+}
+
+1050.1.1 = {
+	monarch = {
+		name = "Emund Old"
+		dynasty = "Aw Munshoe"
+		birth_date = 1000.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1060.1.1 = {
+	monarch = {
+		name = "Stenkyl"
+		dynasty = "Stenkyl"
+		birth_date = 1030.1.1
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+}
+
+1066.1.1 = {
+	monarch = {
+		name = "Eric VII"
+		dynasty = "Stenkyl"
+		birth_date = 1035.1.1
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+
+1067.1.1 = {
+	monarch = {
+		name = "Halsten"
+		dynasty = "Stenkyl"
+		birth_date = 1050.1.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+1070.1.1 = {
+	monarch = {
+		name = "Anund of Gardarique"
+		dynasty = "Rurikovich"
+		birth_date = 1035.1.1
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1075.1.1 = {
+	monarch = {
+		name = "Håkan Red"
+		dynasty = "Stenkyl"
+		birth_date = 1040.1.1
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1079.1.1 = {
+	monarch = {
+		name = "Inge I Senior"
+		dynasty = "Stenkyl"
+		birth_date = 1060.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1084.1.1 = {
+	monarch = {
+		name = "Blot-Sven"
+		dynasty = "Blot-Sven"
+		birth_date = 1060.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1087.1.1 = {
+	monarch = {
+		name = "Inge I Senior"
+		dynasty = "Stenkyl"
+		birth_date = 1060.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1105.1.1 = {
+	monarch = {
+		name = "Philippe"
+		dynasty = "Stenkyl"
+		birth_date = 1105.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+1110.1.1 = {
+	monarch = {
+		name = "Inge II Jr."
+		dynasty = "Stenkyl"
+		birth_date = 1105.1.1
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+}
+
+1125.1.1 = {
+	monarch = {
+		name = "Ragnwald Silly"
+		dynasty = "Stenkyl"
+		birth_date = 1100.1.1
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1125.7.1 = {
+	monarch = {
+		name = "Magnus Strong"
+		dynasty = "Estridsen"
+		birth_date = 1106.1.1
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+}
+
+1130.1.1 = {
+	monarch = {
+		name = "Sverker Senior"
+		dynasty = "Sverker"
+		birth_date = 1100.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1156.12.25 = {
+	monarch = {
+		name = "Saint Eric IX"
+		dynasty = "Eric"
+		birth_date = 1120.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1160.5.18 = {
+	monarch = {
+		name = "Magnus Henriksen"
+		dynasty = "Estridsen"
+		birth_date = 1125.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1161.1.1 = {
+	monarch = {
+		name = "Karl VII"
+		dynasty = "Sverker"
+		birth_date = 1130.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1167.3.1 = {
+	monarch = {
+		name = "Knut I"
+		dynasty = "Eric"
+		birth_date = 1150.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+1196.4.8 = {
+	monarch = {
+		name = "Sverker II Jr."
+		dynasty = "Sverker"
+		birth_date = 1167.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1208.1.1 = {
+	monarch = {
+		name = "Eric X"
+		dynasty = "Eric"
+		birth_date = 1180.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1216.4.10 = {
+	monarch = {
+		name = "Johan I"
+		dynasty = "Sverker"
+		birth_date = 1201.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1222.3.10 = {
+	monarch = {
+		name = "Eric XI Shepelavy"
+		dynasty = "Eric"
+		birth_date = 1216.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1229.11.29 = {
+	monarch = {
+		name = "Whip II Long"
+		dynasty = "Eric"
+		birth_date = 1200.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1234.1.1 = {
+	monarch = {
+		name = "Eric XI"
+		dynasty = "Eric"
+		birth_date = 1216.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1250.2.2 = {
+	monarch = {
+		name = "Waldemar I"
+		dynasty = "Volkung"
+		birth_date = 1239.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+1275.6.14 = {
+	monarch = {
+		name = "Magnus III Ladoulos"
+		dynasty = "Volkung"
+		birth_date = 1240.1.1
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+}
+
+1290.12.18 = {
+	monarch = {
+		name = "Birger"
+		dynasty = "Volkung"
+		birth_date = 1280.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1290.12.18 = {
+	queen = {
+		country_of_origin = DAN
+		name = "Martha"
+		dynasty = "Estridsen"
+		birth_date = 1277.1.1
+		death_date = 1319.7.8
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1316.1.1 = {
+	heir = {
+		name = "Magnus"
+		monarch_name = "Magnus II Smack"
+		dynasty = "Volkung"
+		birth_date = 1316.1.1
+		death_date = 1374.12.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1319.7.8 = {
+	monarch = {
+		name = "Magnus II Smack"
+		dynasty = "Volkung"
+		birth_date = 1316.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1335.10.1 = {
+	queen = {
+		country_of_origin = NAM
+		name = "Blank"
+		dynasty = "Dampier"
+		birth_date = 1320.1.1
+		death_date = 1363.4.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1339.1.1 = {
+	heir = {
+		name = "Eric"
+		monarch_name = "Eric XII"
+		dynasty = "Volkung"
+		birth_date = 1339.1.1
+		death_date = 1359.6.21
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1356.10.17 = {
+	monarch = {
+		name = "Eric XII"
+		dynasty = "Volkung"
+		birth_date = 1339.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1356.10.17 = {
+	queen = {
+		country_of_origin = BAV
+		name = "Beatrix"
+		dynasty = "von Wittelsbach"
+		birth_date = 1344.1.1
+		death_date = 1359.12.25
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1359.6.21 = {
+	monarch = {
+		name = "Magnus II Smack"
+		dynasty = "Volkung"
+		birth_date = 1316.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1359.6.21 = {
+	queen = {
+		country_of_origin = NAM
+		name = "Blank"
+		dynasty = "Dampier"
+		birth_date = 1320.1.1
+		death_date = 1363.4.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1359.6.21 = {
+	heir = {
+		name = "Hakon"
+		monarch_name = "Hakon II"
+		dynasty = "Volkung"
+		birth_date = 1340.1.1
+		death_date = 1380.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1362.2.15 = {
+	monarch = {
+		name = "Hakon II"
+		dynasty = "Volkung"
+		birth_date = 1340.1.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1362.2.15 = {
+	queen = {
+		country_of_origin = DAN
+		name = "Margrethe"
+		dynasty = "Estridsen"
+		birth_date = 1320.1.1
+		death_date = 1363.4.1
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1363.1.1 = {
+	monarch = {
+		name = "Magnus II Smack"
+		dynasty = "Volkung"
+		birth_date = 1316.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1363.1.1 = {
+	queen = {
+		country_of_origin = NAM
+		name = "Blank"
+		dynasty = "Dampier"
+		birth_date = 1320.1.1
+		death_date = 1363.4.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1363.1.1 = {
+	heir = {
+		name = "Hakon"
+		monarch_name = "Hakon II"
+		dynasty = "Volkung"
+		birth_date = 1340.1.1
+		death_date = 1380.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1364.2.18 = {
+	monarch = {
+		name = "Albrecht"
+		dynasty = "von Mecklenburg"
+		birth_date = 1340.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1364.2.18 = {
+	heir = {
+		name = "Eric"
+		monarch_name = "Eric XIII"
+		dynasty = "von Mecklenburg"
+		birth_date = 1359.1.1
+		death_date = 1397.7.26
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1389.2.24 = {
+	monarch = {
+		name = "Margrethe"
+		dynasty = "Estridsen"
+		birth_date = 1353.3.15
+		adm = 3
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}
+
+1396.7.23 = {
+	monarch = {
+		name = "Eric XIII"
+		dynasty = "Griff"
+		birth_date = 1382.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1441.1.1 = {
+	monarch = {
+		name = "Christopher"
+		dynasty = "von Pfalz Neumark"
+		birth_date = 1382.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+
+1448.6.20 = {
+	monarch = {
+		name = "Karl VIII"
+		dynasty = "Bondet"
+		birth_date = 1409.10.5
+		adm = 3
+		dip = 0
+		mil = 2
+		leader = {	name = "Karl VIII"   type = general	fire = 2	shock = 2	manuever = 3	siege = 0 }
+	}
+	queen = {
+		country_of_origin = SWE
+		name = "Katarina"
+		dynasty = "Gumsehuvud"
+		birth_date = 1418.1.1
+		death_date = 1451.1.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1448.6.20 = {
+	heir = {
+		name = "Magdalena"
+		monarch_name = "Magdalena"
+		dynasty = "Bondet"
+		birth_date = 1445.1.1
+		death_date = 1495.8.1
+		claim = 75
+		adm = 4
+		dip = 4
+		mil = 3
+		female = yes
+	}
+}
+
+1457.2.25 = { government = republic
+	add_government_reform = noble_elite_reform
+	set_legacy_government = noble_republic }
+
+1457.2.25 = {
+	monarch = {
+		name = "Jones Bengtsson"
+		dynasty = "Oxenschern"
+		birth_date = 1417.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+		
+	}
+}
+
+1463.8.21 = {
+	monarch = {
+		name = "Tour Turson"
+		dynasty = "Bielke"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+	
+1464.1.2 = {
+	monarch = {
+		name = "Kettil Karlsson"
+		dynasty = "Vase"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+	
+1464.9.2 = {
+	monarch = {
+		name = "Karl VIII"
+		dynasty = "Bondet"
+		birth_date = 1409.10.5
+		adm = 3
+		dip = 0
+		mil = 2
+		leader = {	name = "Karl VIII"   	type = general	fire = 2	shock = 2	manuever = 3	siege = 0 }
+	}
+}
+	
+1464.9.2 = { government = monarchy
+add_government_reform = feudalism_reform }
+
+1465.1.31 = {
+	monarch = {
+		name = "Kettil Karlsson"
+		dynasty = "Vase"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+	
+1465.1.31 = { government = republic
+	add_government_reform = noble_elite_reform
+	set_legacy_government = noble_republic }
+
+1465.6.16 = {
+	monarch = {
+		name = "Jones Bengtsson"
+		dynasty = "Oxenschern"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+	
+1466.10.19 = {
+	monarch = {
+		name = "Eric Axellson"
+		dynasty = "Tott"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+	queen = {
+		country_of_origin = SWE
+		name = "Elin"
+		dynasty = "Sturm"
+		birth_date = 1442.1.1
+		death_date = 1495.1.1
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+	
+1467.11.12 = {
+	monarch = {
+		name = "Karl VIII"
+		dynasty = "Bondet"
+		birth_date = 1409.10.5
+		adm = 3
+		dip = 0
+		mil = 2
+		leader = {	name = "Karl VIII"   	type = general	fire = 2	shock = 2	manuever = 3	siege = 0 }
+	}
+}
+
+1467.11.12 = { government = monarchy
+add_government_reform = feudalism_reform }
+
+1470.1.1 = {
+	queen = {
+		country_of_origin = SWE
+		name = "Christine"
+		dynasty = "Abrahamsson"
+		birth_date = 1432.1.1
+		death_date = 1492.1.1
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1470.5.15 = {
+	monarch = {
+		name = "Stan Gustavsson"
+		dynasty = "Sturm"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+	queen = {
+		country_of_origin = SWE
+		name = "Ingeborg"
+		dynasty = "Tott"
+		birth_date = 1440.1.1
+		death_date = 1507.12.1
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}	
+
+1470.5.15 = { government = republic
+	add_government_reform = noble_elite_reform
+	set_legacy_government = noble_republic }
+
+1497.10.6 = {
+	monarch = {
+		name = "Arvid"
+		dynasty = "Troll"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+	queen = {
+		country_of_origin = SWE
+		name = "Beata"
+		dynasty = "Tott"
+		birth_date = 1440.1.1
+		death_date = 1506.1.1
+		female = yes
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1501.1.1 = { leader = {	name = "Gemming Gadh"	type = general	fire = 2	shock = 2	manuever = 2	siege = 1	death_date = 1520.12.1 } }
+
+1501.11.15 = {
+	monarch = {
+		name = "Stan Gustavsson"
+		dynasty = "Sturm"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+	queen = {
+		country_of_origin = SWE
+		name = "Ingeborg"
+		dynasty = "Tott"
+		birth_date = 1440.1.1
+		death_date = 1507.12.1
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1503.12.14 = {
+	monarch = {
+		name = "Svante Nilson"
+		dynasty = "Sturm"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+	queen = {
+		country_of_origin = DAN
+		name = "Mette"
+		dynasty = "Hole"
+		birth_date = 1465.1.1
+		death_date = 1530.1.1
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}	
+1512.1.3 = {
+	monarch = {
+		name = "Stan Svantesson"
+		dynasty = "Sturm"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+	queen = {
+		country_of_origin = SWE
+		name = "Christine"
+		dynasty = "Gillunstierna"
+		birth_date = 1494.1.1
+		death_date = 1559.1.5
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1520.1.1 = { leader = {	name = "Jacob Bugge"	type = admiral	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1577.1.1 } }
+	
+1520.2.3 = {
+	monarch = {
+		name = "Gustav"
+		dynasty = "Troll"
+		birth_date = 1488.9.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}	
+
+1521.1.1 = { leader = {	name = "Lars Ericsson"         	type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1540.1.1 } }
+
+1521.1.1 = { leader = {	name = "Berendt von Mellen"	type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1550.1.1 } }
+
+1521.1.2 = { government = monarchy
+add_government_reform = feudalism_reform }
+
+1521.1.2 = {
+	monarch = {
+		name = "Gustav I"
+		dynasty = "Vasa"
+		birth_date = 1496.5.12
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = cruel_personality
+}
+
+1530.1.1 = { religion = protestant } # Parliament of Versterеs
+
+1531.9.24 = {
+	queen = {
+		country_of_origin = LAU
+		name = "Katharina Stenbock"
+		dynasty = "Ascania"
+		birth_date = 1513.9.24
+		death_date = 1535.9.23
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1533.12.13 = {
+	heir = {
+		name = "Eric"
+		monarch_name = "Eric XIV"
+		dynasty = "Vasa"
+		birth_date = 1533.12.13
+		death_date = 1577.2.26
+		claim = 75
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+		
+
+1534.1.1 = { leader = {	name = "Johan T. Tre Rosor"       	type = general	fire = 2	shock = 3	manuever = 3	siege = 0	death_date = 1556.1.1 } }
+
+1536.10.1 = {
+	queen = {
+		country_of_origin = SWE
+		name = "Katarina"
+		dynasty = "Leyonhoofwood"
+		birth_date = 1516.1.1
+		death_date = 1551.8.26
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1552.8.22 = {
+	queen = {
+		country_of_origin = SWE
+		name = "Katarina"
+		dynasty = "Stenbock"
+		birth_date = 1535.7.22
+		death_date = 1621.12.13
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1561.1.1 = {
+	add_accepted_culture = estonian
+}
+
+1555.1.1 = { leader = {	name = "Klass Horn"       		type = general	fire = 3	shock = 3	manuever = 3	siege = 1	death_date = 1597.4.13 } }
+
+#1555.1.1 = { leader = {	name = "Klass E. Fleming"	type = general	fire = 3	shock = 3	manuever = 3	siege = 1	death_date = 1597.4.13 } }
+
+1560.1.1 = { leader = {	name = "Hans Boji af Gennes"  	type = general	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1573.1.1 } }
+
+1560.9.30 = {
+	monarch = {
+		name = "Eric XIV"
+		dynasty = "Vasa"
+		birth_date = 1533.12.13
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = scholar_personality
+}
+
+1560.9.30 = {
+	heir = {
+		name = "Johan"
+		monarch_name = "Johan III"
+		dynasty = "Vasa"
+		birth_date = 1537.12.20
+		death_date = 1592.11.17
+		claim = 90
+		adm = 3
+		mil = 3
+		dip = 3
+	}
+}
+
+1561.1.1 = { leader = {	name = "Boo Grip"               	type = general	fire = 4	shock = 2	manuever = 3	siege = 0	death_date = 1569.1.1 } }
+ 
+1563.1.1 = { leader = {	name = "Carl de Morne"	type = general	fire = 4	shock = 2	manuever = 3	siege = 0	death_date = 1574.9.4 } }
+
+1563.1.1 = { leader = {	name = "Henrik Horn"           	type = general	fire = 3	shock = 2	manuever = 3	siege = 1	death_date = 1693.1.1 } }
+
+1565.1.1 = { leader = {	name = "Pontus de la Gardie"	type = general	fire = 2	shock = 4	manuever = 4	siege = 1	death_date = 1585.11.5 } }
+
+1568.7.4 = {
+	queen = {
+		country_of_origin = SWE
+		name = "Karin"
+		dynasty = "Mensdotter"
+		birth_date = 1550.11.6
+		death_date = 1612.9.13
+		female = yes
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1568.9.30 = {
+	monarch = {
+		name = "Johan III"
+		dynasty = "Vasa"
+		birth_date = 1537.12.20
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	queen = {
+		country_of_origin = POL
+		name = "Katarina"
+		dynasty = "Jagellon"
+		birth_date = 1526.9.1
+		death_date = 1583.9.13
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = just_personality
+}
+
+1569.7.10 = { #Official Coronation + Tag Switch POL -> PLC
+	queen = {
+		country_of_origin = PLC
+		name = "Katarina"
+		dynasty = "Jagellon"
+		birth_date = 1526.9.1
+		death_date = 1583.9.13
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1568.9.30 = {
+	heir = {
+		name = "Sigismund"
+		monarch_name = "Sigismund III"
+		dynasty = "Vase"
+		birth_date = 1566.6.20
+		death_date = 1632.4.30
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+#1570.1.1 = { leader = {	name = "Gertich Charles"           	type = general	fire = 2	shock = 2	manuever = 2	siege = 0	death_date = 1607.3.15 } } # Removed /SWЦ
+
+1575.1.1 = { leader = {	name = "Karl Horn"             	type = general	fire = 4	shock = 3	manuever = 3	siege = 1	death_date = 1601.5.16 } }
+
+1585.2.21 = {
+	queen = {
+		country_of_origin = SWE
+		name = "Gunilla"
+		dynasty = "Bijelke"
+		birth_date = 1568.6.25
+		death_date = 1597.6.25
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1592.11.19 = {
+	monarch = {
+		name = "Sigismund"
+		dynasty = "Vase"
+		birth_date = 1566.6.20
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	queen = {
+		country_of_origin = HAB
+		name = "Anna"
+		dynasty = "von Habsburg"
+		birth_date = 1573.8.16
+		death_date = 1598.1.31
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1595.1.1 = { leader = {	name = "Carl Guillenheim"	type = admiral	fire = 2	shock = 3	manuever = 4	siege = 0	death_date = 1650.1.1 } }
+
+1598.8.1 = {
+	monarch = {
+		name = "Karl IX"
+		dynasty = "Vase"
+		birth_date = 1550.10.4
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+	queen = {
+		country_of_origin = SHL
+		name = "Christine"
+		dynasty = "von Holstein-Gottorp"
+		birth_date = 1573.4.12
+		death_date = 1625.12.8
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1598.8.1 = {
+	heir = {
+		name = "Gustav Afolff"
+		monarch_name = "Gustav II Adolf"
+		dynasty = "Vase"
+		birth_date = 1594.12.19
+		death_date = 1632.11.6
+		claim = 90
+		adm = 6
+		dip = 6
+		mil = 6
+		leader = {	name = "Gustav II Adolf"       	type = general	fire = 6	shock = 5	manuever = 6	siege = 1 }
+	}
+}
+
+1600.1.1 = { leader = {	name = "Hermann Wrangel"    type = general	fire = 4	shock = 3	manuever = 3	siege = 0	death_date = 1643.12.11 } }
+
+1604.1.1 = { leader = {	name = "Johann de la Gardie"	type = general	fire = 4	shock = 3	manuever = 2	siege = 0	death_date = 1642.3.10 } } # Removed /SWЦ
+
+1605.1.1 = { leader = {	name = "Evert Horn"         type = general	fire = 4	shock = 3	manuever = 3	siege = 2	death_date = 1615.7.30 } }
+
+1610.1.1 = { leader = {	name = "Klass Fleming"		type = admiral	fire = 4	shock = 4	manuever = 4	siege = 0	death_date = 1644.7.26 } }
+
+1611.10.30 = {
+	monarch = {
+		name = "Gustav II Adolf"
+		dynasty = "Vase"
+		birth_date = 1594.12.19
+		adm = 6
+		dip = 6
+		mil = 6
+		leader = {	name = "Gustav II Adolf"       	type = general	fire = 6	shock = 5	manuever = 6	siege = 1 }
+	}
+	add_army_professionalism = 0.3
+	clear_scripted_personalities = yes
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tactical_genius_personality
+}
+
+#1614.1.1 = { decision = judiciary_act } # The Court of Appeals
+
+1620.11.25 = {
+	queen = {
+		country_of_origin = BRA
+		name = "Maria Eleanor"
+		dynasty = "von Hohenzollern"
+		birth_date = 1599.11.11
+		death_date = 1655.3.18
+		female = yes
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+#1625.1.1 = { decision = land_recruiting_act }
+
+1625.1.1 = { leader = {	name = "Gustav Horn"           	type = general	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1657.5.10 } }
+
+1626.12.18 = {
+	heir = {
+		name = "Christine"
+		monarch_name = "Christine"
+		dynasty = "Vase"
+		birth_date = 1626.12.18
+		death_date = 1689.4.19
+		claim = 90
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+
+1630.1.1 = { leader = {	name = "Johan Baner"		type = general	fire = 4	shock = 5	manuever = 5	siege = 1	death_date = 1641.5.10 } }
+
+1630.1.1 = { leader = {	name = "Lennart Torrstenson"	type = general	fire = 5	shock = 4	manuever = 5	siege = 2	death_date = 1651.5.7 } }
+
+1630.7.1 = {
+	join_league = protestant
+}
+
+1631.1.1 = { leader = {	name = "Bernhardt"              	type = general	fire = 4	shock = 4	manuever = 3	siege = 1	death_date = 1639.7.8 } }
+
+1632.1.1 = { leader = {	name = "Carl Gustav Wrangel"   	type = general	fire = 4	shock = 3	manuever = 4	siege = 1	death_date = 1676.6.25 } }
+
+1632.11.8 = {
+	monarch = {
+		name = "Christine"
+		dynasty = "Vase"
+		birth_date = 1626.12.18
+		adm = 2
+		dip = 3
+		mil = 2
+		female = yes
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = tolerant_personality
+	add_ruler_personality = well_connected_personality
+}
+
+1634.1.1 = { leader = {	name = "Arvid Wittenberg"	type = general	fire = 4	shock = 3	manuever = 4	siege = 0	death_date = 1657.9.7 } }
+
+1635.1.1 = { leader = {	name = "von Koenigsmark"	type = general			fire = 2	shock = 4	manuever = 6	siege = 0	death_date = 1694.7.12 } }
+
+1639.1.1 = { leader = {	name = "Johan Björnsson"	type = conquistador		fire = 3	shock = 2	manuever = 4	siege = 0	death_date = 1663.5.3 } }
+
+1648.10.24 = {
+	leave_league = protestant
+}
+
+1650.1.1 = { leader = {	name = "Rutger von Asheberg"	type = general		fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1693.5.17 } }
+
+1654.6.8 = {
+	monarch = {
+		name = "Charles X Gustav"
+		dynasty = "von Pfalz-Zweinbrücken"
+		birth_date = 1622.11.8
+		adm = 3
+		dip = 1
+		mil = 6
+		leader = {	name = "Charles X Gustav"         	type = general		fire = 4	shock = 4	manuever = 5	siege = 1 }
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = bold_fighter_personality
+}
+
+1654.10.24 = {
+	queen = {
+		country_of_origin = SHL
+		name = "Eleanor Hedwig"
+		dynasty = "von Holstein-Gottorp"
+		birth_date = 1636.10.23
+		death_date = 1715.11.24
+		female = yes
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1655.1.1 = { leader = {	name = "Gustav Otto Stenbock"       	type = admiral	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1685.9.24 } }
+
+1655.12.4 = {
+	heir = {
+		name = "Karl"
+		monarch_name = "Karl XI"
+		dynasty = "von Pfalz-Zweinbrücken"
+		birth_date = 1655.12.4
+		death_date = 1697.4.5
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 2
+		leader = {	name = "Karl XI"               	type = general	fire = 3	shock = 3	manuever = 5	siege = 0 }
+	}
+}
+
+1660.2.14 = {
+	monarch = {
+		name = "Karl XI"
+		dynasty = "von Pfalz-Zweinbrücken"
+		birth_date = 1655.12.4
+		adm = 5
+		dip = 3
+		mil = 2
+		leader = {	name = "Karl XI"               	type = general	fire = 3	shock = 3	manuever = 5	siege = 0 }
+	}
+	add_army_professionalism = 0.1
+	clear_scripted_personalities = yes
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = righteous_personality
+}
+
+1680.1.1 = { leader = {	name = "Gustav Armfeld" 	type = general	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1736.10.24 } }
+
+1680.5.6 = {
+	queen = {
+		country_of_origin = DAN
+		name = "Ulrike Eleanor"
+		dynasty = "von Oldenburg"
+		birth_date = 1656.9.11
+		death_date = 1693.7.26
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1682.6.17 = {
+	heir = {
+		name = "Karl"
+		monarch_name = "Karl XII"
+		dynasty = "von Pfalz-Zweinbrücken"
+		birth_date = 1682.6.17
+		death_date = 1718.11.30
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 6
+		leader = {	name = "Karl XII"	type = general	fire = 6	shock = 6	manuever = 5	siege = 1 }
+
+	}
+}
+
+1697.4.7 = {
+	monarch = {
+		name = "Karl XII"
+		dynasty = "von Pfalz-Zweinbrücken"
+		birth_date = 1682.6.17
+		adm = 3
+		dip = 1
+		mil = 6
+		leader = {	name = "Karl XII"	type = general	fire = 6	shock = 6	manuever = 5	siege = 1 }
+	}
+	add_army_professionalism = 0.1
+	clear_scripted_personalities = yes
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = strict_personality
+}
+
+1697.4.7 = {
+	heir = {
+		name = "Ulrike Eleanor"
+		monarch_name = "Ulrike Eleanor"
+		dynasty = "von Pfalz-Zweinbrücken"
+		birth_date = 1688.1.23
+		death_date = 1741.11.24
+		claim = 80
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+#1699.1.1 = { leader = {	name = "Carl Gustav Rennskeld"	type = general	fire = 2	shock = 2	manuever = 1	siege = 1	death_date = 1722.1.29 } } # Removed /SWЦ
+
+1700.1.1 = { leader = {	name = "Arvid Bernhard Horn"	type = general	fire = 4	shock = 2	manuever = 3	siege = 1	death_date = 1742.4.17 } }
+
+#1700.1.1 = { leader = {	name = "Magnus Stenbock"       	type = general	fire = 3	shock = 4	manuever = 3	siege = 0	death_date = 1713.5.6 } } # Removed /SWЦ
+
+1700.1.1 = { leader = {	name = "Watchmaker"          	type = admiral	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1717.1.1 } }
+
+1701.1.1 = { leader = {	name = "Adam Levenhaupt"	type = general	fire = 4	shock = 4	manuever = 2	siege = 1	death_date = 1719.2.12 } }
+
+1707.1.1 = { leader = {	name = "Lars Gattenhelm"	type = admiral	fire = 0	shock = 4	manuever = 5	siege = 0	death_date = 1718.4.25 } }
+
+1710.1.1 = { leader = {	name = "von Budenbrock"	type = general	fire = 3	shock = 3	manuever = 2	siege = 0	death_date = 1743.7.16 } }
+
+1718.12.2 = {
+	monarch = {
+		name = "Ulrike Eleanor"
+		dynasty = "von Pfalz-Zweinbrücken"
+		birth_date = 1688.1.23
+		adm = 3
+		dip = 4
+		mil = 2
+		female = yes
+	}
+	queen = {
+		country_of_origin = HES
+		name = "Fredrik"
+		dynasty = "von Hessen-Kassel"
+		birth_date = 1676.4.18
+		death_date = 1751.3.27
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1718.12.2 = {
+	heir = {
+		name = "Fredrik"
+		monarch_name = "Fredrik I"
+		dynasty = "von Hessen-Kassel"
+		birth_date = 1676.4.18
+		death_date = 1751.3.27
+		female = no
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_army_professionalism = -0.2
+}
+
+1720.5.4 = {
+	monarch = {
+		name = "Fredrik I"
+		dynasty = "Von Hessen-Cassel"
+		birth_date = 1676.4.18
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	queen = {
+		country_of_origin = SWE
+		name = "Ulrike Eleanor"
+		dynasty = "von Pfalz-Zweinbrücken"
+		birth_date = 1688.1.23
+		death_date = 1741.11.24
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1722.1.1 = { leader = {	name = "Karl Levenhaupt"	type = general	fire = 2	shock = 2	manuever = 2	siege = 0	death_date = 1743.8.4 } }
+
+1747.1.1 = { leader = {	name = "Augustine Ehrenswerd"	type = general	fire = 4	shock = 4	manuever = 3	siege = 2	death_date = 1772.10.4 } }
+
+1750.1.1 = { leader = {	name = "Fredrik von Ferzen"	type = general	fire = 4	shock = 3	manuever = 3	siege = 0	death_date = 1794.4.24 } }
+
+1751.3.27 = {
+	monarch = {
+		name = "Adolf Fredrik"
+		dynasty = "von Holstein-Gottorp"
+		birth_date = 1710.5.4
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+	queen = {
+		country_of_origin = PRU
+		name = "Lovisa Ulrika"
+		dynasty = "von Hohenzollern"
+		birth_date = 1720.7.24
+		death_date = 1782.7.16
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1751.3.27 = {
+	heir = {
+		name = "Gustav"
+		monarch_name = "Gustav III"
+		dynasty = "von Holstein-Gottorp"
+		birth_date = 1746.1.24
+		death_date = 1792.3.29
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 2
+		leader = {	name = "Gustav III"	type = general	fire = 1	shock = 2	manuever = 2	siege = 0 		}
+	}
+}
+
+
+1755.1.1 = { leader = {	name = "Henrik af Troll"	type = general	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1784.3.11 } }
+
+1771.2.13 = {
+	monarch = {
+		name = "Gustav III"
+		dynasty = "von Holstein-Gottorp"
+		birth_date = 1746.1.24
+		adm = 5
+		dip = 4
+		mil = 2
+		leader = {	name = "Gustav III"	type = general	fire = 1	shock = 2	manuever = 2	siege = 0 }
+	}
+	queen = {
+		country_of_origin = DAN
+		name = "Sofia Magdalena"
+		dynasty = "von Oldenburg"
+		birth_date = 1746.7.3
+		death_date = 1813.8.21
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1778.11.1 = {
+	heir = {
+		name = "Gustav Adolf"
+		monarch_name = "Gustav IV Adolf"
+		dynasty = "von Holstein-Gottorp"
+		birth_date = 1778.11.1
+		death_date = 1837.2.7
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+}
+
+
+1781.1.1 = { leader = {	name = "Georg von Debeln"	type = general	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1820.2.16 } }
+
+1789.1.1 = { leader = {	name = "Karl Adlerscreutz"	type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1815.8.21 } }
+
+1790.1.1 = { leader = {	name = "Hans von Essen"	type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1824.7.28 } }
+
+1792.4.3 = {
+	monarch = {
+		name = "Gustav IV Adolf"
+		dynasty = "von Holstein-Gottorp"
+		birth_date = 1778.11.1
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+}
+
+1792.4.3 = {
+	heir = {
+		name = "Gustav"
+		monarch_name = "Gustav V"
+		dynasty = "von Holstein-Gottorp"
+		birth_date = 1748.10.7
+		death_date = 1818.2.5
+		claim = 80
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+1797.10.31 = {
+	queen = {
+		country_of_origin = BAD
+		name = "Fredrika"
+		dynasty = "von Zehringen"
+		birth_date = 1781.3.12
+		death_date = 1800.4.3
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1801.1.1 = { leader = {	name = "Sandels"               	type = general	fire = 3	shock = 4	manuever = 6	siege = 0	death_date = 1827.1.1 } }
+
+1801.1.1 = { leader = {	name = "Troll"                  	type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1817.1.1 } }
+
+1809.5.1 = {
+	monarch = {
+		name = "Karl XIII"
+		dynasty = "von Holstein-Gottorp"
+		birth_date = 1748.10.7
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+	queen = {
+		country_of_origin = SHL
+		name = "Hedwig Elizabeth Charlotte"
+		dynasty = "von Holstein-Gottorp"
+		birth_date = 1759.3.22
+		death_date = 1818.6.20
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1809.6.5 = {
+	heir = {
+		name = "Charles August"
+		monarch_name = "Charles IV August"
+		dynasty = "von Holstein-Gottorp"
+		birth_date = 1768.7.9
+		death_date = 1810.5.28
+		claim = 25
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+1810.5.28 = {
+	heir = {
+		name = "Jean-Baptiste Jules"
+		monarch_name = "Charles XIV Johan"
+		dynasty = "Bernadotte"
+		birth_date = 1763.1.26
+		death_date = 1844.3.8
+		claim = 25
+		adm = 2
+		dip = 2
+		mil = 4
+		leader = {	name = "Jean-Baptiste Jules Bernadotte"	type = general	fire = 3	shock = 3	manuever = 4	siege = 1 		}
+	}
+}
+
+1818.2.5 = {
+	monarch = {
+		name = "Charles XIV Johan"
+		dynasty = "Bernadotte"
+		birth_date = 1763.1.26
+		culture = gascon
+		adm = 2
+		dip = 2
+		mil = 4
+		leader = {	name = "Jean-Baptiste Jules Bernadotte"        	type = general	fire = 4	shock = 4	manuever = 3	siege = 1 }
+	}
+	queen = {
+		country_of_origin = FRA
+		name = "DACIDERIA"
+		dynasty = "Clary"
+		birth_date = 1777.11.8
+		death_date = 1860.12.17
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1818.2.5 = {
+	heir = {
+		name = "Oscar"
+		monarch_name = "Oscar I"
+		dynasty = "Bernadotte"
+		birth_date = 1799.7.4
+		death_date = 1859.7.8
+		claim = 80
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1844.3.8 = {
+	monarch = {
+		name = "Oscar I"
+		dynasty = "Bernadotte"
+		birth_date = 1799.7.4
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1844.3.8 = {
+	queen = {
+		country_of_origin = KLV
+		name = "Josephine"
+		dynasty = "de Bogarne"
+		birth_date = 1807.3.14
+		death_date = 1876.7.7
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1844.3.8 = {
+	heir = {
+		name = "Karl"
+		monarch_name = "Karl XV"
+		dynasty = "Bernadotte"
+		birth_date = 1826.5.3
+		death_date = 1872.8.19
+		claim = 80
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+1859.7.8 = {
+	monarch = {
+		name = "Karl XV"
+		dynasty = "Bernadotte"
+		birth_date = 1826.5.3
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1859.7.8 = {
+	queen = {
+		country_of_origin = NED
+		name = "Luisa"
+		dynasty = "van Oranier-Nassau"
+		birth_date = 1828.8.5
+		death_date = 1871.3.30
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1859.7.8 = {
+	heir = {
+		name = "Oscar"
+		monarch_name = "Oscar II"
+		dynasty = "Bernadotte"
+		birth_date = 1829.1.21
+		death_date = 1907.12.8
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+}
+
+1872.8.19 = {
+	monarch = {
+		name = "Oscar II"
+		dynasty = "Bernadotte"
+		birth_date = 1829.1.21
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+}
+
+1872.8.19 = {
+	queen = {
+		country_of_origin = NAS
+		name = "Sofia"
+		dynasty = "von Nassau"
+		birth_date = 1836.7.9
+		death_date = 1913.12.30
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1872.9.18 = {
+	heir = {
+		name = "Gustav"
+		monarch_name = "Gustav V"
+		dynasty = "Bernadotte"
+		birth_date = 1858.6.16
+		death_date = 1950.10.29
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+}
+
+1907.12.8 = {
+	monarch = {
+		name = "Gustav V"
+		dynasty = "Bernadotte"
+		birth_date = 1858.6.16
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+}
+
+1907.12.8 = {
+	queen = {
+		country_of_origin = BAD
+		name = "Victoria"
+		dynasty = "von Zehringen"
+		birth_date = 1862.8.7
+		death_date = 1930.4.4
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1907.12.8 = {
+	heir = {
+		name = "Gustav Adolf"
+		monarch_name = "Gustav VI Adolf"
+		dynasty = "Bernadotte"
+		birth_date = 1882.11.11
+		death_date = 1973.9.15
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1950.10.29 = {
+	monarch = {
+		name = "Gustav VI Adolf"
+		dynasty = "Bernadotte"
+		birth_date = 1882.11.11
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1950.10.29 = {
+	queen = {
+		country_of_origin = HES
+		name = "Louise Mountbetten"
+		dynasty = "von Battenberg"
+		birth_date = 1889.7.13
+		death_date = 1965.3.7
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1950.10.29 = {
+	heir = {
+		name = "Carl Gustav"
+		monarch_name = "Charles XVI Gustav"
+		dynasty = "Bernadotte"
+		birth_date = 1946.4.30
+		death_date = 3000.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1973.9.15 = {
+	monarch = {
+		name = "Charles XVI Gustav"
+		dynasty = "Bernadotte"
+		birth_date = 1946.4.30
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1976.6.19 = {
+	queen = {
+		country_of_origin = GER
+		name = "Sylvia"
+		dynasty = "Sommerlat"
+		birth_date = 1943.12.23
+		death_date = 3000.1.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1979.5.13 = {
+	heir = {
+		name = "Carl Phillip"
+		monarch_name = "Charles XVII Philippe"
+		dynasty = "Bernadotte"
+		birth_date = 1979.5.13
+		death_date = 3000.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1980.1.1 = {
+	heir = {
+		name = "Victoria"
+		monarch_name = "Victoria I"
+		dynasty = "Bernadotte"
+		birth_date = 1977.7.14
+		death_date = 3000.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 2
+		female = yes
+	}
+}
+

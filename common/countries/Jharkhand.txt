@@ -1,0 +1,66 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 129  161  87 }
+
+historical_idea_groups = {
+	quantity_ideas
+	spy_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	indian_archers
+	indian_arquebusier
+	sikh_hit_and_run
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Maharato #1" = 10
+	"Madhu Singh #0" = 20
+	"Durjan Saul #0" = 20
+	"Anant #0" = 20
+	"Medini #0" = 20
+	"Pratap #0" = 20
+	"Narendra Rudra #0" = 10
+	"Jasvanth Singh #0" = 10
+	"Bahadur Singh #0" = 10
+	"Cheo Singh #0" = 10
+	"Ajit Singh #0" = 10
+	"Balbadra Singh #0" = 10
+	"Durgavati #0" = -1
+	"Hiray #0" = -1
+	"Ratna Kuwar #0" = -1
+}
+
+leader_names = {
+	Chero
+	Charia
+	Santal
+	Kanwar
+	Col
+	Savar
+	Birgia
+	Baiga
+	Bedya
+	Goreit
+}
+
+ship_names = {
+	Bethwa Davy Durga Ganga Gandak
+	Gayatri Ghagra Gomti Jalsen.
+	"Kala Jahazi" Ken Lakshmi
+	"Lal Jahazi" Nausen "Hab ka Yudh"
+	"Nile Jahazi" Parvati Radha
+	Ramganga Ratri Sagar Saraswati
+	Sith Yamun's Sadlage
+}

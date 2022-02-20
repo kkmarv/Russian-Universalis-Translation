@@ -1,0 +1,158 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 61  152  180 }
+
+revolutionary_colors = { 13  8  5 } #Repubblica Ancona
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Guidobaldo #0" = 40
+	"Francesco Maria #0" = 40
+	"Federico #1" = 40
+	"Antonio #0" = 20
+	"Francesco Ubaldo #0" = 20
+	"Guidantonio #0" = 20
+	"Lorenzo #0" = 20
+	"Oddantonio #0" = 20
+	"Katerina #0" = -15
+	"Cesare #0" = 15
+	"Giovanna #0" = -15
+	"Giovanni Maria #0" = 15
+	"Giulio #0" = 15
+	"Federigo Ubaldo #0" = 15
+	"Alessandro #0" = 10
+	"Giovanni Pietro #0" = 10
+	"Girolamo #0" = 10
+	"Lucrezia #0" = -10
+	"Guido #1" = 5
+	"Aldo #0" = 0
+	"Alfonso #0" = 0
+	"Baldovino #0" = 0
+	"Chirillo #0" = 0
+	"Cosimo #0" = 0
+	"Damiano #0" = 0
+	"Edgidio #0" = 0
+	"Franco #0" = 0
+	"Jambattista #0" = 0
+	"Giuseppe #0" = 0
+	"Ippolito #0" = 0
+	"Leandro #0" = 0
+	"Marzio #0" = 0
+	"Ovideo #0" = 0
+	"Paolo #0" = 0
+	"Pietro #0" = 0
+	"Prospero #0" = 0
+	"Rafaello #0" = 0
+	"Spike #0" = 0
+	"Theodosio #0" = 0
+	"Vittorio #0" = 0
+}
+
+leader_names = {
+	"Albany"
+	"Aldobrandini"
+	"Altieri"
+	"Barberini"
+	"Barbot"
+	"Boncompany"
+	"Borghese"
+	"Borgia"
+	"Brasky"
+	"di Campofregoso"
+	"Carafa"
+	"Castaña"
+	"Worwinis"
+	"Chiaramonti"
+	"Kigi"
+	"Column"
+	"Condulmerie"
+	"Conti"
+	"Corsini"
+	"Kibo"
+	"Doria-Landi"
+	"Doria-Pamphili"
+	"di Farnese"
+	"Gaetani della Aquila"
+	"Ganganielli"
+	"Gislieri"
+	"Gonzaga"
+	"Lambertini"
+	"Lante"
+	"Ludovisi"
+	"Di Medici"
+	"Melzi"
+	"Melzi de Rimini"
+	"del Monte"
+	"di Montefeltro"
+	"Odescalki"
+	"Orsini"
+	"Ottoboni"
+	"Pallavicino"
+	"Pamphili"
+	"Parentuccelli"
+	"Peretti"
+	"Piccolomini"
+	"Pignatelli"
+	"Prignano"
+	"Rezzonico"
+	"Rospilosi"
+	"della rovere"
+	"Sfondrati"
+	"da Varano"
+}
+
+ship_names = {
+	"Akkualanya"
+	"Auditor"
+	"Kolbordolo"
+	"Column"
+	"Federico"
+	"Fermignano"
+	"Fossombrone"
+	"Gibellini"
+	"Giordano Orsini"
+	"Giovanni Santi"
+	"Isola del Piano"
+	"Lunano"
+	"Mondaino"
+	"Montefeltro"
+	"Oddantonio"
+	"Orsini"
+	"Pello"
+	"Piero della Francesco"
+	"San Cricentino"
+	"San Angelo in Wado"
+	"Tavoleto"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$"
+}

@@ -1,0 +1,195 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 155 0 25 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_carabinier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Louis #0" = 80
+	"Karl #1" = 60
+	"Louis-Philippe #0" = 40
+	"Philippe #0" = 40
+	"Gaston #0" = 20
+	"Henri-Alexander #0" = 20
+	"Nicolas #0" = 20
+	"Alexandre-Louis #0" = 10
+	"Claudine #0" = -10
+	"François #0" = 10
+	"Jean #0" = 5
+	"Antoine Phillip #0" = 5
+	"Hugo #2" = 1
+	"Robert #1" = 1
+	"Alexander #0" = 0
+	"Ambroise #0" = 0
+	"Arman #0" = 0
+	"Barthelemy #0" = 0
+	"Bernard #0" = 0
+	"Claude #0" = 0
+	"Denis #0" = 0
+	"Ed #0" = 0
+	"Guy #0" = 0
+	"Guillaume #0" = 0
+	"Gustav #0" = 0
+	"Henri #0" = 0
+	"Jacques #0" = 0
+	"Jean-Baptiste #0" = 0
+	"Jean-Philippe #0" = 0
+	"Jules #0" = 0
+	"Mark #0" = 0
+	"Maurice #0" = 0
+	"Maximilien #0" = 0
+	"Michelle #0" = 0
+	"Pierre #0" = 0
+	"Raoul #0" = 0
+	"Renee #0" = 0
+	"Simon #0" = 0
+	"Thibao #0" = 0
+	"Xavier #0" = 0
+}
+
+ship_names = {
+	"Amboise"
+	"Amiyi"
+	"Artenet"
+	"Azay-le-Rideau ."
+	"Bon-la-Roland"
+	"Beauregard"
+	"Bellegard"
+	"Blois"
+	"Briard"
+	"Chalette"
+	"Shambor"
+	"Shamerol"
+	"Chatonef"
+	"Chateau-Renard"
+	"Chatillon-Coligny"
+	"."
+	"Schoenonzo"
+	"Cheverney"
+	"Chevilly"
+	"Cléry-Saint-André"
+	"Combo"
+	"Kurtene"
+	"Dunois"
+	"Fae-O-Box"
+	"Ferrierez"
+	"Ferte Saint-Aubin"
+	"Fleur-le-Obre"
+	"Germinia"
+	"Gienne"
+	"Jarjo"
+	"La Boussieu"
+	"Maleserbe"
+	"Men-sur-Loire"
+	"Montarges"
+	"Neville-au-Bois"
+	"Olive"
+	"Utarville"
+	"Uzue"
+	"Paté"
+	"Pitivier"
+	"Ponchevron"
+	"Puiso"
+	"Saint-Benois"
+	"Saint-Jean de Brieu"
+	"Saint-Jean Le Blanc"
+	"Sully"
+	"Talsi"
+	"Vandom"
+	"Vilsaven"
+}
+
+leader_names = {
+	"d'Avaré"
+	"Budu"
+	"de Barville"
+	"de Bohancy"
+	"de Bogarne"
+	"de Beauregard"
+	"du Belle"
+	"Bernard de Montebise"
+	"de Buengier"
+	"de Chabot"
+	"de Chatillon"
+	"d'Henry"
+	"de Goville"
+	"de Jerezm"
+	"Live de Crécy."
+	"Garando"
+	"de Garlan"
+	"de Laage"
+	"de la Brisardier"
+	"de la Boussieu"
+	"de la Chapelle"
+	"de la Chesnaye"
+	"de la Valette"
+	"de l'Etoile"
+	"le Metre"
+	"Les Tessier"
+	"de Mentenon"
+	"de Marol"
+	"de Martel de Reynac"
+	"de Montboissier"
+	"de Montigny"
+	"de Montlerie"
+	"de Nefcarre"
+	"Pean de Saint-Gilles"
+	"de Felin"
+	"de Ponville"
+	"de Prunel"
+	"de Rancourt"
+	"de Reméon d'Orval"
+	"de Sabrecois"
+	"de Saint-Cosmet"
+	"de Saint-Marc"
+	"de Saint-Marie"
+	"de Salle"
+	"Scott de Culange"
+	"de Senneville"
+	"de Cerisi"
+	"Sera de la Bulai"
+	"de Tannoy"
+	"de Villeur"
+}
+
+army_names = {
+	"Orleans Army"
+	"Blaise's Army"
+	"La Bosse army"
+	"Orleans Army"
+	"Dunoa Army"
+	"Gatene army"
+	"Soloni Army"
+	"Vandomua army"
+	"La Loire's Army"
+	"Provincial Army. $PROVINCE$"
+}

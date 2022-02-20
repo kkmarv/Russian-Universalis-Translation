@@ -1,0 +1,92 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 210  37  57 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Hans #0" = 60
+	"Linhardt #0" = 40
+	"Sebastian #0" = 20
+	"Christoph #0" = 0
+	"Eberhart #0" = 0
+	"Sigmar #0" = 0
+	"Ullman #0" = 0
+	"Ernst #0" = 0
+	"Otto #0" = 0
+	"Andrese #0" = 0
+	"Karl Wilhelm #0" = 0
+	"Johann Michael #0" = 0
+	"Kunz #0" = 0
+	"Bernhardt #0" = 0
+	"Leopold #0" = 0
+	"Conrad #0" = 0
+	"Willie #0" = 0
+	"Albrecht #0" = 0
+	"Engelbert #0" = 0
+	"Gottfried #0" = 0
+	"Hieronymous #0" = 0
+	"Anton #0" = 0
+	"Ignatz #0" = 0
+	"Markus #0" = 0
+	"Minhardt #0" = 0
+	"Raphael #0" = 0
+	
+	"Adelheid #0" = -1
+	"Frida #0" = -1
+	"Julianne #0" = -1
+}
+
+leader_names = {
+	"von Berg"
+	"Gundelsheim"
+	"Lotzer"
+	"Striggel"
+	"Chappeler"
+	"Zangmeister"
+	"Schenk"
+	"Wolin"
+	"Schultheiss"
+	"Imhoff"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$" 
+}
+
+ship_names = {
+	"St. Sebaldus" Nuremberg  "St. Killian" "Tassilo III"
+	"Koenig Arnulf" "Count von Bogen" "Count von Andeks"
+	"Count von Sulzbach" Wittelsbach "Count von Dipliding"
+	Otto
+	Augsburg Andex Burgau Dissen Friedberg Kempten Lindau
+	Memmingen almond Oettingen Straubing Wolfstein
+}

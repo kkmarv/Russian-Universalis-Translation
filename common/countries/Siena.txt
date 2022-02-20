@@ -1,0 +1,178 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 165  171  115 }
+
+historical_idea_groups = {
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+	religious_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Borghese #0" = 20
+	"Cesare #0" = 20
+	"П #0" = 20
+	"Р #0" = 20
+	"Francesco #0" = 20
+	"Fabio #0" = 20
+	"Gian Galeazzo #0" = 20
+	"Д #0" = 20
+	"Carlo #2" = 15
+	"Azzone #0" = 15
+	"Filippo Maria #0" = 15
+	"Gasparare #0" = 15
+	"Adriano #0" = 0
+	"Alessio #0" = 0
+	"Baldovino #0" = 0
+	"Б #0" = 0
+	"Biaggio #0" = 0
+	"Constantino #0" = 0
+	"Damiano #0" = 0
+	"Danilo #0" = 0
+	"Eustacio #0" = 0
+	"Э #0" = 0
+	"Fortunato #0" = 0
+	"Gennaro #0" = 0
+	"Д #0" = 0
+	"Giovanni #0" = 0
+	"Justino #0" = 0
+	"Innocenzo #0" = 0
+	"Marco #0" = 0
+	"Mauro #0" = 0
+	"Orfeo #0" = 0
+	"Pasquale #0" = 0
+	"Rinaldo #0" = 0
+	"Roberto #0" = 0
+	"Sergio #0" = 0
+	"Severino #0" = 0
+	"Hugo #0" = 0
+	"Valerio #0" = 0
+	"Vincenzo #0" = 0
+	"Vitale #0" = 0
+	
+	"Elsa #0" = -1
+	"Г #0" = -1
+	"Lucrezia #0" = -1
+}
+
+leader_names = {
+	"А"
+	"А"
+	"Amelia"
+	"Barone"
+	"Bartzalie"
+	"Borghese"
+	"Borgia"
+	"Castro"
+	"Ч"
+	"К"
+	"Damiani"
+	"д"
+	"Ф"
+	"Galileo"
+	"Gallo"
+	"Gentile"
+	"Г"
+	"Г"
+	"Grosso"
+	"Г"
+	"Idoni"
+	"Л"
+	"Nardi"
+	"Neri"
+	"Oddo"
+	"Orlando"
+	"П"
+	"П"
+	"Petrucci"
+	"П"
+	"Piccolomini"
+	"del Pierrot"
+	"П"
+	"д"
+	"К"
+	"Р"
+	"de Rossi"
+	"С"
+	"д"
+	"С"
+	"д"
+	"Т"
+	"Т"
+	"У"
+	"В"
+	"Visconti"
+	"В"
+	"В"
+	"Dzaccardo"
+	"Д"
+}
+
+ship_names = {
+	"А"
+	"А"
+	"Б"
+	"Б"
+	"Carlo IV"
+	"К"
+	"К"
+	"К"
+	"К"
+	"Donatello"
+	"Д"
+	"Э"
+	"Ф"
+	"Ф"
+	"Gibellini"
+	"Д"
+	"И"
+	"М"
+	"М"
+	"М"
+	"М"
+	"М"
+	"М"
+	"М"
+	"О"
+	"С"
+	"San Domenico"
+	"San Francesco"
+	"С"
+	"San Giovanni"
+	"С"
+	"С"
+	"Santa Caterina"
+	"С"
+	"С"
+	"С"
+	"С"
+	"Т"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$"
+}

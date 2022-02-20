@@ -1,0 +1,101 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+
+color = { 74  92  128 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	religious_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Ku Na #1" = 10
+	"Saen Mwanga #1" = 10
+	"Samfangkaen #1" = 10
+	"Tilokaracha #1" = 10
+	"Yotchiangrai #0" = 10
+	"Keu #0" = 10
+	"Ket #0" = 10
+	"Sykham #0" = 10
+	"Sethathathirat #0" = 10
+	"Mecuchi #0" = 10
+	"Navracht Minsau #0" = 10
+	"Phra Choi #0" = 10
+	"Prahra Chaiyathip #0" = 10
+	"Sysongmyang #0" = 10
+	"Luangthihpphanet #0" = 10
+	"Phra Saenmyang #0" = 10
+	"Prhe #0" = 10
+	"Ingsemang #0" = 10
+	"Chupurai #0" = 10
+	"Mangrenara #0" = 10
+	"Ong Kham #0" = 10
+	"Ong Chan #0" = 10
+	"Khihut #0" = 10
+	"By Aphikhamini. #0" = 10
+	"Po Mayungouan #0" = 10
+	"Praya Chaban #0" = 10
+	"Tammalangka #0" = 10
+	"Cavila #0" = 10
+	
+	"Dara #0" = -1
+	"Mia #0" = -1
+	"Chirapraprapha #0" = -1
+	"Vysuthithevi #0" = -1
+	"Yasuntaratevi #0" = -1
+}
+
+leader_names = {
+	"Chiang Mai"
+	"Chiang Rai"
+	"Lamphun"
+	"Lampang"
+	"Nan"
+	"Phyo"
+	"Prhe"
+	"Mae Khong Seon"
+	"Phurau"
+	"Chang-Seng"
+	"Mae Lao"
+	"Lee"
+	"Mae Ta"
+	"Ngao"
+	"Sop Prapp"
+	"Pu"
+	"Santi Sook"
+	"Chun"
+	"Pong"
+	"Hamtai Dock"
+}
+
+ship_names = {
+	"Chiang Rai"
+	"Ban Muang"
+	"Haripunchai"
+	"Fly" 
+	"Mengray"
+	"Nguanamtom"
+	"Pu Say Songhram"
+	"Ramhamaeng"
+	"Si Indrait" "Sai Leu Tai" "Sai Lhutai"
+	"Tammaracha"
+}

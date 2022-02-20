@@ -1,0 +1,110 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 160 80 16 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Itawamba #0" = 20
+	"Tuoutemastube #0" = 20
+	"Piomingo #0" = 10
+	"Tishomingo #0" = 20
+	"Mingatuska #0" = 10
+	"Taskitoka #0" = 10
+	"Latopoia #0" = 20
+	"Ashalatubbi #0" = 20
+	"Ishtechotope #0" = 20
+	"Topulki" = 20
+	"Emubby #0" = 20	
+	"Pistahlahlahtoobe #0" = 10
+	"Ishtioloka #0" = 10
+	"Immahoolotubbe #0" = 10
+	"Ishtakhachi #0" = 10
+	"Lahfinhubba #0" = 10
+	"Shoppaume #0" = 10
+	"Ninukahumba #0" = 10
+	"Illuppahumba #0" = 10
+	"Komuskishka #0" = 10
+	"Bakhakakhtubbe #0" = 10
+	"Bahmahakhtubba #0" = 10
+	"Yahhautubbe #0" = 10
+	"Tokholtlacak #0" = 10
+	"Okelahnahnubbe #0" = 10
+	"Emmetubbe #0" = 10
+	"Incaea #0" = 10
+	"Ahshakubbe #0" = 10
+	"Immohobah #0" = 10
+	"Fitchahpl #0" = 10
+	"Untemiakhtubba #0" = 10
+	"Okelahinlubbe #0" = 10
+	"Bakhmehubbe #0" = 10
+	"Huschtakhtakhubbe #0" = 10
+	"Untihaakakhtubbe #0" = 10
+	"Yummotube #0" = 10
+	"Ohhakubbe #0" = 10
+	"Ahfahmah #0" = 10
+	"Akhtakintyubbe #0" = 10
+	"Ahtokovakh #0" = 10
+	"Tahhakubbae #0" = 10
+	"Kinhoicha #0" = 10
+	"Ishtefhtubbe #0" = 10
+	"Chikahshananubbe #0" = 10
+	"Chevutaha #0" = 10
+	"Faluttachah #0" = 10
+	"Vininapa #0" = 10
+	"Okelahshakhkbee #0" = 10
+	"Ishtakiyukatabbe #0" = 10
+	"Maktekoshubbe #0" = 10
+	"Tomczyki #0" = 10
+	"Heyochetubbe #0" = 10
+	"Nuchshopubbe #0" = 10
+	"Fahlahmotubbe #0" = 10
+	"Kochubba #0" = 10
+	"Okelahshapiya #0" = 10
+	
+	"Mintahoye #0" = -1
+	"Pkhalishta #0" = -1
+	"Ishtimmarharlechar #0" = -1
+	"Temusharhostay #0" = -1
+	"Mintahoyo #0" = -1
+}
+
+leader_names = {
+	Akia Alaue Amalahta Apeoni Apilefaplimengo Ashukhum Ayebisto Chatelow
+	Chesaphaliach Chopoussa Chukafalaya Chula Copperton
+	Coylaus Etaucauma Falaccio Gaujatola Humalala Hussincoma Hwikehah
+	"Latcha Hoa Ran" "Ogaula-Tchetoka" "Onthaba-atchosa" Huyeas Aukahata
+	Aukthambolo Autanquatl Pkhalachex Pontotok Shatara Shiokaya Tanyachilka
+	Taposa Thambolo Teschatulla Toschish Tuccafhou Tuskavilao Tuscaroiloe Janeka
+}
+
+ship_names = {
+	Akia Alaauté Amalahta Apeoni Apilfaplimengo Ashukhuma Ayebisto
+	Chatelou Chesaphalieh Chopoussa Chukafalaya Chatelou Chopoussa Chukafalaya
+	Chula Copperton Coylauss Etaucauma Falatchau Gauyatola Hummalala
+	Hussincoma Heikehah "Latcha Hoa Ran" "Ogaula-Tchetoka" "Onthaba-atchosa" 
+	Huweasa Aukahata Auxambolo Autanquatl Pkhalachex Pontotok Shatara
+	Shiokaya Tanyachilka Taposa Thambolo Teshatulla Tokshish Tukkahau
+	Tuscavilao Tuscaroyloe Janeka 
+}

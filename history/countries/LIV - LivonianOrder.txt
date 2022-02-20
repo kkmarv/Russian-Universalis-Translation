@@ -1,0 +1,521 @@
+government = theocracy
+add_government_reform = monastic_order_reform
+government_rank = 1
+technology_group = western
+primary_culture = prussian
+add_accepted_culture = latvian
+add_accepted_culture = estonian
+religion = catholic
+historical_friend = TEU
+historical_friend = RIG
+historical_friend = KUR ### STT
+historical_friend = OSE ### STT
+historical_friend = DOR ### STT
+capital = 37	# Livland
+add_army_professionalism = 0.1
+
+1209.1.1 = {
+	monarch = {
+		name = "Folkwin von Naumburg"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1236.9.22 = {
+	monarch = {
+		name = "Hermann von Bulk"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1239.3.5 = {
+	monarch = {
+		name = "Dietrich von Grüningen"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1242.1.1 = {
+	monarch = {
+		name = "Andreas von Velwen"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1244.1.1 = {
+	monarch = {
+		name = "Dietrich von Grüningen"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1246.1.1 = {
+	monarch = {
+		name = "Andreas von Velwen"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1248.1.1 = {
+	monarch = {
+		name = "Andreas von Stirland"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1253.1.1 = {
+	monarch = {
+		name = "Anno von Sangershausen"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1256.1.1 = {
+	monarch = {
+		name = "Burkhardt von Hornhausen"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1260.1.1 = {
+	monarch = {
+		name = "Georg von Eichstatt"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1262.1.1 = {
+	monarch = {
+		name = "Werner von Breithausen"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1264.1.1 = {
+	monarch = {
+		name = "Conrad von Mandern"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1267.1.1 = {
+	monarch = {
+		name = "Otto von Lautenberg"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1270.2.16 = {
+	monarch = {
+		name = "Andreas von Westfaen"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1270.9.21 = {
+	monarch = {
+		name = "Walter von Nordeck"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1273.1.1 = {
+	monarch = {
+		name = "Ernst von Ratzeburg"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1279.3.5 = {
+	monarch = {
+		name = "Gerhard von Katzenelnbogen"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1279.6.1 = {
+	monarch = {
+		name = "Konrad von Feichtwangen"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1281.1.1 = {
+	monarch = {
+		name = "Mangold von Sternberg"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1283.1.1 = {
+	monarch = {
+		name = "Willekin von Nindorf"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1287.3.26 = {
+	monarch = {
+		name = "Conrad von Huttstein"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1290.1.1 = {
+	monarch = {
+		name = "Balthazar Holte"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1293.1.1 = {
+	monarch = {
+		name = "Heinrich von Dinklage"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1296.10.28 = {
+	monarch = {
+		name = "Bruno"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1298.6.1 = {
+	monarch = {
+		name = "Gottfried von Rogge"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1307.1.1 = {
+	monarch = {
+		name = "Gerhard von Yorke"
+		birth_date = 1270.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1322.1.1 = {
+	monarch = {
+		name = "Conrad Kesselhut"
+		birth_date = 1290.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1324.1.1 = {
+	monarch = {
+		name = "Reimar Gun"
+		birth_date = 1290.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1328.1.1 = {
+	monarch = {
+		name = "Eberhardt von Monheim"
+		birth_date = 1275.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+1340.6.24 = {
+	monarch = {
+		name = "Burhard von Dreyleben"
+		birth_date = 1275.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+1345.1.1 = {
+	monarch = {
+		name = "Goswin von Herike"
+		birth_date = 1300.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1359.9.10 = {
+	monarch = {
+		name = "Arnold von Fitinghoff"
+		birth_date = 1300.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1364.7.11 = {
+	monarch = {
+		name = "Wilhelm von Frimerisheim"
+		birth_date = 1320.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1385.3.1 = {
+	monarch = {
+		name = "Robin von Elz"
+		birth_date = 1330.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1389.1.1 = {
+	monarch = {
+		name = "Vennemar von Bruggenoe"
+		dip = 3
+		adm = 1
+		mil = 3
+	}
+}
+
+1401.10.21 = {
+	monarch = {
+		name = "Conrad von Fitinghoff"
+		dip = 3
+		adm = 1
+		mil = 2
+	}
+}
+
+1413.2.14 = {
+	monarch = {
+		name = "Dietrich Thorck"
+		dip = 1
+		adm = 2
+		mil = 2
+	}
+}
+
+1415.9.1 = {
+	monarch = {
+		name = "Siegfried Lander von Sponheim"
+		dip = 2
+		adm = 2
+		mil = 3
+	}
+}
+
+1424.3.31 = {
+	monarch = {
+		name = "Cisse von dem Rutenberg"
+		dip = 3
+		adm = 0
+		mil = 1
+	}
+}
+
+1433.10.1 = {
+	monarch = {
+		name = "Frank von Kirscorf"
+		dip = 2
+		adm = 0
+		mil = 2
+	}
+}
+
+1435.9.1 = {
+	monarch = {
+		name = "Heinrich von Boeckeferde"
+		dip = 3
+		adm = 1
+		mil = 0
+	}
+}
+
+1437.5.1 = {
+	monarch = {
+		name = "Heinrich Finke von Overberg"
+		culture = hanoverian
+		dip = 2
+		adm = 2
+		mil = 1
+	}
+}
+
+1450.9.6 = {
+	monarch = {
+		name = "Johann von Mängden"
+		culture = hessian
+		birth_date = 1421.1.1
+		dip = 1
+		adm = 3
+		mil = 2
+	}
+}
+
+1470.1.7 = {
+	monarch = {
+		name = "Johann Waldhaun von Herse"
+		dip = 3
+		adm = 2
+		mil = 2
+	}
+}
+
+1471.10.1 = {
+	monarch = {
+		name = "Bernhard von der Borch"
+		culture = hanoverian
+		dip = 2
+		adm = 1
+		mil = 3
+	}
+}
+
+1483.1.1 = {
+	monarch = {
+		name = "Johann Friedrich von Lorinkhofen"
+		birth_date = 1435.1.1
+		culture = hanoverian
+		dip = 2
+		adm = 2
+		mil = 1
+	}
+}
+
+1494.5.26 = {
+	monarch = {
+		name = "Walter von Plettenberg"
+		culture = hanoverian
+		birth_date = 1450.1.1
+		dip = 3
+		adm = 4
+		mil = 4
+	}
+}
+
+1535.2.28 = {
+	monarch = {
+		name = "Hermann von Bruggenoe"
+		culture = hanoverian
+		birth_date = 1475.1.1
+		dip = 2
+		adm = 1
+		mil = 2
+	}
+}
+
+1549.2.4 = {
+	monarch = {
+		name = "Johann von der Reke"
+		birth_date = 1480.1.1
+		culture = hanoverian
+		dip = 2
+		adm = 2
+		mil = 3
+	}
+}
+
+1551.5.18 = {
+	monarch = {
+		name = "Heinrich von Galen"
+		culture = hanoverian
+		birth_date = 1480.1.1
+		dip = 1
+		adm = 1
+		mil = 0
+	}
+}
+
+1557.6.1 = {
+	monarch = {
+		name = "Johann Wilhelm von Fürstenberg"
+		culture = austrian
+		birth_date = 1500.1.1
+		dip = 2
+		adm = 1
+		mil = 2
+	}
+}
+
+1559.9.17 = {
+	monarch = {
+		name = "Gothard Kettler"
+		culture = hanoverian
+		birth_date = 1517.1.1
+		dip = 3
+		adm = 1
+		mil = 2
+	}
+}
+
+1561.11.28 = {
+	monarch = {
+		name = "(Vacant)"
+		dip = 3
+		adm = 3
+		mil = 3
+		regent= yes
+	}
+}
+

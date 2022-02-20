@@ -1,0 +1,55 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 174 151 145 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	maritime_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+
+historical_units = {
+	south_american_spearmen
+	south_american_horsemen
+	south_american_warfare
+	inca_mountain_warfare
+	incan_slingshots
+	incan_axemen
+	south_american_gunpowder_warfare
+	south_american_reformed_gunpowder_warfare
+	south_american_arquebusier
+	westernized_incan
+	reformed_westernized_incan
+	incan_guerilla_warfare
+}
+
+leader_names = {
+	Senake Shira Gunununusa Puyukaya Mataoho Yuldad Yaro Unoane Boane Minuan
+}
+
+monarch_names = {
+	"Sapisshin #0" = 10
+	"Abaioubi #0" = 10
+	"Waimaca Perse #0" = 10
+	"Senakua #0" = 0
+	"Tabare #0" = 0
+	"Itance, #0" = 0
+	"Irupe, #0" = 0
+	"Hasimimimbk, #0" = 0
+	"Takuabe #0" = 0
+	"Waimaca Pierce #0" = 0
+
+	"Hougousa #0" = -1
+}
+
+
+ship_names = {
+	Ue Ur Samaiyoi Shaw Ibad Karase Boane Minoan Yaro Gununusa
+}

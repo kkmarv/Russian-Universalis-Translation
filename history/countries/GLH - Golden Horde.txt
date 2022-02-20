@@ -1,0 +1,684 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+primary_culture = mishary
+religion = tengri_pagan_reformed
+secondary_religion = sunni
+technology_group = nomad_group
+capital = 466	# Sarai
+historical_rival = TUR
+
+1206.1.1 = {
+	monarch = {
+		name = "Genghis Khan"
+		dynasty = "Borjigin"
+		birth_date = 1155.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1224.1.1 = {
+	monarch = {
+		name = "Jucie"
+		dynasty = "Genghisid"
+		birth_date = 1182.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1227.1.1 = {
+	monarch = {
+		name = "Bath"
+		dynasty = "Genghisid"
+		birth_date = 1209.1.1
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+}
+
+1255.1.1 = {
+	monarch = {
+		name = "Sartak"
+		dynasty = "Genghisid"
+		birth_date = 1229.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1256.1.1 = {
+	monarch = {
+		name = "Uglagchi"
+		dynasty = "Genghisid"
+		birth_date = 1247.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1257.1.1 = {
+	monarch = {
+		name = "Berke"
+		dynasty = "Genghisid"
+		birth_date = 1209.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1266.1.1 = {
+	monarch = {
+		name = "Mengu Timur"
+		dynasty = "Genghisid"
+		birth_date = 1250.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1269.1.1 = { government_rank = 3 }
+
+1282.1.1 = {
+	monarch = {
+		name = "Tuda-Menga"
+		dynasty = "Genghisid"
+		birth_date = 1255.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1287.1.1 = {
+	monarch = {
+		name = "Tula Bug"
+		dynasty = "Genghisid"
+		birth_date = 1257.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1291.1.1 = {
+	monarch = {
+		name = "Tohta"
+		dynasty = "Genghisid"
+		birth_date = 1270.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1291.1.1 = {
+	heir = {
+		name = "Uzbek"
+		monarch_name = "Uzbek"
+		dynasty = "Genghisid"
+		birth_date = 1283.1.1
+		death_date = 1341.1.1
+		claim = 90
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+1313.1.1 = {
+	monarch = {
+		name = "Uzbek"
+		dynasty = "Genghisid"
+		birth_date = 1283.1.1
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+1320.1.1 = { religion = sunni }
+
+1341.1.1 = {
+	monarch = {
+		name = "Tinibeck"
+		dynasty = "Genghisid"
+		birth_date = 1283.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1342.1.1 = {
+	monarch = {
+		name = "Janibeck"
+		dynasty = "Genghisid"
+		birth_date = 1285.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1357.1.1 = {
+	monarch = {
+		name = "Berdibeck"
+		dynasty = "Genghisid"
+		birth_date = 1310.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1359.8.1 = {
+	monarch = {
+		name = "Kulpa"
+		dynasty = "Culpid"
+		birth_date = 1320.1.1
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1360.1.1 = {
+	monarch = {
+		name = "Naurus"
+		dynasty = "Nauruzid"
+		birth_date = 1320.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1360.6.1 = {
+	monarch = {
+		name = "Heather"
+		dynasty = "Orda Edenid"
+		birth_date = 1320.1.1
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1361.8.1 = {
+	monarch = {
+		name = "Timur-Hodja"
+		dynasty = "Orda Edenid"
+		birth_date = 1340.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1361.9.1 = {
+	monarch = {
+		name = "Ordumelik"
+		dynasty = "Jucheed"
+		birth_date = 1330.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1361.10.1 = {
+	monarch = {
+		name = "Kildibeck"
+		dynasty = "Kildibekid"
+		birth_date = 1340.1.1
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+}
+
+1362.9.1 = {
+	monarch = {
+		name = "Mourad"
+		dynasty = "Jucheed"
+		birth_date = 1340.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1364.9.1 = {
+	monarch = {
+		name = "Mir Pulad"
+		dynasty = "Shibanid"
+		birth_date = 1340.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1365.9.1 = {
+	monarch = {
+		name = "Aziz-sheikh"
+		dynasty = "Genghisid"
+		birth_date = 1335.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1367.1.1 = {
+	monarch = {
+		name = "Abdullah"
+		dynasty = "Genghisid"
+		birth_date = 1340.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1368.1.1 = {
+	monarch = {
+		name = "Hassan"
+		dynasty = "Shibanid"
+		birth_date = 1340.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1369.1.1 = {
+	monarch = {
+		name = "Abdullah"
+		dynasty = "Genghisid"
+		birth_date = 1340.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1370.1.1 = {
+	monarch = {
+		name = "Bulak"
+		dynasty = "Genghisid"
+		birth_date = 1360.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1372.1.1 = {
+	monarch = {
+		name = "Urus"
+		dynasty = "Tukatimurid"
+		birth_date = 1360.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1374.1.1 = {
+	monarch = {
+		name = "Circassia"
+		dynasty = "Circassid"
+		birth_date = 1360.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1375.1.1 = {
+	monarch = {
+		name = "Bulak"
+		dynasty = "Genghisid"
+		birth_date = 1360.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1375.6.1 = {
+	monarch = {
+		name = "Urus"
+		dynasty = "Tukatimurid"
+		birth_date = 1360.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1375.7.1 = {
+	monarch = {
+		name = "Bulak"
+		dynasty = "Genghisid"
+		birth_date = 1360.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1375.12.1 = {
+	monarch = {
+		name = "Kaganbek"
+		dynasty = "Shibanid"
+		birth_date = 1360.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1377.1.1 = {
+	monarch = {
+		name = "Arapsh"
+		dynasty = "Shibanid"
+		birth_date = 1357.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1380.1.1 = {
+	monarch = {
+		name = "Tohtamysh"
+		dynasty = "Tukatimurid"
+		birth_date = 1357.1.1
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1395.1.1 = {
+	monarch = {
+		name = "Timur Kutlug"
+		dynasty = "Tukatimurid"
+		birth_date = 1370.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1399.1.1 = {
+	monarch = {
+		name = "Shadibek"
+		dynasty = "Tukatimurid"
+		birth_date = 1370.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1407.1.1 = {
+	monarch = {
+		name = "Pulad"
+		dynasty = "Tukatimurid"
+		birth_date = 1390.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1411.1.1 = {
+	monarch = {
+		name = "Timur"
+		dynasty = "Genghisid"
+		birth_date = 1385.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1412.1.1 = {
+	monarch = {
+		name = "Jalal ad-Din"
+		dynasty = "Tukatimurid"
+		birth_date = 1380.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1413.1.1 = {
+	monarch = {
+		name = "Kerim Berday"
+		dynasty = "Tukatimurid"
+		birth_date = 1382.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1414.1.1 = {
+	monarch = {
+		name = "Captain"
+		dynasty = "Tukatimurid"
+		birth_date = 1384.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1414.6.1 = {
+	monarch = {
+		name = "Chokre"
+		dynasty = "Tukatimurid"
+		birth_date = 1380.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1416.1.1 = {
+	monarch = {
+		name = "Jabbar-Berdi"
+		dynasty = "Tukatimurid"
+		birth_date = 1380.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1417.1.1 = {
+	monarch = {
+		name = "Dervish"
+		dynasty = "Shibanid"
+		birth_date = 1380.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1419.1.1 = {
+	monarch = {
+		name = "Kadyr-Berdi"
+		dynasty = "Shibanid"
+		birth_date = 1380.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1419.6.1 = {
+	monarch = {
+		name = "Haji Muhammad"
+		dynasty = "Shibanid"
+		birth_date = 1380.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1419.10.1 = {
+	monarch = {
+		name = "Ulu Muhammad"
+		dynasty = "Genghisid"
+		birth_date = 1405.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1423.1.1 = {
+	monarch = {
+		name = "Barak"
+		dynasty = "Tukatimurid"
+		birth_date = 1410.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1426.1.1 = {
+	monarch = {
+		name = "Ulu Muhammad"
+		dynasty = "Genghisid"
+		birth_date = 1405.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1427.1.1 = {
+	monarch = {
+		name = "Barak"
+		dynasty = "Tukatimurid"
+		birth_date = 1410.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1428.1.1 = {
+	monarch = {
+		name = "Ulu Muhammad"
+		dynasty = "Genghisid"
+		birth_date = 1405.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1428.3.1 = {
+	monarch = {
+		name = "Kichi-Mohammad"
+		dynasty = "Genghisid"
+		birth_date = 1405.1.1
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+
+1428.10.1 = {
+	monarch = {
+		name = "Ulu Muhammad"
+		dynasty = "Genghisid"
+		birth_date = 1405.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1432.1.1 = {
+	monarch = {
+		name = "Kichi-Mohammad"
+		dynasty = "Genghisid"
+		birth_date = 1405.1.1
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+
+1435.1.1 = {
+	heir = {
+		name = "Ahmad"
+		monarch_name = "Ahmad"
+		dynasty = "Genghisid"
+		birth_date = 1435.1.1
+		death_date = 1481.1.6
+		claim = 90
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1459.1.1 = {
+	monarch = {
+		name = "Ahmad"
+		dynasty = "Genghisid"
+		birth_date = 1435.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1460.1.1 = {
+	heir = {
+		name = "Sayyid Ahmad"
+		monarch_name = "Sayyid Ahmad"
+		dynasty = "Genghisid"
+		birth_date = 1460.1.1
+		death_date = 1528.1.1
+		claim = 50
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1481.1.6 = {
+	monarch = {
+		name = "Sayyid Ahmad"
+		dynasty = "Genghisid"
+		birth_date = 1460.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+# Golden Horde destroyed in May 1502

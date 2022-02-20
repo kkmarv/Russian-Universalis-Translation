@@ -1,0 +1,104 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = SPA
+random_nation_chance = 0
+
+color = { 101  102  163 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	administrative_ideas
+	spy_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Jose #0" = 20
+	"Juan #0 Jose" = 20
+	"Juan #0 Martin" = 20
+	"Nicholas #0" = 20
+	"Antonio #0" = 15
+	"Feliciano Antonio #0" = 15
+	"Cervasio Antonio #0" = 15
+	"Mathias #0" = 15
+	"Carlos Maria #0" = 10
+	"Cornelio #0" = 10
+	"Domingo #0" = 10
+	"Ignacio #0" = 10
+	"Manuel #0" = 10
+	"Adrian #0" = 0
+	"Alfonso #0" = 0
+	"Benigno #0" = 0
+	"Bernardino #0" = 0
+	"Camilo #0" = 0
+	"Carlos #0" = 0
+	"Desiderio #0" = 0
+	"Diego #0" = 0
+	"Eduardo #0" = 0
+	"Emilio #0" = 0
+	"Federico #0" = 0
+	"Herman #0" = 0
+	"Hipolito #0" = 0
+	"Ismael #0" = 0
+	"Joaquin #0" = 0
+	"Juan #0" = 0
+	"Luis #0" = 0
+	"Marcelino #0" = 0
+	"Martin #0" = 0
+	"Ovideo #0" = 0
+	"Porfirio #0" = 0
+	"Rufinho #0" = 0
+	"Sergio #0" = 0
+	"Theofilo #0" = 0
+	"Urano #0" = 0
+	"Vicente #0" = 0
+	"Victor #0" = 0
+	
+	"Eva #0" = -1
+	"Gloria #0" = -1
+	"Luccia #0" = -1
+}
+
+leader_names = {
+	"Alberti" "Alvarez" "de Alvear" "Artigas" "Asuenaga" "Balcarce" "Bassan" "Belgrano" "Brown" "Bustos"
+	"Cabral" "Castro" "Chiclana" "Costa" "Derks" "Dorrego" "Gonzalez" "Goyeneche" "Gwasurari" "de Guémès"
+	"Eredia" "Honte" "Kaunitz de Holmberg" "de Laprida" "Larrea" "de las Eras" "Lopez"
+	"Mansylla" "Matthew" "Monteagudo" "Moreno" "Paso" "Pass" "Pena" "Sync & corrections by" "Planes" "Posadas" "de Pueyrredon"
+	"Ramirez" "Riglos" "Robinson" "Rodriguez" "Rondo" "de Rosas"
+	"Saavedra" "Sains" "de San Martin" "Sarrathea" "Urkisa" "Varnes"
+}
+
+ship_names = {
+	"Buenos Aires"
+	"Diego Armando Maradona"
+	"El Plata"
+	"General Belgrano"
+	"Independence"
+	"Libertad" "Los Andes"
+	"Moreno" 
+	"Patagonia"
+	"Rivalda"
+}
+	

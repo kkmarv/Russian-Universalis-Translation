@@ -1,0 +1,993 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 3
+primary_culture = amhara
+religion = coptic
+technology_group = east_african
+unit_type = sub_saharan
+historical_rival = ADA
+historical_rival = IFA
+capital = 1224		# Gonder
+
+
+1382.1.1 = {
+	monarch = {
+		name = "David I"
+		dynasty = "Solomonide"
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+}
+
+1385.1.1 = {
+	heir = {
+		name = "Tevodr"
+		monarch_name = "Tevodr I"
+		dynasty = "Solomonide"
+		birth_date = 1385.1.1
+		death_date = 1414.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1413.10.6 = {
+	monarch = {
+		name = "Tevodr I"
+		dynasty = "Solomonide"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1413.10.6 = {
+	heir = {
+		name = "Yeschak"
+		monarch_name = "Yeschak I"
+		dynasty = "Solomonide"
+		birth_date = 1405.1.1
+		death_date = 1429.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+}
+
+1414.1.1 = {
+	monarch = {
+		name = "Yeschak I"
+		dynasty = "Solomonide"
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+}
+
+1414.1.1 = {
+	heir = {
+		name = "Andreas"
+		monarch_name = "Andreas"
+		dynasty = "Solomonide"
+		birth_date = 1400.1.1
+		death_date = 1430.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1429.1.1 = {
+	monarch = {
+		name = "Andreas"
+		dynasty = "Solomonide"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1429.1.1 = {
+	heir = {
+		name = "Tacla Maryam"
+		monarch_name = "Tacla Maryam"
+		dynasty = "Solomonide"
+		birth_date = 1410.1.1
+		death_date = 1433.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+}
+
+1430.1.1 = {
+	monarch = {
+		name = "Tacla Maryam"
+		dynasty = "Solomonide"
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+}
+
+1430.1.1 = {
+	heir = {
+		name = "Amda Iyasus"
+		monarch_name = "Amda Iyasus"
+		dynasty = "Solomonide"
+		birth_date = 1410.1.1
+		death_date = 1434.6.2
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1433.1.1 = {
+	monarch = {
+		name = "Amda Iyasus"
+		dynasty = "Solomonide"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1433.1.1 = {
+	heir = {
+		name = "Constantine"
+		monarch_name = "Constantine III"
+		dynasty = "Solomonide"
+		birth_date = 1410.1.1
+		death_date = 1468.9.7
+		claim = 95
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+}
+
+1434.6.2 = {
+	monarch = {
+		name = "Constantine III"
+		dynasty = "Solomonide"
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+}
+
+1434.6.2 = {
+	heir = {
+		name = "Baeda Maryam"
+		monarch_name = "Baeda Maryam II"
+		dynasty = "Solomonide"
+		birth_date = 1420.1.1
+		death_date = 1478.10.17
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1468.9.7 = {
+	monarch = {
+		name = "Baeda Maryam II"
+		dynasty = "Solomonide"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1468.9.7 = {
+	heir = {
+		name = "Constantine"
+		monarch_name = "Constantine IV"
+		dynasty = "Solomonide"
+		birth_date = 1440.1.1
+		death_date = 1492.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1478.10.17 = {
+	monarch = {
+		name = "Constantine IV"
+		dynasty = "Solomonide"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1478.10.17 = {
+	heir = {
+		name = "Amda Seyon"
+		monarch_name = "Amda Seyon II"
+		dynasty = "Solomonide"
+		birth_date = 1470.1.1
+		death_Date = 1494.11.2
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}
+
+1492.1.1 = {
+	monarch = {
+		name = "Amda Seyon II"
+		dynasty = "Solomonide"
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}
+
+1492.1.1 = {
+	heir = {
+		name = "Naod"
+		monarch_name = "Naod I"
+		dynasty = "Solomonide"
+		birth_date = 1475.1.1
+		death_date = 1508.7.30
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1494.11.2 = {
+	monarch = {
+		name = "Naod I"
+		dynasty = "Solomonide"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1494.11.2 = {
+	heir = {
+		name = "David Lebna Dengel"
+		monarch_name = "David Lebna Dengel II"
+		dynasty = "Solomonide"
+		birth_date = 1490.1.1
+		death_date = 1540.8.3
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1508.7.30 = {
+	monarch = {
+		name = "David Lebna Dengel II"
+		dynasty = "Solomonide"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1520.1.1 = {
+	heir = {
+		name = "Galavdevos"
+		monarch_name = "Galavdevos"
+		dynasty = "Solomonide"
+		birth_date = 1520.1.1
+		death_date = 1559.3.24
+		claim = 95
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+}
+
+1540.8.3 = {
+	monarch = {
+		name = "Galavdevos"
+		dynasty = "Solomonide"
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+}
+
+1559.3.24 = {
+	heir = {
+		name = "Minas"
+		monarch_name = "Minas"
+		dynasty = "Solomonide"
+		birth_date = 1559.3.24
+		death_date = 1568.1.24
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1559.3.25 = {
+	monarch = {
+		name = "Minas"
+		dynasty = "Solomonide"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1559.3.25 = {
+	heir = {
+		name = "Sars Dengel"
+		monarch_name = "Sars Dengel"
+		dynasty = "Solomonide"
+		birth_date = 1550.1.1
+		death_date = 1597.7.3
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 6
+		leader = {	name = "Sars Dengel"          	type = general	fire = 1	shock = 3	manuever = 4	siege = 0}
+	}
+}
+		
+1568.1.24 = {
+	monarch = {
+		name = "Sars Dengel"
+		dynasty = "Solomonide"
+		adm = 1
+		dip = 3
+		mil = 6
+		leader = {	name = "Sars Dengel"          	type = general	fire = 1	shock = 3	manuever = 4	siege = 0}
+	}
+}
+
+1570.1.1 = {
+	heir = {
+		name = "Jacob"
+		monarch_name = "Jacob I"
+		dynasty = "Solomonide"
+		birth_date = 1570.1.1
+		death_date = 1607.3.11
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+1597.7.3 = {
+	monarch = {
+		name = "Jacob I"
+		dynasty = "Solomonide"
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+1597.7.3 = {
+	heir = {
+		name = "Susanos"
+		monarch_name = "Susanos"
+		dynasty = "Solomonide"
+		birth_date = 1572.1.1
+		death_date = 1632.9.15
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+}
+
+1607.3.11 = {
+	monarch = {
+		name = "Susanos"
+		dynasty = "Solomonide"
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+}
+
+1607.3.11 = {
+	heir = {
+		name = "Fasiladas"
+		monarch_name = "Fasiladas"
+		dynasty = "Solomonide"
+		birth_date = 1603.1.1
+		death_date = 1667.10.18
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+		
+1632.9.15 = {
+	monarch = {
+		name = "Fasiladas"
+		dynasty = "Solomonide"
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+
+1632.9.15 = {
+	heir = {
+		name = "John"
+		monarch_name = "John I"
+		dynasty = "Solomonide"
+		birth_date = 1630.1.1
+		death_date = 1682.7.20
+		claim = 95
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+}
+
+1667.10.19 = {
+	monarch = {
+		name = "John I"
+		dynasty = "Solomonide"
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+}
+
+1667.10.19 = {
+	heir = {
+		name = "Iasu"
+		monarch_name = "Iasu I"
+		dynasty = "Solomonide"
+		birth_date = 1660.1.1
+		death_date = 1706.3.2
+		claim = 95
+		adm = 4
+		dip = 6
+		mil = 6
+		leader = {	name = "Iasu I"               	type = general	fire = 1	shock = 3	manuever = 3	siege = 0}
+	}
+}
+
+1682.7.20 = {
+	monarch = {
+		name = "Iasu I"
+		dynasty = "Solomonide"
+		adm = 4
+		dip = 6
+		mil = 6
+		leader = {	name = "Iasu I"               	type = general	fire = 1	shock = 3	manuever = 3	siege = 0}
+	}
+}
+
+1682.7.20 = {
+	heir = {
+		name = "Takla Haymanot."
+		monarch_name = "Takla Haymanot. I"
+		dynasty = "Solomonide"
+		birth_date = 1680.1.1
+		death_date = 1708.6.2
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1706.3.2 = {
+	monarch = {
+		name = "Takla Haymanot. I"
+		dynasty = "Solomonide"
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1706.3.2 = {
+	heir = {
+		name = "Tevoflos"
+		monarch_name = "Tevoflos"
+		dynasty = "Solomonide"
+		birth_date = 1690.1.1
+		death_date = 1711.10.15
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1708.6.2 = {
+	monarch = {
+		name = "Tevoflos"
+		dynasty = "Solomonide"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1708.6.2 = {
+	heir = {
+		name = "Jostos"
+		monarch_name = "Jostos"
+		dynasty = "Solomonide"
+		birth_date = 1690.1.1
+		death_date = 1716.1.20
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1711.10.15 = {
+	monarch = {
+		name = "Jostos"
+		dynasty = "Solomonide"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1711.10.15 = {
+	heir = {
+		name = "David"
+		monarch_name = "David III"
+		dynasty = "Solomonide"
+		birth_date = 1700.1.1
+		death_date = 1721.5.19
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1716.1.20 = {
+	monarch = {
+		name = "David III"
+		dynasty = "Solomonide"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1716.1.20 = {
+	heir = {
+		name = "Amsa Georgios"
+		monarch_name = "Amsa Georgios"
+		dynasty = "Solomonide"
+		birth_date = 1700.1.1
+		death_date = 1730.9.20
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1721.5.19 = {
+	monarch = {
+		name = "Amsa Georgios"
+		dynasty = "Solomonide"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1721.5.19 = {
+	heir = {
+		name = "Iasu"
+		monarch_name = "Iasu II"
+		dynasty = "Solomonide"
+		birth_date = 1700.1.1
+		death_date = 1755.5.27
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+}
+
+1730.9.20 = {
+	monarch = {
+		name = "Iasu II"
+		dynasty = "Solomonide"
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+}
+
+1730.9.20 = {
+	heir = {
+		name = "Jyasos"
+		monarch_name = "Jyasos"
+		dynasty = "Solomonide"
+		birth_date = 1730.1.1
+		death_date = 1769.5.8
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+		
+1755.5.27 = {
+	monarch = {
+		name = "Jyasos"
+		dynasty = "Solomonide"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1755.5.27 = {
+	heir = {
+		name = "John"
+		monarch_name = "John II"
+		dynasty = "Solomonide"
+		birth_date = 1720.1.1
+		death_date = 1769.10.18
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1769.5.8 = {
+	monarch = {
+		name = "John II"
+		dynasty = "Solomonide"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1769.5.8 = {
+	heir = {
+		name = "Takla Haymanot."
+		monarch_name = "Takla Haymanot. II"
+		dynasty = "Solomonide"
+		birth_date = 1750.1.1
+		death_Date = 1777.9.16
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1769.10.18 = {
+	monarch = {
+		name = "Takla Haymanot. II"
+		dynasty = "Solomonide"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1769.10.18 = {
+	heir = {
+		name = "Solomon"
+		monarch_name = "Solomon"
+		dynasty = "Solomonide"
+		birth_date = 1750.1.1
+		death_date = 1779.7.21
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1777.9.16 = {
+	monarch = {
+		name = "Solomon"
+		dynasty = "Solomonide"
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1777.9.16 = {
+	heir = {
+		name = "Takla George"
+		monarch_name = "Takla George"
+		dynasty = "Solomonide"
+		birth_date = 1760.1.1
+		death_date = 1784.1.9
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1779.7.21 = {
+	monarch = {
+		name = "Takla George"
+		dynasty = "Solomonide"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1779.7.21 = {
+	heir = {
+		name = "Iasu"
+		monarch_name = "Iasu III"
+		dynasty = "Solomonide"
+		birth_date = 1770.1.1
+		death_Date = 1788.4.25
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1784.1.9 = {
+	monarch = {
+		name = "Iasu III"
+		dynasty = "Solomonide"
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1784.1.9 = {
+	heir = {
+		name = "Takla Haymanot."
+		monarch_name = "Takla Haymanot. III"
+		dynasty = "Solomonide"
+		birth_date = 1760.1.1
+		death_date = 1789.6.27
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1788.4.25 = {
+	monarch = {
+		name = "Takla Haymanot. III"
+		dynasty = "Solomonide"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1788.4.25 = {
+	heir = {
+		name = "Heskeyas"
+		monarch_name = "Heskeyas"
+		dynasty = "Solomonide"
+		birth_date = 1760.1.1
+		death_date = 1794.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1789.6.27 = {
+	monarch = {
+		name = "Heskeyas"
+		dynasty = "Solomonide"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1789.6.27 = {
+	heir = {
+		name = "Georgios John"
+		monarch_name = "Georgios I John"
+		dynasty = "Solomonide"
+		birth_date = 1760.1.1
+		death_Date = 1795.4.15
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1794.1.1 = {
+	monarch = {
+		name = "Georgios I John"
+		dynasty = "Solomonide"
+		dip = 0
+		adm = 1
+		mil = 0
+	}
+}
+
+1794.1.1 = {
+	heir = {
+		name = "Maryam Solomon"
+		monarch_name = "Maryam III Solomon"
+		dynasty = "Solomonide"
+		birth_date = 1780.1.1
+		death_Date = 1795.12.10
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1795.4.15 = {
+	monarch = {
+		name = "Maryam III Solomon"
+		dynasty = "Solomonide"
+		dip = 0
+		adm = 1
+		mil = 0
+	}
+}
+
+1795.4.15 = {
+	heir = {
+		name = "Georgios John"
+		monarch_name = "Georgios I John"
+		dynasty = "Solomonide"
+		birth_date = 1770.1.1
+		death_Date = 1796.5.20
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1795.12.10 = {
+	monarch = {
+		name = "Georgios I John"
+		dynasty = "Solomonide"
+		dip = 0
+		adm = 1
+		mil = 0
+	}
+}
+
+1795.12.10 = {
+	heir = {
+		name = "Solomon"
+		monarch_name = "Solomon III"
+		dynasty = "Solomonide"
+		birth_date = 1770.1.1
+		death_date = 1797.7.15
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1796.5.20 = {
+	monarch = {
+		name = "Solomon III"
+		dynasty = "Solomonide"
+		dip = 0
+		adm = 1
+		mil = 0
+	}
+}
+
+1797.7.15 = {
+	monarch = {
+		name = "Jonas Lethesum"
+		dynasty = "Solomonide"
+		dip = 0
+		adm = 1
+		mil = 0
+	}
+}
+
+1798.1.4 = {
+	monarch = {
+		name = "Georgios I John"
+		dynasty = "Solomonide"
+		dip = 0
+		adm = 1
+		mil = 0
+	}
+}
+
+1799.5.22 = {
+	monarch = {
+		name = "Solomon III"
+		dynasty = "Solomonide"
+		dip = 0
+		adm = 1
+		mil = 0
+	}
+}
+
+1799.9.1 = {
+	monarch = {
+		name = "Demetrios Arcedevos"
+		dynasty = "Solomonide"
+		dip = 0
+		adm = 1
+		mil = 0
+	}
+}
+
+1800.3.24 = {
+	monarch = {
+		name = "Georgios I John"
+		dynasty = "Solomonide"
+		dip = 0
+		adm = 1
+		mil = 0
+	}
+}
+
+1800.6.5 = {
+	monarch = {
+		name = "Demetrios Arcedevos"
+		dynasty = "Solomonide"
+		dip = 0
+		adm = 1
+		mil = 0
+	}
+}
+
+1801.6.11 = {
+	monarch = {
+		name = "Egwaleh Seion Heskeyas."
+		dynasty = "Solomonide"
+		dip = 2
+		adm = 3
+		mil = 2
+	}
+}
+
+1818.6.3 = {
+	monarch = {
+		name = "Jonos II Heskeyas"
+		dynasty = "Solomonide"
+		dip = 0
+		adm = 1
+		mil = 0
+	}
+}

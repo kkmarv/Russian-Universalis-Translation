@@ -1,0 +1,150 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = SPA
+random_nation_chance = 0
+
+color = { 236  159  89 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Agustin #0" = 20
+	"Fernando #0" = 20
+	"Jose #0 Miguel" = 20
+	"Martin #0" = 20
+	"Bernardo #0" = 15
+	"Francisco #0" = 15
+	"Jose #0 Santiago" = 15
+	"Pedro José #0" = 15
+	"Antonio José #0" = 10
+	"Francisco #0 Antonio" = 10
+	"Juan #0" = 10
+	"Juan #0 Antonio" = 10
+	"Juan #0 Enrique" = 10
+	"Mateo #0" = 10
+	"Adrian #0" = 0
+	"Alfonso #0" = 0
+	"Antonio #0" = 0
+	"Benigno #0" = 0
+	"Camilo #0" = 0
+	"Carlos #0" = 0
+	"Desiderio #0" = 0
+	"Diego #0" = 0
+	"Eduardo #0" = 0
+	"Emilio #0" = 0
+	"Federico #0" = 0
+	"Herman #0" = 0
+	"Hipolito #0" = 0
+	"Ismael #0" = 0
+	"Joaquin #0" = 0
+	"Jose #0" = 0
+	"Luis #0" = 0
+	"Marcelino #0" = 0
+	"Nicholas #0" = 0
+	"Ovideo #0" = 0
+	"Porfirio #0" = 0
+	"Rufinho #0" = 0
+	"Sergio #0" = 0
+	"Theofilo #0" = 0
+	"Urbano #0" = 0
+	"Victor #0" = 0
+	
+	"Christine #0" = -1
+	"Felicia #0" = -1
+	"Isidore #0" = -1
+}
+
+leader_names = {
+	"Alvarez"
+	"Argomedo"
+	"Balmasada"
+	"Barros"
+	"Bello"
+	"Bilbao"
+	"Blanco"
+	"Borgogno"
+	"Boullness"
+	"Carrera"
+	"de Carrera"
+	"Cochrane"
+	"de la Cruz"
+	"Echevarria"
+	"Eganya"
+	"Errázuriz"
+	"Freire"
+	"Enriquez"
+	"Herrera"
+	"Invante"
+	"de Irisarry"
+	"de luxta"
+	"Lastarria"
+	"de la Lastra"
+	"Mackenna"
+	"Marin"
+	"Marques de la Plata"
+	"Martinez de Aldunate"
+	"Martinez de Rosas"
+	"Monte"
+	"O'Higgins"
+	"Ovalier"
+	"Sync & corrections by"
+	"Pinto"
+	"Portales"
+	"Prieto"
+	"de la Rhine"
+	"Rengifo"
+	"Rodriguez"
+	"Rosales"
+	"de San Martin"
+	"Sarmiento"
+	"Soler"
+	"Tokoronal"
+	"de Toro"
+	"Varas"
+	"Vidaurre"
+	"de Villegas"
+	"Sakarta"
+	"Senteno"
+}
+
+ship_names = {
+	"Abtao"
+	"Encalada Blanco"
+	"Chakubuko"
+	"Esmeralda"
+	"Wascar"
+	"Latorre"
+	"Eagles"
+	"Rikelme"
+	"Serrano"
+	"Valparaiso"
+	"Virgilio Uribe"
+}
+	

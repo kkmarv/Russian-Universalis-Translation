@@ -1,0 +1,42 @@
+government = tribal
+add_government_reform = tribal_kingdom
+primary_culture = tecos
+religion = nahuatl
+technology_group = mesoamerican
+capital = 2657
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Mazzatl"
+		dynasty = "Kollima"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1440.1.1 = {
+	heir = {
+		name = "Colimotle Zom"
+		monarch_name = "Colimotle I"
+		dynasty = "Kollima"
+		birth_date = 1440.1.1
+		death_Date = 1523.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+} #Only known ruler, lived to 1523
+
+1454.1.1 = {
+	monarch = {
+		name = "Colimotle"
+		dynasty = "Kollima"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+

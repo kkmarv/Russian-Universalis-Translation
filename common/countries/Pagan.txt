@@ -1,0 +1,103 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 25  25  80 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	administrative_ideas
+	religious_ideas
+	spy_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+leader_names = {
+	"Aung Hla"
+	"Aung San"
+	"Hla-Thane"
+	"Hin Nyunt"
+	"Hun Sa"
+	"Kwan-Kiva"
+	"Maung Gui"
+	"Maung-Win"
+	"Min-Tun"
+	"ON-Mynt"
+	"Seine-Win"
+	"Thang-Htai"
+	"Thet Naung"
+	"U-Hu"
+}
+
+monarch_names = {
+	"Zalatinyan #0" = 10
+	"Sithukyavtin #0" = 10
+	"Minchinho #0" = 10
+	"Tabinshevie #0" = 10
+	"Tamindwut #0" = 10
+	"Taminhatau #0" = 10
+	"Bayinnoun #0" = 10
+	"Nanda Bayin #0" = 10
+	"Anaukpetlun #0" = 10
+	"Minredippa #0" = 10
+	"Talun #0" = 10
+	"Pindale #0" = 10
+	"Pierre #0" = 10
+	"Naravara #0" = 10
+	"Minrekiavdin #0" = 10
+	"Sane #0" = 10
+	"Taninganwe #0" = 10
+	"Mahadammaize #0" = 10
+}
+
+ship_names = {
+	"Ava"
+	"Ayeyarwadi"
+	"Anavracht"
+	"Alaungsithu"
+	"Ananda"
+	"Bugan"
+	"Htilominlo"
+	"Kanzitta"
+	"Kyasva"
+	"Kjävsva"
+	"Locananda"
+	"Mali Nka"
+	"Narathu"
+	"Naratheinckha"
+	"Narapatishithu"
+	"Naratihapati"
+	"Niima"
+	"N'Mai Nka"
+	"Piinba"
+	"Pegu"
+	"Saul"
+	"Savhnit"
+	"Savmunnit"
+	"Sula Mani"
+	"Saint-Niet Ama"
+	"Shwe-gu-guy"
+	"Shwe-khsan-dav"
+	"Shwe-zigon"
+	"Taungu"
+	"Tambadipa"
+	"Tamudarite"
+	"Taraba"
+	"Tan Chi Dung Pai"
+	"Tat-bien-new"
+	"Uzana"
+}

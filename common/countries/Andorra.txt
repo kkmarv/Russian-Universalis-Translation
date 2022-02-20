@@ -1,0 +1,264 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 195  122  122 }
+
+revolutionary_colors = { 5  0  5 }
+
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	administrative_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	french_caracolle
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Ferran #0" = 40
+	"Alphonse #4" = 20
+	"Juan #1" = 20
+	"Karl #0" = 10
+	"Sync & corrections by #4" = 5
+	"Sancho #1" = 5
+	"Enrique #0" = 5
+	"Jaime #2" = 5
+	"Marty #0" = 20
+	"Andreu #0" = 0
+	"Anthony #0" = 0
+	"Arnau #0" = 0
+	"Aussias #0" = 0
+	"Bartomeu #0" = 0
+	"Bernat #0" = 0
+	"Cesar #0" = 0
+	"Dominique #0" = 0
+	"Felipe #0" = 0
+	"Frankes #0" = 0
+	"Frederick #0" = 0
+	"Gaspar #0" = 0
+	"Hill #0" = 0
+	"Gonzalo #0" = 0
+	"Guillem #0" = 0
+	"Ug #0" = 0
+	"Ignacy #0" = 0
+	"Ildephone #0" = 0
+	"Heroni #0" = 0
+	"Hordi #0" = 0
+	"Hosep #0" = 0
+	"Llorenso #0" = 0
+	"Luis #0" = 0
+	"Pere Luis #0" = 0
+	"Ponce #0" = 0
+	"Ramon #0" = 0
+	"Roderick #0" = 0
+	"Simeu #0" = 0
+	"Thomas #0" = 0
+	"Didac #0" = 0
+	"Garcia #0" = 0
+	"Ludovic #10" = 160
+	"Henry #1" = 60
+	"Francis #0" = 40
+	"Philippe #6" = 10
+	"John #2" = 10
+	"Gaston #0" = 10
+	"Nicolas #0" = 10
+	"Louis-Francis #0" = 5
+	"Jacob #0" = 5
+	"Joachim #0" = 5
+	"Xavier #0" = 5
+	"Robert #2" = 1
+	"Hugo #1" = 1
+	"Raoul #1" = 1
+	"Alexander #0" = 0
+	"Alphonse #0" = 0
+	"Ambroise #0" = 0
+	"Arman #0" = 0
+	"Augustin #0" = 0
+	"Barthelemy #0" = 0
+	"Benoit #0" = 0
+	"Bernard #0" = 0
+	"Blaise #0" = 0
+	"Claude #0" = 0
+	"Clement #0" = 0
+	"Denis #0" = 0
+	"Etienne #0" = 0
+	"Brand #0" = 0
+	"Georges #0" = 0
+	"Guy #0" = 0
+	"Guillaume #0" = 0
+	"Ignas #0" = 0
+	"Jean-Antoine #0" = 0
+	"Jean-Baptiste #0" = 0
+	"Jean-Jacques #0" = 0
+	"Jean-Philippe #0" = 0
+	"Joseph #0" = 0
+	"Josquin #0" = 0
+	"Jules #0" = 0
+	"Mark #0" = 0
+	"Maurice #0" = 0
+	"Maximilien #0" = 0
+	"Michelle #0" = 0
+	"Pascal #0" = 0
+	"Pierre #0" = 0
+	"Renee #0" = 0
+	"Sebastien #0" = 0
+	"Simon #0" = 0
+	"Joan #0" = -1
+
+    "Alejandra #0" = -5
+	"Candela #0" = -5
+	"Estrella #0" = -5
+}
+
+leader_names = {
+	"de Aguirre"
+	"d'Albre"
+	"de Antiión"
+	"de Aranda"
+	"de Armendaris"
+	"de Asagra"
+	"de Aspilqueta"
+	"de Beaumont"
+	"de Béorteguy"
+	"Bercher"
+	"de bourbon"
+	"de Carranza"
+	"Elisalde"
+	"de Garay"
+	"de Gonja"
+	"Goeneh"
+	"de Eredia"
+	"de Ikhar"
+	"de Jaso"
+	"Jimenez de Rada"
+	"Jimeno"
+	"de Landivar"
+	"Navarro"
+	"Palafox"
+	"Pérez de Sabalsa"
+	"de Salazar"
+	"de Uribe"
+	"de Ursua"
+	"de Yangwas"
+	"de Saraté"
+	"de Saporta"
+	"d'Ambletuse"
+	"d'Olnais"
+	"de Bogarne"
+	"de Bercy"
+	"de Bethune"
+	"de Boissier"
+	"de Bonnefoie"
+	"de Bonnay"
+	"du Bosque"
+	"de la Bretonnière"
+	"de Brogol"
+	"de Casten"
+	"de Comarten"
+	"de Chambly"
+	"de Chambronn"
+	"de ChampMarten"
+	"de Chevigny"
+	"de Coulomb"
+	"de Crevecoeur"
+	"de Krussol"
+	"de Dampierre"
+	"Desgutt"
+	"Duken"
+	"de Cuère"
+	"d'Entrage"
+	"d'Estrees"
+	"du Fournaye"
+	"de Gallar"
+	"de Erbières"
+	"de la Barte"
+	"de la Ferrandier"
+	"de la Galissonière"
+	"de la Motte"
+	"de la Motte d'Haran"
+	"de la Porte"
+	"Le Tellier"
+	"de Léry"
+	"de Ligne"
+	"de Margaery"
+	"de Maurepa"
+	"de Nefshatel"
+	"d'Ornano"
+	"de Pellefort"
+	"de Richmond"
+	"de Rocheshuar"
+	"de Rochemorie"
+	"de Rie"
+	"de Saint-Champond"
+	"de Saint Esprey"
+	"de Saint-Germain"
+	"de Saint Omer"
+	"de Siorac"
+	"de Toqueville"
+	"de la Tour d'Auvergne"
+	"de Treville"
+	"d'Eusson"
+	"du Valentinois"
+	"de Veurjenne"
+	"de Vibien"
+	"de Vigny"
+	"de Villeneuve"
+}
+
+ship_names = {
+	"Aurora Blank"
+	"San Jacob"
+	"Flama"
+	"LIJONA"
+	"Folders"
+	"La Bonaventure"
+	"San Antoni"
+	"San Miguel"
+	"San Bernat"
+	"San Francesc"
+	"Santa Agata"
+	"Santa Eulalia"
+	"San Gabriel"
+	"San Clinton"
+	"San Jordi"
+	"La Real"
+	"Trinitat"
+	"Santa Cruz"
+	"Santa Maria"
+	"Santa Caterina"
+	"San Joan Evangelista"
+	"Santa Barbara"
+	"Saint-Péré de Roma"
+	"La Gasela"
+	"Santa Magdalena"
+	"San Victor"
+	"Magnana"
+	"Santa Ventura"
+	"Santa Coloma"
+	"San Ambrys"
+	"La Garza"
+}
+
+army_names = {
+	"Tertia $PROVINCE$"
+}

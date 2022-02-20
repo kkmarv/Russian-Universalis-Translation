@@ -1,0 +1,19 @@
+government = tribal
+add_government_reform = tribal_kingdom
+primary_culture = ganda
+religion = shamanism #Fetishism
+technology_group = central_african
+unit_type = sub_saharan
+capital = 3561 # Basoga
+
+#Ruled by council of Basoga Chiefs
+
+1444.1.1 = {
+	monarch = {
+		name = "Council of Chiefs"
+		regent = yes
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}

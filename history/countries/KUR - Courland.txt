@@ -1,0 +1,294 @@
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+technology_group = western
+primary_culture = latvian
+religion = catholic
+capital = 39	# Mitau
+historical_friend = LIV
+
+1561.11.28 = { religion = protestant}
+
+1561.11.28 = {
+    government = monarchy
+add_government_reform = feudalism_reform
+	monarch = {
+		name = "Gothardt"
+		dynasty = "von Kettler"
+		birth_date = 1517.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1569.11.25 = {
+	heir = {
+		name = "Friedrich"
+		monarch_name = "Friedrich I"
+		dynasty = "von Kettler"
+		birth_date = 1569.11.25
+		death_date = 1642.8.17
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1587.5.17 = {
+	monarch = {
+		name = "Friedrich I"
+		dynasty = "von Kettler"
+		birth_date = 1569.11.25
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1587.5.17 = {
+	heir = {
+		name = "William"
+		monarch_name = "William"
+		dynasty = "von Kettler"
+		birth_date = 1574.6.20
+		death_date = 1640.4.7
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1610.10.28 = {
+	heir = {
+		name = "Jacob"
+		monarch_name = "Jacob"
+		dynasty = "von Kettler"
+		birth_date = 1610.10.28
+		death_date = 1682.12.31
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1641.8.18 = {
+	monarch = {
+		name = "Jacob"
+		dynasty = "von Kettler"
+		birth_date = 1610.10.28
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1650.7.6 = {
+	heir = {
+		name = "Friedrich Casimir"
+		monarch_name = "Frederick II Casimir"
+		dynasty = "von Kettler"
+		birth_date = 1650.7.6
+		death_date = 1698.1.22
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1681.12.31 = {
+	monarch = {
+		name = "Frederick II Casimir"
+		dynasty = "von Kettler"
+		birth_date = 1650.7.6
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1692.7.19 = {
+	heir = {
+		name = "Friedrich Wilhelm"
+		monarch_name = "Frederick III Wilhelm"
+		dynasty = "von Kettler"
+		birth_date = 1692.7.19
+		death_date = 1711.1.21
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+}
+
+1698.1.23 = {
+	monarch = {
+		name = "Frederick III Wilhelm"
+		dynasty = "von Kettler"
+		birth_date = 1692.7.19
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+}
+
+1698.1.23 = {
+	heir = {
+		name = "Ferdinand"
+		monarch_name = "Ferdinand"
+		dynasty = "von Kettler"
+		birth_date = 1655.11.2
+		death_date = 1737.5.4
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+}
+
+1711.1.21 = {
+	monarch = {
+		name = "Anna Ioannovna"
+		dynasty = "Romanov"
+		birth_date = 1693.1.28
+		adm = 2
+		dip = 2
+		mil = 1
+		female = yes
+	}
+}
+
+1730.2.15 = {
+	monarch = {
+		name = "Ferdinand"
+		dynasty = "von Kettler"
+		birth_date = 1655.11.2
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+}
+
+1737.5.4 = {
+	monarch = {
+		name = "Ernst Johann"
+		dynasty = "von Biron"
+		birth_date = 1690.11.13
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}
+
+1737.5.4 = {
+	heir = {
+		name = "Peter"
+		monarch_name = "Peter"
+		dynasty = "von Biron"
+		birth_date = 1724.2.15
+		death_date = 1800.1.13
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1740.11.9 = {
+	monarch = {
+		name = "Duchy Council"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1758.11.17 = {
+	monarch = {
+		name = "Karl"
+		dynasty = "von Vettin"
+		birth_date = 1733.7.13
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1758.11.17 = {
+	heir = {
+		name = "Albert Casimir"
+		monarch_name = "Albert I Casimir"
+		dynasty = "von Vettin"
+		birth_date = 1738.7.11
+		death_date = 1822.2.10
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}	
+
+1763.2.20 = {
+	monarch = {
+		name = "Ernst Johann"
+		dynasty = "von Biron"
+		birth_date = 1690.11.13
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}
+
+1763.2.20 = {
+	heir = {
+		name = "Peter"
+		monarch_name = "Peter"
+		dynasty = "von Biron"
+		birth_date = 1724.2.15
+		death_date = 1800.1.13
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}	
+
+1769.11.25 = {
+	monarch = {
+		name = "Peter"
+		dynasty = "von Biron"
+		birth_date = 1724.2.15
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1769.11.25 = {
+	heir = {
+		name = "Carl Ernst"
+		monarch_name = "Charles II Ernst"
+		dynasty = "von Biron"
+		birth_date = 1728.10.11
+		death_date = 1801.10.4
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1795.3.28 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

@@ -1,0 +1,90 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 25 123 48 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Theotheoscope #0" = 20
+	"Vichavostaka #0" = 20
+	"Masgwahasid #0" = 20
+	"Chenka #0" = 20
+	"Kichypwott #0" = 20
+	"Stamchosok #0" = 20
+	"Emitahapiskinne #0" = 20
+	"Matapikomotziv #0" = 20
+	"Makoekin #0" = 20
+	"Aistypeshimat #0" = 20
+	"Kissoum #0" = 20
+	"Pita Chotokan #0" = 20
+	"Apavstamix #0" = 20
+	"Onistachpokah #0" = 20
+	"Notkitekitepivem . #0" = 20
+	"Akakotos #0" = 20
+	"Stokimatiz #0" = 20
+	"Pitahannes #0" = 20
+	"Pitahotiskin #0" = 20
+	"Stamksotahapiv #0" = 20
+	"Mastepitah #0" = 20
+	"Moyanumen #0" = 20
+	"Ecasquiné #-" = 20
+	"Kaiokosis #0" = 20
+	"Ponocahstamix #0" = 20
+	"Omaxisapop #0" = 20
+	"Onistach #0" = 20
+	"Pitasixinum #0" = 20
+	"Apavonistav #0" = 20
+	"Attistahawes #0" = 20
+	"Pitah #0" = 20
+	"Pitahonists #0" = 20
+	"Cayetapo #0" = 20
+	"Makhtovevitko #0" = 20
+	"Toetakienan #0" = 10
+	"Nochpitschitoepis #0" = 10
+	"Sheomantho #0" = 10
+	"Vaivasekapou #0" = 10
+	"Otamakoevin #0" = 10
+	"Shapoussetung #0" = 10
+	"Sukeman #0" = 10
+	"Misketo #0" = 10
+	"Etamepton #0" = 10
+	"Nesoasuasse #0" = 10
+	"Kawasasko Trepah #0" = 10
+	
+	"Tasinasapevin #0" = -1
+	"Tashinamani #0" = -1
+	"Tasinalavin #0" = -1
+}
+
+leader_names = {
+	Egitina Biziyina Sephubi Tsandaha Kanekuwinkasta Kankuhabi Hudsabina Huhumasmibi Huhuganebabi
+	"Hen Atonawaabina" Invantonbina Innianonby Insaombi Indogavinkasta "Minisoe Svenkibi" Minisatonwanbi
+	Osnibi Ptegabina Sungsebi Sahiyeskabi Snugabi Shihabi Tanidabi Tokanbi Tanzinapebina Unskah Vadopabina
+	Vadopakhtonvan Visiyabina Vaziyamvinkasta Vazinaziniabi Vokpanbi
+}
+
+ship_names = {
+	Suktogeya Mato Ykumataga Sugataga Sugataga Hehak Tataga Anukas Pahj
+	Tzaba Maga Hiha Snohen Pactas Tuhmaga
+}

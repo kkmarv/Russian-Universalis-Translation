@@ -1,0 +1,82 @@
+ #Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 191 25 25 }
+
+historical_idea_groups = {
+	trade_ideas
+	quantity_ideas
+	administrative_ideas
+	innovativeness_ideas
+	defensive_ideas
+	maritime_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Hassan #0" = 50
+	"Nazr oud-Din #0" = 40
+	"Ibrahim #0" = 20
+	"Danna Mohammed #0" = 10
+	"Muhammad #4" = 20
+	"'Omar #1" = 10
+	"Yusuf #2" = 10
+	"'Ali #3" = 30
+	"Ahmad #0" = 30
+	"Abu Bakr #1" = 30
+	"Kamanfa'anu #0" = 30
+	"'Imad ad-Din #0" = 20
+	"Iskandar #0" = 20
+	"Mahai ad-Din #0" = 10 
+	"Shams ad-Din #0" = 10
+	"'Izz ad-Din #0" = 10
+	"Muin ad-Din Iskander #0" = 10
+	"Al-Hajj Hassan #2" = 10
+	"Said Mohammed #0" = 10
+	"Al-Hajj Mohammed #0" = 10
+	"Hilali Mohammed #0" = 10
+	"Hilali Kali Mohammed. #0" = 10
+	"Said Ahmed #0" = 10
+	"Mohammed Idn Omar #0" = 10
+	"Hasaing #1 Famuderi" = 10
+	"Ibrahim Iskandir #0" = 20
+	"Viogey #0" = -1
+	"Gay #0" = -1
+	"Hong #0" = -1
+}
+
+leader_names = {
+	Hilaali
+	Utchimu
+	Hiraa
+	Diamaygaily
+	Hamavi
+	Dambaydu
+	Aadita
+	Homa
+	Phimug
+	I am .
+}
+
+ship_names = {
+	Aliya Alisha Ari Aziza Fadhippolhu
+	Fatima Felidhu Goidhu Kolhumaduli
+	Mali Maalhosmaduli Niknaz Niloufa
+	Yasmine Zahira Ramazan
+}

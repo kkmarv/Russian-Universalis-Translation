@@ -1,0 +1,113 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 80 10 165 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+leader_names = {
+	Abdulfatah Ahmad Amir Anvar Azmi 
+	Batuta 
+	Chairul 
+	Hamza Khasanuddin 
+	Ibnu 
+	Kayi 
+	Mahat Mukhtar 
+	Najamuddin Nathzar Nazmizan 
+	Roy 
+	Syarifuddin 
+	Zulkifli
+}
+
+monarch_names = {
+	"Aghi himself #0" = 10
+	"Paramesvara #0" = 10
+	"Megat Iskander #0" = 10
+	"Muhammad Shah #0" = 10
+	"Abu Xiaheed #0" = 10
+	"Muzaffar Shah #0" = 10
+	"Mansir Shah #0" = 10
+	"Riyat Shah #0" = 10
+	"Mahmoud Shah #0" = 10
+	"Abd al-Jalol Shah #0" = 10
+	"Maayat Shah #0" = 10
+	"Ibrahom Shah #0" = 10
+	"Rahmat Shah #0" = 10
+	"Sulayman Badr Shah #0" = 10
+	"Muazzam Shah #0" = 10
+	"Mahmoud Riyat Shah #0" = 10
+	"Abd al-Rahman Shah #0" = 10
+	"Rajah Kasim #0" = 10
+	"Inayat #0" = 20
+	"Alo Mughayat #0" = 20
+	"Iskandar Tano #0" = 20
+	"Hussein Alo Riyat #0" = 20
+	"Menrazza #0" = 20
+	"Tsalenggathu #0" = 20
+	"Gadzabadi #0" = 20
+	"Tsau-Lha #0" = 20
+	"Mengtseke #0" = 20
+	"Muhammad #0" = 20
+	"Ahmad #0" = 20
+	"Sulayman #0" = 20
+	"Bulkah #0" = 20
+	"Abd al-Kahhar #0" = 20
+	"Saif Al-Rijal #0" = 20
+	"Hassan #0" = 20
+	"Abd al-Jalal #0" = 20
+	"Muhammad Alo #0" = 20
+	"Abd al-Mubin #0" = 20
+	"Muhio ad-Don #0" = 20
+	"Nasr ad-Don #0" = 20
+	"Kamal al-Don #0" = 20
+	"Ala ad-Don #0" = 20
+	"Saif Al-Don #0" = 20
+	"Muhammad Jamal al-Don #0" = 20
+	"Muhammad Taj ad-Don #0" = 20
+	
+	"Umniya #0" = -1
+	"Hafizah #0" = -1
+}
+
+ship_names = {
+	Paramesvara "Sultan Iskandar" Bendahara Laxaman
+	Temeng Kong "Penghulu Bendahari" Shahbandar
+	"Hukum Kanun" "Oundang-Undang" "Pulau Bakung"
+	"Pulau Lingga" Capulauan "Pulau Singkep" "Capulauan Riau"
+	"Pulau Rempang" "Pulau Kundur" "Pulau Padang"
+	"Pulau Bengkaus" "Pulau Tinggi" "Pulau Shibu"
+	"Pulau Tioman" "Pulau Aur" "Pulau Rupat"
+	"Pulau Rangsang" "Pulau Tebing Tinggi"
+	"Sungai Belait" "Sungai Tutong" "Sungai Temburengh"
+	Batang Truesan "Sungai Pandaruan" "Lungai Limbang"
+	"Batang Baram" "Sungai Bakong" "Sungai Tutokh"
+	"Sungai Tinjar" "Kuala Belait" "Batu Danau"
+	"Kuala Medamit" Bangar Penangjong Lumut Thelingan
+	Sukang Laby "Kuala Baram"
+	Siac Samandara
+	"Malik ul Salih" "Malik Al-Salih"
+	Teunom Peusangen Jamboaie Alas Tripa "Symbang Kiri"
+	"Peg Serbeulanghit" "Peg Pusat" "Gunung Pewethsagoe"
+	"Pulau ve" "Pulau Breuch"
+}

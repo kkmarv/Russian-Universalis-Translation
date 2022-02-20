@@ -1,0 +1,114 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 52  107  133 }
+
+historical_idea_groups = {
+	economic_ideas
+	quantity_ideas
+	humanist_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Dilawar Khan #0" = 10
+	"Alp Han Hushang #0" = 10
+	"Ghazni Khan #0" = 10
+	"Nasir Shah #0" = 10
+	"Salim Shah #0" = 10
+	"Bahadur Base #0" = 10
+	"Mali Rao #0" = 10
+	"Ahalla Bai #0" = 10
+	"Mahmoud Shah #0" = 20
+	"Guiyat Shah #0" = 10
+	"Kadir Shah #0" = 10
+	"Shajaat Khan #0" = 10
+	"Bahadur #0" = 10
+	"Mahmoud  #0" = 0
+	"Ferishta #0" = 0
+	"Guillaz-ud-din #0" = 0
+	"Kadir #0" = 0
+	"Muhammad #0" = 0
+	"Base #0" = 0
+	"Salim #0" = 0
+	"Nasir #0" = 0
+	"Amir #0" = 0
+	"Hoshang #0" = 0
+	"Cudsia #0" = -5
+	"Hayayah #0" = -5
+	"Shahyahan Begum #0" = -5
+}
+
+leader_names = {
+	Maury
+	Hadji
+	Uzbek
+	Gilani
+	Paramara
+	Bahadur
+	Gauri
+	Yurjani
+	Can
+	Malik
+	Sultan
+	Khorasani
+	Farouki
+	Changesy
+	Turani
+	Latif
+	Bhilala
+	Solanki
+	Chattary
+	Kanjar
+	Ghuri
+	Naru
+	Chudasama
+	Pahor
+	Tomara
+	Solanki
+}
+
+ship_names = {
+	"Aliya"
+	"Bethwa"
+	"Chumbal"
+	"Dasan"
+	"Fatima"
+	"Gambir"
+	"Jalsen"
+	"Kala Jahazi"
+	"Khan"
+	"Lal Jahazi"
+	"Mahi"
+	"Narmada"
+	"Nausen"
+	"Nava-ka-Yud"
+	"Niknaz"
+	"Nile Jazahi"
+	"Niloufa"
+	"Sagar"
+	"Saleema"
+	"Sukhaliya"
+	"Shamina"
+	"Shipra"
+	"Yasmine"
+}

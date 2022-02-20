@@ -1,0 +1,39 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.25
+primary_culture = lombard
+religion = catholic
+technology_group = western
+capital = 3030
+#STT fixed_capital = 3030 # Cannot move capital away from this province & no power cost to move to it
+
+1300.1.1 = {
+	monarch = {
+		dynasty = "Malaspina"
+	}
+}
+1442.1.1 = {
+	monarch = {
+		name = "Antonio"
+		monarch_name = "Antonio I"
+		dynasty = "Malaspina"
+		birth_date = 1390.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1445.1.1 = {
+	monarch = {
+		name = "Jacopo"
+		dynasty = "Malaspina"
+	}
+}
+1481.1.1 = {
+	monarch = {
+		name = "Alberico"
+		monarch_name = "Alberico II"
+		dynasty = "Malaspina"
+	}
+}

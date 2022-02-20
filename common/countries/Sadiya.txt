@@ -1,0 +1,65 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 63  115  37 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	diplomatic_ideas
+	administrative_ideas	
+	expansion_ideas
+	spy_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	indian_archers
+	indian_arquebusier
+	sikh_hit_and_run
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Majuradhwaj Pal #0" = 20
+	"Jayadhwaj Pal #0" = 20
+	"Karmadhwaj Pal #0" = 20
+	"Dhir Narayan #0" = 20
+	"Wikramadhwaj Pal #0" = 5
+	"Gauradhwaj Pal #0" = 5
+	"Sanghadhwaj Pal #0" = 5
+	"Narayan Gardens #0" = 5
+	"Mangaldahi #0" = -1
+	"Sati Joymati #0" = -1
+	"Kuranganayani #0" = -1
+}
+
+leader_names = {
+	Nitipal
+	Chaukkapha
+	Chandra
+	Das
+	Deke
+	Kalita
+	Mahanta
+	Narayan
+	Prith
+	Roy
+	Prith
+}
+
+ship_names = {
+	Brahmaputra "Chingri Much" Darrang
+	Davy Dibang "Durga Ma" Ganga "Hilsa Much"
+	"Ilish-Machs" Muchley "Kali Ma" "Cali Megana"
+	"Kali Nauk" Camrup Lakimpur "Lal Science"
+	"Loki Davy" Luhit "Manasa Davi" Manjuli
+	Megana "Neil Sciences" "Nile Sagor" "Parvati Davi"
+	"Rui Mach" Sarasvoti "Sagorer Bahimi" Shakti
+	"Shaktir Science" "Shasti Ma" Sibsagar Trishul
+	"Uma Davi"
+}

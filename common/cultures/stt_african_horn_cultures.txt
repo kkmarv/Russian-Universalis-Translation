@@ -1,0 +1,161 @@
+cushitic = {
+	graphical_culture = africangfx
+	
+	somali = {
+		primary = ADA
+		dynasty_names = {
+			Walashma Muzaffar Garyin Gobrun Qaranli Jelaidi Harti Darod Gerad Abshire
+			# CKII
+			"Abron" "Deere" "Javier" "Isaac" "Digil" "Mirifle" "Gadaboursi" "Akaishi" "Biomal" "Sura"  "Issa" "Marehan" "Barttir" "Rahanwein" "Varsangali" "Samali"
+		}
+		male_names = {
+			Abadir Abdali Abdirahman Abdallahi Abram Abu-Bakr Adan Adiir Ahmed Ali Amalil Aul Aue
+			Aydahis Balad Barak Barakat Siise Dagal Dhidin Hamalmal Gamar Hamid Hantal Haqq Kharer
+			Ibrahim Irir Isman Jamal Cadafou Cadafou Khalaf Liban Mahamad Mohammed Mohammed
+			Mahamoud Mahmoud Mansour Nyahui Nelaya Nazir Noor Omer Said Said Saidaddin Sabir Sabr Sabraddin
+			Sadik Salah Siciid Talha Umar Umardin Yayou Yusuf Zuber Zubeir
+		}
+		female_names = {
+			Aisha Adei Alaso Ambru Amburu Asha Ashi Astur Auva Aurala Ayan Baani Basr Beidan
+			Bilan Kanab Kauvo Diika Delombiyr Dobyr Fadum Fathya Fawzia Ghazi Haweiya Hibak
+			Hoden Hudo Iftin Ginou Hadra Laden Layla Layla Libin Luala Magol Mac Mariam
+			Mulk Nastiekso Sagal Sahra Sufiya Ubah Ubah Waris Halva
+		}
+	}
+	oromo = {
+		primary = JIM
+		male_names = {
+			"Tackle Haymanot" "'Amsa-Giorgis" "Teckle-Gyorgis" "Zera Jacob" "Baede-Marieam" "'Amde-Ziyon" "Lebna" 
+			"Sage-Krystos" "Malta Krystos Dyngyl" "Volda-Gijorgis" "Mika'el-Sehul" "Welda-Hebrael" "Wand Bevosen" 
+			"Amde-Ziyon" "Syrtse Dungil" Iasu Constantinos Salomon "Johannes" Hyzkiyas Naod Galaudeuos Menas Yaakob. 
+			Susicos Fasiledes Theooflos Yostos. "Yioas" David Demetrios Guillorghis Fiktor Minas Marcos Hamalmal Fasil. 
+			'Jindryas "Yishaq" Mika'el Antinateo Gusho Haile
+		}
+		female_names = {
+			Abeba Hagos Shadows Abeba Ebrihet Adanech Adina Alawold Elitash Amhara Ayana Bathheshba Bechele 
+			Belkis Berhane Bertha Desta Dilla Falasha Falashina Fana Genat Hagos Jazara Zajara Kyla Kelayle 
+			Kelil Keren Cass Kifle
+		}
+		dynasty_names = {
+		Ginoucho Bahrid "Darod" "Maricide" "Mukurrid" "Pacoras" "Ramlaid" "Sebsibaid" "Cabedeid" "Bequeleid"
+		"Abateid" "Sabraid" "Estatkaid" "Habeshaid" "Dubai" "Gobena" "Celassie" "Zagve" "Dyngyl" "Sehul" 
+		"Dow" "Alva" "Danai" "Gideon" "Assabi" "Afar" "Tamayrat" "Mengesha" "Taeka" "Getachew" "Na'aquielo" "Jostos" 
+		"Mercuryos" "Shamoon" "Desta"
+		}
+	}
+	tigray = {
+		primary = MED
+		male_names = {
+			"Tackle Haymanot" "'Amsa-Giorgis" "Teckle-Gyorgis" "Zera Jacob" "Baede-Marieam" "'Amde-Ziyon" "Lebna" 
+			"Sage-Krystos" "Malta Krystos Dyngyl" "Volda-Gijorgis" "Mika'el-Sehul" "Welda-Hebrael" "Wand Bevosen" 
+			"Amde-Ziyon" "Syrtse Dungil" Iasu Constantinos Salomon "Johannes" Hyzkiyas Naod Galaudeuos Menas Yaakob. 
+			Susicos Fasiledes Theooflos Yostos. "Yioas" David Demetrios Guillorghis Fiktor Minas Marcos Hamalmal Fasil. 
+			'Jindryas "Yishaq" Mika'el Antinateo Gusho Haile
+		}
+		female_names = {
+			Abeba Hagos Shadows Abeba Ebrihet Adanech Adina Alawold Elitash Amhara Ayana Bathheshba Bechele 
+			Belkis Berhane Bertha Desta Dilla Falasha Falashina Fana Genat Hagos Jazara Zajara Kyla Kelayle 
+			Kelil Keren Cass Kifle
+		}
+		dynasty_names = {
+		Solomonide "Solomonide"
+		Ginoucho Bahrid "Darod" "Maricide" "Mukurrid" "Pacoras" "Ramlaid" "Sebsibaid" "Cabedeid" "Bequeleid"
+		"Abateid" "Sabraid" "Estatkaid" "Habeshaid" "Dubai" "Gobena" "Celassie" "Zagve" "Dyngyl" "Sehul" 
+		"Dow" "Alva" "Danai" "Gideon" "Assabi" "Afar" "Tamayrat" "Mengesha" "Taeka" "Getachew" "Na'aquielo" "Jostos" 
+		"Mercuryos" "Shamoon" "Desta"
+		}	
+	}
+	sidamo = {
+		primary = KAF		
+		male_names = {
+			"Minjo" "Iasu" "Teckle-Gyorgis" "Salomon" "Johannes" "Hyzkiyas" "Zera Jacob" "Baede-Marieam" 
+			"Constantinos" "'Amde-Ziyon" "Naod" "Libna Dyngyl" "Galaudeuos" "Menas" "Syrtse Dungil" "Jacob" "Sususos" 
+			"Fasiletes" "Teuoflos" "Jostos" "Yioas" "David" "'Amsa-Giorgis" "Teckle-Gyorgis" "Demetrios" "Guillorghis" 
+			"Fiktor" "Minas" "Marcos" "Hamalmal" "Sage-Krystos" "Malta Krystos" "Fassil" "'Syndryas" "Yishaq" "Mika'el" 
+			"Amde-Ziyon" "Antynateos" "Volda-Gijorgis" "Mika'el-Sehul" "Gusho" "Wand Bevosen" "Haile" "Welda-Gabrael" 
+		}
+		female_names = {
+			Abeba Hagos Shadows Abeba Ebrihet Adanech Adina Alawold Elitash Amhara Ayana Bathheshba Bechele 
+			Belkis Berhane Bertha Desta Dilla Falasha Falashina Fana Genat Hagos Jazara Zajara Kyla Kelayle 
+			Kelil Keren Cass Kifle
+		}
+		dynasty_names = {
+		Solomonide "Solomonide"
+		Ginoucho Bahrid "Darod" "Maricide" "Mukurrid" "Pacoras" "Ramlaid" "Sebsibaid" "Cabedeid" "Bequeleid"
+		"Abateid" "Sabraid" "Estatkaid" "Habeshaid" "Dubai" "Gobena" "Celassie" "Zagve" "Dyngyl" "Sehul" 
+		"Dow" "Alva" "Danai" "Gideon" "Assabi" "Afar" "Tamayrat" "Mengesha" "Taeka" "Getachew" "Na'aquielo" "Jostos" 
+		"Mercuryos" "Shamoon" "Desta"
+		}
+	}
+	amhara = {
+		primary = ETH
+		dynasty_names = {
+			Solomonide "Solomonide"
+			"Darod" "Maricide" "Mukurrid" "Pacoras" "Ramlaid" "Sebsibaid" "Cabedeid" "Bequeleid" 
+			"Abateid" "Sabraid" "Estatkaid" "Habeshaid" "Dubai" "Gobena" "Celassie" "Zagve" "Dyngyl" "Sehul" 
+			"Dow" "Alva" "Danai" "Gideon" "Assabi" "Afar" "Tamayrat" "Mengesha" "Taeka" "Getachew" "Na'aquielo" "Jostos" 
+			"Mercuryos" "Shamoon" "Desta"
+			
+		}
+		male_names = {
+			Amar Danai Desta Getacheu Getacheu Girma Yskinkandr Abai Abai Afeuork Aman Assefa Atobyrhan Azmer Bekele 
+			Benaim Berhanua Barichun Berta Buoro Daniaicheu David Demissi Jeremiah Ezana Fasiledes Fethi Gabra 
+			Gebrael Gebre Goder Hatzkiim Hayeren Hagos Hakim Hakim Hakim Iskankindr Alexander Iskankindr Alexandyr 
+			Iasu Jimma Kaffa Caleb Kelil Kifle Libna Lema Lawla Mamo Mekonen Melaku Mengesha Merrudes 
+			Negash Negus Ogbay Ogbayi Oromo Rahad Selassie Semer Sisai Tamayrat Taraiku Taye Tiferi Tiferai 
+			Taeckle Shadows Teruvworks Tesfaye Tessama Theodros Jacob "Yionas" "Yioas" Sula
+		}
+		female_names = {
+			Habesha Abeba Ebrihet Adanech Adina Alawold Elitash Amhara Ayana Batheshba Bekele Belkis Berhane Berta 
+			"Chen" "China" Debra Debter Dasse
+			Berta Desta Dilla Falasha Falashina Fana Genat Hagos Jazar Jazar Kyla Kelayle 
+			Kelil Keren Cass Kifle Lishan Louama Magdala Maharin
+			Makda Makeda Mandera Melissa Mizrak Negasi Nissan Nyala Quara Retta Sebl Selam Selamaveit Selassie 
+			Semha Sinalat Sheba Shiassh.
+			Cisai Tevawicz Teru Totit Tsagge Ugaie Yehudit Sale Zeina Zeina Senia
+		}
+	}
+	harari = {
+		primary = HAR
+		dynasty_names = {
+			Walashma Muzaffar Garyin Gobrun Qaranli Jelaidi Harti Darod Gerad Abshire
+			# CKII
+			"Abron" "Deere" "Javier" "Isaac" "Digil" "Mirifle" "Gadaboursi" "Akaishi" "Biomal" "Sura"  "Issa" "Marehan" "Barttir" "Rahanwein" "Varsangali" "Samali"
+		}
+		male_names = {
+			Abadir Abdali Abdirahman Abdallahi Abram Abu-Bakr Adan Adiir Ahmed Ali Amalil Aul Aue
+			Aydahis Balad Barak Barakat Siise Dagal Dhidin Hamalmal Gamar Hamid Hantal Haqq Kharer
+			Ibrahim Irir Isman Jamal Cadafou Cadafou Khalaf Liban Mahamad Mohammed Mohammed
+			Mahamoud Mahmoud Mansour Nyahui Nelaya Nazir Noor Omer Said Said Saidaddin Sabir Sabr Sabraddin
+			Sadik Salah Siciid Talha Umar Umardin Yayou Yusuf Zuber Zubeir
+		}
+		female_names = {
+			Aisha Adei Alaso Ambru Amburu Asha Ashi Astur Auva Aurala Ayan Baani Basr Beidan
+			Bilan Kanab Kauvo Diika Delombiyr Dobyr Fadum Fathya Fawzia Ghazi Haweiya Hibak
+			Hoden Hudo Iftin Ginou Hadra Laden Layla Layla Libin Luala Magol Mac Mariam
+			Mulk Nastiekso Sagal Sahra Sufiya Ubah Ubah Waris Halva
+		}
+	}
+	afar = {
+		primary = AFA
+		dynasty_names = {
+			Walashma Muzaffar Garyin Gobrun Qaranli Jelaidi Harti Darod Gerad Abshire
+			# CKII
+			"Abron" "Deere" "Javier" "Isaac" "Digil" "Mirifle" "Gadaboursi" "Akaishi" "Biomal" "Sura"  "Issa" "Marehan" "Barttir" "Rahanwein" "Varsangali" "Samali"
+		}
+		male_names = {
+			Abadir Abdali Abdirahman Abdallahi Abram Abu-Bakr Adan Adiir Ahmed Ali Amalil Aul Aue
+			Aydahis Balad Barak Barakat Siise Dagal Dhidin Hamalmal Gamar Hamid Hantal Haqq Kharer
+			Ibrahim Irir Isman Jamal Cadafou Cadafou Khalaf Liban Mahamad Mohammed Mohammed
+			Mahamoud Mahmoud Mansour Nyahui Nelaya Nazir Noor Omer Said Said Saidaddin Sabir Sabr Sabraddin
+			Sadik Salah Siciid Talha Umar Umardin Yayou Yusuf Zuber Zubeir
+		}
+		female_names = {
+			Aisha Adei Alaso Ambru Amburu Asha Ashi Astur Auva Aurala Ayan Baani Basr Beidan
+			Bilan Kanab Kauvo Diika Delombiyr Dobyr Fadum Fathya Fawzia Ghazi Haweiya Hibak
+			Hoden Hudo Iftin Ginou Hadra Laden Layla Layla Libin Luala Magol Mac Mariam
+			Mulk Nastiekso Sagal Sahra Sufiya Ubah Ubah Waris Halva
+		}
+	}
+}
+

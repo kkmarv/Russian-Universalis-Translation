@@ -1,0 +1,99 @@
+#Country Name: Please see filename.
+
+graphical_culture = africangfx
+
+color = { 77 231 25 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	administrative_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	african_spearmen
+	mali_tribal_warfare
+	african_hill_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+	african_western_franchise_warfare
+	african_mandelaku
+	african_tuareg_cavalry
+	african_mossi_horsemen
+	african_hussar
+	african_dragoon
+}
+
+monarch_names = {
+	"Sapillem #0" = 40
+	"Niambre #0" = 20
+	"Salma #0" = 20
+	"Korongo #0" = 20
+	"Kum #0" = 20
+	"Yamba Sorgo #0" = 20
+	"Tiger #0" = 20
+	"Dulugu #0" = 20
+	"Sawadogo #0" = 20
+	"Carfo #0" = 20
+	"Baongo #0" = 20
+	"Kutu #0" = 20
+	"Sanum #0" = 20
+	"Wobgo #0" = 20
+	"Ointment #0" = 20
+	"Sigiri #0" = 20
+	"Saga #0" = 20
+	"Kugri #0" = 20
+	"Yadega #0" = 20
+	"Yolomfaogoona #0" = 20
+	"Corrita #0" = 20
+	"Geda #0" = 20
+	"Wobgo #0" = 20
+	"Kango #0" = 20
+	"Saga #0" = 20
+	"Kaongo #0" = 20
+	"Tuguri #0" = 0
+	"Korogo #0" = 0
+	"Ragongo #0" = 0
+	"Wobgo #0" = 0
+	"Niambe Mugo #0" = 0
+	"Totebaldbo #0" = 0
+	"Embe #0" = 0
+	"Sanum #0" = 0
+	"Voboga #0" = 0
+	"Piyo #0" = 0
+	"Bullly #0" = 0
+	"Vedraogo #0" = 0
+	"Ligidi #0" = 0
+	"Wobga #0" = 0
+	"Gigma #0" = 0
+	"Dramani #0" = 0
+
+	"Adaze #0" = -1
+	"Chidi #0" = -1
+	"Poko #0" = -1
+	"Kanga #0" = -1
+}
+
+leader_names = {
+	Addy
+	Afrifa
+	Gardens
+	Sabah
+	Zachary
+	Offers
+	Donkor
+	Akoto
+	Sribor
+	Moyoyo
+}
+
+ship_names = {
+	Niamey "Asase Yaa" Bia Tano
+	Benada Vuquada Yavoada Yavoada
+	Fiada Memeneda Quasiada
+}

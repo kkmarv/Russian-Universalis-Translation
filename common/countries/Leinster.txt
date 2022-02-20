@@ -1,0 +1,103 @@
+# Country name see file name.
+
+graphical_culture = westerngfx
+
+color = { 48  164  51 }
+
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+leader_names = {
+	"Kivanakh" "Conhovir"
+	"Mac Avalgig" "Mac an Schonnig" "Mac Cochlin" "Mac Kovhanig"
+	"Mak Konhnava" "Mac Lannhighigh" "Mac Finweer" "Mac Gilla Fadrig."
+	"Mac Rhinill" "Mac Tiharnin" "Magician Ohagin" 
+	"O'Ayvergyn" "O'Bean" "O'Cirebra" "O'Kindealhin" "O'Caharnig"
+	"O'Callig" "O'Kearha" "O'Carhill" "O'Korige" "O'Congalig"
+	"O'Cosrigue" "O'Diouganine" "O'Deanne" "O'Donnhaga" "O'Douvgill"
+	"O'Duwige" "O'Filin" "O'Argyll" "O'Finnaline" "O'Finntigerne"
+	"O'Ingusa" "O'Lorkin" "O'Millwig" "O'Ruirk" "O'Shagga" "O'Shanin"
+	"O'Tuehill"
+}
+
+monarch_names = {
+	"Domnal #7" = 40
+	"Muhe #3" = 40
+	"Art #1" = 40
+	"Kahir #0" = 40
+	"City #0" = 20
+	"Miris #0" = 20
+	"Miregah #1" = 20
+	"Krivkhann #0" = 20
+	"Diarmid #5" = 1
+	"Donnhad #5" = 1
+	"Agav #0" = 0
+	"Caduguan #0" = 0
+	"Kivin #0" = 0
+	"Kinnadig #0" = 0
+	"Daglan #0" = 0
+	"Dougal #0" = 0
+	"Finnlag #0" = 0
+	"Harvan #0" = 0
+	"Lahhtna #0" = 0
+	"Lorkan #0" = 0
+	"Minhin #0" = 0
+	"Mahueen #0" = 0
+	"Mellan #0" = 0
+	"Niwan #0" = 0
+	"Niall #0" = 0
+	"Ogran #0" = 0
+	"Padrig #0" = 0
+	"Quinn #0" = 0
+	"Ryan #0" = 0
+	"Riaunan #0" = 0
+	"Rordan #0" = 0
+	"Ruegri #0" = 0
+	"Ruerk #0" = 0
+	"Step #0" = 0
+	"Shanan #0" = 0
+	"Sync & corrections by #0" = 0
+	"Tigernach #0" = 0
+	"Tuehal #0" = 0
+	"Illim #0" = 0
+	"Inshann #0" = 0
+	
+	"Nissa #0" = -1
+	"Roshen #0" = -1
+	"Siofra #0" = -1
+}
+
+ship_names = {
+	"Karlov"
+	"Dublin"
+	"Kildare" "Kilkenny"
+	"Laios" "Longford" "Lout"
+	"Mit"
+	"Offali" 
+	"Westmith" "Wexford" "Wicklow"
+}

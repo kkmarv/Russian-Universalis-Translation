@@ -1,0 +1,225 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 2298	# Antalya ### STT
+religious_school = hanafi_school
+
+1261.1.1 = {
+	monarch = {
+		name = "Mentezhe"
+		dynasty = "Mentesheogullar"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1295.1.1 = {
+	monarch = {
+		name = "Mentezhe Masood"
+		dynasty = "Mentesheogullar"
+		birth_date = 1260.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1295.1.1 = {
+	heir = {
+		name = "Orhan"
+		monarch_name = "Orhan Shuja ad-Din"
+		dynasty = "Mentesheogullar"
+		birth_date = 1290.1.1
+		death_date = 1337.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1319.1.1 = {
+	monarch = {
+		name = "Orhan Shuja ad-Din"
+		dynasty = "Mentesheogullar"
+		birth_date = 1290.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1319.1.1 = {
+	heir = {
+		name = "Ibrahim"
+		monarch_name = "Ibrahim"
+		dynasty = "Mentesheogullar"
+		birth_date = 1310.1.1
+		death_date = 1354.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1337.1.1 = {
+	monarch = {
+		name = "Ibrahim"
+		dynasty = "Mentesheogullar"
+		birth_date = 1310.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1337.1.1 = {
+	heir = {
+		name = "Musa"
+		monarch_name = "Musa"
+		dynasty = "Mentesheogullar"
+		birth_date = 1330.1.1
+		death_date = 1375.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1354.1.1 = {
+	monarch = {
+		name = "Musa"
+		dynasty = "Mentesheogullar"
+		birth_date = 1330.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1354.1.1 = {
+	heir = {
+		name = "Ahmad"
+		monarch_name = "Ahmad Gazi Taj ad-Din"
+		dynasty = "Mentesheogullar"
+		birth_date = 1350.1.1
+		death_date = 1391.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+
+
+1375.1.1 = {
+	monarch = {
+		name = "Ahmad Gazi Taj ad-Din"
+		dynasty = "Mentesheogullar"
+		birth_date = 1350.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+
+1375.1.1 = {
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Muhammad"
+		dynasty = "Mentesheogullar"
+		birth_date = 1355.1.1
+		death_date = 1391.6.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1391.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Mentesheogullar"
+		birth_date = 1355.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1391.1.1 = {
+	heir = {
+		name = "Elias"
+		monarch_name = "Ilias Muzaffar ad-Din"
+		dynasty = "Mentesheogullar"
+		birth_date = 1375.1.1
+		death_date = 1391.6.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1391.6.1 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1399.1.1 = {
+	monarch = {
+		name = "Ilias Muzaffar ad-Din"
+		dynasty = "Mentesheogullar"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_piety = 0.2
+}
+
+1402.1.1 = {
+	heir = {
+		name = "Lice"
+		monarch_name = "Lice"
+		dynasty = "Mentesheogullar"
+		birth_date = 1395.1.1
+		death_date = 1424.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1421.1.1 = {
+	monarch = {
+		name = "Lice"
+		dynasty = "Mentesheogullar"
+		birth_date = 1395.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1424.1.1 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

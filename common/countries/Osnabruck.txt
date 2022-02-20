@@ -1,0 +1,113 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 196 169 168 }
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	maritime_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+#For use only when Munster is ruled by a bishop
+monarch_names = {
+	"Johann #2" = 40
+	"Erich #0" = 40
+	"Ferdinand #0" = 40
+	"Henry #0" = 40
+	"Otto #3" = 20
+	"Friedrich #2" = 20
+	"Conrad #1" = 20
+	"William #1" = 20
+	"Bernhardt #0" = 20
+	"Bernhard Christoph #0" = 20
+	"Franz #0" = 20
+	"Franz Arnold #0" = 20
+	"Frederick Christians #0" = 20
+	"Johann Wilhelm #0" = 20
+	"Ludwig #2" = 15
+	"Adolf #1" = 15
+	"Ludwig #1" = 10
+	"Alexander #0" = 0
+	"Andreas #0" = 0
+	"Baldur #0" = 0
+	"Bruno #0" = 0
+	"Clemens #0" = 0
+	"Deadrick #0" = 0
+	"Denis #0" = 0
+	"Ernst #0" = 20
+	"Florian #0" = 0
+	"Gregor #0" = 0
+	"Guntram #0" = 0
+	"Helmfried #0" = 0
+	"Helmut #0" = 0
+	"Isaac #0" = 0
+	"Jan #0" = 0
+	"Joachim #0" = 0
+	"Martin #0" = 0
+	"Michael #0" = 0
+	"Rainer #0" = 0
+	"Rudolph #0" = 0
+	"Sigismund #0" = 0
+	
+	"Syara #0" = -1
+	"Onira #0" = -1
+	"Treaza #0" = -1
+}
+
+leader_names = {
+	"Enste"
+	"Denhoff"
+	"von Cossel"
+	"de Turkheim"
+	"de Dornach"
+	"de Kircheim"
+	"Kempf"
+	"Waxmouth"
+	"Helff"
+	"Krefting"
+	"Kene"
+	"Engels"
+	"Belken"
+	"Meyer"
+}
+
+ship_names = {
+	"Leaudger"
+	"St. Lambert"
+	"Libfrauenkirche"
+	"Count von Hoya"
+	"Grevin"
+	"Hiltrup"
+	"Moritz"
+	"Wolbeck"
+	"Roxel"
+	"Zenden"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$" 
+}

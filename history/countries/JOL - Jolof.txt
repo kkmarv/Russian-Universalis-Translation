@@ -1,0 +1,642 @@
+government = tribal
+add_government_reform = tribal_despotism
+primary_culture = senegambian
+religion = sunni
+technology_group = sub_saharan
+capital = 1116
+
+
+#Rulers of the Jolof Empire
+1350.1.1 = {
+	monarch = {
+		name = "Ndiadiane"
+		dynasty = "Ndiaye"
+		dip = 4
+		adm = 4
+		mil = 5
+	}
+}
+
+1350.1.1 = {
+	heir = {
+		name = "Saré"
+		monarch_name = "Saré"
+		dynasty = "Ndiaye"
+		birth_date = 1340.1.1
+		death_date = 1390.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1370.1.1 = {
+	monarch = {
+		name = "Saré"
+		dynasty = "Ndiaye"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1370.1.1 = {
+	heir = {
+		name = "N'Dicklam"
+		monarch_name = "N'Diklam Sare"
+		dynasty = "Ndiaye"
+		birth_date = 1350.1.1
+		death_date = 1420.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1390.1.1 = {
+	monarch = {
+		name = "N'Diklam Sare"
+		dynasty = "Ndiaye"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1390.1.1 = {
+	heir = {
+		name = "Tiyukuli"
+		monarch_name = "Tiyukuli N'Diklam"
+		dynasty = "Ndiaye"
+		birth_date = 1360.1.1
+		death_date = 1440.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1420.1.1 = {
+	monarch = {
+		name = "Tiyukuli N'Diklam"
+		dynasty = "Ndiaye"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1420.1.1 = {
+	heir = {
+		name = "Leyti"
+		monarch_name = "Leyti Tiyukuli"
+		dynasty = "Ndiaye"
+		birth_date = 1390.1.1
+		death_date = 1450.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1440.1.1 = {
+	monarch = {
+		name = "Leyti Tiyukuli"
+		dynasty = "Ndiaye"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1440.1.1 = {
+	heir = {
+		name = "N'Dielen Mbei"
+		monarch_name = "N'Dielen Mbei Leyti."
+		dynasty = "Ndiaye"
+		birth_date = 1420.1.1
+		death_date = 1465.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1450.1.1 = {
+	monarch = {
+		name = "N'Dielen Mbei Leyti."
+		dynasty = "Ndiaye"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1450.1.1 = {
+	heir = {
+		name = "Biraima N'Dieme Ether"
+		monarch_name = "Biraima N'Dieme Ether"
+		dynasty = "Ndiaye"
+		birth_date = 1425.1.1
+		death_date = 1481.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1465.1.1 = {
+	monarch = {
+		name = "Biraima N'Dieme Ether"
+		dynasty = "Ndiaye"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1465.1.1 = {
+	heir = {
+		name = "Tase Daagulen"
+		monarch_name = "Tase Daagulen"
+		dynasty = "Ndiaye"
+		birth_date = 1440.1.1
+		death_date = 1488.1.1
+		claim = 95
+		dip = 0
+		adm = 2
+		mil = 2
+	}
+}
+
+1481.1.1 = {
+	monarch = {
+		name = "Tase Daagulen"
+		dynasty = "Ndiaye"
+		dip = 0
+		adm = 2
+		mil = 2
+	}
+}
+
+1481.1.1 = {
+	heir = {
+		name = "Biraima Kuran Kan"
+		monarch_name = "Biraima Kuran Kan"
+		dynasty = "Ndiaye"
+		birth_date = 1450.1.1
+		death_date = 1492.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1488.1.1 = {
+	monarch = {
+		name = "Biraima Kuran Kan"
+		dynasty = "Ndiaye"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1488.1.1 = {
+	heir = {
+		name = "Buchaar Bije-Sungle"
+		monarch_name = "Buchaar Bije-Sungle"
+		dynasty = "Ndiaye"
+		birth_date = 1465.1.1
+		death_date = 1527.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1492.1.1 = {
+	monarch = {
+		name = "Buchaar Bije-Sungle"
+		dynasty = "Ndiaye"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1492.1.1 = {
+	heir = {
+		name = "Biraima Dieme-Cumba"
+		monarch_name = "Biraima Dieme-Cumba"
+		dynasty = "Ndiaye"
+		birth_date = 1485.1.1
+		death_date = 1543.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1527.1.1 = {
+	monarch = {
+		name = "Biraima Dieme-Cumba"
+		dynasty = "Ndiaye"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1527.1.1 = {
+	heir = {
+		name = "Lele Fully Fuck"
+		monarch_name = "Lele Fully Fuck"
+		dynasty = "Ndiaye"
+		birth_date = 1490.1.1
+		death_date = 1549.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1543.1.1 = {
+	monarch = {
+		name = "Lele Fully Fuck"
+		dynasty = "Ndiaye"
+		dip = 1
+		adm = 1
+		mil = 1
+	}
+}
+
+1543.1.1 = {
+	heir = {
+		name = "al-Buri Penda"
+		monarch_name = "al-Buri Penda"
+		dynasty = "Ndiaye"
+		birth_date = 1510.1.1
+		death_date = 1566.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1549.1.1 = {
+	monarch = {
+		name = "al-Buri Penda"
+		dynasty = "Ndiaye"
+		dip = 2
+		adm = 1
+		mil = 1
+	}
+}
+
+1549.1.1 = {
+	heir = {
+		name = "Lat-Samba"
+		monarch_name = "Lat-Samba"
+		dynasty = "Ndiaye"
+		birth_date = 1520.1.1
+		death_date = 1597.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1566.1.1 = {
+	monarch = {
+		name = "Lat-Samba"
+		dynasty = "Ndiaye"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1566.1.1 = {
+	heir = {
+		name = "Gireun Bury Dielen"
+		monarch_name = "Gireun Bury Dielen"
+		dynasty = "Ndiaye"
+		birth_date = 1566.1.1
+		death_date = 1605.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1597.1.1 = {
+	monarch = {
+		name = "Gireun Bury Dielen"
+		dynasty = "Ndiaye"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1597.1.1 = {
+	heir = {
+		name = "Biraima Penda"
+		monarch_name = "Biraima Penda"
+		dynasty = "Ndiaye"
+		birth_date = 1580.1.1
+		death_date = 1649.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1605.1.1 = {
+	monarch = {
+		name = "Biraima Penda"
+		dynasty = "Ndiaye"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1620.1.1 = {
+	heir = {
+		name = "Biraima Mba"
+		monarch_name = "Biraima Mba"
+		dynasty = "Ndiaye"
+		birth_date = 1620.1.1
+		death_date = 1670.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1649.1.1 = {
+	monarch = {
+		name = "Biraima Mba"
+		dynasty = "Ndiaye"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1649.1.1 = {
+	heir = {
+		name = "Bakar Penda"
+		monarch_name = "Bakar Penda"
+		dynasty = "Ndiaye"
+		birth_date = 1640.1.1
+		death_date = 1711.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1670.1.1 = {
+	monarch = {
+		name = "Bakar Penda"
+		dynasty = "Ndiaye"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1670.1.1 = {
+	heir = {
+		name = "Bakan-Tam Gan"
+		monarch_name = "Bakan-Tam Gan"
+		dynasty = "Ndiaye"
+		birth_date = 1665.1.1
+		death_date = 1721.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1711.1.1 = {
+	monarch = {
+		name = "Bakan-Tam Gan"
+		dynasty = "Ndiaye"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1711.1.1 = {
+	heir = {
+		name = "al-Buri Diacher"
+		monarch_name = "al-Buri Diacher"
+		dynasty = "Ndiaye"
+		birth_date = 1680.1.1
+		death_date = 1740.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1721.1.1 = {
+	monarch = {
+		name = "al-Buri Diacher"
+		dynasty = "Ndiaye"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1721.1.1 = {
+	heir = {
+		name = "Birayamb"
+		monarch_name = "Birayamb"
+		dynasty = "Ndiaye"
+		birth_date = 1695.1.1
+		death_date = 1748.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1740.1.1 = {
+	monarch = {
+		name = "Birayamb"
+		dynasty = "Ndiaye"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1740.1.1 = {
+	heir = {
+		name = "Birawa Keme"
+		monarch_name = "Birawa Keme"
+		dynasty = "Ndiaye"
+		birth_date = 1700.1.1
+		death_date = 1750.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1748.1.1 = {
+	monarch = {
+		name = "Birawa Keme"
+		dynasty = "Ndiaye"
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1748.1.1 = {
+	heir = {
+		name = "Lat-Codou"
+		monarch_name = "Lat-Codou"
+		dynasty = "Ndiaye"
+		birth_date = 1720.1.1
+		death_date = 1755.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1750.1.1 = {
+	monarch = {
+		name = "Lat-Codou"
+		dynasty = "Ndiaye"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1750.1.1 = {
+	heir = {
+		name = "Bakaa-Tam Buri Nyabu"
+		monarch_name = "Bakaa-Tam Buri Nyabu"
+		dynasty = "Ndiaye"
+		birth_date = 1730.1.1
+		death_date = 1763.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1755.1.1 = {
+	monarch = {
+		name = "Bakaa-Tam Buri Nyabu"
+		dynasty = "Ndiaye"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1755.1.1 = {
+	heir = {
+		name = "Mba Compass"
+		monarch_name = "Mba Compass"
+		dynasty = "Ndiaye"
+		birth_date = 1740.1.1
+		death_date = 1800.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1763.1.1 = {
+	monarch = {
+		name = "Mba Kompass"
+		dynasty = "Ndiaye"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1780.1.1 = {
+	heir = {
+		name = "Mba Buri Nyabu"
+		monarch_name = "Mba Buri Nyabu"
+		dynasty = "Ndiaye"
+		birth_date = 1780.1.1
+		death_date = 1818.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1800.1.1 = {
+	monarch = {
+		name = "Mba Buri Nyabu"
+		dynasty = "Ndiaye"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1800.1.1 = {
+	heir = {
+		name = "Birayamb Kumba Gay"
+		monarch_name = "Birayamb Kumba Gay"
+		dynasty = "Ndiaye"
+		birth_date = 1790.1.1
+		death_date = 1838.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1818.1.1 = {
+	monarch = {
+		name = "Birayamb Kumba Gay"
+		dynasty = "Ndiaye"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}

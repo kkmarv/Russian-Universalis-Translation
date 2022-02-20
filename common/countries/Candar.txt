@@ -1,0 +1,156 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 114  70  103 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	religious_ideas
+	spy_ideas
+	trade_ideas
+	economic_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Temur Yaman Kandar #1" = 20
+	"Suleiman #1" = 30
+	"Ibrahim #1" = 30
+	"Adil #1" = 20
+	"Bayezid #1" = 20
+	"Isfendiar #0" = 20
+	"Ali #0" = 10
+	"Mourad #0" = 10
+	"Temur #0" = 20
+	"Mehmed #0" = 10
+	"Abdul-Mekid #0" = 10
+	"Musa #0" = 10
+	"Isa #0" = 10
+	"Isak #0" = 0
+	"Kamar #0" = 0
+	"Kasim #0" = 0
+	"Corcud #0" = 0
+	"Omar #0" = 0
+	"Safettin #0" = 0
+	"Jakub #0" = 5
+	"Yusuf #0" = 5
+	"Aydin #0" = 0
+	"Iskander #0" = 0
+	"Dowd #0" = 0
+	"Hassan #0" = 0
+	"Hussain #0" = 0
+	
+	"Zeynep #0" = -1
+	"Amine #0" = -1
+}
+
+leader_names = {
+	"Alemdar"
+  "Amaziali"
+  "Ayas"
+  "Bali"
+  "Barbados"
+  "Bairam"
+  "Jezzar"
+  "Chandarly"
+  "Chelebi"
+  "Jerrah" 
+  "Circassia"
+  "Jivan"
+  "Chukhadar"
+  "Damad"
+  "Service"
+  "Defterdar"
+  "Gedik"
+  "Gazi"
+  "Gyumuljineli"
+  "Gurdyu"
+  "Hadim"
+  "Hekimoglu"
+  "Herculesly"
+  "Kyopryul"
+  "Kemal"
+  "Kuchuchuk"
+  "Koja"
+  "Karamanly"
+  "Kyoshe" 
+  "Kara"
+  "Canigeli"
+  "Kemankes"
+  "Kaymak"
+  "Kavali"
+  "Ishaq"
+  "Izzed"
+  "Lala"
+  "Lefkeli"
+  "Malkoch"
+  "Muezzinzade"
+  "Neushehirley"
+  "Nisangi"
+  "Oruch"
+  "Uluch"
+  "Osmanjikli"
+  "Ohryli"
+  "Oflu"
+  "Rumi"
+  "Peary"
+  "Pargali"
+  "Piillet"
+	"Pehliwan"
+  "Salih"
+  "Sokullu"
+  "Sari"
+  "Silyahdar"
+  "Semiz"
+  "Serdar"
+  "Topal"
+  "Tayyar"
+  "Turgut"
+  "Tarhunju"
+  "Veli"
+  "Yemishchi"
+}
+
+ship_names = {
+  "Temur Yaman"
+	"Baezid"
+	"Kandaroglu"
+	"Isfendiar"
+	"Suleiman"
+	"Castamon"
+	"Tosya"
+	"Sarayduzu"
+	"Devrekani"
+	"Agli"
+	"Give it to ."
+	"Bozkuri"
+	"Kure"
+	"Arak"
+	"Kargi"
+	"Canonu"
+}
+
+army_names = {
+	"Ordusu $PROVINCE$"
+}
+
+fleet_names = {
+	"Donanmaso $PROVINCE$"
+}

@@ -1,0 +1,184 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 199  175  12 }
+
+preferred_religion = reformed
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	exploration_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	trade_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	scottish_highlander
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+leader_names = {
+	"Adam"
+	"Alexander"
+	"Bruce"
+	"Beaton"
+	"Boyd"
+	"Cameron"
+	"Campbell"
+	"Cochrane"
+	"Kriston"
+	"Cunningham"
+	"Crawford"
+	"Carnegie"
+	"Portmore"
+	"Douglas"
+	"Duncan"
+	"de Dunbar"
+	"Dolzel"
+	"Drummond"
+	"Erskine"
+	"Forbes"
+	"Ferguson"
+	"Fletcher"
+	"Fleming"
+	"Gordon"
+	"Graham"
+	"Gilchrist"
+	"Yum"
+	"Hepburn"
+	"Hamilton"
+	"Johnston"
+	"Knox"
+	"Kate"
+	"Kerr"
+	"Lowe"
+	"Leslie"
+	"Livingston"
+	"Lindsay"
+	"McKenzie"
+	"McDonald"
+	"MacGregor"
+	"Malise"
+	"McTaggart"
+	"Montgomery"
+	"McWell"
+	"Murray"
+	"Maitland"
+	"Nesmit"
+	"Ogilvy"
+	"Playfair"
+	"Paterson"
+	"Reburn"
+	"Randolph"
+	"Ratven"
+	"Celkerk"
+	"Stretbogs"
+	"Sinclair"
+	"Stuart"
+	"Seton"
+	"Wilkie"
+	"Wishart"
+	"Wemiss"
+}
+
+monarch_names = {
+	"Jacob #0" = 120
+	"Robert #2" = 20
+	"Henry #0" = 20
+	"Alexander #3" = 10
+	"Arthur #0" = 10
+	"Maria #0" = -10
+	"Stuart #0" = 10
+	"John #1" = 5
+	"Karl #0" = 5
+	"Malcolm #4" = 1
+	"Donald #3" = 1
+	"David #2" = 1
+	"Duncan #2" = 1
+	"Andrea #0" = 0
+	"Alan #0" = 0
+	"Elpin #0" = 0
+	"Archibald #0" = 0
+	"Barclay #0" = 0
+	"Beaten #0" = 0
+	"Bruce #0" = 0
+	"Cameron #0" = 0
+	"Syned #0" = 0
+	"Conall #0" = 0
+	"Douglas #0" = 0
+	"Duff #0" = 0
+	"Edan #0" = 0
+	"Evander #0" = 0
+	"Frasier #0" = 0
+	"Harry #0" = 0
+	"Glen #0" = 0
+	"Ian #0" = 0
+	"Kyre #0" = 0
+	"Kennedy #0" = 0
+	"Lennox #0" = 0
+	"Logan #0" = 0
+	"Michael #0" = 0
+	"Mango #0" = 0
+	"Munroe #0" = 0
+	"Scott #0" = 0
+	"Wallace #0" = 0
+}
+
+ship_names = {
+	"Edwantige"
+	"Anne of Anstraater"
+	"Bonaventure"
+	"Bruce"
+	"Karl"
+	"Christian of Bonnes"
+	"Christopher"
+	"Kukko"
+	"Flower"
+	"Fortune"
+	"Hood Fortune"
+	"Green Three"
+	"Great Michael"
+	"James"
+	"Janet"
+	"Jenny Pearwin"
+	"Kings Caravel"
+	"Lamb of Leith"
+	"Leslie"
+	"Lyon"
+	"Margaret"
+	"Margaret of Peterhead"
+	"Mary Willoughby."
+	"Mary Walsingham"
+	"Mercury"
+	"Moon"
+	"Morton"
+	"Pelican"
+	"Prince Rupert"
+	"Providence of Dundee"
+	"Rainbow of the Dundee"
+	"Rothsey"
+	"Salamander"
+	"St. Salvatore"
+	"Fisl"
+	"Unicorn"
+	"Venture"
+	"Wemiss"
+	"Yellow Caravel"
+}

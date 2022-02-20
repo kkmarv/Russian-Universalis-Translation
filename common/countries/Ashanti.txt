@@ -1,0 +1,109 @@
+#Country Name: Please see filename.
+
+graphical_culture = africangfx
+
+color = { 97  98  195 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	administrative_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	african_spearmen
+	songhai_tribal_warfare
+	niger_kongolese_forest_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+	niger_kongolese_guerilla_warfare
+	african_mandelaku
+	african_tuareg_cavalry
+	african_mossi_horsemen
+	african_hussar
+	african_dragoon		
+}
+
+monarch_names = {
+	"Beryguviemda #0" = 40
+	"Long #0" = 20
+	"Zongman #0" = 20
+	"Nengmitoni #0" = 20
+	"Dimani #0" = 20
+	"Yanza #0" = 20
+	"Daritizio #0" = 20
+	"Luro #0" = 20
+	"Tutugri #0" = 20
+	"Tzagali #0" = 20
+	"Zokuli #0" = 20
+	"Gungoble #0" = 20
+	"Boadu Akofu Berempon #0" = 20
+	"Boa Amponsem #0" = 20
+	"Ntim Gyakari #0" = 20
+	"Tutu Axis #0" = 20
+	"Opoku Fifi #0" = 20
+	"Opoku Vare #0" = 20
+	"Kusi Obodum #0" = 20
+	"Bonsu Axis #0" = 20
+	"Axei Koyo #0" = 20
+	"Aosey Kwame #0" = 20
+	"Aosey Fofi #0" = 20
+	"Osei Java #0" = 20
+	"Kwaku Dua #0" = 20
+	"Salifu Satankugri #0" = 0
+	"Mahama Kuluguba #0" = 0
+	"Nyagse #0" = 0
+	"Zulande #0" = 0
+	"Zangina #0" = 0
+	"Andan Sigilly #0" = 0
+	"Jimmy #0" = 0
+	"Tibirim #0" = 0
+	"Gariba #0" = 0
+	"Yakuba #0" = 0
+	"Ayekeraa #0" = 0
+	"Kokobo #0" = 0
+	"Ahaha #0" = 0
+	"Varembé Ampen #0" = 0
+	"Agiynamoa #0" = 0
+	"Tvum #0" = 0
+	"Kobla Amana #0" = 0
+	"Akenten #0" = 0
+	"Obiri Yeboa #0" = 0
+	"Pole #0" = 0
+	"Antwi #0" = 0
+
+    "Adeza #0" = -1
+	"Chidi #0" = -1
+}
+
+leader_names = {
+	"Addy"
+	"Afrifa"
+	"Gardens"
+	"Sabah"
+	"Tzakari"
+	"Offay"
+	"Donkor"
+	"Akoto"
+	"Sribor"
+	"Moyoyo"
+}
+
+ship_names = {
+	"Näme"
+	"Asase Yaa"
+	"Bia"
+	"Tano"
+	"Dvoada"
+	"Benada"
+	"Vuquada"
+	"Javoada"
+	"Fiada"
+	"Memenade"
+	"Quasiada"
+}

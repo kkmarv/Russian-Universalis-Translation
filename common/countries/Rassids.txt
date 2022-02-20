@@ -1,0 +1,87 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 130  58  53 }
+
+historical_idea_groups = {
+	defensive_ideas
+	maritime_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Ismayil #0" = 10
+	"Saladin Ahmad #0" = 10
+	"Abdallah #0" = 10
+	"Yahya #0" = 10
+	"Yusuf #1" = 10
+	"Sala ad-Din Amir #0" = 10
+	"Ali #0" = 10
+	"Abd al-Wahhab #0" = 10
+	"Omar #0" = 10
+	"Al-Mutakhar #3" = 10
+	"Muhammad #0" = 10
+	"Al-Qasim #0" = 10
+	"Ahmed #0" = 10
+	"Al-Hussein #0" = 10
+	"Al-Abbas #0" = 10
+	"Abdallah #0" = 10
+	
+	"Hiba #0" = -1
+}
+
+leader_names = {
+	"Ali"
+	"Ibrahim"
+	"Issa"
+	"Jomaa"
+	"Khalil"
+	"Mansour"
+	"Saad"
+	"Shammas"
+	"Saleh"
+	"Saab"
+}
+
+ship_names = {
+	"Ali ibn Rassoul"
+	"Mansour Omar"
+	"Zizz"
+	"Zabid"
+	"Muzaffar Yusuf"
+	"Malik al-Mujahid"
+	"Sheikh Osman"
+	"Al-Qaud"
+	"Vhadra"
+	"Wadi Bana"
+	"Taizz"
+	"At-Tubah"
+	"Zubabab"
+	"Jabal Haraz"
+	"Musaymir"
+	"Mauija"
+	"Jabal al-Hasha"
+	"Ibb"
+	"Kataba"
+	"Jabal Tamar"
+}

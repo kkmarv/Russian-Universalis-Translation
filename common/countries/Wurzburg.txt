@@ -1,0 +1,124 @@
+# Wьrzburg
+
+graphical_culture = westerngfx
+
+color = { 147  146  106 }
+
+revolutionary_colors = { 5  13  8 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Johann #0" = 60
+	"Conrad #1" = 40
+	"Johann Gottfried #0" = 40
+	"Johann Philippe #0" = 40
+	"Gottfried #3" = 20
+	"Rudolph #1" = 20
+	"Adam Friedrich #0" = 20
+	"Anselm Franz #0" = 20
+	"Christophe Franz #0" = 20
+	"Ferdinand #0" = 20
+	"Franz #0" = 20
+	"Franz Ludwig #0" = 20
+	"Friedrich #0" = 20
+	"Friedrich Karl #0" = 20
+	"George Karl #0" = 20
+	"Johann Hartmann #0" = 20
+	"Julius Ehter #0" = 20
+	"Carl Phillip #0" = 20
+	"Conrad Wilhelm #0" = 20
+	"Lorenz #0" = 20
+	"Melchior #0" = 20
+	"Peter Philippe #0" = 20
+	"Philippe Adolf #0" = 20
+	"Philippe Franz #0" = 20
+	"Sigismund #0" = 20
+	"Albrecht #3" = 15
+	"Herman #2" = 15
+	"Otto #2" = 15
+	"Gerhardt #1" = 15
+	"Wulfram #1" = 15
+	"Leopold #0" = 15
+	"Henry #5" = 10
+	"Poppo #3" = 10
+	"Berthold #2" = 10
+	"Andreas #1" = 10
+	"Dietrich #1" = 10
+	"Friedrich #1" = 10
+	"Alfred #0" = 0
+	"Christian #0" = 0
+	"Jurgen #0" = 0
+	
+	"Regina #0" = -1
+	"Salome #0" = -1
+	"Tora #0" = -1
+}
+
+leader_names = {
+	"Dick"
+	"Zelle"
+	"Zelle"
+	"Schwager"
+	"Fichtelman"
+	"Guerre"
+	"Ran"
+	"Goebelin"
+	"Ber"
+	"Degen"
+	"Ferber"
+	"Simon"
+	"Wirth"
+	"Sak"
+	"Blochberger"
+	"Fedich"
+	"Egelcraut"
+	"Hager"
+	"Hoffman"
+}
+
+ship_names = {
+	"Marienberg"
+	"Julius Ehter"
+	"Main"
+	"Hechberg"
+	"Rimpar"
+	"Bibelfried"
+	"Eigelstadt"
+	"Ittingen"
+	"Gramshats"
+	"Verne"
+	"Bergtheim"
+	"Kitzingen"
+	"Oxenfurt"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$" 
+}

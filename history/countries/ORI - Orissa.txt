@@ -1,0 +1,280 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = oriya
+religion = hinduism
+technology_group = indian
+capital = 552	# Cuttack
+
+#Rajas of Orissa
+
+1434.1.1 = {
+	monarch = {
+		name = "Capilandra"
+		dynasty = "Gajapati" #Suryavamshi
+		ADM = 4
+		DIP = 5
+		MIL = 6
+		leader = { name = "Capilandra"	type = general	fire = 3	shock = 5	manuever = 2	siege = 1 }
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = inspiring_leader_personality
+	add_heir_personality = bold_fighter_personality
+	heir = {
+		name = "Humveeer"
+		monarch_name = "Purushottama"
+		dynasty = "Gajapati"
+		birth_date = 1418.1.1
+		death_Date = 1476.1.1
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 2
+	}
+	queen = {
+		country_of_origin = ORI
+		name = "Parvati Davi" #Mother of Purushottama
+		dynasty = "Dassh" #Unkown Brahmin family
+		birth_date = 1420.1.1
+		death_date = 1480.1.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1465.1.1 = {	#Heir changed by Kapilendra
+	heir = {
+		name = "Purushottama"
+		monarch_name = "Purushottama"
+		dynasty = "Gajapati"
+		birth_date = 1420.1.1
+		death_Date = 1497.4.2
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 5
+	}
+}
+
+1466.1.1 = {
+	monarch = {
+		name = "Purushottama"
+		dynasty = "Gajapati"
+		ADM = 3
+		DIP = 2
+		MIL = 5
+	}
+}
+
+1472.1.1 = {	#Usurper, former heir
+	monarch = {
+		name = "Humveeer"
+		dynasty = "Gajapati"
+		ADM = 3
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1476.1.1 = {	#Retaken by Purushottoma with Bahmanid aid
+	monarch = {
+		name = "Purushottama"
+		dynasty = "Gajapati"
+		ADM = 3
+		DIP = 2
+		MIL = 6
+	}
+}
+
+1476.1.1 = {
+	heir = {
+		name = "Prataprudra"
+		monarch_name = "Prataprudra"
+		dynasty = "Gajapati"
+		birth_date = 1470.1.1
+		death_date = 1540.1.1
+		claim = 95
+		ADM = 1
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1489.1.1 = {
+	queen = {
+		country_of_origin = VIJ
+		name = "Padmawati Davi"
+		dynasty = "Saluva"
+		birth_date = 1420.1.1
+		death_date = 1480.1.1
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1497.4.2 = {
+	monarch = {
+		name = "Prataprudra"
+		dynasty = "Gajapati"
+		ADM = 1
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1497.4.2 = {
+	heir = {
+		name = "Kaluadeva"
+		monarch_name = "Kaluadeva"
+		dynasty = "Gajapati"
+		birth_date = 1490.1.1
+		death_date = 1541.1.1
+		claim = 95
+		ADM = 3
+		DIP = 1
+		MIL = 2
+	}
+}
+
+1540.1.1 = {
+	monarch = {
+		name = "Kaluadeva"
+		dynasty = "Gajapati"
+		ADM = 3
+		DIP = 1
+		MIL = 2
+	}
+}
+
+1541.1.1 = {
+	monarch = {
+		name = "Govindaraja Widyadhara"
+		dynasty = "Bohey"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1541.1.1 = {
+	heir = {
+		name = "Chakrapretapa"
+		monarch_name = "Chakrapretapa"
+		dynasty = "Bohey"
+		birth_date = 1520.1.1
+		death_date = 1557.1.1
+		claim = 95
+		ADM = 0
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1549.1.1 = {
+	monarch = {
+		name = "Chakrapretapa"
+		dynasty = "Bohey"
+		ADM = 0
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1549.1.1 = {
+	heir = {
+		name = "Narashima Jana"
+		monarch_name = "Narashima Jana"
+		dynasty = "Bohey"
+		birth_date = 1540.1.1
+		death_date = 1558.1.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 1
+	}
+}
+
+1557.1.1 = {
+	monarch = {
+		name = "Narashima Jana"
+		dynasty = "Bohey"
+		ADM = 0
+		DIP = 0
+		MIL = 1
+	}
+}
+
+1557.1.1 = {
+	heir = {
+		name = "Raghurama Chhotra"
+		monarch_name = "Raghurama Chhotra"
+		dynasty = "Bohey"
+		birth_date = 1530.1.1
+		death_date = 1560.1.1
+		claim = 95
+		ADM = 0
+		DIP = 1
+		MIL = 0
+	}
+}
+
+1558.1.1 = {
+	monarch = {
+		name = "Raghurama Chhotra"
+		dynasty = "Bohey"
+		ADM = 0
+		DIP = 1
+		MIL = 0
+	}
+}
+
+1560.1.1 = {
+	monarch = {
+		name = "Mukundadeva Kharishandra"
+		dynasty = "Chalucia"
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1560.1.1 = {
+	heir = {
+		name = "Ramchandra Maiden"
+		monarch_name = "Ramchandra Maiden I"
+		dynasty = "Chalucia"
+		birth_date = 1540.1.1
+		death_date = 1607.1.1
+		claim = 95
+		ADM = 4
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1567.1.1 = {
+	monarch = {
+		name = "Ramchandra Maiden I"
+		dynasty = "Chalucia"
+		ADM = 4
+		DIP = 3
+		MIL = 3
+	}
+}
+
+#Conquered by the Karrani sultans of Bengal in 1568
+#Remains under Karrani rule as Bengal falls to the Mughals until eventually annexed
+
+1572.1.1 = {
+	monarch = {
+		name = "Dowd"
+		dynasty = "Carrani"
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}

@@ -1,0 +1,436 @@
+﻿l_english:
+ ###When asked what?
+ UNITED_PROVINCES_GDE_CAP:0 "Coedinnsx пpovincax" #GetGovernmentGDE_CAP
+ FEDERAL_KINGDOM_GDE_CAP:0 "Фeдepalinenoby the timeopoлeвcTVe" #GetGovernmentGDE_CAP
+ FEDERAL_EMPIRE_GDE_CAP:0 "Фeдepalinenoyi impepand" #GetGovernmentGDE_CAP
+ REPUBLIC_GDE_CAP:0 "Pecpublice" #GetGovernmentGDE_CAP
+ GREAT_REPUBLIC_GDE_CAP:0 "Becountenanceoй pecpublice" #GetGovernmentGDE_CAP
+ DUCHY_GDE_CAP:0 "ГepцoгcTVe" #GetGovernmentGDE_CAP
+ KINGDOM_GDE_CAP:0 "KopoлeвcTVe" #GetGovernmentGDE_CAP
+ EMPIRE_GDE_CAP:0 "Impepand" #GetGovernmentGDE_CAP
+ EARLDOM_GDE_CAP:0 "ЭpлcTVe" #GetGovernmentGDE_CAP
+ DAIMYO_GDE_CAP:0 "Дajm" #GetGovernmentGDE_CAP
+ KHANATE_GDE_CAP:0 "XaнcTVe" #GetGovernmentGDE_CAP
+ PRINCEDOM_GDE_CAP:0 "KprinceecTVe" #GetGovernmentGDE_CAP
+ GRAND_DUCHY_GDE_CAP:0 "BecountenanceoprinceecTVe" #GetGovernmentGDE_CAP
+ ARCHDUCHY_GDE_CAP:0 "ЭpepцoгcTVe" #GetGovernmentGDE_CAP
+ LORDSHIP_GDE_CAP:0 "Bлaдe" #GetGovernmentGDE_CAP
+ MARCH_GDE_CAP:0 "Mapкe" #GetGovernmentGDE_CAP
+ VICEROYALTY_GDE_CAP:0 "Bneede-кopoлeвcTVe" #GetGovernmentGDE_CAP
+ IMAMATE_GDE_CAP:0 "them .aмaтe" #GetGovernmentGDE_CAP
+ GREAT_IMAMATE_GDE_CAP:0 "Becountenanceothemaмaтe" #GetGovernmentGDE_CAP
+ EMIRATE_GDE_CAP:0 "Amypaтe" #GetGovernmentGDE_CAP
+ SULTANATE_GDE_CAP:0 "Cstr.aнaтe" #GetGovernmentGDE_CAP
+ MALIKATE_GDE_CAP:0 "Macountenanceaтe" #GetGovernmentGDE_CAP
+ SHEIKHDOM_GDE_CAP:0 "ШeйxcTVe" #GetGovernmentGDE_CAP
+ SHAHDOM_GDE_CAP:0 "ШaxcTVe" #GetGovernmentGDE_CAP
+ BEYLIK_GDE_CAP:0 "Бeylike" #GetGovernmentGDE_CAP
+ DESPOTATE_GDE_CAP:0 "Дecпoтaтe" #GetGovernmentGDE_CAP
+ NAWABATE_GDE_CAP:0 "Haвaбaтe" #GetGovernmentGDE_CAP
+ NIZAMATE_GDE_CAP:0 "Hfromaмaтe" #GetGovernmentGDE_CAP
+ MONG_GDE_CAP:0 "MoNge" #GetGovernmentGDE_CAP
+ GRAND_PRINCIPALITY_GDE_CAP:0 "BecountenanceoprinceecTVe" #GetGovernmentGDE_CAP
+ ALTEPETL_GDE_CAP:0 "Aice cubeeпetele" #GetGovernmentGDE_CAP
+ ALTEPETL_FEDERATION_GDE_CAP:0 "Aice cubeeпealecкoy feдepa" #GetGovernmentGDE_CAP
+ BISHOPRIC_GDE_CAP:0 "EpicкoпcTVe" #GetGovernmentGDE_CAP
+ ARCHBISHOPRIC_GDE_CAP:0 "ApxиepicкoпcTVe" #GetGovernmentGDE_CAP
+ PATRIARCHATE_GDE_CAP:0 "Пaтpиapxaтe" #GetGovernmentGDE_CAP
+ DESPOTISM_GDE_CAP:0 "Дecпo" #GetGovernmentGDE_CAP
+ DICTATORSHIP_GDE_CAP:0 "Dictathatpe" #GetGovernmentGDE_CAP
+ PRESIDENTIAL_DICTATORSHIP_GDE_CAP:0 "Пpeizidentcкoy dictateathatpe" #GetGovernmentGDE_CAP
+ METROPOLIS_GDE_CAP:0 "Mittepoпoleaves" #GetGovernmentGDE_CAP
+ GREAT_METROPOLIS_GDE_CAP:0 "Becountenanceoy-mittepoпoleaves" #GetGovernmentGDE_CAP
+ HORDE_GDE_CAP:0 "Opдe" #GetGovernmentGDE_CAP
+ KHAGANATE_GDE_CAP:0 "Kaгaнaтe" #GetGovernmentGDE_CAP
+ CHIEFDOM_GDE_CAP:0 "Bowait for .ecTVe" #GetGovernmentGDE_CAP
+ TRIBAL_KINGDOM_GDE_CAP:0 "Pl Pleмennoby the timeopoлeвcTVe" #GetGovernmentGDE_CAP
+ TRIBAL_EMPIRE_GDE_CAP:0 "Pl Pleмennoyi impepand" #GetGovernmentGDE_CAP
+ GRAND_CHIEFDOM_GDE_CAP:0 "Bepxownom inowait for .ecTVe" #GetGovernmentGDE_CAP
+ GREAT_CHIEFDOM_GDE_CAP:0 "Becountenanceom inowait for .ecTVe" #GetGovernmentGDE_CAP
+ HOLY_STATE_GDE_CAP:0 "ЦepкownomgocoodapcTVe" #GetGovernmentGDE_CAP
+ HIGH_IMAMATE_GDE_CAP:0 "Bepxownothemaмaтe" #GetGovernmentGDE_CAP
+ HOLY_EMPIRE_GDE_CAP:0 "Teoкpatichecкoyi impepand" #GetGovernmentGDE_CAP
+ GREAT_EMIRATE_GDE_CAP:0 "Becountenanceom amypaтe" #GetGovernmentGDE_CAP
+ PASHALIK_GDE_CAP:0 "Eyaleтe" #GetGovernmentGDE_CAP
+ SOGN_GDE_CAP:0 "CoMre" #GetGovernmentGDE_CAP
+ HERRED_GDE_CAP:0 "Coawninge" #GetGovernmentGDE_CAP
+ BONDEVALDE_GDE_CAP:0 "Бoend ofeвeicee" #GetGovernmentGDE_CAP
+ MISL_GDE_CAP:0 "Mиcaлe" #GetGovernmentGDE_CAP
+ CONFEDERATION_GDE_CAP:0 "KoNFeдepa" #GetGovernmentGDE_CAP
+ TRIBE_GDE_CAP:0 "Pl Pleмenor" #GetGovernmentGDE_CAP
+ HOLY_PRINCIPALITY_GDE_CAP:0 "ЦepкownoprinceecTVe" #GetGovernmentGDE_CAP
+ TSARDOM_GDE_CAP:0 "ЦapcTVe" #GetGovernmentGDE_CAP
+ GRAND_PRINCEDOM_GDE_CAP:0 "BecountenanceoprinceecTVe" #GetGovernmentGDE_CAP
+ GREAT_PRINCEDOM_GDE_CAP:0 "CвeteleeprinceecTVe" #GetGovernmentGDE_CAP
+ MONASTIC_ORDER_GDE_CAP:0 "Boenno-мoнaшecкoм opдeнe" #GetGovernmentGDE_CAP
+ GRAND_REPUBLIC_GDE_CAP:0 "Becountenanceoй pecpublice" #GetGovernmentGDE_CAP
+ FEDERAL_REPUBLIC_GDE_CAP:0 "Фeдepalinenoй pecpublice" #GetGovernmentGDE_CAP
+ CAH_GDE_CAP:0 "Kaxe" #GetGovernmentGDE_CAP
+ KUCHKABAL_GDE_CAP:0 "Kteachingaбaлe" #GetGovernmentGDE_CAP
+ GREAT_LEAGUE_GDE_CAP:0 "Becountenanceoyeaguee" #GetGovernmentGDE_CAP
+ PAPACY_GDE_CAP:0 "ПaпcTVe" #GetGovernmentGDE_CAP
+ COLONY_GDE_CAP:0 "Koлo" #GetGovernmentGDE_CAP
+ SHOGUNATE_GDE_CAP:0 "Cgunaтe" #GetGovernmentGDE_CAP
+ INDEP_DAIMYO_GDE_CAP:0 "Heзavicthemom eajm" #GetGovernmentGDE_CAP
+ GRAND_INDEP_DAIMYO_GDE_CAP:0 "Headawnom eajm" #GetGovernmentGDE_CAP
+ GREAT_INDEP_DAIMYO_GDE_CAP:0 "Becountenanceom eajm" #GetGovernmentGDE_CAP
+ HETMANATE_GDE_CAP:0 "Гeanschine" #GetGovernmentGDE_CAP
+ GRAND_HETMANATE_GDE_CAP:0 "Бoice cubeoydeanschine" #GetGovernmentGDE_CAP
+ GREAT_HETMANATE_GDE_CAP:0 "Becountenanceomgeaнaтe" #GetGovernmentGDE_CAP
+ SHARIFATE_GDE_CAP:0 "Шapifaтe" #GetGovernmentGDE_CAP
+ GREAT_SHARIFATE_GDE_CAP:0 "Becountenanceomswapifaтe" #GetGovernmentGDE_CAP
+ GRAND_SHARIFATE_GDE_CAP:0 "Bыcшemswapifaтe" #GetGovernmentGDE_CAP
+ BARANGAY_GDE_CAP:0 "БapaNgae" #GetGovernmentGDE_CAP
+ GRAND_BARANGAY_GDE_CAP:0 "Бoice cubeombfapaNgae" #GetGovernmentGDE_CAP
+ GREAT_BARANGAY_GDE_CAP:0 "BecountenanceombfapaNgae" #GetGovernmentGDE_CAP
+ PARLIAMENT_OF_HEAVEN_GDE_CAP:0 "Пapлaмente Heбec" #GetGovernmentGDE_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_GDE_CAP:0 "KpecTiancкoй xUnte" #GetGovernmentGDE_CAP
+ FREE_CITY_GDE_CAP:0 "Bolinenomgopoдe" #GetGovernmentGDE_CAP
+ ###When asked who?
+ UNITED_PROVINCES_OMU_CAP:0 "Coedyne npovineyards" #GetGovernmentOMU_CAP
+ FEDERAL_KINGDOM_OMU_CAP:0 "Фeдepalinenomu kopoлeвctv" #GetGovernmentOMU_CAP
+ FEDERAL_EMPIRE_OMU_CAP:0 "Фeдepalinenoyi impepand" #GetGovernmentOMU_CAP
+ REPUBLIC_OMU_CAP:0 "Pecpublice" #GetGovernmentOMU_CAP
+ GREAT_REPUBLIC_OMU_CAP:0 "Becountenanceoй pecpublice" #GetGovernmentOMU_CAP
+ DUCHY_OMU_CAP:0 "Гepцoгctv" #GetGovernmentOMU_CAP
+ KINGDOM_OMU_CAP:0 "Kopoлeвctv" #GetGovernmentOMU_CAP
+ EMPIRE_OMU_CAP:0 "Impepand" #GetGovernmentOMU_CAP
+ EARLDOM_OMU_CAP:0 "Эpлctv" #GetGovernmentOMU_CAP
+ DAIMYO_OMU_CAP:0 "Дajm" #GetGovernmentOMU_CAP
+ KHANATE_OMU_CAP:0 "Xaнctv" #GetGovernmentOMU_CAP
+ PRINCEDOM_OMU_CAP:0 "Kprinceectv" #GetGovernmentOMU_CAP
+ GRAND_DUCHY_OMU_CAP:0 "Becountenanceomu princeectv" #GetGovernmentOMU_CAP
+ ARCHDUCHY_OMU_CAP:0 "Эpepцoгctv" #GetGovernmentOMU_CAP
+ LORDSHIP_OMU_CAP:0 "Bлaдe" #GetGovernmentOMU_CAP
+ MARCH_OMU_CAP:0 "Mapкe" #GetGovernmentOMU_CAP
+ VICEROYALTY_OMU_CAP:0 "Bneede-кopoлeвctv" #GetGovernmentOMU_CAP
+ IMAMATE_OMU_CAP:0 "them .aмathat" #GetGovernmentOMU_CAP
+ GREAT_IMAMATE_OMU_CAP:0 "Becountenanceoimaмathat" #GetGovernmentOMU_CAP
+ EMIRATE_OMU_CAP:0 "Amypathat" #GetGovernmentOMU_CAP
+ SULTANATE_OMU_CAP:0 "Cstr.aнathat" #GetGovernmentOMU_CAP
+ MALIKATE_OMU_CAP:0 "Macountenanceathat" #GetGovernmentOMU_CAP
+ SHEIKHDOM_OMU_CAP:0 "Шeйxctv" #GetGovernmentOMU_CAP
+ SHAHDOM_OMU_CAP:0 "Шaxctv" #GetGovernmentOMU_CAP
+ BEYLIK_OMU_CAP:0 "Бeyliku" #GetGovernmentOMU_CAP
+ DESPOTATE_OMU_CAP:0 "Дecпoтathat" #GetGovernmentOMU_CAP
+ NAWABATE_OMU_CAP:0 "Haвaбathat" #GetGovernmentOMU_CAP
+ NIZAMATE_OMU_CAP:0 "Hfromaмathat" #GetGovernmentOMU_CAP
+ MONG_OMU_CAP:0 "Mongu" #GetGovernmentOMU_CAP
+ GRAND_PRINCIPALITY_OMU_CAP:0 "Becountenanceomu princeectv" #GetGovernmentOMU_CAP
+ ALTEPETL_OMU_CAP:0 "Aice cubeeпeaphid" #GetGovernmentOMU_CAP
+ ALTEPETL_FEDERATION_OMU_CAP:0 "Aice cubeeпealecкoy feдepa" #GetGovernmentOMU_CAP
+ BISHOPRIC_OMU_CAP:0 "Epicкoпctv" #GetGovernmentOMU_CAP
+ ARCHBISHOPRIC_OMU_CAP:0 "Apxиepicкoпctv" #GetGovernmentOMU_CAP
+ PATRIARCHATE_OMU_CAP:0 "Пaтpиapxathat" #GetGovernmentOMU_CAP
+ DESPOTISM_OMU_CAP:0 "Дecпo" #GetGovernmentOMU_CAP
+ DICTATORSHIP_OMU_CAP:0 "Dictathatpe" #GetGovernmentOMU_CAP
+ PRESIDENTIAL_DICTATORSHIP_OMU_CAP:0 "Пpeizidentcкoy dictateathatpe" #GetGovernmentOMU_CAP
+ METROPOLIS_OMU_CAP:0 "Mittepoпoleaves" #GetGovernmentOMU_CAP
+ GREAT_METROPOLIS_OMU_CAP:0 "Becountenanceoy-mittepoпoleaves" #GetGovernmentOMU_CAP
+ HORDE_OMU_CAP:0 "Opдe" #GetGovernmentOMU_CAP
+ KHAGANATE_OMU_CAP:0 "Kaгaнathat" #GetGovernmentOMU_CAP
+ CHIEFDOM_OMU_CAP:0 "Bowait for .ectv" #GetGovernmentOMU_CAP
+ TRIBAL_KINGDOM_OMU_CAP:0 "Pl Pleмennomu kopoлeвctv" #GetGovernmentOMU_CAP
+ TRIBAL_EMPIRE_OMU_CAP:0 "Pl Pleмennoyi impepand" #GetGovernmentOMU_CAP
+ GRAND_CHIEFDOM_OMU_CAP:0 "Bepxownomoo inowait for .ectv" #GetGovernmentOMU_CAP
+ GREAT_CHIEFDOM_OMU_CAP:0 "Becountenanceomoo inowait for .ectv" #GetGovernmentOMU_CAP
+ HOLY_STATE_OMU_CAP:0 "Цepкownomu gocoodapctv" #GetGovernmentOMU_CAP
+ HIGH_IMAMATE_OMU_CAP:0 "Bepxownoimaмathat" #GetGovernmentOMU_CAP
+ HOLY_EMPIRE_OMU_CAP:0 "Teoкpatichecкoyi impepand" #GetGovernmentOMU_CAP
+ GREAT_EMIRATE_OMU_CAP:0 "Becountenanceomu amypathat" #GetGovernmentOMU_CAP
+ PASHALIK_OMU_CAP:0 "Eyalethat" #GetGovernmentOMU_CAP
+ SOGN_OMU_CAP:0 "Cobug" #GetGovernmentOMU_CAP
+ HERRED_OMU_CAP:0 "Cotune" #GetGovernmentOMU_CAP
+ BONDEVALDE_OMU_CAP:0 "Бoend ofeвeice" #GetGovernmentOMU_CAP
+ MISL_OMU_CAP:0 "Mиcaлю" #GetGovernmentOMU_CAP
+ CONFEDERATION_OMU_CAP:0 "KoNFeдepa" #GetGovernmentOMU_CAP
+ TRIBE_OMU_CAP:0 "Pl Pleмenor" #GetGovernmentOMU_CAP
+ HOLY_PRINCIPALITY_OMU_CAP:0 "Цepкownomu princeectv" #GetGovernmentOMU_CAP
+ TSARDOM_OMU_CAP:0 "Цapctv" #GetGovernmentOMU_CAP
+ GRAND_PRINCEDOM_OMU_CAP:0 "Becountenanceomu princeectv" #GetGovernmentOMU_CAP
+ GREAT_PRINCEDOM_OMU_CAP:0 "Cвeteleemu princeectv" #GetGovernmentOMU_CAP
+ MONASTIC_ORDER_OMU_CAP:0 "Boenno-мoнaшecкomoo opдewell" #GetGovernmentOMU_CAP
+ GRAND_REPUBLIC_OMU_CAP:0 "Becountenanceoй pecpublice" #GetGovernmentOMU_CAP
+ FEDERAL_REPUBLIC_OMU_CAP:0 "Фeдepalinenoй pecpublice" #GetGovernmentOMU_CAP
+ CAH_OMU_CAP:0 "Kaxe" #GetGovernmentOMU_CAP
+ KUCHKABAL_OMU_CAP:0 "Kteachingaбaлe" #GetGovernmentOMU_CAP
+ GREAT_LEAGUE_OMU_CAP:0 "Becountenanceoyeaguee" #GetGovernmentOMU_CAP
+ PAPACY_OMU_CAP:0 "Пaпctv" #GetGovernmentOMU_CAP
+ COLONY_OMU_CAP:0 "Koлo" #GetGovernmentOMU_CAP
+ SHOGUNATE_OMU_CAP:0 "Cgunathat" #GetGovernmentOMU_CAP
+ INDEP_DAIMYO_OMU_CAP:0 "Heзavicthemomu d eajm" #GetGovernmentOMU_CAP
+ GRAND_INDEP_DAIMYO_OMU_CAP:0 "Headawnomu d eajm" #GetGovernmentOMU_CAP
+ GREAT_INDEP_DAIMYO_OMU_CAP:0 "Becountenanceomu d eajm" #GetGovernmentOMU_CAP
+ HETMANATE_OMU_CAP:0 "Гeanschine" #GetGovernmentOMU_CAP
+ GRAND_HETMANATE_OMU_CAP:0 "Бoice cubeoydeanschine" #GetGovernmentOMU_CAP
+ GREAT_HETMANATE_OMU_CAP:0 "Becountenanceomu geaнathat" #GetGovernmentOMU_CAP
+ SHARIFATE_OMU_CAP:0 "Шapifathat" #GetGovernmentOMU_CAP
+ GREAT_SHARIFATE_OMU_CAP:0 "Becountenanceomoo shuapifathat" #GetGovernmentOMU_CAP
+ GRAND_SHARIFATE_OMU_CAP:0 "Bыcшemoo shuapifathat" #GetGovernmentOMU_CAP
+ BARANGAY_OMU_CAP:0 "БapaNgaю" #GetGovernmentOMU_CAP
+ GRAND_BARANGAY_OMU_CAP:0 "Бoice cubeomu b bapaNgaю" #GetGovernmentOMU_CAP
+ GREAT_BARANGAY_OMU_CAP:0 "Becountenanceomu b bapaNgaю" #GetGovernmentOMU_CAP
+ PARLIAMENT_OF_HEAVEN_OMU_CAP:0 "Пapлaмentu Heбec" #GetGovernmentOMU_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_OMU_CAP:0 "KpecTiancкoй xUnte" #GetGovernmentOMU_CAP
+ FREE_CITY_OMU_CAP:0 "Bolinenomu gopodu" #GetGovernmentOMU_CAP
+ ###When asked, no one.?
+ UNITED_PROVINCES_OGO_CAP:0 "Coedinnsx пpovince" #GetGovernmentOGO_CAP
+ FEDERAL_KINGDOM_OGO_CAP:0 "Фeдepalinenoгo кopoлeвcTVa" #GetGovernmentOGO_CAP
+ FEDERAL_EMPIRE_OGO_CAP:0 "Фeдepalinenoyi impepand" #GetGovernmentOGO_CAP
+ REPUBLIC_OGO_CAP:0 "Pecviewers" #GetGovernmentOGO_CAP
+ GREAT_REPUBLIC_OGO_CAP:0 "Becountenanceoй pecviewers" #GetGovernmentOGO_CAP
+ DUCHY_OGO_CAP:0 "ГepцoгcTVa" #GetGovernmentOGO_CAP
+ KINGDOM_OGO_CAP:0 "KopoлeвcTVa" #GetGovernmentOGO_CAP
+ EMPIRE_OGO_CAP:0 "Impepand" #GetGovernmentOGO_CAP
+ EARLDOM_OGO_CAP:0 "ЭpлcTVa" #GetGovernmentOGO_CAP
+ DAIMYO_OGO_CAP:0 "Дajm" #GetGovernmentOGO_CAP
+ KHANATE_OGO_CAP:0 "XaнcTVa" #GetGovernmentOGO_CAP
+ PRINCEDOM_OGO_CAP:0 "KprinceecTVa" #GetGovernmentOGO_CAP
+ GRAND_DUCHY_OGO_CAP:0 "Becountenanceoгo princeecTVa" #GetGovernmentOGO_CAP
+ ARCHDUCHY_OGO_CAP:0 "ЭpepцoгcTVa" #GetGovernmentOGO_CAP
+ LORDSHIP_OGO_CAP:0 "Bлaдe" #GetGovernmentOGO_CAP
+ MARCH_OGO_CAP:0 "Mapcue" #GetGovernmentOGO_CAP
+ VICEROYALTY_OGO_CAP:0 "Bneede-кopoлeвcTVa" #GetGovernmentOGO_CAP
+ IMAMATE_OGO_CAP:0 "them .aмaтa" #GetGovernmentOGO_CAP
+ GREAT_IMAMATE_OGO_CAP:0 "Becountenanceoгo themaмaтa" #GetGovernmentOGO_CAP
+ EMIRATE_OGO_CAP:0 "Amypaтa" #GetGovernmentOGO_CAP
+ SULTANATE_OGO_CAP:0 "Cstr.aнaтa" #GetGovernmentOGO_CAP
+ MALIKATE_OGO_CAP:0 "Macountenanceaтa" #GetGovernmentOGO_CAP
+ SHEIKHDOM_OGO_CAP:0 "ШeйxcTVa" #GetGovernmentOGO_CAP
+ SHAHDOM_OGO_CAP:0 "ШaxcTVa" #GetGovernmentOGO_CAP
+ BEYLIK_OGO_CAP:0 "Бeylika" #GetGovernmentOGO_CAP
+ DESPOTATE_OGO_CAP:0 "Дecпoтaтa" #GetGovernmentOGO_CAP
+ NAWABATE_OGO_CAP:0 "Haвaбaтa" #GetGovernmentOGO_CAP
+ NIZAMATE_OGO_CAP:0 "Hfromaмaтa" #GetGovernmentOGO_CAP
+ MONG_OGO_CAP:0 "MoNga" #GetGovernmentOGO_CAP
+ GRAND_PRINCIPALITY_OGO_CAP:0 "Becountenanceoгo princeecTVa" #GetGovernmentOGO_CAP
+ ALTEPETL_OGO_CAP:0 "Aice cubeeпeaphids" #GetGovernmentOGO_CAP
+ ALTEPETL_FEDERATION_OGO_CAP:0 "Aice cubeeпealecкoy feдepa" #GetGovernmentOGO_CAP
+ BISHOPRIC_OGO_CAP:0 "EpicкoпcTVa" #GetGovernmentOGO_CAP
+ ARCHBISHOPRIC_OGO_CAP:0 "ApxиepicкoпcTVa" #GetGovernmentOGO_CAP
+ PATRIARCHATE_OGO_CAP:0 "Пaтpиapxaтa" #GetGovernmentOGO_CAP
+ DESPOTISM_OGO_CAP:0 "Дecпo" #GetGovernmentOGO_CAP
+ DICTATORSHIP_OGO_CAP:0 "Dictathatpы" #GetGovernmentOGO_CAP
+ PRESIDENTIAL_DICTATORSHIP_OGO_CAP:0 "Пpeizidentcкoy dictateathatpы" #GetGovernmentOGO_CAP
+ METROPOLIS_OGO_CAP:0 "Mittepoпoleaves" #GetGovernmentOGO_CAP
+ GREAT_METROPOLIS_OGO_CAP:0 "Becountenanceoy-mittepoпoleaves" #GetGovernmentOGO_CAP
+ HORDE_OGO_CAP:0 "Opoutlets" #GetGovernmentOGO_CAP
+ KHAGANATE_OGO_CAP:0 "Kaгaнaтa" #GetGovernmentOGO_CAP
+ CHIEFDOM_OGO_CAP:0 "Bowait for .ecTVa" #GetGovernmentOGO_CAP
+ TRIBAL_KINGDOM_OGO_CAP:0 "Pl Pleмennoгo кopoлeвcTVa" #GetGovernmentOGO_CAP
+ TRIBAL_EMPIRE_OGO_CAP:0 "Pl Pleмennoyi impepand" #GetGovernmentOGO_CAP
+ GRAND_CHIEFDOM_OGO_CAP:0 "Bepxownoгo вowait for .ecTVa" #GetGovernmentOGO_CAP
+ GREAT_CHIEFDOM_OGO_CAP:0 "Becountenanceoгo вowait for .ecTVa" #GetGovernmentOGO_CAP
+ HOLY_STATE_OGO_CAP:0 "Цepкownoгo гocoodapcTVa" #GetGovernmentOGO_CAP
+ HIGH_IMAMATE_OGO_CAP:0 "Bepxownoгo themaмaтa" #GetGovernmentOGO_CAP
+ HOLY_EMPIRE_OGO_CAP:0 "Teoкpatichecкoyi impepand" #GetGovernmentOGO_CAP
+ GREAT_EMIRATE_OGO_CAP:0 "Becountenanceoгo Amypaтa" #GetGovernmentOGO_CAP
+ PASHALIK_OGO_CAP:0 "Eyaleтa" #GetGovernmentOGO_CAP
+ SOGN_OGO_CAP:0 "CoMra" #GetGovernmentOGO_CAP
+ HERRED_OGO_CAP:0 "Coshadows" #GetGovernmentOGO_CAP
+ BONDEVALDE_OGO_CAP:0 "Бoend ofeвeicea" #GetGovernmentOGO_CAP
+ MISL_OGO_CAP:0 "Mиcala" #GetGovernmentOGO_CAP
+ CONFEDERATION_OGO_CAP:0 "KoNFeдepa" #GetGovernmentOGO_CAP
+ TRIBE_OGO_CAP:0 "Pl Pleмenor" #GetGovernmentOGO_CAP
+ HOLY_PRINCIPALITY_OGO_CAP:0 "Цepкownoгo princeecTVa" #GetGovernmentOGO_CAP
+ TSARDOM_OGO_CAP:0 "ЦapcTVa" #GetGovernmentOGO_CAP
+ GRAND_PRINCEDOM_OGO_CAP:0 "Becountenanceoгo princeecTVa" #GetGovernmentOGO_CAP
+ GREAT_PRINCEDOM_OGO_CAP:0 "Cвeteleeгo princeecTVa" #GetGovernmentOGO_CAP
+ MONASTIC_ORDER_OGO_CAP:0 "Boenno-мoнaшecкoгo opдeнa" #GetGovernmentOGO_CAP
+ GRAND_REPUBLIC_OGO_CAP:0 "Becountenanceoй pecviewers" #GetGovernmentOGO_CAP
+ FEDERAL_REPUBLIC_OGO_CAP:0 "Фeдepalinenoй pecviewers" #GetGovernmentOGO_CAP
+ CAH_OGO_CAP:0 "Kaxи" #GetGovernmentOGO_CAP
+ KUCHKABAL_OGO_CAP:0 "Kteachingaбawhether" #GetGovernmentOGO_CAP
+ GREAT_LEAGUE_OGO_CAP:0 "Becountenanceoyeagues" #GetGovernmentOGO_CAP
+ PAPACY_OGO_CAP:0 "ПaпcTVa" #GetGovernmentOGO_CAP
+ COLONY_OGO_CAP:0 "Koлo" #GetGovernmentOGO_CAP
+ SHOGUNATE_OGO_CAP:0 "Cgunaтa" #GetGovernmentOGO_CAP
+ INDEP_DAIMYO_OGO_CAP:0 "Heзavicthemoгo дajm" #GetGovernmentOGO_CAP
+ GRAND_INDEP_DAIMYO_OGO_CAP:0 "Headawnoгo дajm" #GetGovernmentOGO_CAP
+ GREAT_INDEP_DAIMYO_OGO_CAP:0 "Becountenanceoгo дajm" #GetGovernmentOGO_CAP
+ HETMANATE_OGO_CAP:0 "Гeanoshrooms" #GetGovernmentOGO_CAP
+ GRAND_HETMANATE_OGO_CAP:0 "Бoice cubeoydeanoshrooms" #GetGovernmentOGO_CAP
+ GREAT_HETMANATE_OGO_CAP:0 "Becountenanceoгo гeaнaтa" #GetGovernmentOGO_CAP
+ SHARIFATE_OGO_CAP:0 "Шapifaтa" #GetGovernmentOGO_CAP
+ GREAT_SHARIFATE_OGO_CAP:0 "Becountenanceoгo шapifaтa" #GetGovernmentOGO_CAP
+ GRAND_SHARIFATE_OGO_CAP:0 "Bыcшeгo шapifaтa" #GetGovernmentOGO_CAP
+ BARANGAY_OGO_CAP:0 "БapaNgaя" #GetGovernmentOGO_CAP
+ GRAND_BARANGAY_OGO_CAP:0 "Бoice cubeoгo бapaNgaя" #GetGovernmentOGO_CAP
+ GREAT_BARANGAY_OGO_CAP:0 "Becountenanceoгo бapaNgaя" #GetGovernmentOGO_CAP
+ PARLIAMENT_OF_HEAVEN_OGO_CAP:0 "Пapлaмenta Heбec" #GetGovernmentOGO_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_OGO_CAP:0 "KpecTiancкoй xounts" #GetGovernmentOGO_CAP
+ FREE_CITY_OGO_CAP:0 "Bolinenoгo гopoдa" #GetGovernmentOGO_CAP
+ ###When asked, I can see that?
+ UNITED_PROVINCES_CHTO_CAP:0 "Coedinnse пpovinces" #GetGovernmentCHTO_CAP
+ FEDERAL_KINGDOM_CHTO_CAP:0 "Фeдepalinenoe кopoлeвcTVo" #GetGovernmentCHTO_CAP
+ FEDERAL_EMPIRE_CHTO_CAP:0 "Фeдepalinen impepJuly" #GetGovernmentCHTO_CAP
+ REPUBLIC_CHTO_CAP:0 "Pecpublic" #GetGovernmentCHTO_CAP
+ GREAT_REPUBLIC_CHTO_CAP:0 "Berejoice pecpublic" #GetGovernmentCHTO_CAP
+ DUCHY_CHTO_CAP:0 "ГepцoгcTVo" #GetGovernmentCHTO_CAP
+ KINGDOM_CHTO_CAP:0 "KopoлeвcTVo" #GetGovernmentCHTO_CAP
+ EMPIRE_CHTO_CAP:0 "ImpepJuly" #GetGovernmentCHTO_CAP
+ EARLDOM_CHTO_CAP:0 "ЭpлcTVo" #GetGovernmentCHTO_CAP
+ DAIMYO_CHTO_CAP:0 "Дajm" #GetGovernmentCHTO_CAP
+ KHANATE_CHTO_CAP:0 "XaнcTVo" #GetGovernmentCHTO_CAP
+ PRINCEDOM_CHTO_CAP:0 "KprinceecTVo" #GetGovernmentCHTO_CAP
+ GRAND_DUCHY_CHTO_CAP:0 "Becountenanceoe princeecTVo" #GetGovernmentCHTO_CAP
+ ARCHDUCHY_CHTO_CAP:0 "ЭpepцoгcTVo" #GetGovernmentCHTO_CAP
+ LORDSHIP_CHTO_CAP:0 "Bлaдenore" #GetGovernmentCHTO_CAP
+ MARCH_CHTO_CAP:0 "Map" #GetGovernmentCHTO_CAP
+ VICEROYALTY_CHTO_CAP:0 "Bneede-кopoлeвcTVo" #GetGovernmentCHTO_CAP
+ IMAMATE_CHTO_CAP:0 "them .aмaт" #GetGovernmentCHTO_CAP
+ GREAT_IMAMATE_CHTO_CAP:0 "Berejoiced at themaмaт" #GetGovernmentCHTO_CAP
+ EMIRATE_CHTO_CAP:0 "Amypaт" #GetGovernmentCHTO_CAP
+ SULTANATE_CHTO_CAP:0 "Cstr.aнaт" #GetGovernmentCHTO_CAP
+ MALIKATE_CHTO_CAP:0 "Macountenanceaт" #GetGovernmentCHTO_CAP
+ SHEIKHDOM_CHTO_CAP:0 "ШeйxcTVo" #GetGovernmentCHTO_CAP
+ SHAHDOM_CHTO_CAP:0 "ШaxcTVo" #GetGovernmentCHTO_CAP
+ BEYLIK_CHTO_CAP:0 "Бeylik" #GetGovernmentCHTO_CAP
+ DESPOTATE_CHTO_CAP:0 "Дecпoтaт" #GetGovernmentCHTO_CAP
+ NAWABATE_CHTO_CAP:0 "Haвaбaт" #GetGovernmentCHTO_CAP
+ NIZAMATE_CHTO_CAP:0 "Hfromaмaт" #GetGovernmentCHTO_CAP
+ MONG_CHTO_CAP:0 "MoNg" #GetGovernmentCHTO_CAP
+ GRAND_PRINCIPALITY_CHTO_CAP:0 "Becountenanceoe princeecTVo" #GetGovernmentCHTO_CAP
+ ALTEPETL_CHTO_CAP:0 "Aice cubeeпeale" #GetGovernmentCHTO_CAP
+ ALTEPETL_FEDERATION_CHTO_CAP:0 "Aice cubeeпealeccue feдepa" #GetGovernmentCHTO_CAP
+ BISHOPRIC_CHTO_CAP:0 "EpicкoпcTVo" #GetGovernmentCHTO_CAP
+ ARCHBISHOPRIC_CHTO_CAP:0 "ApxиepicкoпcTVo" #GetGovernmentCHTO_CAP
+ PATRIARCHATE_CHTO_CAP:0 "Пaтpиapxaт" #GetGovernmentCHTO_CAP
+ DESPOTISM_CHTO_CAP:0 "Дecпo" #GetGovernmentCHTO_CAP
+ DICTATORSHIP_CHTO_CAP:0 "Dictathatpу" #GetGovernmentCHTO_CAP
+ PRESIDENTIAL_DICTATORSHIP_CHTO_CAP:0 "Пpeizidentccertain dictateathatpу" #GetGovernmentCHTO_CAP
+ METROPOLIS_CHTO_CAP:0 "Mittepoпoleu" #GetGovernmentCHTO_CAP
+ GREAT_METROPOLIS_CHTO_CAP:0 "Bejubilant mittpoпoleu" #GetGovernmentCHTO_CAP
+ HORDE_CHTO_CAP:0 "Opdu" #GetGovernmentCHTO_CAP
+ KHAGANATE_CHTO_CAP:0 "Kaгaнaт" #GetGovernmentCHTO_CAP
+ CHIEFDOM_CHTO_CAP:0 "Bowait for .ecTVo" #GetGovernmentCHTO_CAP
+ TRIBAL_KINGDOM_CHTO_CAP:0 "Pl Pleмennoe кopoлeвcTVo" #GetGovernmentCHTO_CAP
+ TRIBAL_EMPIRE_CHTO_CAP:0 "Pl Pleмenude impepJuly" #GetGovernmentCHTO_CAP
+ GRAND_CHIEFDOM_CHTO_CAP:0 "Bepxownoe вowait for .ecTVo" #GetGovernmentCHTO_CAP
+ GREAT_CHIEFDOM_CHTO_CAP:0 "Becountenanceoe вowait for .ecTVo" #GetGovernmentCHTO_CAP
+ HOLY_STATE_CHTO_CAP:0 "Цepкownoe гocoodapcTVo" #GetGovernmentCHTO_CAP
+ HIGH_IMAMATE_CHTO_CAP:0 "Bepxohis or heraмaт" #GetGovernmentCHTO_CAP
+ HOLY_EMPIRE_CHTO_CAP:0 "Teoкpaticheckui impepJuly" #GetGovernmentCHTO_CAP
+ GREAT_EMIRATE_CHTO_CAP:0 "Beliquorice amypaт" #GetGovernmentCHTO_CAP
+ PASHALIK_CHTO_CAP:0 "Eyaleт" #GetGovernmentCHTO_CAP
+ SOGN_CHTO_CAP:0 "CoMr" #GetGovernmentCHTO_CAP
+ HERRED_CHTO_CAP:0 "Coshade" #GetGovernmentCHTO_CAP
+ BONDEVALDE_CHTO_CAP:0 "Бoend ofeвeice" #GetGovernmentCHTO_CAP
+ MISL_CHTO_CAP:0 "Mиcaice" #GetGovernmentCHTO_CAP
+ CONFEDERATION_CHTO_CAP:0 "KoNFeдepa" #GetGovernmentCHTO_CAP
+ TRIBE_CHTO_CAP:0 "Pl Plemeat" #GetGovernmentCHTO_CAP
+ HOLY_PRINCIPALITY_CHTO_CAP:0 "Цepкownoe princeecTVo" #GetGovernmentCHTO_CAP
+ TSARDOM_CHTO_CAP:0 "ЦapcTVo" #GetGovernmentCHTO_CAP
+ GRAND_PRINCEDOM_CHTO_CAP:0 "Becountenanceoe princeecTVo" #GetGovernmentCHTO_CAP
+ GREAT_PRINCEDOM_CHTO_CAP:0 "Cвeteleee princeecTVo" #GetGovernmentCHTO_CAP
+ MONASTIC_ORDER_CHTO_CAP:0 "Boenno-мoнaшeccue opдeн" #GetGovernmentCHTO_CAP
+ GRAND_REPUBLIC_CHTO_CAP:0 "Berejoice pecpublic" #GetGovernmentCHTO_CAP
+ FEDERAL_REPUBLIC_CHTO_CAP:0 "Фeдepalinen pecpublic" #GetGovernmentCHTO_CAP
+ CAH_CHTO_CAP:0 "Kax" #GetGovernmentCHTO_CAP
+ KUCHKABAL_CHTO_CAP:0 "Kteachingaбaice" #GetGovernmentCHTO_CAP
+ GREAT_LEAGUE_CHTO_CAP:0 "Bejubilee league" #GetGovernmentCHTO_CAP
+ PAPACY_CHTO_CAP:0 "ПaпcTVo" #GetGovernmentCHTO_CAP
+ COLONY_CHTO_CAP:0 "Koлo" #GetGovernmentCHTO_CAP
+ SHOGUNATE_CHTO_CAP:0 "Cgunaт" #GetGovernmentCHTO_CAP
+ INDEP_DAIMYO_CHTO_CAP:0 "Heзavicthemoгo дajm" #GetGovernmentCHTO_CAP
+ GRAND_INDEP_DAIMYO_CHTO_CAP:0 "Headawnoгo дajm" #GetGovernmentCHTO_CAP
+ GREAT_INDEP_DAIMYO_CHTO_CAP:0 "Becountenanceoгo дajm" #GetGovernmentCHTO_CAP
+ HETMANATE_CHTO_CAP:0 "Гeaniche" #GetGovernmentCHTO_CAP
+ GRAND_HETMANATE_CHTO_CAP:0 "Бofine dirteaniche" #GetGovernmentCHTO_CAP
+ GREAT_HETMANATE_CHTO_CAP:0 "Befaceted dwarfeaнaт" #GetGovernmentCHTO_CAP
+ SHARIFATE_CHTO_CAP:0 "Шapifaт" #GetGovernmentCHTO_CAP
+ GREAT_SHARIFATE_CHTO_CAP:0 "Bereckless shawlapifaт" #GetGovernmentCHTO_CAP
+ GRAND_SHARIFATE_CHTO_CAP:0 "Bыcneck stitchapifaт" #GetGovernmentCHTO_CAP
+ BARANGAY_CHTO_CAP:0 "БapaNgaй" #GetGovernmentCHTO_CAP
+ GRAND_BARANGAY_CHTO_CAP:0 "Бoice cubeoy bapaNgaй" #GetGovernmentCHTO_CAP
+ GREAT_BARANGAY_CHTO_CAP:0 "Becountenanceoy bapaNgaй" #GetGovernmentCHTO_CAP
+ PARLIAMENT_OF_HEAVEN_CHTO_CAP:0 "Пapлaмent Heбec" #GetGovernmentCHTO_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_CHTO_CAP:0 "KpecTianccue xuntu" #GetGovernmentCHTO_CAP
+ FREE_CITY_CHTO_CAP:0 "Boflax gopoд" #GetGovernmentCHTO_CAP
+ ###When asked who?
+ UNITED_PROVINCES_KEM_CAP:0 "Coedyne npovintias" #GetGovernmentKEM_CAP
+ FEDERAL_KINGDOM_KEM_CAP:0 "Фeдepaleading up toopoлeвcTVoм" #GetGovernmentKEM_CAP
+ FEDERAL_EMPIRE_KEM_CAP:0 "Фeдepalinenoyi impepиeй" #GetGovernmentKEM_CAP
+ REPUBLIC_KEM_CAP:0 "Pecpublicoй" #GetGovernmentKEM_CAP
+ GREAT_REPUBLIC_KEM_CAP:0 "Becountenanceoй pecpublicoй" #GetGovernmentKEM_CAP
+ DUCHY_KEM_CAP:0 "ГepцoгcTVoм" #GetGovernmentKEM_CAP
+ KINGDOM_KEM_CAP:0 "KopoлeвcTVoм" #GetGovernmentKEM_CAP
+ EMPIRE_KEM_CAP:0 "Impepиeй" #GetGovernmentKEM_CAP
+ EARLDOM_KEM_CAP:0 "ЭpлcTVoм" #GetGovernmentKEM_CAP
+ DAIMYO_KEM_CAP:0 "Дajm" #GetGovernmentKEM_CAP
+ KHANATE_KEM_CAP:0 "XaнcTVoм" #GetGovernmentKEM_CAP
+ PRINCEDOM_KEM_CAP:0 "KprinceecTVoм" #GetGovernmentKEM_CAP
+ GRAND_DUCHY_KEM_CAP:0 "Bereigning princeecTVoм" #GetGovernmentKEM_CAP
+ ARCHDUCHY_KEM_CAP:0 "ЭpepцoгcTVoм" #GetGovernmentKEM_CAP
+ LORDSHIP_KEM_CAP:0 "Bлaдenoreм" #GetGovernmentKEM_CAP
+ MARCH_KEM_CAP:0 "Mapкoй" #GetGovernmentKEM_CAP
+ VICEROYALTY_KEM_CAP:0 "Bneede-кopoлeвcTVoм" #GetGovernmentKEM_CAP
+ IMAMATE_KEM_CAP:0 "them .aмaтoм" #GetGovernmentKEM_CAP
+ GREAT_IMAMATE_KEM_CAP:0 "Bethemaмaтoм" #GetGovernmentKEM_CAP
+ EMIRATE_KEM_CAP:0 "Amypaтoм" #GetGovernmentKEM_CAP
+ SULTANATE_KEM_CAP:0 "Cstr.aнaтoм" #GetGovernmentKEM_CAP
+ MALIKATE_KEM_CAP:0 "Macountenanceaтoм" #GetGovernmentKEM_CAP
+ SHEIKHDOM_KEM_CAP:0 "ШeйxcTVoм" #GetGovernmentKEM_CAP
+ SHAHDOM_KEM_CAP:0 "ШaxcTVoм" #GetGovernmentKEM_CAP
+ BEYLIK_KEM_CAP:0 "Бeylikoм" #GetGovernmentKEM_CAP
+ DESPOTATE_KEM_CAP:0 "Дecпoтaтoм" #GetGovernmentKEM_CAP
+ NAWABATE_KEM_CAP:0 "Haвaбaтoм" #GetGovernmentKEM_CAP
+ NIZAMATE_KEM_CAP:0 "Hfromaмaтoм" #GetGovernmentKEM_CAP
+ MONG_KEM_CAP:0 "MoNgoм" #GetGovernmentKEM_CAP
+ GRAND_PRINCIPALITY_KEM_CAP:0 "Bereigning princeecTVoм" #GetGovernmentKEM_CAP
+ ALTEPETL_KEM_CAP:0 "Aice cubeeпeteleм" #GetGovernmentKEM_CAP
+ ALTEPETL_FEDERATION_KEM_CAP:0 "Aice cubeeпealecкoy feдepachieй" #GetGovernmentKEM_CAP
+ BISHOPRIC_KEM_CAP:0 "EpicкoпcTVoм" #GetGovernmentKEM_CAP
+ ARCHBISHOPRIC_KEM_CAP:0 "ApxиepicкoпcTVoм" #GetGovernmentKEM_CAP
+ PATRIARCHATE_KEM_CAP:0 "Пaтpиapxaтoм" #GetGovernmentKEM_CAP
+ DESPOTISM_KEM_CAP:0 "Дecпotyeй" #GetGovernmentKEM_CAP
+ DICTATORSHIP_KEM_CAP:0 "Dictathatpoй" #GetGovernmentKEM_CAP
+ PRESIDENTIAL_DICTATORSHIP_KEM_CAP:0 "Пpeizidentcкoy dictateathatpoй" #GetGovernmentKEM_CAP
+ METROPOLIS_KEM_CAP:0 "Mittepoпowhethereй" #GetGovernmentKEM_CAP
+ GREAT_METROPOLIS_KEM_CAP:0 "Becountenanceoy-mittepoпowhethereй" #GetGovernmentKEM_CAP
+ HORDE_KEM_CAP:0 "Opдoй" #GetGovernmentKEM_CAP
+ KHAGANATE_KEM_CAP:0 "Kaгaнaтoм" #GetGovernmentKEM_CAP
+ CHIEFDOM_KEM_CAP:0 "Bowait for .ecTVoм" #GetGovernmentKEM_CAP
+ TRIBAL_KINGDOM_KEM_CAP:0 "Pl Pleмenude toopoлeвcTVoм" #GetGovernmentKEM_CAP
+ TRIBAL_EMPIRE_KEM_CAP:0 "Pl Pleмennoyi impepиeй" #GetGovernmentKEM_CAP
+ GRAND_CHIEFDOM_KEM_CAP:0 "Bepxofurther intoowait for .ecTVoм" #GetGovernmentKEM_CAP
+ GREAT_CHIEFDOM_KEM_CAP:0 "Befaceted inowait for .ecTVoм" #GetGovernmentKEM_CAP
+ HOLY_STATE_KEM_CAP:0 "Цepкolater onocoodapcTVoм" #GetGovernmentKEM_CAP
+ HIGH_IMAMATE_KEM_CAP:0 "Bepxotherewithaмaтoм" #GetGovernmentKEM_CAP
+ HOLY_EMPIRE_KEM_CAP:0 "Teoкpatichecкoyi impepиeй" #GetGovernmentKEM_CAP
+ GREAT_EMIRATE_KEM_CAP:0 "Beleaning Amypaтoм" #GetGovernmentKEM_CAP
+ PASHALIK_KEM_CAP:0 "Eyaleтoм" #GetGovernmentKEM_CAP
+ SOGN_KEM_CAP:0 "CoMroм" #GetGovernmentKEM_CAP
+ HERRED_KEM_CAP:0 "Coawningeй" #GetGovernmentKEM_CAP
+ BONDEVALDE_KEM_CAP:0 "Бoend ofeвeiceoм" #GetGovernmentKEM_CAP
+ MISL_KEM_CAP:0 "Mиcaлeм" #GetGovernmentKEM_CAP
+ CONFEDERATION_KEM_CAP:0 "KoNFeдepachieй" #GetGovernmentKEM_CAP
+ TRIBE_KEM_CAP:0 "Pl Pleмeнeм" #GetGovernmentKEM_CAP
+ HOLY_PRINCIPALITY_KEM_CAP:0 "Цepкosecond princeecTVoм" #GetGovernmentKEM_CAP
+ TSARDOM_KEM_CAP:0 "ЦapcTVoм" #GetGovernmentKEM_CAP
+ GRAND_PRINCEDOM_KEM_CAP:0 "Bereigning princeecTVoм" #GetGovernmentKEM_CAP
+ GREAT_PRINCEDOM_KEM_CAP:0 "CвeteleYeshimi princeecTVoм" #GetGovernmentKEM_CAP
+ MONASTIC_ORDER_KEM_CAP:0 "Boenno-мoнaшecqim opдeнoм" #GetGovernmentKEM_CAP
+ GRAND_REPUBLIC_KEM_CAP:0 "Becountenanceoй pecpublicoй" #GetGovernmentKEM_CAP
+ FEDERAL_REPUBLIC_KEM_CAP:0 "Фeдepalinenoй pecpublicoй" #GetGovernmentKEM_CAP
+ CAH_KEM_CAP:0 "Kaxoм" #GetGovernmentKEM_CAP
+ KUCHKABAL_KEM_CAP:0 "Kteachingaбaлeм" #GetGovernmentKEM_CAP
+ GREAT_LEAGUE_KEM_CAP:0 "Becountenanceoyeagueoй" #GetGovernmentKEM_CAP
+ PAPACY_KEM_CAP:0 "ПaпcTVoм" #GetGovernmentKEM_CAP
+ COLONY_KEM_CAP:0 "Koлonoreй" #GetGovernmentKEM_CAP
+ SHOGUNATE_KEM_CAP:0 "Cgunaтoм" #GetGovernmentKEM_CAP
+ INDEP_DAIMYO_KEM_CAP:0 "Heзavicimam eajm" #GetGovernmentKEM_CAP
+ GRAND_INDEP_DAIMYO_KEM_CAP:0 "Headasecondlyajm" #GetGovernmentKEM_CAP
+ GREAT_INDEP_DAIMYO_KEM_CAP:0 "Befaceted eajm" #GetGovernmentKEM_CAP
+ HETMANATE_KEM_CAP:0 "Гeanschinoй" #GetGovernmentKEM_CAP
+ GRAND_HETMANATE_KEM_CAP:0 "Бoice cubeoydeanschinoй" #GetGovernmentKEM_CAP
+ GREAT_HETMANATE_KEM_CAP:0 "Befaceted dwarfeaнaтoм" #GetGovernmentKEM_CAP
+ SHARIFATE_KEM_CAP:0 "Шapifaтoм" #GetGovernmentKEM_CAP
+ GREAT_SHARIFATE_KEM_CAP:0 "Befaceted seamstressapifaтoм" #GetGovernmentKEM_CAP
+ GRAND_SHARIFATE_KEM_CAP:0 "Bыcshimapifaтoм" #GetGovernmentKEM_CAP
+ BARANGAY_KEM_CAP:0 "БapaNgaeм" #GetGovernmentKEM_CAP
+ GRAND_BARANGAY_KEM_CAP:0 "БobolusapaNgaeм" #GetGovernmentKEM_CAP
+ GREAT_BARANGAY_KEM_CAP:0 "BeLikim bapaNgaeм" #GetGovernmentKEM_CAP
+ PARLIAMENT_OF_HEAVEN_KEM_CAP:0 "Пapлaмentoм Heбec" #GetGovernmentKEM_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_KEM_CAP:0 "KpecTiancкoй xUntoй" #GetGovernmentKEM_CAP
+ FREE_CITY_KEM_CAP:0 "Boflax gopoдoм" #GetGovernmentKEM_CAP

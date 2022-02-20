@@ -1,0 +1,15 @@
+name = "Holy War"
+war_goal = {
+	type = take_border
+	casus_belli = cb_border_war
+}
+
+1334.6.17 = {
+	add_attacker = ETH
+	add_defender = IFA
+}
+
+1403.2.22 = {
+	add_attacker = ETH
+	add_defender = IFA
+}

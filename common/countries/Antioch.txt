@@ -1,0 +1,87 @@
+graphical_culture = westerngfx
+
+color = { 51  102  255 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	innovativeness_ideas
+	economic_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Godfrey #1" = 60
+	"Baldwin #5" = 60
+	"Henry #2" = 40
+	"Amalrick #2" = 30
+	"John #2" = 10
+	"Fulk #1" = 10
+	"Conrad #3" = 10
+	"Symbilla #1" = -5
+	"Isabella #2" = -10
+	"Melisandra #1" = -5
+	"Maria #1" = -5
+	"Thaddeus #1" = 5
+	"Hugi #1" = 5
+}
+
+ship_names = {
+	"Holy Cross"
+	"Grail"
+	"Loyal"
+	"The hammer of God"
+	"True believer"
+	"The host sucks"
+	"Cleansing"
+	"Baldwin Gate"
+	"Delight"
+	"Paladin"
+	"Cleaner"
+	"Crusader"
+	"Custodian"
+	"Pilgrim"
+	"Remission of sins"
+	"Avenger"
+	"Proponent"
+	"Whip"
+}
+
+leader_names = { 
+	"Bragadin"
+	"Crispo"
+	"Doria"
+	"Fadrige"
+	"Luzinyan"
+	"Mellisino"
+	"Playphone"
+	"Randy"
+	"Saraceno"
+	"Tocco"
+	"Maxwell"
+	"Duncakn"
+	"Douglas"
+	"Selkirk"
+}

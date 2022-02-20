@@ -1,0 +1,319 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = wallonian
+capital = 1866
+
+# 908.1.1 = {
+	# monarch = {
+		# name = "Berenguer"
+		# dynasty = "Unroshid"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 946.1.1 = {
+	# monarch = {
+		# name = "Robert I"
+		# dynasty = "de Namur"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 981.1.1 = {
+	# monarch = {
+		# name = "Albert I"
+		# dynasty = "de Namur"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1011.1.1 = {
+	# monarch = {
+		# name = "Robert II"
+		# dynasty = "de Namur"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1031.1.1 = {
+	# monarch = {
+		# name = "Albert II"
+		# dynasty = "de Namur"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1063.1.1 = {
+	# monarch = {
+		# name = "Albert III"
+		# dynasty = "de Namur"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1102.6.22 = {
+	# monarch = {
+		# name = "Joffrois I"
+		# dynasty = "de Namur"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1139.8.19 = {
+	# monarch = {
+		# name = "Henry I"
+		# dynasty = "de Namur"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1189.1.1 = {
+	# monarch = {
+		# name = "Baudouin I"
+		# dynasty = "de Heno"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1195.12.17 = {
+	# monarch = {
+		# name = "Philip I Noble"
+		# dynasty = "de Heno"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1212.10.15 = {
+	# monarch = {
+		# name = "Philippe II"
+		# dynasty = "de Courtenet"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1226.1.1 = {
+	# monarch = {
+		# name = "Henry II"
+		# dynasty = "de Courtenet"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1228.1.1 = {
+	# monarch = {
+		# name = "Margarita"
+		# dynasty = "de Courtenet"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+		# female = yes
+	# }
+# }
+
+# 1237.1.1 = {
+	# monarch = {
+		# name = "Baudouin II"
+		# dynasty = "de Courtenet"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+1256.1.1 = {
+	monarch = {
+		name = "Henry III"
+		dynasty = "de Luxembourg"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1263.1.1 = {
+	monarch = {
+		name = "Guy"
+		dynasty = "de Dampierre"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1297.3.1 = {
+	monarch = {
+		name = "Jean I"
+		dynasty = "de Dampierre"
+		birth_date = 1267.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1311.1.1 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean II"
+		dynasty = "de Dampierre"
+		birth_date = 1311.1.1
+		death_date = 1335.4.2
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1330.2.10 = {
+	monarch = {
+		name = "Jean II"
+		dynasty = "de Dampierre"
+		birth_date = 1311.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1335.4.2 = {
+	monarch = {
+		name = "Guy II"
+		dynasty = "de Dampierre"
+		birth_date = 1312.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1336.3.12 = {
+	monarch = {
+		name = "Philippe III"
+		dynasty = "de Dampierre"
+		birth_date = 1319.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1337.9.1 = {
+	monarch = {
+		name = "Guillaume I"
+		dynasty = "de Dampierre"
+		birth_date = 1324.1.1
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1355.1.22 = {
+	heir = {
+		name = "Guillaume"
+		monarch_name = "Guillaume II"
+		dynasty = "de Dampierre"
+		birth_date = 1355.1.22
+		death_date = 1418.1.10
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1391.10.1 = {
+	monarch = {
+		name = "Guillaume II"
+		dynasty = "de Dampierre"
+		birth_date = 1355.1.22
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1418.1.10 = {
+	monarch = {
+		name = "Jean III"
+		dynasty = "de Dampierre"
+		birth_date = 1360.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1429.3.1 = {
+	monarch = {
+		name = "Jean III"
+		dynasty = "de Dampierre"
+		birth_date = 1360.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1419.9.11 = {
+	monarch = {
+		name = "Philippe IV"
+		dynasty = "de Valois"
+		birth_date = 1396.7.31
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1467.6.16 = {
+	monarch = {
+		name = "Charles I Bold"
+		dynasty = "de Valois"
+		birth_date = 1433.11.10
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+}
+
+1477.1.6 = {
+	monarch = {
+		name = "Maria I"
+		dynasty = "de Valois"
+		birth_date = 1457.2.13
+		adm = 3
+		dip = 4
+		mil = 2
+		female = yes
+	}
+}
+

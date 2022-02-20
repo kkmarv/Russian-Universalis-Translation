@@ -1,0 +1,176 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 166  68  72 }
+
+revolutionary_colors = { 4  8  4 }
+
+historical_score = 400
+
+historical_idea_groups = {
+	maritime_ideas
+	quantity_ideas
+	religious_ideas
+	trade_ideas
+	naval_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	french_caracolle
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Ferran #0" = 40
+	"Alphonse #4" = 20
+	"Juan #1" = 20
+	"Karl #0" = 10
+	"Sync & corrections by #4" = 5
+	"Sancho #1" = 5
+	"Enrique #0" = 5
+	"Jaime #2" = 5
+	"Marty #0" = 20
+	"Andreu #0" = 0
+	"Anthony #0" = 0
+	"Arnau #0" = 0
+	"Aussias #0" = 0
+	"Bartomeu #0" = 0
+	"Bernat #0" = 0
+	"Cesar #0" = 0
+	"Dominique #0" = 0
+	"Felipe #0" = 0
+	"Frankes #0" = 0
+	"Frederick #0" = 0
+	"Gaspar #0" = 0
+	"Hill #0" = 0
+	"Gonzalo #0" = 0
+	"Guillem #0" = 0
+	"Ug #0" = 0
+	"Ignacy #0" = 0
+	"Ildephone #0" = 0
+	"Heroni #0" = 0
+	"Hordi #0" = 0
+	"Hosep #0" = 0
+	"Llorenso #0" = 0
+	"Luis #0" = 0
+	"Pere Luis #0" = 0
+	"Ponce #0" = 0
+	"Ramon #0" = 0
+	"Roderick #0" = 0
+	"Simeu #0" = 0
+	"Thomas #0" = 0
+	"Didac #0" = 0
+	"Garcia #0" = 0
+
+    "Alejandra #0" = -5
+	"Candela #0" = -5
+	"Estrella #0" = -5
+}
+
+leader_names = {
+	"de Alagin"
+	"Amic"
+	"d'Araghe"
+	"Arbue"
+	"d'Austria"
+	"de Ayerbe"
+	"Balaguerre"
+	"Barcelona"
+	"de Belchitte"
+	"Bergueda"
+	"Bielsa"
+	"de Borja"
+	"de Cabrera"
+	"Cahal"
+	"Kolom"
+	"Dominique"
+	"d'Empurios"
+	"Fernandez de Ijar"
+	"Ferrer"
+	"Folk de Cardona"
+	"Franco"
+	"Galindo"
+	"Hil de Biedma"
+	"Hisbert"
+	"de Guimera"
+	"de Gautor"
+	"de Gurrea"
+	"d'Ixer"
+	"Loisa"
+	"de Luna"
+	"Martorl"
+	"de Moncada"
+	"Montigudo"
+	"Muntaner"
+	"Olive"
+	"Ordov"
+	"d'Ors"
+	"Peca"
+	"Pérez de Coloma"
+	"Picker"
+	"de Rexens"
+	"de la Riba"
+	"Ripol"
+	"de Ripperda"
+	"Sastre"
+	"d'Urhel"
+	"Valles"
+	"Veldran"
+	"Williamari"
+	"Villaraya"
+	"de Saporta"
+}
+
+ship_names = {
+	"Aurora Blank"
+	"San Jacob"
+	"Flama"
+	"LIJONA"
+	"Folders"
+	"La Bonaventure"
+	"San Antoni"
+	"San Miguel"
+	"San Bernat"
+	"San Francesc"
+	"Santa Agata"
+	"Santa Eulalia"
+	"San Gabriel"
+	"San Clinton"
+	"San Jordi"
+	"La Real"
+	"Trinitat"
+	"Santa Cruz"
+	"Santa Maria"
+	"Santa Caterina"
+	"San Joan Evangelista"
+	"Santa Barbara"
+	"Saint-Péré de Roma"
+	"La Gasela"
+	"Santa Magdalena"
+	"San Victor"
+	"Magnana"
+	"Santa Ventura"
+	"Santa Coloma"
+	"San Ambrys"
+	"La Garza"
+}
+
+army_names = {
+	"Tertia $PROVINCE$"
+}

@@ -1,0 +1,102 @@
+#Country Name: Please see filename.
+
+graphical_culture = southamericagfx
+
+color = { 48  49  121 } 
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	maritime_ideas
+	trade_ideas
+	economic_ideas
+	quality_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	mesoamerican_spearmen
+	central_american_horsemen
+	aztec_tribal_warfare
+	aztec_hill_warfare
+	aztec_gunpowder_warfare
+	westernized_aztec
+	mexican_guerilla_warfare
+}
+
+monarch_names = {
+	"Moktesuma #0" = 40
+	"Auisotle #0" = 20
+	"Ashayakatl #0" = 20
+	"Kuautemok #0" = 20
+	"Kuitlauak #0" = 20
+	"Whitziwhite #0" = 20
+	"Itzkoatl #0" = 20
+	"Ochimalpopoka #0" = 20
+	"Tussock #0" = 20
+	"Juannicin #0" = 15
+	"Motelciuch #0" = 15
+	"Techuecticutin #0" = 15
+	"Tlacocin #0" = 15
+	"Shochikincin #0" = 15
+	"Akamapichtli #1" = 10
+	"Chimalpopoki #1" = 10
+	"Tenoch #1" = 10
+	"Akakitli #0" = 0
+	"Ahkambal #0" = 0
+	"Ahakaya #0" = 0
+	"Cacamacin #0" = 0
+	"Eiaue #0" = 0
+	"Hackton #0" = 0
+	"Ilhuikamina #0" = 0
+	"Yitzkuaucin #0" = 0
+	"Mazatel #0" = 0
+	"Nopalcin #0" = 0
+	"Olinteke #0" = 0
+	"E-mail . #0" = 0
+	"Panicin #0" = 0
+	"Kuezalmantsin #0" = 0
+	"Kuimichetl #0" = 0
+	"Texcoyo #0" = 0
+	"Timas #0" = 0
+	"Tlakaelel #0" = 0
+	"Tlocin #0" = 0
+	"Shiukoskatl #0" = 0
+	"Chocoyle #0" = 0
+	"Yaztachimal #0" = 0
+	"Zolton #0" = 0
+	
+	"Kentehua #0" = -1
+	"Moyolehouani #0" = -1
+	"Yaotle #0" = -1
+}
+
+leader_names = {
+        Akatlocin Ahuisotl Ahuisotl Ahokuecin Kakamatcin Chalciutlatonak Kuitlauak Kuitlalpitok
+	Ekatsin Eiaue Ejuahuacatl Uemak Wescin Whitzieliuitl Itzkoatl Izkemitl
+	Mazatl Mahikskatsin Moktesuma Mothelciuch Nayotl Nesaualpilli Nopalcin
+	Okelopan Olinteke Pochtli Okitsin Panitsin Pimotl Popopoyotl
+	Quahkoatl Qualpopoka Quelastli Qimichetl Temilotecatl Tezozomok Tisok Totokihuacin Tsompantli
+	Shikonokatsin Shochipanitsin Sholotl Shomimitl Yaomaukhitsin Yaztachimal Zinkicha Zoanakochtsin Zolton
+}
+
+ship_names = {
+	Akolmistli Akolnakhuakat "Ah Khoya" "Ah Tsenul" Amimitl Apanekatl Atl Atlau Aholoa
+	Kamakhtli Kentéot Kentzonuiznaua Chalciutlatonal Chalciutolin Chalmecaukhikahult
+	Chantico Chicomeochitli Cicomecoatl Ciconahuai Chihalma Chualchuitlku Chihuakaotil Synteotil
+	Sitlalatonak Sitlalikué Siukoatl Coatlikue Cochimetl Coyolshauki Kuaukhoatl 
+	Ehechcatl Eueuquoiotl
+	"Hopop Kan" Waetheotle Huitzilopochtli Wishtosihuatl
+	Itzkoliui Itzpapalotl Itzpapalotl Itztlilton Iztamihkoatsin
+	Macuilshochitl Macaiuel Malinalshotchi Matalcuye Meztli Mictlanshiuatl Mictlantechtle
+	MICTLANTECHOOPE MICTLANcihuatl Mishcoatl
+	Nanahuacin
+	Ococalcin Omecihuatl Ometeculti Ometeotil Omeyokan
+	Patekatly Painal
+	Quetzalcoatl
+	Tekkiztekatl Teoiaomkui Teoyeoinnan Tezakoatl Tezkatlipoka Tillan-Tlapallan Tlaloc
+	Tlalocan Tlaltekutli Tlasolteotl Tonakatekutli Tonatiuhikan Tonatiut Citmime
+	Shilonen "Schipe Topek" Shiukoatl Shiuhtekuhtli Shochipilli Shochikuzal Scholotl Schonekuilli
+	Yakatechutli
+}

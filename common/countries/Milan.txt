@@ -1,0 +1,184 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 166  108  146 }
+
+revolutionary_colors = { 9  0  5 } #Cisalpine Republic
+
+historical_idea_groups = {	
+	innovativeness_ideas
+	defensive_ideas
+	diplomatic_ideas
+	administrative_ideas
+	quality_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas	
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Francesco #0" = 40
+	"Gian Galeazzo #0" = 40
+	"Filippo Maria #0" = 20
+	"Galeazzo Maria #0" = 20
+	"Giancarlo #0" = 20
+	"Giovanni Maria #0" = 20
+	"Maria Lodovico #0" = 20
+	"Massimiliano #0" = 20
+	"Hermes #0" = 15
+	"Azzone #1" = 10
+	"Ascanio Maria #0" = 10
+	"Carlo #0" = 10
+	"Ottaviano #0" = 10
+	"Rodolfo #0" = 10
+	"Sforza Maria #0" = 10
+	"Galeazzo #2" = 5
+	"Matteo #2" = 5
+	"Guido #1" = 5
+	"Lucino #1" = 5
+	"Aquille #0" = 0
+	"Benedetto #0" = 0
+	"Bonifazio #0" = 0
+	"Camillo #0" = 0
+	"Claudio #0" = 0
+	"Demetrio #0" = 0
+	"Emanuele #0" = 0
+	"Fabrizio #0" = 0
+	"Felice #0" = 0
+	"Gaetano #0" = 0
+	"Geronimo #0" = 0
+	"Jacopo #0" = 0
+	"Leonardo #0" = 0
+	"Marcello #0" = 0
+	"Niccolo #0" = 0
+	"Paolo #0" = 0
+	"Rainiero #0" = 0
+	"Salvatore #0" = 0
+	"Timoteo #0" = 0
+	"Umberto #0" = 0
+	"Vittorio #0" = 0
+	
+	"Cornelia #0" = -1
+	"Emma #0" = -1
+	"Fioralba #0" = -1
+}
+
+leader_names = {
+	"Adelazio"
+	"Aldini"
+	"Alessandri"
+	"Arborio Mella"
+	"Barbiano Belgiojojo"
+	"Bargnani"
+	"Bilhori di Lava"
+	"Birago"
+	"Borromeo"
+	"Brunetti"
+	"Kaetani"
+	"di Campofregoso"
+	"Caracciolo"
+	"Carafa"
+	"di Cardé"
+	"del Carreto"
+	"Kontaini"
+	"Frankie"
+	"Gislieri"
+	"Gonzaga"
+	"Grimaldi di Busca"
+	"de Guzmán"
+	"Lamberti"
+	"de Leyva"
+	"Luosi"
+	"Luzerna Billyori"
+	"Luzerna della Torre"
+	"Mancini"
+	"Medici di Marignano"
+	"Melzi"
+	"del Monte"
+	"Moscati"
+	"Odescalchi"
+	"Paleologist"
+	"Paradisy"
+	"Pico"
+	"Ruga"
+	"Sabbati"
+	"di Saluzzo"
+	"Savoldy"
+	"della Sculla"
+	"Serbelloni"
+	"Sfondrati"
+	"Sforza"
+	"Sommariva"
+	"Soprancy"
+	"Spinola"
+	"Testi"
+	"Tizzone"
+	"Visconti"
+}
+
+ship_names = {
+	"Alliata"
+	"Ariberto d'Intimiano"
+	"Ansperto"
+	"Azzone Visconti"
+	"Celentano"
+	"Comé Angiilberto"
+	"Como"
+	"Corrado II"
+	"Cremona"
+	"Filippo Maria"
+	"Fiumi Lambreaux"
+	"Fiumi l'Olonne"
+	"Fiume Seveso"
+	"Francesco Sforza"
+	"Gian Galeazzo Visconti"
+	"Lecco"
+	"Lodi"
+	"Lombardy"
+	"Pavia"
+	"Rhe Alboino"
+	"San Babila"
+	"San Bernardino alle Ossa"
+	"San Cristoforo sul Naviglio"
+	"San Giovanni in Conca"
+	"San Gottardo"
+	"San Lorenzo"
+	"San Marco"
+	"San Nazaro Maggiore"
+	"San Simplicano"
+	"San Satiro"
+	"Santa Maria dei Mirazoli"
+	"San Agostino"
+	"San Ambrojo"
+	"San Eustorgio"
+	"San Stefano"
+	"Sondrio"
+	"Terrani"
+	"Theodolinda"
+	"Torriani"
+	"Walperto"
+	"Varese"
+	"Virgilio"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$"
+}

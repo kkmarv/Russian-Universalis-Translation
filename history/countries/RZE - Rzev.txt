@@ -1,0 +1,134 @@
+government = monarchy
+
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+primary_culture = russian
+religion = orthodox
+capital = 1752 # Rye
+
+1223.1.1 = {
+	monarch = {
+		name = "Vladimir Mstislavic"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1231.1.1 = {
+	monarch = {
+		name = "Yaroslav Vladimirovich"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1245.1.1 = {
+	monarch = {
+		name = "Yaropolk Yaroslavich"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1280.1.1 = {
+	monarch = {
+		name = "Yuri Yurievich"
+		dynasty = "Rurikovich"
+		birth_date = 1270.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1309.1.1 = {
+	monarch = {
+		name = "Fyodor Yurievich"
+		dynasty = "Rurikovich"
+		birth_date = 1290.1.1
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1309.1.1 = {
+	heir = {
+		name = "Feodor"
+		monarch_name = "Fyodor Konstantinovich Menshoy"
+		dynasty = "Rurikovich"
+		birth_date = 1309.1.1
+		death_date = 1348.12.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1315.1.1 = {
+	monarch = {
+		name = "Fyodor Konstantinovich Menshoy"
+		dynasty = "Rurikovich"
+		birth_date = 1309.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1329.1.1 = {
+	heir = {
+		name = "Feodor"
+		monarch_name = "Fyodor Fyodorovich"
+		dynasty = "Rurikovich"
+		birth_date = 1329.1.1
+		death_date = 1380.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1348.12.1 = {
+	monarch = {
+		name = "Fyodor Fyodorovich"
+		dynasty = "Rurikovich"
+		birth_date = 1329.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1348.12.1 = {
+	heir = {
+		name = "Rodion"
+		monarch_name = "Rodion Fyodorovich"
+		dynasty = "Rurikovich"
+		birth_date = 1348.12.1
+		death_date = 1380.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1380.1.1 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}

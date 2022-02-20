@@ -1,0 +1,77 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 150  50  10 } 
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	algonkin_tomahawk_charge
+	native_indian_horsemen
+	commanche_swarm
+	creek_arquebusier
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Vechegalla #0" = 20
+	"Tatonocapa #0" = 20
+	"Yapu #0" = 20
+	"Taccheck #0" = 20
+	"Chappahpahha #0" = 20
+	"Tatonkahuhkalerpaha #0" = 20
+	"Matevashen #0" = 20
+	"Shonghemoneto #0" = 20
+	"Shonghemonetoychka #0" = 20
+	"Nahpatonka #0" = 20
+	"Ohkeecheta #0" = 20
+	"Tahiota #0" = 20
+	"Wahhanissatta #0" = 20
+	"Voisttitovets #0" = 20
+	"Nahkkomeyen #0" = 20
+	"Kohkehikewmst #0" = 20
+	"Motawato #0" = 20
+	"Vocalist #0" = 20
+	"Avonaro #0" = 20
+	"Oneahacket #0" = 20
+	"Nacohaistah #0" = 20
+	"Aamanako #0" = 20
+	
+	"Echiophsta #0" = -1
+	"Misstanstur #0" = -1
+	"Tahtachtoisneh #0" = -1
+}
+
+leader_names = {
+	Mohe
+	Diwali
+	Waya
+	Tsiji
+	Onaka
+	Atagukalu
+	Degataga
+	Chisekvah
+	Adahi
+	Atagulkalu
+}
+
+ship_names = {
+	"Ani-kutani" "Ah-nee-ga-ga-ga-vi ." "Ah-ni-gi-lo-hi ." "Ah-ni-ka-vi" 
+	"Ah-ni-tsi-sk-va ." "Ah-ni-sah-oni ." "Ah-ni-wo-di" "Ah-ni-wa-wa-wa" 
+	Kana'ti Selo "Tsuul Kalu" "Uunavieh Unggi" "Ani Untikwalaski"
+	"Asgaia Gigahei" "E'ga-gae utashi" "Anisga'ya Tsounsdi"
+	"In-da y-o-le" "Nvda koala" "Nwa-da ka-na-wa-ga" "Nwa-da-ti-ha"
+}

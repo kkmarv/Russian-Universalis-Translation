@@ -1,0 +1,78 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 129 193 21 }
+
+historical_idea_groups = { 
+	defensive_ideas
+	quantity_ideas
+	administrative_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	aristocracy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Surhai #0" = 40
+	"Eldar #0" = 30
+	"Alibek #0" = 30
+	"Buda #0" = 30
+	"Alibek #0" = 20
+	"Murtazali #0" = 20
+	"Muhammad #0" = 20
+	"Aydemer #0" = 20
+	"Alice #0" = -1
+	"Gulandash #0" = -1
+}
+
+leader_names = {
+	Derbent
+	Tabasaran
+	Humik
+	Sarir
+	Lacs
+	Haidak
+	Phelan
+	Shandan
+	Zirigeran
+	Tumen
+	Jinan
+	Hamzin
+	Semender
+	Belenger
+	Shamkal
+}
+
+ship_names = {
+	Lakia Tarki "Umal Muhammad" Gazi Kumukh Hundzal
+	Kumukh
+	Gazi
+	Machimi
+	Vicchi
+	Gumucci
+	Kullal
+	Uri-Mukarki
+	Bartky
+	Tarki
+	Kurkley
+	Crash
+	Agul
+	Rutuler
+}

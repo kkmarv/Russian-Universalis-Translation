@@ -1,0 +1,145 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 33  96  48 } 
+revolutionary_colors = { 9  8  9 }
+
+historical_score = 450
+
+historical_idea_groups = {
+	humanist_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	maritime_ideas
+	administrative_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Shah Jahan #0" = 60
+	"Alamgir #0" = 40
+	"Shah Alam #0" = 40
+	"Muhammad #4" = 20
+	"Ibrahim #2 Khan" = 20
+	"Sikandar #2 Check" = 20
+	"Akbar #0" = 20
+	"Babur #0" = 20
+	"Bahadur Shah #0" = 20
+	"Davar Bakhsh #0" = 20
+	"Farruk Siyahar #0" = 20
+	"Humayun #0" = 20
+	"Islam Shah #0" = 20
+	"Jahandar Shah #0" = 20
+	"Jahangir #0" = 20
+	"Muhammad Shah #0" = 20
+	"Nicu Siyaar #0" = 20
+	"Rafi #0" = 20
+	"Shir Shah #0" = 20
+	"Ibrahim #2 Check" = 10
+	"Azim-Ush-Shan #0" = 10
+	"Azam Shah #0" = 10
+	"Dara Shikukh #0" = 10
+	"Kam Bakhsh #0" = 10
+	"Murad Bahsh #0" = 10
+	"Shah Sujah #0" = 10
+	"Abu Nasr #0" = 5
+	"Alaman #0" = 5
+	"Ahm Bahadur #0" = 5
+	"Ahmad Shah #0" = 5
+	"Bidar Baht #0" = 5
+	"Daulat Shah #0" = 5
+	"Farrukh Shah #0" = 5
+	"Garshasp #0" = 5
+	"Hakeem Shah #0" = 5
+	"Hassan Shah #0" = 5
+	"Hussain Shah #0" = 5
+	"Javan Baht #0" = 5
+	"Kamran #0" = 5
+	"Kushruch #0" = 5
+	"Mahmoud Shah #0" = 5
+	"Murad Shah #0" = 5
+	"Shahariyar Shah #0" = 5
+	"Adele #0" = 0
+	"Fahri #0" = 0
+	"Harun #0" = 0
+	"Jabir #0" = 0
+	"Mazin #0" = 0
+	"Rashid #0" = 0
+	"Samad #0" = 0
+	"Raj Sanghar Ali #0" = 0
+	"Asad Malik Hast #0" = 0
+	"Mustafa #0" = 0
+	"Chin Timur #0" = 0
+	"Mumtaz #0" = -5
+	"Roshanara #0" = -5
+	"Yahanara #0" = -5
+	"Bahar Banu #0" = -5
+}
+
+leader_names = {
+	"Amirun"
+	"Run"
+	"Bhutto"
+	"Chukhtai"
+	"Jahan"
+	"Kamaluddin"
+	"Khan"
+	"Mirza"
+	"Musharif"
+	"Nagar"
+	"Nasseruddin"
+	"Nazirin"
+	"Razidoun"
+	"Raana"
+	"Rumi"
+	"Shahabuddin"
+	"Sharif"
+	"Sinan"
+	"Singh"
+	"Vazin"
+	"Uzbek"
+	"Zahiruddin"
+}
+
+ship_names = {
+	"Aliya"
+	"Arusa"
+	"Chumbal"
+	"Fatima"
+	"Jalsen"
+	"Gang"
+	"Kala Jahazi"
+	"Khan"
+	"Lal Jahazi"
+	"Nausen"
+	"Nava-ka-Yud"
+	"Niknaz"
+	"Nile Jahazi"
+	"Niloufa"
+	"Noor"
+	"Sagar"
+	"Saleema"
+	"Shamina"
+	"Sleepy"
+	"Sukhaliya"
+	"Yamuna"
+	"Yasmine"
+	"Zahira"
+}

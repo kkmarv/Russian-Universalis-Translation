@@ -1,0 +1,77 @@
+government = tribal
+add_government_reform = tribal_kingdom
+primary_culture = kongolese
+religion = shamanism
+technology_group = central_african
+unit_type = sub_saharan
+capital = 1169	# Anziku
+
+1430.1.1 = {
+	monarch = {
+		name = "Kateng"
+		dynasty = "Toyo"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+} #All fictional
+
+1490.1.1 = {
+	monarch = {
+		name = "Mpemba"
+		dynasty = "Toyo"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+} 
+
+1540.1.1 = {
+	monarch = {
+		name = "Malo"
+		dynasty = "Toyo"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+} 
+
+1600.1.1 = {
+	monarch = {
+		name = "Mukaz"
+		dynasty = "Toyo"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+} 
+
+1660.1.1 = {
+	monarch = {
+		name = "Ndai ."
+		dynasty = "Toyo"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+} 
+
+1720.1.1 = {
+	monarch = {
+		name = "Kakasekene"
+		dynasty = "Toyo"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+} 
+
+1780.1.1 = {
+	monarch = {
+		name = "Sanza"
+		dynasty = "Toyo"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+} 

@@ -1,0 +1,124 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 245 245 220 }
+special_unit_culture = south_east_asian_special
+
+historical_score = 0
+
+historical_idea_groups = {
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	religious_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	chinese_longspear
+	eastern_bow
+	chinese_footsoldier
+	chinese_steppe
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	manchu_banner
+	han_banner
+	asian_musketeer
+	chinese_dragoon
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+	reformed_manchu_rifle
+}
+
+monarch_names = {
+	"Zhijen #0" = 20
+	"Tsiiyu #0" = 20
+	"Jianjun #0" = 20
+	"Yucheng #0" = 20
+	"Houjiao #0" = 20
+	"Houetzun #0" = 20
+	"Zaihou #0" = 20
+	"Ijun #0" = 20
+	"Chanlo #0" = 20
+	"Yujian #0" = 20
+	"Yusun #0" = 20
+	"Yujian #0" = 20
+	"Yulan #0" = 20
+	"Chengung #0" = 10
+	"Keshuan #0" = 10
+	"Biao #0" = 10
+	"Shuang #0" = 10
+	"Gan #0" = 10
+	"Su #0" = 10
+	"Chen #0" = 10
+	"Fu #0" = 10
+	"Ji #0" = 10
+	"Chi #0" = 10
+	"Tang #0" = 10
+	"Chun #0" = 10
+	"Bai #0" = 10
+	"Gui #0" = 10
+	"Ji #0" = 10
+	"Quan #0" = 10
+	"Pyan #0" = 10
+	"Hui #0" = 10
+	"Sun #0" = 10
+	"Mo #0" = 10
+	"In #0" = 10
+	"Jing #0" = 10
+	"Dan #0" = 10
+	"Nan #0" = 10
+	"Kaohsiu #0" = 10
+	"Caosui #0" = 10
+	"Gausi #0" = 10
+	"Yuan #0" = 10
+	"Yulun #0" = 10
+	"Yubin #0" = 10
+	"Howay #0" = 10
+	"Yusyao #0" = 10
+	"Yuji #0" = 10
+	"Yushue #0" = 10
+	"Yui #0" = 10
+	"Yushan #0" = 10
+	"Qishuan #0" = 10
+	"Jiang #0" = 10
+	"Qizhao #0" = 10
+	"Tsibuan #0" = 10
+	"Qitzan #0" = 10
+	"Hae #0" = 0
+	"Ji #0" = 0
+	"Yes, . #0" = 0
+	"Yuchun #0" = 0
+	"Hain #0" = -20
+	"Chunmei #0" = -20
+	"Tianhui #0" = -20
+	"Knight #0" = -20
+	"Mao #0" = -20
+}
+
+leader_names = {
+	Lee Wang Zhang Liu Zhao Chen Woo Huang Zhou Xu Lin Sun Ma.
+	Gao Hu Zheng Godao Se-He Xu Sun Shen Lo Han Deng Liang Ye
+	Pan Fang Wang Tsui Cai Cheng Yuan Pan Liu Cao Tang Feng Qian Du
+}
+
+ship_names = {
+	Gaodi Huidi Wendy Zhaodi Zhandi "Da Min Go"
+	Beijing "Zeng He" Jinan Nanjing Hangzhou
+	Uchan Fuzhou Nanchang Guilin Guangzhou
+	Guiyang Yunnan Chengdo Xian Taiyuan "Huang He"
+	"Changjiang" "Sijiang" "Confucius" Mencius
+	"Sunzu" "Yan Hui" "Min Sun" "Ran Gheng" "Ran Yong"
+	"Ji-Yu" "Ji-Lu" "Ji Wo" "Jigong" "Yang Yang"
+	"Ji-Sia" "Ji-jang" "Zengshen" "Dantay Memin"
+	"Fu Buji" "Yuan Xiang" "Gunge Chan" "Nangun Go"
+	"Gunsi Ai" "Zeng Diang" "Yan Huyao" "Shang Zhu"
+	"Gao Tea" "Qiyao Kai" "Gunbo Liao" "Sima Gheng"
+	"Fan Xu" "Ju Ro" "Gunshi Chi" "Uma Shi" "Liang Zhang"
+	"Yang Xing" "Ran Ju" "Cao Xu" "Bo Qian" "Gongsuon Lun"
+}

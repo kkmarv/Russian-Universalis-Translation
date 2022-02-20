@@ -1,0 +1,73 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 163  66  74 }
+
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	indian_archers
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Gadzhanka #0" = 20
+	"Sucranca #0" = 20
+	"Mriganka #0" = 20
+	"Susanfu #0" = 20
+	"Neelahwajr #0" = 20
+	"Chakradhwaj #0" = 20
+	"Neelambar #0" = 20
+	"Gira #0" = -1
+	"Hira #0" = -1
+	"Chandrabbach #0" = -1
+	"Banumati #0" = -1
+}
+
+leader_names = {
+	"Kamata"
+	"Rajbongshi"
+	"Baro-Buyan"
+	"Barua"
+	"Borfukan"
+	"Chandra"
+	"Das"
+	"Deke"
+	"Kalita"
+	"Mahanta"
+	"Narayan"
+	"Pritu"
+	"Roy"
+	"Pritu"
+}
+
+ship_names = {
+	"Brahmaputra" "Chingri Much" "Darrang"
+	"Devi" "Dibang" "Durga Ma" "Ganga" "Hilsa Much"
+	"Ilish-Machs" "Muchley" "Kali Ma" "Cali Megana"
+	"Kali Nauk" "Kamrup" "Lakimpur" "Lal Science"
+	"Loki Devi" "Luhit" "Manasa Devi" "Manjulie"
+	"Megna" "Neil Sciences" "Nile Sagor" "Parvati Devi"
+	"Rui Mach" "Sarasvoti" "Sagorer Bachini" "Shakti"
+	"Shaktir Science" "Shasti Ma" "Sibsagar" "Trishul"
+	"Uma Devi"
+}

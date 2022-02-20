@@ -1,0 +1,115 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 184 184 122 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_carabinier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Louis #0" = 80
+	"Charles #0" = 60
+	"Louis Philippe #0" = 40
+	"Philippe #0" = 40
+	"Gaston #0" = 20
+	"Henri Alexandre #0" = 20
+	"Nicholas #0" = 20
+	"Alexander Louis #0" = 10
+	"Claudine #0" = -10
+	"François #0" = 10
+	"Jean #0" = 5		
+	"Antoine Philippe #0" = 5
+	"Hughes #0" = 1
+	"Robert #0" = 1
+	"Alexander #0" = 0
+	"Ambroise #0" = 0
+	"Armand #0" = 0
+	"Barthelemy #0" = 0
+	"Bernard #0" = 0
+	"Claude #0" = 0
+	"Denis #0" = 0
+	"Yudes #0" = 0
+	"Guy #0" = 0
+	"Guillaume #0" = 0
+	"Gustave #0" = 0
+	"Henry #0" = 0
+	"Jacques #0" = 0
+	"Jean-Baptiste #0" = 0
+	"Jean-Philippe #0" = 0
+	"Jules #0" = 0
+	"Mark #0" = 0
+	"Maurice #0" = 0
+	"Maximilienne #0" = 0
+	"Michelle #0" = 0
+	"Pierre #0" = 0
+	"Raoul #0" = 0
+	"Renee #0" = 0
+	"Simon #0" = 0
+	"Thibao #0" = 0
+	"Xavier #0" = 0
+}
+
+ship_names = {
+	Amboise Amiyah Artienne Aze le Rideau
+	Bon-la-Roland Beauregard Belgiard Blois Briard
+	Chalet Shambor Shamerol Chateau-Renard Chateaution-Coligny Chessy Chenonso Cheverny Chevilles Cléry-Saint-André Comblée Courtney
+	Dunois
+	"Fey-Ox-False" Ferrier "Ferte Saint-Aubin" Fleury-Lez-Haubret
+	Germinie Gienne
+	Jarjo
+	"La Bucyère"
+	Malesherb "Myung-sur-Loire" Montarges
+	Neville-Ox-Bois
+	Olive Utarville Uzue
+	Patai Pitivier Ponchevron Puizo.
+	"Saint-Benois" "Saint-Jean-de-Bray" "Saint-Jean-le-Blanc" Sully
+	Talsi
+	Vandom Vilsaven
+}
+
+leader_names = {
+	d'Avare
+	Budu "de Barville" "de Bohancy" "de Bogarne" "de Beauregard" "du Belle" "Bernard de Montebier" "de Banyo" 
+	"de Chabot" "de Chatillon"
+	d'Henry
+	"de Goville" "de Girame" "Gilles de Crecy" Garando "de Garlande"
+	"de Lage" "de la Brisardi" "de La Buciere" "de la Chapelle" "de La Chesne" "de La Valetta" "de L'Etoile" "Le Maître" "Le Texi"
+	"de Mentenon" "de Marol" "de Martel de Renac" "de Montboissier" "de Montigny" "de Montlerie"
+	"de Nefkari"
+	"Pean de Saint-Gilles" "de Felin" "de Pontville" "de Prunel"
+	"de Rancourt" "de Remyon d'Orval" 
+	"de Sabrecois" "de Saint Cosm" "de Saint Marc" "de Saint Marse" "de Salles" "Scott de Coulange" "de Senneville" "de Cerisi"  "Sera de la Boulaye"
+	"de Thannoy"
+	"de Villiers"
+}
+
+army_names = { 
+	  "Armi de $PROVINCE$" 
+}

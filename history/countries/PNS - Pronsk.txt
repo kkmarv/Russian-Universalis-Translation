@@ -1,0 +1,73 @@
+# Principality of Pronsk
+
+government = monarchy
+
+add_government_reform = principality
+government_rank = 1
+primary_culture = ryazanian
+religion = orthodox
+technology_group = eastern
+capital = 3174
+fixed_capital = 3174
+
+1299.1.1 = {
+	monarch = {
+		name = "Ivan"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1327.1.1 = {
+	monarch = {
+		name = "Vsevolod"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1340.1.1 = {
+	monarch = {
+		name = "Yaroslav"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1372.1.1 = {
+	monarch = {
+		name = "Danila"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	government_rank = 2
+}
+
+1378.1.1 = {
+	monarch = {
+		name = "Ivan"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1440.1.1 = { # Estimated
+	monarch = {
+		name = "Feodor"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+	government_rank = 1
+}

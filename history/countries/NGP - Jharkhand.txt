@@ -1,0 +1,363 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+primary_culture = jharkhandi
+technology_group = indian
+religion = hinduism
+capital = 560 # Jharkhand
+
+#Chero Nagas of Kokrah:
+1440.1.1 = {
+	monarch = {
+		name = "Maharato"
+		dynasty = "Nagawamsi"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1500.1.1 = {
+	monarch = {
+		name = "Maharato II"
+		dynasty = "Nagawamsi"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1510.1.1 = {
+	heir = {
+		name = "Madhu Singh"
+		monarch_name = "Madhu Singh"
+		dynasty = "Nagawamsi"
+		birth_date = 1510.1.1
+		death_date = 1595.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1550.1.1 = {
+	monarch = {
+		name = "Madhu Singh"
+		dynasty = "Nagawamsi"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1570.1.1 = {
+	heir = {
+		name = "Durjan Sal"
+		monarch_name = "Durjan Sal"
+		dynasty = "Nagawamsi"
+		birth_date = 1560.1.1
+		death_date = 1630.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1595.1.1 = {
+	monarch = {
+		name = "Durjan Sal"
+		dynasty = "Nagawamsi"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1595.1.1 = {
+	heir = {
+		name = "Anant Raj"
+		monarch_name = "Anant Raj"
+		dynasty = "Nagawamsi"
+		birth_date = 1575.1.1
+		death_date = 1662.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1630.1.1 = {
+	monarch = {
+		name = "Anant Raj"
+		dynasty = "Nagawamsi"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1630.1.1 = {
+	heir = {
+		name = "Medini Raj"
+		monarch_name = "Medini Raj"
+		dynasty = "Nagawamsi"
+		birth_date = 1600.1.1
+		death_date = 1674.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1662.1.1 = {
+	monarch = {
+		name = "Medini Raj"
+		dynasty = "Nagawamsi"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1662.1.1 = {
+	heir = {
+		name = "Pratap Raj"
+		monarch_name = "Pratap Raj"
+		dynasty = "Nagawamsi"
+		birth_date = 1620.1.1
+		death_date = 1681.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+#Ruxel dynasty of Surguja:
+
+#1633.1.1 = {
+1674.1.1 = {
+	monarch = {
+		name = "Narendra Rudra Singh"
+		dynasty = "Ruxel"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1674.1.1 = {
+	heir = {
+		name = "Bayha Dadu Singh"
+		monarch_name = "Bayha Dadu Singh"
+		dynasty = "Ruxel"
+		birth_date = 1650.1.1
+		death_date = 1709.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1678.1.1 = {
+	monarch = {
+		name = "Narendra Rudra Singh"
+		dynasty = "Ruxel"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1678.1.1 = {
+	heir = {
+		name = "Balbadra Singh"
+		monarch_name = "Balbadra Singh"
+		dynasty = "Ruxel"
+		birth_date = 1650.1.1
+		death_date = 1728.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1709.1.1 = {
+	monarch = {
+		name = "Balbadra Singh"
+		dynasty = "Ruxel"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1709.1.1 = {
+	heir = {
+		name = "Jaswant Singh"
+		monarch_name = "Jaswant Singh"
+		dynasty = "Ruxel"
+		birth_date = 1700.1.1
+		death_date = 1749.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1728.1.1 = {
+	monarch = {
+		name = "Jaswant Singh"
+		dynasty = "Ruxel"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1728.1.1 = {
+	heir = {
+		name = "Bahadur Singh"
+		monarch_name = "Bahadur Singh"
+		dynasty = "Ruxel"
+		birth_date = 1720.1.1
+		death_date = 1760.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1749.1.1 = {
+	monarch = {
+		name = "Bahadur Singh"
+		dynasty = "Ruxel"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1749.1.1 = {
+	heir = {
+		name = "Cheo Singh"
+		monarch_name = "Cheo Singh"
+		dynasty = "Ruxel"
+		birth_date = 1740.1.1
+		death_date = 1792.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1760.1.1 = {
+	monarch = {
+		name = "Cheo Singh"
+		dynasty = "Ruxel"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1760.1.1 = {
+	heir = {
+		name = "Ajit Singh"
+		monarch_name = "Ajit Singh"
+		dynasty = "Ruxel"
+		birth_date = 1760.1.1
+		death_date = 1799.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1792.1.1 = {
+	monarch = {
+		name = "Ajit Singh"
+		dynasty = "Ruxel"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1792.1.1 = {
+	heir = {
+		name = "Balbadra Singh"
+		monarch_name = "Balbadra Singh"
+		dynasty = "Ruxel"
+		birth_date = 1775.1.1
+		death_date = 1816.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1799.1.1 = {
+	monarch = {
+		name = "Balbadra Singh"
+		dynasty = "Ruxel"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1800.1.1 = {
+	monarch = {
+		name = "Singgram Singh"
+		dynasty = "Ruxel"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1813.1.1 = {
+	monarch = {
+		name = "Balbadra Singh"	#For the second time
+		dynasty = "Ruxel"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1813.1.1 = {
+	heir = {
+		name = "Amar Singh"
+		monarch_name = "Amar Singh"
+		dynasty = "Ruxel"
+		birth_date = 1795.1.1
+		death_date = 1851.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1816.1.1 = {
+	monarch = {
+		name = "Amar Singh"
+		dynasty = "Ruxel"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}

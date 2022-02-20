@@ -1,0 +1,139 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 49 175 191 }
+
+revolutionary_colors = { 16  9  16 }
+
+historical_idea_groups = {
+	humanist_ideas
+	trade_ideas
+	administrative_ideas
+	offensive_ideas
+	quantity_ideas
+	diplomatic_ideas
+	defensive_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Taj oud-Din Firuz #1" = 20
+	"Ala oud-Din Ahmad #0" = 20
+	"Mahmoud #0" = 20
+	"Ahmad #0" = 20
+	"Ali #0" = 30
+	"Kasim #0" = 30
+	"Amir #0" = 30
+	"Muhammad #0" = 10
+	"McDumah Jahan #0" = -1
+	"Giyas-ud-din #0" = 10
+	"Shams-ud-din #0" = 10
+	"Dilawar Khan #0" = 0
+	"Kwaja Hasan #0" = 0
+	"Kwajai Jahan #0" = 0
+	"Halaf Hassan #0" = 0
+	"Mir Farrukh #0" = 0
+	"Said Hussein #0" = 0
+	"Jelal Khan #0" = 0
+	"Majnun Sultan #0" = 0
+	"Cooley Sultan #0" = 0
+	"Mahmoud Havana #0" = 0
+	"Said Hanif #0" = 0
+	"Imad al-Mulk #0" = 0
+	"Saif Allah #0" = 0
+	"Iftikar al-Mulk #0" = 0
+	"Mir Abul Qasim #0" = 0
+	"Ubbaid Allah #0" = 0
+	"Said Nasir al-Din #0" = 0
+	"Shah Khalil Allah #0" = 0
+	"Mullah Qutb al-Din #0" = 0
+	"Abd Allah #0" = 0
+	"Rustem Khan #0" = 0
+	"Mir Shams al-Din #0" = 0
+	"Kasim Beg #0" = 0
+	"Hwajah Imad al-Din #0" = 0
+	"Ali's world #0" = 0
+	"Husrau #0" = 0
+	"Daud Khan #0" = 0
+	"Mujahid #0" = 1
+	"Quasi Siraj-ud-din #0" = 0
+	"Fulad Khan #0" = 0
+	"Jamal-ud-din #0" = 0
+	"Abdul #0" = 0
+	"Malik #0" = 0
+	"Ala-ud-din #0" = 0
+	"Malik-ut-Tuljar #0" = 0
+	"Sicander #0" = 0
+	"Hakim #0" = 0
+	"Samia #0" = -1
+	"Nasiha #0" = -1
+}
+
+leader_names = {
+	"Afghanistan"
+	"Astarabadi"
+	"Ardastani"
+	"Badajshi"
+	"Bukhari"
+	"Changesy"
+	"Jilani"
+	"Guri"
+    "Hasanabadi"
+	"Hamadani"
+	"Giurjani"
+	"Kabul"
+	"Karbali"
+	"Kirmani"
+	"Kurd"
+	"Mazandarani"
+	"Kummy"
+	"Safsikhan"
+	"Synthesians"
+	"Sistani"
+	"Uzbek"
+	"Husseini"
+	"Kadir"
+	"Barn"
+	"Latif"
+}
+
+ship_names = {
+	"Aliya"
+  "Aurangabad"
+  "Chicks"
+  "Fatima"
+  "Godwari"
+  "Gulbarga"
+  "Jilsen"
+  "Kala Jahazi"
+  "Khan"
+  "Lal Jahazi"
+  "Nausen"
+  "Nava ka Yudh"
+  "Niknaz"
+  "Nile Jahazi"
+  "Niloufa"
+  "Sagar"
+  "Saleema"
+  "Sukhaliya"
+  "Shamina"
+  "Yasmine"
+}
+

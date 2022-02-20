@@ -1,0 +1,203 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 0  123  12 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	religious_ideas
+	spy_ideas
+	trade_ideas
+	innovativeness_ideas
+	economic_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	ottoman_yaya
+	ottoman_musellem
+	ottoman_azab
+	ottoman_timariot
+	ottoman_janissary
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Sarukhan #1" = 40
+	"Ishak #1" = 40
+	"Ilyas #1" = 40
+	"Cheesir #0" = 40
+	"Ahmed #0" = 5
+	"Selim #0" = 5
+	"Mahmoud #0" = 5
+	"Suleiman #0" = 5
+	"Abdul-Hamid #0" = 5
+	"Ibrahim #0" = 5
+	"Abdullah #0" = 5
+	"Abdul-Medjid #0" = 0
+	"Jahangir #0" = 0
+	"Giyas oud-Din #0" = 0
+	"Isa #0" = 0
+	"Numan #0" = 0
+	"Musa #0" = 0
+	"Jam #0" = 0
+	"Orhan #1" = 0
+	"Abdul-Aziz #0" = 0
+	"Abdul-Malik #0" = 0
+	"Abdul-Rahman #0" = 0
+	"Ala oud-Din #0" = 0
+	"Ali #0" = 0
+	"Alam #0" = 0
+	"Dowd #0" = 0
+	"Hassan #0" = 0
+	"Hussain #0" = 0
+	"Kamar #0" = 0
+	"Kasim #0" = 0
+	"Corcud #0" = 0
+	"Mourad #0" = 0
+	"Omar #0" = 0
+	"Saif-ud-Din #0" = 0
+	"Jakub #0" = 0
+	"Yusuf #0" = 0
+	"Iskander #0" = 0
+
+	"Aze #0" = -1
+	"Elif #0" = -1
+}
+
+leader_names = {
+	"Alemdar"
+	"Amaziali"
+	"Ayas"
+	"Bali"
+	"Barbarossa"
+	"Bairam"
+	"Jezzar"
+	"Chandarly"
+	"Chelebi"
+	"Jerrah"
+	"Circassia"
+	"Damat"
+	"Service"
+	"Ekrem"
+	"Gedik"
+	"Gazi"
+	"Gyumuljineli"
+	"Gurdyu"
+	"Hadim"
+	"Hekimoglu"
+	"Hersekly"
+	"Keperulu"
+	"Kemel"
+	"Kujuk"
+	"Koja"
+	"Karamanli"
+	"Kara"
+	"Canigeli"
+	"Kemankes"
+	"Ishak"
+	"Lala"
+	"Lefkeli"
+	"Mezamorto"
+	"Malcoche"
+	"Muezzin-zade"
+	"Melek"
+	"Nevseherly"
+	"Orukh"
+	"Ulug"
+	"Osmanjikli"
+	"Ohryli"
+	"Rum"
+	"Peary"
+	"Pargali"
+	"Piali"
+	"Salih"
+	"Sokullu"
+	"Sissau"
+	"Szilahdar"
+	"Semiz"
+	"Serdar"
+	"Topal"
+	"Tabaniassee"
+	"Tayyar"
+	"Dragut"
+	"Veli"
+	"Emisci"
+	"Ozdemir"
+	"Ozdemiroglu"
+	"Sync by honeybunny"
+}
+
+ship_names = {
+	"Kari Alemdar"
+	"Arnaud Ali"
+	"Dragood Ali"
+	"Ferhad Ali"
+	"Hamid Ali"
+	"Yusuf Ali"
+	"Carl Ali"
+	"Karaman Ali"
+	"Macassir Ali"
+	"Seydi Ali"
+	"Tartar Ali"
+	"Ulug Ali"
+	"Selim Basti"
+	"Saruhan Bay"
+	"Ishak Bey"
+	"Sinian Chelebi"
+	"Murad Darius"
+	"Salim Delhi"
+	"Nasur Ferkhad"
+	"Magyar Ferhad"
+	"Nasur Ferkhad"
+	"Kafir Hadji"
+	"Kiafi Hadji"
+	"Kos Hadji"
+	"Mustafa Hadji"
+	"Murad Hassan"
+	"Karaman Hyder"
+	"Chios Mehmet"
+	"Uchyufli Mami"
+	"Kos Mend"
+	"Cary Mora"
+	"Amdjazade Mustafa"
+	"Cademly Mustafa"
+	"Chendereli Mustafa"
+	"Heignau Mustafa"
+	"Jonas Osman"
+	"Piali Osman"
+	"Pirie Osman"
+	"Tursun Osman"
+	"Josúl Piali"
+	"Alemdar Pasha"
+	"Darius Pasha"
+	"Karaman Pasha"
+	"Chaleby Flight"
+	"Casam Flight"
+	"Karali Flight"
+	"Nasi Flight"
+	"Osman Flight"
+	"Peary Flight"
+	"Pyriman Flight"
+	"Sali Flight"
+	"Sadie Flight"
+	"Talatagi Flight"
+	"Service Flight"
+	"Kara Rodi"
+	"Peri Selim"
+	"Keduk Sadie"
+	"Hazuli Sinian"
+}

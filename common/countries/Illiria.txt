@@ -1,0 +1,191 @@
+graphical_culture = westerngfx
+
+color = { 92 172 238 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	quantity_ideas
+	administrative_ideas
+	religious_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	germanized_pike
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+}
+
+monarch_names = {
+	"Cresimir #4" = 80
+	"Stepan #2" = 40
+	"Almos #1" = 20
+	"Dmitry Zvonimir #1" = 20
+	"Tempimir #2" = 15
+	"Goislav #1" = 15
+	"Helen #1" = -15
+	"Slavich #1" = 15
+	"Svyatoslav #1" = 15
+	"Miroslav #1" = 10
+	"Mutimir #1" = 10
+	"Tomislav #1" = 10
+	"Kaspar #5" = 5
+	"Ladislav #3" = 5
+	"Carlo #2" = 5
+	"Andrei #1" = 5
+	"Louis #1" = 5
+	"Feather #1" = 5
+	"Vladislav #1" = 5
+	"Wenceslav #1" = 5
+	"Alexander #0" = 0
+	"Dragutin #0" = 0
+	"Fausty #0" = 0
+	"Frangio #0" = 0
+	"Gavrilo #0" = 0
+	"Grgur #0" = 0
+	"Ivan #0" = 0
+	"Josip #0" = 0
+	"Yuri #0" = 0
+	"Cristo #0" = 0
+	"Luke #0" = 0
+	"Matthew #0" = 0
+	"Marco #0" = 0
+	"Mikhailo #0" = 0
+	"Milan #0" = 0
+	"Mirko #0" = 0
+	"Mladen #0" = 0
+	"Nenad #0" = 0
+	"Nicola #0" = 0
+	"Pavao #0" = 0
+	"Slavko #0" = 0
+	"Tom #0" = 0
+	"Vladko #0" = 0
+	"Caller #0" = 0
+	"Stefan #2" = 60
+	"Lazarus #1" = 20
+	"George #0" = 20
+	"Yuri #0" = 20
+	"Milos #0" = 20
+	"George #0" = 20
+	"Alexey #0" = 15
+	"Grgur #0" = 15
+	"Peter #0" = 15
+	"Todor #0" = 15
+	"Alexander #0" = 10
+	"Michael #0" = 10
+	"Milan #0" = 10
+	"Bogdan #0" = 0
+	"Branco #0" = 0
+	"Bratislava #0" = 0
+	"Darko #0" = 0
+	"Dragan #0" = 0
+	"Dubravko #0" = 0
+	"Dushan #0" = 0
+	"Philip #0" = 0
+	"Goran #0" = 0
+	"Ivan #0" = 0
+	"Joseph #0" = 0
+	"Constantine #0" = 0
+	"Luke #0" = 0
+	"Marco #0" = 0
+	"Matthew #0" = 0
+	"Miroslav #0" = 0
+	"Mladen #0" = 0
+	"Nebosha #0" = 0
+	"Nemanja #0" = 0
+	"Nenad #0" = 0
+	"Nicola #0" = 0
+	"Pedrag #0" = 0
+	"Stanko #0" = 0
+	"Tom #0" = 0
+	"Vinko #0" = 0
+	"Vekoslav #0" = 0
+	"Hello . #0" = 0
+	"Caller #0" = 0
+
+	"Branca #0" = -1
+	"Jakoda #0" = -1
+	"Myrna #0" = -1
+}
+
+leader_names = {
+	"Alapik"
+	"Bubonic"
+	"Be good ."
+	"Cesnegić"
+	"Crnkovic"
+	"Drašković"
+	"Frankopan"
+	"Gorjanski"
+	"Horvath"
+	"Hrvatinic"
+	"Iloki"
+	"Jelačić"
+	"Kacic"
+	"Kaniski"
+	"Kenglevich"
+	"Knezevich"
+	"Krbavsky"
+	"Circle"
+	"Kuryakovich"
+	"Lachkovic"
+	"Mikhalovich"
+	"Nellipchich"
+	"Ojegovic"
+	"Peyachevich"
+	"Radic"
+	"Mittensil"
+	"Subic"
+	"Talovac"
+	"Vranceech"
+	"Zrinsky"
+	"Bojovic"
+	"Drašković"
+	"Ginjic"
+	"Hrakovec"
+	"Lazarevich"
+	"Markovich"
+	"Obilich"
+	"Petrovich"
+	"Postek"
+	"Putnik"
+}
+
+ship_names = {
+	"The address is ."
+	"Arches Otok"
+	"Goli"
+	"Krl"
+	"Page"
+	"Swimmer"
+	"Susak"
+	"Sveti Grgur"
+	"Tiyat"
+	"Unia"
+	"Vele Srancane"
+	"Zlarin"
+	"Zmayan"
+	"Raska"
+	"Bosnia"
+	"Duklya"
+	"Zaumlia"
+	"Travunia"
+	"Pagania"
+	"Stefan Nemanja"
+	"Stefan Prwovenkani"
+	"Stefan Dushan"
+	"Milyutin"
+}

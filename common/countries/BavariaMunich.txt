@@ -1,0 +1,140 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 204 169 45 }
+
+revolutionary_colors = { 0  14  0 }
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	economic_ideas
+	trade_ideas
+	innovativeness_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Albrecht #2" = 60
+	"William #3" = 40
+	"Johann #3" = 20
+	"Ernst #0" = 20
+	"Ferdinand Maria #0" = 20
+	"Karl Albrecht #0" = 20
+	"Carl Theodore #0" = 20
+	"Maximilian #0" = 20
+	"Maximilian #0 Joseph" = 40
+	"Maximilian #0 Emmanuelle" = 20
+	"Sigismund #0" = 20
+	"Ludwig #9" = 15
+	"Anton #0" = 15
+	"Christoph #0" = 15
+	"Ferdinand #0" = 15
+	"Joseph Clemens #0" = 15
+	"Joseph Ferdinand #0" = 15
+	"Karl #0" = 15
+	"Leopold Ferdinand #0" = 15
+	"Maximilian #0 Phillip" = 15
+	"Philippe Wilhelm #0" = 15
+	"Theodore #0" = 15
+	"Adalbert #0" = 10
+	"Alois Johann #0" = 10
+	"Clemens Augustus #0" = 10
+	"Friedrich #0" = 10
+	"Johann Theodore #0" = 10
+	"Joseph Ludwig #0" = 10
+	"Caetan Maria #0" = 10
+	"Lewitpold #0" = 10
+	"Otto #0" = 10
+	"Philippe Moritz #0" = 10
+	"Wolfgang #0" = 10
+	"Engelbert #0" = 0
+	"Gottfried #0" = 0
+	"Hieronymus #0" = 0
+	"Ignatz #0" = 0
+	"Markus #0" = 0
+	"Menhardt #0" = 0
+	"Raphael #0" = 0
+
+	"Geltrude #0" = -1
+	"Frida #0" = -1
+	"Julianne #0" = -1
+}
+
+leader_names = {
+	"von Armansperg"
+	"Wilsenhutten"
+	"Ash"
+	"Dulak"
+	"Hlingensperg"
+	"Gumpenberg"
+	"Hafenbredl"
+	"Hannet"
+	"Scherer"
+	"Hugenpoet"
+	"Livizzani"
+	"Lechner"
+	"von Sekkendorf"
+	"Moravitsky"
+	"von Zentrum"
+	"Moshamm"
+	"von Pappenheim"
+	"Pfreshner"
+	"Maximilian"
+	"Riedesel"
+	"Riccauer"
+	"Zatzenhofen"
+	"Veregg"
+	"Troyberg"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$" 
+}
+
+ship_names = {
+	"St. Killian"
+	"Tassilo III"
+	"Kaiser Ludwig IV"
+	"König Arnulph"
+	"Count von Bogen"
+	"Count von Andeks"
+	"Count von Sulzbach"
+	"Wittelsbach"
+	"Count von Dipliding"
+	"Koenig Conrad III"
+	"König Friedrich I"
+	"Falzgrave Otto"
+	"Augsburg"
+	"Andex"
+	"Burgau"
+	"Dissen"
+	"Friedberg"
+	"Kempten"
+	"Lindau"
+	"Memmingen"
+	"Mindel"
+	"Ettingen"
+	"Straubing"
+	"Wolfstein"
+}

@@ -1,0 +1,27 @@
+#1077 - Solikamsk
+
+owner = PRM
+controller = PRM
+capital = "Usolye Kamskoye"
+culture = uralic
+religion = siberian_shamanism
+trade_goods = salt # was center of salt mining
+hre = no
+base_tax = 4
+base_production = 5 #Salt Mines
+base_manpower = 2
+is_city = yes
+add_core = PRM
+discovered_by = western
+discovered_by = eastern
+discovered_by = nomad_group
+
+1462.1.1 = { religion = orthodox }
+1505.4.1 = {
+	owner = MOS
+	controller = MOS
+	add_core = MOS
+}
+1547.1.16 = { owner = TSR controller = TSR add_core = TSR remove_core = MOS } ## Ivav IV - tsar
+1600.1.1 = { capital = "Solikamsk" }
+1721.11.2 = { owner = RUS controller = RUS add_core = RUS remove_core = TSR } ## Potr I - imperator

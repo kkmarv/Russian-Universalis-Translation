@@ -1,0 +1,116 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 211  207  173 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	religious_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Janosz #0" = 60
+	"Istvan #0" = 60
+	"Michalie #0" = 50
+	"Ferenc #0" = 40
+	"Gabor #0" = 40
+	"György #0" = 40
+	"Akosh #0" = 20
+	"Andrash #0" = 20
+	"Kryshtof #0" = 20
+	"Yanku #0" = 20
+	"Lorand #0" = 20
+	"Stibor #0" = 20
+	"Sigismund #0" = 20
+	"Boldijar #0" = 15
+	"Imre #0" = 15
+	"Leopold #0" = 15
+	"Samuel #0" = 15
+	"Shandor #0" = 15
+	"Miklosh #0" = 10
+	"Tamash #0" = 10
+	"Ardoyan #0" = 0
+	"Anastas #0" = 0
+	"Barnabas #0" = 0
+	"Bethelan #0" = 0
+	"David #0" = 0
+	"Demeter #0" = 0
+	"Edward #0" = 0
+	"Erne #0" = 0
+	"Isak #0" = 0
+	"Joseph #0" = 0
+	"Squid #0" = 0
+	"Size #0" = 0
+	"Keleman #0" = 0
+	"Lrents #0" = 0
+	"Lukacs #0" = 0
+	"Mark #0" = 0
+	"Oscar #0" = 0
+	"Peter #0" = 0
+	"Simon #0" = 0
+	"Wenzel #0" = 0
+
+	"Dorina #0" = -1
+	"Elizabeth #0" = -1
+	"Isabela #0" = -1
+}
+
+leader_names = {
+	"Alvinci"
+	"Apafi"
+	"Batory"
+	"Bethlehem"
+	"Keg"
+	"von Brucental"
+	"Dozha"
+	"Gulay"
+	"von Harteneck"
+	"Kemeni"
+	"Lakovich"
+	"Lazarus"
+	"Rakoczi"
+	"Reday"
+	"Sasul"
+	"Tekeli"
+	"Zabanius"
+	"Peninsulas"
+	"Zrinsky"
+}
+
+ship_names = {
+	"Gula"
+	"Roland Wrestler"
+	"Ladislav Kan"
+	"Antal Buda Nadia"
+	"Janosh Hunyadi"
+	"Vaskapu"
+	"Varna"
+	"Mercury"
+	"Loistahius"
+	"Legforus"
+}

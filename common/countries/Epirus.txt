@@ -1,0 +1,113 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 230  228  214 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Thomas #2" = 20
+	"Mickel #2" = 20
+	"Nicephorus #2" = 20
+	"Nicholas #1" = 10
+	"Giovanni #1" = 10
+	"Theodore #1" = 5
+	"Maria #1" = -5
+	"Simeon #1" = 5
+	"Agapiy #0" = 0
+	"Akaki #0" = 0
+	"Alexander #0" = 0
+	"Anargyrium #0" = 0
+	"Anastasius #0" = 0
+	"Andreas #0" = 0
+	"Angelos #0" = 0
+	"Anicetus #0" = 0
+	"Apostle #0" = 0
+	"Argiros #0" = 0
+	"Atanasius #0" = 0
+	"Synthropy #0" = 0
+	"Cristiantis #0" = 0
+	"Demetrius #0" = 0
+	"Dimosfen #0" = 0
+	"Dionysius #0" = 0
+	"Dorofey #0" = 0
+	"Eleftherium #0" = 0
+	"Elias #0" = 0
+	"Emmanuel #0" = 0
+	"Gospels #0" = 0
+	"George #0" = 0
+	"Gregory #0" = 0
+	"John #0" = 0
+	"Constantine #0" = 0
+	"Paul #0" = 0
+	"Peter #0" = 0
+	"Philippe #0" = 0
+	"Photios #0" = 0
+	"Stefan #0" = 0
+	"Teophylactus #0" = 0
+	"Vasily #0" = 0
+	"Vlasy #0" = 0
+	
+	"Symbilla #0" = -1
+	"Ksenia #0" = -1
+}	
+
+leader_names = { 
+	"Angelus"
+	"Asan"
+	"Bran"
+	"Cantacuzin"
+	"Comnin"
+	"Dooka"
+	"Moor"
+	"Notary"
+	"Paleologist"
+	"Foka"
+	"Raoul"
+	"Spiñoli"
+	"Sfranji"
+	"Tocco"
+	"Zaccaria"
+}
+
+ship_names = {
+	"Agios Ciprianos"
+	"Areopoli"
+	"Elika"
+	"Herolimenas"
+	"Giteyo"
+	"Cardamili"
+	"Kokkala"
+	"Kotronas"
+	"Scutari"
+	"Watiya"
+}

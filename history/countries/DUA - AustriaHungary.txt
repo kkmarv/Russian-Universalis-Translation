@@ -1,0 +1,178 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = austrian
+add_accepted_culture = hungarian
+religion = catholic
+technology_group = western
+capital = 134 # Wien
+government_rank = 3
+
+1867.3.15 = {
+	monarch = {
+		name = "Franz Joseph I"
+		dynasty = "von Habsburg Lorraine"
+		birth_date = 1830.8.18
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1867.3.15 = {
+	queen = {
+		country_of_origin = BAV
+		name = "Elizabeth"
+		dynasty = "von Pfalz-Zweinbrücken"
+		birth_date = 1837.12.24
+		death_date = 1898.9.10
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1867.3.15 = {
+	heir = {
+		name = "Rudolph"
+		monarch_name = "Rudolph I"	
+		dynasty = "von Habsburg Lorraine"
+		birth_date = 1858.8.21
+		death_date = 1889.1.30
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1889.1.30 = {
+	heir = {
+		name = "Karl Ludwig"
+		monarch_name = "Karl Ludwig I"	
+		dynasty = "von Habsburg Lorraine"
+		birth_date = 1833.7.30
+		death_date = 1896.5.19
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1896.5.19 = {
+	heir = {
+		name = "Franz Ferdinand"
+		monarch_name = "Franz II"	
+		dynasty = "von Habsburg Lorraine"
+		birth_date = 1863.12.19
+		death_date = 1914.6.28
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1914.6.28 = {
+	heir = {
+		name = "Carl Franz Joseph"
+		monarch_name = "Karl I"	
+		dynasty = "von Habsburg Lorraine"
+		birth_date = 1887.8.17
+		death_date = 1922.4.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1916.11.21 = {
+	monarch = {
+		name = "Karl I"	
+		dynasty = "von Habsburg Lorraine"
+		birth_date = 1887.8.17
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1916.11.21 = {
+	queen = {
+		country_of_origin = PAR
+		name = "Quote"
+		dynasty = "Bourbon-Parmskaya"
+		birth_date = 1892.5.9
+		death_date = 1989.3.14
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1916.11.21 = {
+	heir = {
+		name = "Otto"
+		monarch_name = "Otto I"	
+		dynasty = "von Habsburg Lorraine"
+		birth_date = 1912.11.20
+		death_date = 2011.6.4
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1922.4.1 = {
+	monarch = {
+		name = "Otto I"	
+		dynasty = "von Habsburg Lorraine"
+		birth_date = 1912.11.20
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1961.1.11 = {
+	heir = {
+		name = "Karl"
+		monarch_name = "Karl II"	
+		dynasty = "von Habsburg Lorraine"
+		birth_date = 1961.1.11
+		death_date = 3000.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+2007.1.1 = {
+	monarch = {
+		name = "Karl II"	
+		dynasty = "von Habsburg Lorraine"
+		birth_date = 1961.1.11
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+2007.1.1 = {
+	heir = {
+		name = "Ferdinand Caller"
+		monarch_name = "Ferdinand II"	
+		dynasty = "von Habsburg Lorraine"
+		birth_date = 1997.6.21
+		death_date = 3000.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

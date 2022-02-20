@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+religion = confucianism
+primary_culture = chihan
+capital = 1816	#Beijing
+
+1333.1.1 = {
+	monarch = {
+		name = "Ton-Tamur"
+		dynasty = "Yuan"
+		birth_date = 1320.7.19
+		death_date = 1370.5.23
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}

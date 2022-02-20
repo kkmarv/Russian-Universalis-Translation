@@ -1,0 +1,1147 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = castillian
+add_accepted_culture = sicilian
+add_accepted_culture = leonese
+add_accepted_culture = neapolitan
+add_accepted_culture = wallonian
+religion = catholic
+technology_group = western
+historical_friend = POR
+capital = 219 # Toledo
+
+national_focus = MIL
+
+
+1491.1.1 = { leader = {	name = "Fadrique de Toledo"	type = general	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1520.1.1 } }
+
+1495.1.1 = { leader = {	name = "Prospero Colonna"      	type = general		fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1523.12.1 } }
+
+1499.1.1 = { leader = {	name = "Vincent Pinzine"	type = explorer		fire = 2	shock = 3	manuever = 6	siege = 0	death_date = 1523.1.1 } }
+
+#1503.1.1 = { decision = house_of_trade }
+
+1508.1.1 = { leader = {	name = "Jean Jazz de Solnz"    	type = explorer	fire = 3	shock = 2	manuever = 5	siege = 0	death_date = 1516.2.1 } }
+
+1509.1.1 = { leader = {	name = "Vasco de Balboa"	type = conquistador		fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1519.1.25 } }
+
+1511.1.1 = { leader = {	name = "Panfilo de Narvez"    	type = conquistador	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1528.1.1 } }
+
+1512.3.4 = { leader = {	name = "Ponce de Lain"         	type = conquistador	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1521.7.1 } }
+
+1513.10.7 = { leader = { name = "Ferdinand de Baalos"	type = general		fire = 3	shock = 5	manuever = 3	siege = 0	death_date = 1525.2.4 } }
+
+1516.1.23 = { changed_tag_from = CAS decision = act_of_uniformity decision = blasphemy_act }
+
+1516.1.23 = {
+	monarch = {
+		name = "Karl I"
+		dynasty = "von Habsburg"
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+	add_army_professionalism = 0.3
+}
+
+1518.1.1 = { leader = {	name = "Juan de Grijalva"  type = explorer		fire = 2	shock = 2	manuever = 4	siege = 0	death_date = 1527.1.1 } }
+
+1519.1.1 = { leader = {	name = "Hernan"         	type = conquistador	fire = 5	shock = 5	manuever = 6	siege = 1	death_date = 1547.12.2 } }
+
+1519.1.1 = { leader = { name = "Christopher de Olyde" 	type = conquistador	fire = 3 	shock = 3 	manuever = 3 	siege = 0	death_date = 1524.5.3 } }
+
+1519.1.12 = {
+	monarch = {
+		name = "Karl V"	# Accepted the title of Emperor of SRI.
+		dynasty = "von Habsburg"
+		culture = flemish #or burgundian, or dutch, or castilian
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+1519.1.12 = { leader = { name = "Carl de Lanna"	type = general		fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1527.9.23 } }
+
+1519.9.21 = { leader = { name = "Ferngo de Magalhres"   type = explorer	fire = 2	shock = 2	manuever = 5	siege = 0	death_date = 1521.4.27 } }
+
+1520.1.1 = { add_accepted_culture = lombard }
+
+1521.1.1 = { leader = {	name = "Antonil de Leyva"      	type = general		fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1536.1.1 } }
+
+1521.4.27 = { leader = { name = "Juan Sebastian Elcanoo"	type = explorer	fire = 3	shock = 2	manuever = 6	siege = 0 	death_date = 1526.8.4 } }
+
+1523.1.1 = { leader = {	name = "Condestable Borbun"    	type = general		fire = 2	shock = 3	manuever = 2	siege = 0	death_date = 1527.5.6 } }
+
+1523.1.1 = { leader = { name = "Pedro de Alvarado" 	type = conquistador fire = 3 	shock = 3 	manuever = 3 	siege = 0	death_date = 1541.8.4 } }
+
+1524.9.13 = { leader = { name = "Gonzalo Pisarro" 	type = conquistador  	fire = 3 	shock = 3 	manuever = 3 	siege = 0	death_date = 1548.4.10 } }
+
+1524.9.13 = { leader = { name = "Francisco Pisarro"	type = conquistador		fire = 4	shock = 4	manuever = 5	siege = 1	death_date = 1541.6.26 } }
+
+1524.9.13 = { leader = { name = "Diego de Almagro"	type = conquistador		fire = 3	shock = 3	manuever = 6	siege = 0	death_date = 1538.4.1 } }
+
+1524.9.13 = { leader = { name = "Francisco de Orleans"	type = conquistador	fire = 2	shock = 2	manuever = 4	siege = 0	death_date = 1549.1.1 } }
+
+1525.1.1 = { leader = {	name = "Bernardino de Mendoza" 	type = admiral		fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1557.1.1 } }
+
+1525.7.24 = { leader = { name = "Garza José de Loanza" type = explorer	fire = 1	shock = 2	manuever = 3	siege = 0	death_date = 1526.8.4 } }
+
+#1526.1.1 = { decision = naval_convoy_system }
+
+1526.3.10 = {
+	queen = {
+		country_of_origin = POR
+		name = "Isabella"
+		dynasty = "de Aviès"
+		birth_date = 1503.10.24
+		death_date = 1539.5.1
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1526.12.1 = { leader = { name = "Francisco de Montejo St." type = conquistador 	fire = 3 	shock = 3 	manuever = 3 	siege = 0	death_date = 1542.1.1 } }
+
+1526.12.1 = { leader = { name = "Francisco de Montejo"  type = conquistador		fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1535.1.1 } }
+
+1526.12.1 = { leader = { name = "Francisco de Montejo Ml." type = conquistador 	fire = 3 	shock = 2 	manuever = 2 	siege = 0	death_date = 1543.1.1 } }
+
+1526.12.1 = { leader = { name = "Sebastian de Belsacar" type = conquistador 	fire = 2 	shock = 3 	manuever = 3 	siege = 0	death_date = 1551.1.1 } }
+
+1527.1.1 = { leader = {	name = "Alvar Cabeza de Vaca"	type = conquistador		fire = 2	shock = 2	manuever = 4	siege = 0	death_date = 1545.1.1 } }
+
+1527.5.21 = {
+	heir = {
+		name = "Philippe"
+		monarch_name = "Philippe II"
+		dynasty = "von Habsburg"
+		birth_date = 1527.5.21
+		death_date = 1598.9.13
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1527.10.30 = { leader = { name = "Alvaro de Saaverda"	type = explorer		fire = 1	shock = 1	manuever = 3	siege = 0	death_date = 1529.1.1 } }
+
+1528.1.1 = { leader = {	name = "Hernando de Soto"      	type = conquistador	fire = 2	shock = 3	manuever = 6	siege = 0	death_date = 1542.5.21 } }
+
+1529.1.1 = { leader = {	name = "Pedro de Mendoza"      	type = conquistador	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1537.1.1 } }
+
+1529.12.21 = { leader = { name = "de Guzman" 	type = conquistador  		fire = 3 	shock = 4 	manuever = 2 	siege = 0	death_date = 1536.1.1 } }
+
+1531.1.1 = { leader = { name = "de Mafra" 	type = explorer  				fire = 2 	shock = 1 	manuever = 3 	siege = 0	death_date = 1539.1.1 } }
+
+1534.8.15 = { decision = join_the_counter_reformation }
+
+1535.1.1 = { leader = {	name = "Duc de Alba"         	type = general		fire = 5	shock = 5	manuever = 5	siege = 0	death_date = 1582.12.11 } }
+
+1536.1.1 = { leader = { name = "Nikolaus Federman" 	type = conquistador 	fire = 2 	shock = 2 	manuever = 2 	siege = 0	death_date = 1539.7.8 } }
+
+1536.4.7 = { leader = {	name = "de Quescada"	type = conquistador				fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1579.1.1 } }
+
+1537.1.1 = { leader = { name = "Alfonse de Alvarado" 	type = conquistador	fire = 2 	shock = 2 	manuever = 2 	siege = 0	death_date = 1559.1.1 } }
+
+1539.1.1 = { leader = { name = "Jogo Rodriguez Cabrillo." type = explorer 	fire = 2 	shock = 2 	manuever = 3 	siege = 0	death_date = 1543.1.3 } }
+
+1539.1.1 = { leader = { name = "Francisco de Ulloa" 	type = explorer 	fire = 2 	shock = 2 	manuever = 4 	siege = 0	death_date = 1540.1.1 } }
+
+1540.1.1 = { leader = {	name = "Francisco V. de Coronado" type = conquistador	fire = 3	shock = 2	manuever = 5	siege = 0	death_date = 1544.1.1 } }
+
+1540.1.4 = { leader = {	name = "Pedro de Valdivia"  type = conquistador	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1554.1.1 } }
+
+1540.6.1 = {  decision = institute_the_societas_jesu decision = conventicle_act } 
+
+1541.1.1 = { leader = { name = "Rui de Villalobos" 	type = explorer 		fire = 2 	shock = 2 	manuever = 4 	siege = 0	death_date = 1544.1.1 } }
+
+1542.1.1 = { leader = {	name = "Filiberto di Savoia"	type = general		fire = 3	shock = 3	manuever = 3	siege = 1	death_date = 1559.1.1 } }
+
+1544.1.1 = { leader = {	name = "Lope de Auguir"       type = conquistador	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1561.10.6 } }
+
+1556.1.16 = {
+	monarch = {
+		name = "Philippe II"
+		dynasty = "von Habsburg"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	queen = {
+		country_of_origin = ENG
+		name = "Maria I Catholic"
+		dynasty = "Tudor"
+		birth_date = 1516.2.18
+		death_date = 1558.12.17
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1559.6.22 = {
+	queen = {
+		country_of_origin = FRA
+		name = "Elizabeth"
+		dynasty = "de Valois"
+		birth_date = 1545.4.2
+		death_date = 1568.10.3
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1560.1.1 = { leader = { name = "Bernardino de Mendoza"	type = general			fire = 3	shock = 2	manuever = 3	siege = 0	death_date = 1578.1.1 } }
+
+1561.6.1 = { capital = 217 } #Madrid
+
+1564.1.1 = { leader = {	name = "Alvaro de Bazan"       	type = admiral		fire = 5	shock = 5	manuever = 5	siege = 0	death_date = 1588.2.9 } }
+
+1564.11.11 = { leader = { name = "Michael Lipez de Legazpi" type = conquistador	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1571.6.24 } }
+
+1564.11.21 = { leader = { name = "Martin de Haiti" 	type = conquistador  		fire = 2 	shock = 3 	manuever = 3 	siege = 0	death_date = 1574.1.1 } }
+
+1564.11.21 = { leader = { name = "Juan de Salcedo" 	type = conquistador  	fire = 3 	shock = 3 	manuever = 3 	siege = 0	death_date = 1576.3.11 } }
+
+1565.1.1 = { leader = { name = "Pedro de Alves" type = conquistador  			fire = 3 	shock = 3 	manuever = 3 	siege = 0	death_date = 1574.9.16 } }
+
+1567.11.20 = { leader = { name = "Alvaro de Mendasa" 	type = explorer  		fire = 2 	shock = 2 	manuever = 4 	siege = 0	death_date = 1595.11.3 } }
+
+1568.1.1 = { leader = {	name = "Juan de Austria"    	type = general			fire = 4	shock = 4	manuever = 2	siege = 0	death_date = 1571.1.1 } }
+
+#1568.1.1 = { leader = {	name = "Pedro de Gamboa" type = explorer	fire = 1	shock = 1	manuever = 5	siege = 0	death_date = 1584.1.1 } } # Removed /SWЦ
+
+1568.12.25 = {
+	set_country_flag = alpujarras_revolt_happened
+}
+
+1570.5.1 = {
+	queen = {
+		country_of_origin = HAB
+		name = "Anna"
+		dynasty = "von Habsburg"
+		birth_date = 1549.11.1
+		death_date = 1580.10.26
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1570.10.28 = {
+	set_country_flag = end_of_granada
+}
+
+#1571.1.1 = { leader = {	name = "Juan de Recalde"	type = admiral	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1588.1.1 } } # Removed /SWЦ
+
+1571.1.1 = { leader = {	name = "Juan de Austria"    	type = admiral		fire = 4	shock = 5	manuever = 4	siege = 0	death_date = 1576.1.1 } }
+
+1572.1.1 = { leader = {	name = "Alessandro Farnese"    	type = general	fire = 5	shock = 6	manuever = 4	siege = 2	death_date = 1586.9.18 } }
+
+#1576.1.1 = { leader = {	name = "Juan de Austria"    	type = general	fire = 4	shock = 4	manuever = 2	siege = 0	death_date = 1578.8.1 } }
+
+1578.4.14 = {
+	heir = {
+		name = "Philippe"
+		monarch_name = "Philippe III"
+		dynasty = "von Habsburg"
+		birth_date = 1578.4.14
+		death_date = 1621.3.31
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1582.1.1 = { leader = {	name = "Pedro de Acevedo" type = general	fire = 3	shock = 3	manuever = 3	siege = 1	death_date = 1610.7.22 } }
+
+1588.2.9 = { leader = {	name = "Dick de Medina Sidonia" type = admiral		fire = 1	shock = 1	manuever = 2	siege = 0	death_date = 1615.1.1 } }
+
+1595.1.1 = { leader = {	name = "Juan de Ocat"         	type = conquistador	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1626.1.1 } }
+
+1598.1.1 = { leader = {	name = "Louis Fajardo"          	type = admiral		fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1617.5.21 } }
+
+1598.9.13 = {
+	monarch = {
+		name = "Philippe III"
+		dynasty = "von Habsburg"
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1599.4.18 = {
+	queen = {
+		country_of_origin = HAB
+		name = "Margarita"
+		dynasty = "von Habsburg"
+		birth_date = 1584.12.25
+		death_date = 1611.10.3
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1601.1.1 = { capital = 214 } # Valladolid 
+
+1602.1.1 = { leader = {	name = "Sebastian Vizcano"    	type = explorer	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1623.1.1 } }
+
+1603.9.29 = { leader = { name = "Ambrogio Spinola"		type = general	fire = 5	shock = 5	manuever = 3	siege = 1	death_date = 1630.8.25 } }
+
+1605.1.1 = { leader = {	name = "Vaez de Torres"        	type = explorer	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1610.1.1 } }
+
+1605.4.8 = {
+	heir = {
+		name = "Philippe"
+		monarch_name = "Philippe IV"
+		dynasty = "von Habsburg"
+		birth_date = 1605.4.8
+		death_date = 1665.9.17
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1605.12.21 = { leader = { name = "Pedro de Chiirrus" type = explorer   	fire = 2 	shock = 3	manuever = 5 	siege = 0	death_date = 1607.1.1 } }
+
+1606.1.1 = { capital = 217 } # Madrid
+
+1609.7.15 = { leader = { name = "Antonio de Occiendo"	type = admiral		fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1640.6.7 } }
+
+#1613.1.1 = { leader = {	name = "Fadrique de Toledo"    	type = admiral		fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1634.1.1 } } # Removed /SWЦ
+
+#1618.1.1 = { leader = {	name = "Duc de Feria"        	type = general		fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1634.1.14 } } # Removed /SWЦ
+
+1619.3.20 = {
+	join_league = catholic
+}
+
+1621.3.31 = {
+	monarch = {
+		name = "Philippe IV"
+		dynasty = "von Habsburg"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+	queen = {
+		country_of_origin = FRA
+		name = "Isabella"
+		dynasty = "de bourbon"
+		birth_date = 1602.11.22
+		death_date = 1644.10.6
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1630.1.1 = { leader = {	name = "Ferdinand Cardinal-Infant" 	type = general	fire = 3	shock = 3	manuever = 3	siege = 1	death_date = 1641.11.9 } }
+
+1636.1.1 = { leader = {	name = "Francisco de Melo"     		type = general	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1651.1.1 } }
+
+1640.1.1 = { remove_accepted_culture = sicilian remove_accepted_culture = lombard }
+
+1649.10.7 = {
+	queen = {
+		country_of_origin = HAB
+		name = "Marianne"
+		dynasty = "von Habsburg"
+		birth_date = 1634.12.24
+		death_date = 1696.5.16
+		female = yes
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1647.7.7 = { leader = {	name = "Juan José de Austria"		type = general	fire = 3	shock = 3	manuever = 2	siege = 0	death_date = 1663.6.4 } }
+
+
+1648.1.30 = {
+	leave_league = catholic
+}
+
+1661.11.6 = {
+	heir = {
+		name = "Karl"
+		monarch_name = "Karl II"
+		dynasty = "von Habsburg"
+		birth_date = 1661.11.6
+		death_date = 1700.11.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1664.1.1 = { leader = { name = "de Benavid"	type = general 	fire = 2 	shock = 2 	manuever = 2 	siege = 0	death_date = 1665.6.17 } }
+
+1665.9.17 = {
+	monarch = {
+		name = "Karl II"
+		dynasty = "von Habsburg"
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1679.11.19 = {
+	queen = {
+		country_of_origin = SPA #ORL
+		name = "Marie Louise"
+		dynasty = "de Valois"
+		birth_date = 1662.3.26
+		death_date = 1689.2.12
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1683.12.19 = {
+	heir = {
+		name = "Philippe"
+		monarch_name = "Philippe V"
+		culture = cosmopolitan_french
+		dynasty = "de bourbon"
+		birth_date = 1683.12.19
+		death_date = 1746.7.9
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1689.8.28 = {
+	queen = {
+		country_of_origin = PAL
+		name = "Maria Luisa"
+		dynasty = "von Wittelsbach"
+		birth_date = 1662.3.26
+		death_date = 1689.2.12
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1700.11.1 = {
+	monarch = {
+		name = "Philippe V"
+		culture = cosmopolitan_french
+		dynasty = "de bourbon"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+
+}
+
+1701.11.2 = {
+	queen = {
+		country_of_origin = SAV
+		name = "Maria Luisa"
+		dynasty = "di Savoie"
+		birth_date = 1688.8.17
+		death_date = 1714.2.14
+		female = yes
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1707.8.25 = {
+	heir = {
+		name = "Luis"
+		monarch_name = "Luis I"
+		dynasty = "de bourbon"
+		birth_date = 1707.8.25
+		death_date = 1724.8.31
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1716.1.23 = { government = monarchy
+add_government_reform = autocracy_reform }
+
+1717.1.1 = { leader = {	name = "Marquis de Lede"       	type = general		fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1724.1.1 } }
+
+1723.2.16 = { leader = { name = "Blas de Lezo"		type = admiral		fire = 5	shock = 5	manuever = 5	siege = 0	death_date = 1741.9.7 } }
+
+1724.1.14 = {
+	monarch = {
+		name = "Luis I"
+		dynasty = "de bourbon"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1724.1.14 = {
+	heir = {
+		name = "Philippe"
+		monarch_name = "Philippe V"
+		dynasty = "de bourbon"
+		birth_date = 1683.12.19
+		death_date = 1746.7.9
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1724.8.31 = {
+	monarch = {
+		name = "Philippe V"
+		dynasty = "de bourbon"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	queen = {
+		country_of_origin = PAR
+		name = "Isabella"
+		dynasty = "Farnese"
+		birth_date = 1692.10.25
+		death_date = 1766.7.11
+		female = yes
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}
+
+1724.8.31 = {
+	heir = {
+		name = "Ferdinand"
+		monarch_name = "Ferdinand VI"
+		dynasty = "de bourbon"
+		birth_date = 1713.9.23
+		death_date = 1759.8.10
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1730.1.1 = { leader = {	name = "Luis de Cirda"	type = admiral		fire = 4	shock = 4	manuever = 5	siege = 0	death_date = 1796.7.29 } }
+
+1732.1.1 = { leader = {	name = "Marquis de la Victoria"	type = admiral		fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1772.1.1 } }
+
+1746.7.9 = {
+	monarch = {
+		name = "Ferdinand VI"
+		dynasty = "de bourbon"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+	queen = {
+		country_of_origin = POR
+		name = "Barbara"
+		dynasty = "de Braganza"
+		birth_date = 1711.12.4
+		death_date = 1758.8.27
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1746.7.9 = {
+	heir = {
+		name = "Phillip Karl"
+		monarch_name = "Karl III"
+		dynasty = "de bourbon"
+		birth_date = 1716.1.20
+		death_date = 1788.12.14
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1759.8.10 = {
+	monarch = {
+		name = "Karl III"
+		dynasty = "de bourbon"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+	queen = {
+		country_of_origin = SAX
+		name = "Maria-Amalia"
+		dynasty = "von Vettin"
+		birth_date = 1724.11.24
+		death_date = 1760.9.27
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1759.8.10 = {
+	heir = {
+		name = "Karl"
+		monarch_name = "Karl IV"
+		dynasty = "de bourbon"
+		birth_date = 1748.11.11
+		death_date = 1819.1.20
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+1769.6.29 = { leader = { name = "Gaspar de Portola"	type = conquistador		fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1770.6.9 } }
+
+1770.1.1 = { leader = {	name = "Antonio Barcelu"       	type = admiral		fire = 3	shock = 3	manuever = 2	siege = 0	death_date = 1797.1.1 } }
+
+1775.1.1 = { leader = {	name = "Bernardo de Galvez"	type = general		fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1785.1.1 } }
+
+1775.1.1 = { leader = {	name = "Sylvester de Escalante" type = explorer		fire = 1	shock = 1	manuever = 3	siege = 0	death_date = 1779.1.1 } }
+
+1785.1.1 = { leader = {	name = "Federico Carl Gravina"	type = admiral		fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1806.1.1 } }
+
+1788.12.14 = {
+	monarch = {
+		name = "Karl IV"
+		dynasty = "de bourbon"
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+	queen = {
+		country_of_origin = PAR
+		name = "Marie-Louise"
+		dynasty = "de Bourbon-Parma"
+		birth_date = 1751.12.9
+		death_date = 1819.1.2
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1788.12.14 = {
+	heir = {
+		name = "Ferdinand"
+		monarch_name = "Ferdinand VII"
+		dynasty = "de bourbon"
+		birth_date = 1788.12.14
+		death_date = 1833.9.29
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1793.1.1 = { leader = {	name = "Castacos"			type = general	fire = 3	shock = 4	manuever = 4	siege = 1	death_date = 1806.5.6 } }
+
+1808.3.19 = {
+	monarch = {
+		name = "Ferdinand VII"
+		dynasty = "de bourbon"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1808.6.6 = { government = republic
+set_legacy_government = constitutional_monarchy government_rank = 1 }
+
+1808.6.6 = {
+	monarch = {
+		name = "Joseph I Napoleon"
+		dynasty = "Bonaparte"
+		culture = sardinian #Corsican
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+	queen = {
+		country_of_origin = FRA
+		name = "Julie"
+		dynasty = "Clary"
+		birth_date = 1771.12.26
+		death_date = 1845.4.7
+		female = yes
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1813.12.11 = { government = monarchy government_rank = 2 }
+
+1813.12.11 = { leader = { name = "F.J. Castacos"			type = general	fire = 3	shock = 4	manuever = 4	siege = 1	death_date = 1852.9.24 } }
+
+1813.12.11 = { leader = { name = "Jose de Palafox"			type = general	fire = 4	shock = 3	manuever = 3	siege = 1	death_date = 1823.1.1 } }
+
+1813.12.11 = { leader = { name = "Rafael Maroto"			type = general	fire = 3	shock = 3	manuever = 3	siege = 1	death_date = 1833.9.29 } }
+
+1813.12.11 = { leader = { name = "Mariano Osorio"			type = general	fire = 2	shock = 4	manuever = 3	siege = 1	death_date = 1819.1.1 } }
+
+1813.12.11 = { leader = { name = "Pedro Olaketa"			type = general	fire = 2	shock = 2	manuever = 2	siege = 1	death_date = 1825.4.2 } }
+
+1813.12.11 = { leader = { name = "Augustine Easturbid"			type = general	fire = 4	shock = 3	manuever = 3	siege = 1	death_date = 1820.1.1 } }
+
+1813.12.11 = {
+	monarch = {
+		name = "Ferdinand VII"
+		dynasty = "de bourbon"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1816.9.29 = {
+	queen = {
+		country_of_origin = POR
+		name = "Maria Isabella"
+		dynasty = "de Braganza"
+		birth_date = 1797.5.19
+		death_date = 1818.12.26
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1819.10.20 = {
+	queen = {
+		country_of_origin = SAX
+		name = "Maria Josepha"
+		dynasty = "von Vettin"
+		birth_date = 1803.5.18
+		death_date = 1829.5.18
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1829.12.11 = {
+	queen = {
+		country_of_origin = SIC
+		name = "Maria Josepha"
+		dynasty = "de bourbon"
+		birth_date = 1806.4.27
+		death_date = 1830.10.10
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1830.10.10 = {
+	heir = {
+		name = "Isabella"
+		monarch_name = "Isabella II"
+		dynasty = "de bourbon"
+		birth_date = 1830.10.10
+		death_date = 1904.4.10
+		claim = 25
+		adm = 1
+		dip = 0
+		mil = 0
+		female = yes
+	}
+}
+
+1833.9.29 = {
+	monarch = {
+		name = "Isabella II"
+		dynasty = "de bourbon"
+		adm = 1
+		dip = 0
+		mil = 0
+		female = yes
+	}
+}
+
+1833.9.29 = {
+	heir = {
+		name = "Don Carlos Senior"
+		monarch_name = "Karl V"
+		dynasty = "de bourbon"
+		birth_date = 1788.3.29
+		death_date = 1855.3.10
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+
+1837.1.1 = { government = monarchy
+set_legacy_government = constitutional_monarchy }
+
+1846.10.10 = {
+	queen = {
+		country_of_origin = SPA
+		name = "Francisco de Acis"
+		dynasty = "de bourbon"
+		birth_date = 1822.5.13
+		death_date = 1868.9.30
+		female = no
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1851.12.20 = {
+	heir = {
+		name = "Maria Isabella"
+		monarch_name = "Isabella III"
+		dynasty = "de bourbon"
+		birth_date = 1851.12.20
+		death_date = 1931.4.22
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 1
+		female = yes
+	}
+}
+
+1857.11.28 = {
+	heir = {
+		name = "Alphonse"
+		monarch_name = "Alphonse XII"
+		dynasty = "de bourbon"
+		birth_date = 1857.11.28
+		death_date = 1885.11.25
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1868.9.30 = {
+	monarch = {
+		name = "(Regent Council)"
+		regent = yes
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1868.9.30 = {
+	heir = {
+		name = "Alphonse"
+		monarch_name = "Alphonse XII"
+		dynasty = "de bourbon"
+		birth_date = 1857.11.28
+		death_date = 1885.11.25
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1869.6.18 = {
+	monarch = {
+		name = "Francisco Serrano"
+		birth_date = 1810.12.17
+		adm = 4
+		dip = 3
+		mil = 4
+		regent = yes
+	}
+}
+
+1869.6.18 = {
+	heir = {
+		name = "Alphonse"
+		monarch_name = "Alphonse XII"
+		dynasty = "de bourbon"
+		birth_date = 1857.11.28
+		death_date = 1885.11.25
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1870.11.16 = {
+	monarch = {
+		name = "Amadeus I"
+		dynasty = "di Savoie"
+		birth_date = 1845.5.30
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1870.11.16 = {
+	queen = {
+		country_of_origin = FRA
+		name = "Maria Vittoria"
+		dynasty = "far Pozzo"
+		birth_date = 1847.8.9
+		death_date = 1873.2.12
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1870.11.16 = {
+	heir = {
+		name = "Emmanuel Filibert."
+		monarch_name = "Emmanuel I"
+		dynasty = "di Savoie"
+		birth_date = 1869.1.13
+		death_date = 1937.7.4
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1873.2.12 = { government = monarchy
+set_legacy_government = constitutional_republic }
+
+1873.2.12 = {
+	monarch = {
+		name = "Estanislao Figueres"
+		birth_date = 1819.11.13
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1873.6.11 = {
+	monarch = {
+		name = "Francisco P."
+		birth_date = 1824.4.29
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1873.7.18 = {
+	monarch = {
+		name = "Nicholas Salmeron"
+		birth_date = 1838.4.10
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1873.9.7 = {
+	monarch = {
+		name = "Emilio Castelar"
+		birth_date = 1832.5.25
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1874.1.4 = {
+	monarch = {
+		name = "Francisco Serrano"
+		birth_date = 1810.12.17
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1874.12.30 = { government = monarchy
+set_legacy_government = constitutional_monarchy }
+
+1874.12.30 = {
+	monarch = {
+		name = "Alphonse XII"
+		dynasty = "de bourbon"
+		birth_date = 1857.11.28
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1874.12.29 = {
+	heir = {
+		name = "Don Carlos Jr."
+		monarch_name = "Karl V"
+		dynasty = "de bourbon"
+		birth_date = 1848.3.30
+		death_date = 1909.7.19
+		claim = 80
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+}
+
+1878.1.23 = {
+	queen = {
+		country_of_origin = SPA
+		name = "Maria de las Mercedes"
+		dynasty = "de Orleans"
+		birth_date = 1860.6.24
+		death_date = 1878.6.26
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1879.11.20 = {
+	queen = {
+		country_of_origin = HAB
+		name = "Maria Christina"
+		dynasty = "von Habsburg Lorraine"
+		birth_date = 1858.7.21
+		death_date = 1885.11.25
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1880.9.11 = {
+	heir = {
+		name = "Maria de las Mercedes"
+		monarch_name = "Maria I Mercedes"
+		dynasty = "de bourbon"
+		birth_date = 1880.9.11
+		death_date = 1904.10.17
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
+		female = yes
+	}
+}
+
+1885.11.25 = {
+	monarch = {
+		name = "(Vacant)"
+		regent = yes
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1886.5.17 = {
+	monarch = {
+		name = "Alphonse XIII"
+		dynasty = "de bourbon"
+		birth_date = 1886.5.17
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+1906.5.31 = {
+	queen = {
+		country_of_origin = GBR
+		name = "Victoria Eugenia"
+		dynasty = "von Battenberg"
+		birth_date = 1887.10.24
+		death_date = 1931.4.14
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1907.5.10 = {
+	heir = {
+		name = "Alphonse"
+		monarch_name = "Alphonse XIV"
+		dynasty = "de bourbon"
+		birth_date = 1907.5.10
+		death_date = 1938.9.6
+		claim = 80
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+1931.4.14 = { government = republic
+set_legacy_government = constitutional_republic }
+
+1931.4.14 = {
+	monarch = {
+		name = "Niseto Alcala Zamora"
+		birth_date = 1877.7.6
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1936.5.11 = {
+	monarch = {
+		name = "Manuel Asanya"
+		birth_date = 1880.1.10
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}

@@ -1,0 +1,87 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 76 110 150 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	algonkin_tomahawk_charge
+	commanche_swarm
+	native_indian_mountain_warfare
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Tetabuke #0" = 10
+	"Bucongehelas #0" = 10
+	"Hawkingpomskeng #0" = 10
+	"Kechkawhound #0" = 10
+	"Alime #0" = 10
+	"Tomago #0" = 10
+	"Messenewand #0" = 10
+	"Petchekakapone #0" = 10
+	"Kittelland #0" = 10
+	"Lapakhnahe #0" = 10
+	"Apacheound #0" = 10
+	"Netahopuna #0" = 10
+	"Tunis #0" = 10
+	"Kaghku #0" = 10
+	"Petchenalalas #0" = 10
+	"Quenagtumite #0" = 10
+	"Pushis #0" = 10
+	"Nanotexausen #0" = 10
+	"Sarkoxy #0" = 10
+	"Nekonhakond #0" = 10
+	"Kokkatovha #0" = 10
+	"Kuakornova #0" = 10
+	"Nashapanokuim #0" = 10
+	"Kueshatovha #0" = 10
+	"Pondoxy #0" = 10
+	"Kokkokkas #0" = 10
+	"Ashlaachik #0" = 10
+	"Nekonhekon #0" = 10
+	"Rokatova #0" = 10
+	"Bukongaheas #0" = 10
+	"Hellemend #0" = 10
+	"Oratam #0" = 10
+	"Neolin #0" = 10
+	"Hopocan #0" = 10
+	"Tamanend #0" = 10
+	"Tamaku #0" = 10
+	"Teduscung #0" = 10
+	"Kkokuakogecheon #0" = 10
+	
+	"Avovas #0" = -1
+	"Mokonnokuach #0" = -1
+}
+
+leader_names = {
+	"Sapoteka" "Nechtank" "Akuehonga" "Manaknong" "Shavkopoe" "Nayak" "Sovanus" "Sassian" "Monsie"
+	"Absecon" "Assupink" "Communicator" "Hackensack" "Hoboken" "Hohokus" "Hobatkong" "Mahwah" "Manahawkin"
+	"Manapalan" "Mantolocking" "Mantua" "Matavan" "Metuchen" "Minisin" "Muskonetcong" "Passenger boy" "Pipak" 
+	"Naratikong" "Shachby" "Secausus" "Weehawken"
+	"Conshocken" "Manayuk" "Passuk" "Shakamakson" "Wissahikon"
+}
+
+ship_names = {
+	"Lenapehoking"
+	"Zapokanikan" "Nechtank" "Akuehonga" "Manaknong" "Shavkopoe" "Nayak" "Sovanus" "Sassian" "Monsie"
+	"Absecon" "Assupink" "Communicator" "Hackensack" "Hoboken" "Hohokus" "Hobatkong" "Mahwah" "Manahawkin"
+	"Manapalan" "Mantolocking" "Mantua" "Matavan" "Metuchen" "Minisin" "Muskonetcong" "Passenger boy" "Pipak" 
+	"Naratikong" "Shachby" "Secausus" "Weehawken"
+	"Conshocken" "Manayuk" "Passuk" "Shakamakson" "Wissahikon"
+}

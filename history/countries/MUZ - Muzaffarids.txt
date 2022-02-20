@@ -1,0 +1,82 @@
+government = tribal
+add_government_reform = steppe_horde
+technology_group = muslim
+primary_culture = mongol
+religion = shiite
+
+1314.1.1 = {
+	monarch = {
+		name = "Mubariz ad-Din"
+		dynasty = "Muzaffarid"
+		birth_date = 1290.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1358.1.1 = {
+	monarch = {
+		name = "Shah-Shuja"
+		dynasty = "Muzaffarid"
+		birth_date = 1327.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1364.1.1 = {
+	monarch = {
+		name = "Shah Mahmoud"
+		dynasty = "Muzaffarid"
+		birth_date = 1330.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1366.1.1 = {
+	monarch = {
+		name = "Shah-Shuja"
+		dynasty = "Muzaffarid"
+		birth_date = 1327.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1384.1.1 = {
+	monarch = {
+		name = "Zayn Al-Abidin"
+		dynasty = "Muzaffarid"
+		birth_date = 1350.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1387.1.1 = {
+	monarch = {
+		name = "Sultan Ahmad"
+		dynasty = "Muzaffarid"
+		birth_date = 1350.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1391.1.1 = {
+	monarch = {
+		name = "Shah Mansour"
+		dynasty = "Muzaffarid"
+		birth_date = 1360.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

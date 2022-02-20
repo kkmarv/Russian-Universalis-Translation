@@ -1,0 +1,128 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 135  104  85 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	religious_ideas
+	economic_ideas
+	offensive_ideas
+	defensive_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	reformed_mughal_mansabdar
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"А #0" = 20
+	"Ф #0" = 20
+	"Т #0" = 20
+	"Н #1" = 20
+	"Ф #0" = 20
+	"Ш #0" = 20
+	"Sanjar #0" = 20
+	"Н  #0" = 20
+	"Ш #0" = 20
+	"М #0" = 20
+	"М #0" = 20
+	"М #0" = 20
+	"Я #0" = 20
+	"М #0" = 20
+	"Г #0" = 20
+	"С #0" = 20
+	"Г #0" = 20
+	"А #0" = 20
+	"А #0" = 20
+	"М #0" = 20
+	"Tara #0" = 20
+	"М #0" = 20
+	"М #0" = 20
+	"Н #0" = 20
+	"Mohammed #0" = 0
+	"Muzzafar #0" = 0
+	"Ali #0" = 0
+	"Khalil #0" = 0
+	"Sikandar #0" = 20
+	"Б #0" = 0
+	"Hamirjee #0" = 0
+	"Б #0" = 0
+	"Natwar #0" = 0
+	"С #0" = 0
+	"Г #0" = 0
+	"Hussein #0" = 0
+	"Abdullah #0" = 0
+	"Noor #0" = -1
+	"Ч #0" = -1
+	"Hair #0" = -1
+}
+
+leader_names = {
+	"Ali"
+	"А"
+	"Д"
+	"Д"
+	"Ф"
+	"Г"
+	"К"
+	"Majmudar"
+	"Mohammad"
+	"Munshi"
+	"Muzzafar"
+	"Hair"
+	"П"
+	"Patel"
+	"Patidar"
+	"В"
+	"В"
+	"Р"
+	"С"
+	"Saraya"
+	"Shah"
+	"С"
+	"Ш"
+	"Tarkhan"
+	"Т"
+	"З"
+	М
+}
+
+ship_names = {
+	"Aliya"
+	"Arusa"
+	"Ramb"
+	"Fatima"
+	"Х"
+	"Hindu"
+	"К"
+	"Khan"
+	"М"
+	"М"
+	"М"
+	"Niknaz"
+	"Niloufa"
+	"Noor"
+	"Saleema"
+	"Sari"
+	"Shamina"
+	"Sukhaliya"
+	"Sook"
+	"Yasmine"
+	"Zahira"
+}

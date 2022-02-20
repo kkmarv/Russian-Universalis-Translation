@@ -1,0 +1,119 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 90  120  175 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	humanist_ideas
+	quantity_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Sikandar #1" = 20
+	"Cher #0" = 20
+	"Ala al-Din Firuz #2" = 20
+	"Rukn ad-Din Barbak #0" = 10
+	"Jalal ad-Din Fateh #0" = 10
+	"Nasir-ud-Din Mahmoud #1" = 20
+	"Nasir ad-Din Nasrat #0" = 10
+	"Jalaluddin Mohammed #1" = 10
+	"Islam #0" = 10
+	"Mirza Muhammad #0" = 10
+	"Shams-ud-Din Yusuf #1" = 10
+	"Shams-ud-Din Ahmed #1" = 10
+	"Shams-ud-Din Muhammad #0" = 10
+	"Mir Muhammad Jafar #0" = 10
+	"Shihab-ud-Din Bayazid #1" = 5
+	"Mir Qasim Ali #0" = 5
+	"Saif-ud-Din Hamza #1" = 5
+	"Guillaume Azam #1" = 5
+	"Guillaume Mahmoud #0" = 5
+	"Giyat al-Din Bahadur #0" = 5
+	"Giyat ad-Din Jalal #0" = 5
+	"Dowd #0" = 5
+	"Suleiman #0" = 5
+	"Murshid Cooley #0" = 5
+	"Shuja al-Din Mohammed #0" = 5
+	"Azam #0" = 0
+	"Ahmed #0" = 0
+	"Abu Nasr #0" = 0
+	"Barbak #0" = 0
+	"Farid #0" = 0
+	"Yusuf #0" = 0
+	"Hussain #0" = 0
+	"Firuz #0" = 0
+	"Nasrat #0" = 0
+	"Fateh #0" = 0
+	"Bayezid #0" = 0
+	"Nasir #0" = 0
+	"Guillaume #0" = 0
+	"Mirza #0" = 0
+	"Raja #0" = 0
+	"Hamza #0" = 0
+	"Malika Bibi #0" = -1
+	"Sharat #0" = -1
+	"Kamala #0" = -1
+}
+
+leader_names = {
+	Azad
+	"Al-Dawda"
+	Ganesh
+	Bose
+	Chowdhury
+	Das
+	Debshikdar
+	Gangouli
+	Gosh
+	Karani
+	Khan
+	Majumdar
+	Mukherjee
+	Pal
+	Roy
+	Sarasvoti
+	Sarkar
+	Saint
+	Shahi
+	Sheikh
+	Suri
+	Thakur
+	Vaddadar
+	Zamindar
+}
+
+ship_names = {
+	"Abu Bakr" "Ali Khan" Bhagirathi
+	Brahmaputra "Chingri Much" Chittagong
+	Durbar Durdasha Fatima Ganges
+	"Hilsa Much" Hoogly "Ilish-Machs"
+	Jalangy Jasmine Calcutta Machley
+	"Cali Megana" "Kali Nauk" "Lal Science"
+	Malda Mehna Mongla Murshidabad
+	"Nauk-e-Islam" "Nawaber Science" "Neil Sciences"
+	"Nile Sagor" Osman Padma "Rui Mach"
+	"Sagorer Bahini" "Shanid" "Sheikher Science"
+	"Sonar Bangladesh" "Sunderboner Bahini"
+	"Sunderboner Sciences" Taslima
+}

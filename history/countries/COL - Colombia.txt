@@ -1,0 +1,218 @@
+government = republic
+set_legacy_government = constitutional_republic
+technology_group = western
+religion = catholic
+primary_culture = castillian
+capital = 825	# Bogota
+
+
+1810.7.20 = {
+	monarch = {
+		name = "José Miguel Pey y Garcia de Andrade"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1811.4.1 = {
+	monarch = {
+		name = "Georges Tadeo Lozano."
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+# Triumvirate of the United Provinces of New Granada
+1814.10.5 = {
+	monarch = {
+		name = "José Ferdinand Madrid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1814.11.23 = {
+	monarch = {
+		name = "José Custodio Cayetano Garcia Rovira"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1815.7.28 = {
+	monarch = {
+		name = "Antonio Villavisencio y Verastegi"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1819.12.17 = {
+	monarch = {
+		name = "Simon Bolivar"
+		birth_date = 1783.7.24
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+1829.11.10 = {
+	monarch = {
+		name = "Estanislao Vergara"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1829.12.10 = {
+	monarch = {
+		name = "Simon Bolivar"
+		birth_date = 1783.7.24
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+
+1830.5.4 = {
+	monarch = {
+		name = "Joaquin Mosquera"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1830.9.5 = {
+	monarch = {
+		name = "Rafael Jose Urdaneta y Faria"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1831.5.2 = {
+	monarch = {
+		name = "Joaquin Mosquera"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1831.11.23 = {
+	monarch = {
+		name = "Jose Maria Ramón Obando del Campo"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1832.3.10 = {
+	monarch = {
+		name = "José Ignacio de Marques"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1832.10.7 = {
+	monarch = {
+		name = "Francisco José de Paula Santander-yi-Omania."
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1837.5.1 = {
+	monarch = {
+		name = "José Ignacio de Marques"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1841.5.1 = {
+	monarch = {
+		name = "Domingo Caicedo y Sans de Santamaria"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1841.6.2 = {
+	monarch = {
+		name = "Pedro Alcantara Herran Martinez de Saldua"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1841.8.5 = {
+	monarch = {
+		name = "Juan de Dios Aransasu"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1842.5.19 = {
+	monarch = {
+		name = "Pedro Alcantara Herran Martinez de Saldua"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1845.5.1 = {
+	monarch = {
+		name = "Thomas Cipriano de Mosquera"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1847.8.14 = {
+	monarch = {
+		name = "Rufino Cuervo y Barreto."
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1847.12.14 = {
+	monarch = {
+		name = "Thomas Cipriano de Mosquera"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1849.5.1 = {
+	monarch = {
+		name = "José Hilario López-Valdes"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

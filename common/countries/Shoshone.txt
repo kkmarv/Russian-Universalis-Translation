@@ -1,0 +1,65 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 124  69  49 } 
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	algonkin_tomahawk_charge
+	native_indian_horsemen
+	commanche_swarm
+	creek_arquebusier
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Sequoia #0" = 20
+	"Attaculaculla #0" = 20
+	"John Ross #0" = 10
+	"Moitoi #0" = 20
+	"Yonaguska #0" = 20
+	"Pulling Canoe #0" = 20
+	"Aghi Eat #0" = 20
+	"Boudinot #0" = 20
+	
+	"sakagawea #0" = -1
+	"Chipeta #0" = -1
+	"Tokmetone #0" = -1
+}
+
+leader_names = {
+	Mohe
+	Diwali
+	Vaya
+	Tsiiyu
+	Onaka
+	Atagukalu
+	Degataga
+	Cheaseka
+	Adahi
+	Atagukalu
+}
+
+ship_names = {
+	"Ani-kutani" "Sync, corrected by elderman -- for  --" "A-nee-gi-lo-hi ." "A-n-no-k-a-vi ." 
+	"A-ni-tsi-tskva ." "A-ni-sa-ho-ni ." "A-ni-wo-di ." "A-n-n-i-wa-ya ." 
+	Kana'ti
+	Selo
+	"Tsul Kalu" "Oonavier Unggi" "Ani Untikwalaski" "Asgaia Gigagea" 
+	"I'nage-Utasvi" "Anisgaia Tsunsdi" "Well, well, well, well." "Well, yeah, well, well, well."
+	"Well, yeah, ka-na-wo-ga." "Well, well, well, well."
+}

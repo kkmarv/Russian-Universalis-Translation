@@ -1,0 +1,94 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 85  76  192 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	offensive_ideas
+	religious_ideas
+	spy_ideas
+	quality_ideas
+	economic_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+}
+
+monarch_names = {
+	"Mehmed #0" = 20
+	"Ahmed #0" = 20
+	"Suleiman #0" = 20
+	"Bulkia #0" = 20
+	"Abd al-Kahhar #0" = 20
+	"Sayouf ar-Rijal #0" = 20
+	"Hassan #0" = 20
+	"Abd al-Jalil #0" = 20
+	"Muhammad Ali #0" = 20
+	"Abd al-Mubin #0" = 20
+	"Muhy ad-Din #0" = 20
+	"Nasr ad-Din #0" = 20
+	"Kamal al-Din #0" = 20
+	"Ala al-Din #0" = 20
+	"Sayyuf ad-Din #0" = 20
+	"Muhammad Jamal al-Din #0" = 20
+	"Muhammad Taj ad-Din #0" = 20
+	
+	"Rome #0" = -1
+}
+
+leader_names = {
+	"Abdulfata"
+	"Ahmad"
+	"Amir"
+	"Anwar"
+	"Azmi"
+	"Batuta"
+	"Chairul"
+	"Hamza"
+	"Hasanuddin"
+	"Ibnu"
+	"Kai"
+	"Mahat"
+	"Mukhtar"
+	"Najamuddin"
+	"Nathzar"
+	"Nazmizan"
+	"Roy"
+	"Syarifuddin"
+	"Zulkiffles"
+}
+
+ship_names = {
+ 	"Sungai White"
+	"Sungai Tutong"
+	"Sungai Temburengh"
+	"Batang"
+	"Truzan"
+	"Sungai Pandaruan"
+	"Lungai Limbang"
+	"Batang Baram"
+	"Sungai Bakong"
+	"Sungai Tuto"
+	"Sungai Tinjar"
+	"Kuala Belait"
+	"Batu Danau"
+	"Kuala Medamit"
+	"Bangar"
+	"Penangjong"
+	"Lumut"
+	"Telingan"
+	"Laby"
+	"Sukang"
+	"Kuala Baram"
+}

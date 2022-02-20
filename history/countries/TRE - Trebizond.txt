@@ -1,0 +1,334 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 3
+primary_culture = pontic_greek
+add_accepted_culture = greek
+add_accepted_culture = lazian
+religion = orthodox
+technology_group = eastern
+historical_friend = FEO
+historical_friend = SME
+capital = 330	# Trebizond
+fixed_capital = 330 # Cannot move capital away from this province & no power cost to move to it
+
+1204.1.1 = {
+	monarch = {
+		name = "Alexey I"
+		dynasty = "Great Comnenus"
+		birth_date = 1181.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1222.2.1 = {
+	monarch = {
+		name = "Andronicus I"
+		dynasty = "Guide"
+		birth_date = 1180.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1235.1.1 = {
+	monarch = {
+		name = "John I Axukh"
+		dynasty = "Great Comnenus"
+		birth_date = 1201.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1238.1.1 = {
+	monarch = {
+		name = "Manuel I"
+		dynasty = "Great Comnenus"
+		birth_date = 1218.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1263.3.1 = {
+	monarch = {
+		name = "Andronicus II"
+		dynasty = "Great Comnenus"
+		birth_date = 1240.1.1
+		adm = 1
+		dip = 5
+		mil = 0
+	}
+}
+
+1266.1.1 = {
+	monarch = {
+		name = "George I"
+		dynasty = "Great Comnenus"
+		birth_date = 1255.1.1
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1280.1.1 = {
+	monarch = {
+		name = "John II"
+		dynasty = "Great Comnenus"
+		birth_date = 1262.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+
+1284.1.1 = {
+	monarch = {
+		name = "Feodora"
+		dynasty = "Great Comnenus"
+		birth_date = 1253.1.1
+		adm = 3
+		dip = 2
+		mil = 0
+		female = yes
+	}
+}
+
+1285.1.1 = {
+	monarch = {
+		name = "John II"
+		dynasty = "Great Comnenus"
+		birth_date = 1262.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+
+1297.8.16 = {
+	monarch = {
+		name = "Alexey II"
+		dynasty = "Great Comnenus"
+		birth_date = 1282.1.1
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+}
+
+1309.1.1 = {
+	heir = {
+		name = "Andronicus"
+		monarch_name = "Andronicus III"
+		dynasty = "Great Comnenus"
+		birth_date = 1309.1.1
+		death_date = 1332.1.8
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1330.1.1 = {
+	monarch = {
+		name = "Andronicus III"
+		dynasty = "Great Comnenus"
+		birth_date = 1309.1.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1332.1.8 = {
+	monarch = {
+		name = "Manuel II"
+		dynasty = "Great Comnenus"
+		birth_date = 1323.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1332.9.1 = {
+	monarch = {
+		name = "Vasily I"
+		dynasty = "Great Comnenus"
+		birth_date = 1315.1.1
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+}
+
+1340.4.6 = {
+	monarch = {
+		country_of_origin = BYZ
+		name = "Irina"
+		dynasty = "Paleologist"
+		culture = greek
+		birth_date = 1315.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+		female = yes
+		claim = 50
+	}
+}
+
+1341.7.1 = {
+	monarch = {
+		name = "Anna Anahutlu"
+		dynasty = "Great Comnenus"
+		birth_date = 1303.1.1
+		adm = 3
+		dip = 4
+		mil = 0
+		female = yes
+	}
+}
+
+1341.7.30 = {
+	monarch = {
+		name = "Michael"
+		dynasty = "Great Comnenus"
+		birth_date = 1285.1.1
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+}
+
+1341.8.1 = {
+	monarch = {
+		name = "Anna Anahutlu"
+		dynasty = "Great Comnenus"
+		birth_date = 1303.1.1
+		adm = 3
+		dip = 4
+		mil = 0
+		female = yes
+	}
+}
+
+1342.9.4 = {
+	monarch = {
+		name = "John III"
+		dynasty = "Great Comnenus"
+		birth_date = 1321.1.1
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+1344.5.3 = {
+	monarch = {
+		name = "Michael"
+		dynasty = "Great Comnenus"
+		birth_date = 1285.1.1
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+}
+
+1349.12.13 = {
+	monarch = {
+		name = "Alexey III"
+		dynasty = "Great Comnenus"
+		birth_date = 1338.11.5
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1390.3.20 = {
+	monarch = {
+		name = "Manuel III"
+		dynasty = "Great Comnenus"
+		birth_date = 1364.12.16
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+1417.3.5 = {
+	monarch = {
+		name = "Aleksei IV"
+		dynasty = "Great Comnenus"
+		birth_date = 1382.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1429.10.1 = {
+	monarch = {
+		name = "John IV Kaloyoann"
+		dynasty = "Great Comnenus"
+		birth_date = 1403.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1429.10.29 = {
+	heir = {
+		name = "David"
+		monarch_name = "David"
+		dynasty = "Great Comnenus"
+		birth_date = 1408.1.1
+		death_date = 1463.11.1
+		claim = 95
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+}
+
+1459.4.22 = {
+	monarch = {
+		name = "David"
+		dynasty = "Great Comnenus"
+		adm = 6
+		dip = 0
+		mil = 1
+	}
+}
+
+1459.4.22 = {
+	heir = {
+		name = "Vasily"
+		monarch_name = "Vasily II"
+		dynasty = "Great Comnenus"
+		birth_date = 1438.1.1
+		death_date = 1463.11.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1461.8.15 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

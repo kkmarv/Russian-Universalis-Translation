@@ -1,0 +1,901 @@
+byzantine = {
+	graphical_culture = easterngfx
+	joannites = {
+		primary = KNI
+		male_names = {
+			Adrianos Adrianos Akaki Alexandros Alexander Alexius Anastasius Anatolios 
+			Andreas Andronicus Andronicus Anfimos Antioch Antonios Anthony Apollo. 
+			Arseniy Artemiy Afanasiyus Bardas
+			Bartholomew Basil Velisarius Boetius Bosphorus 
+			Christopher Chrysogon Damian Daniel. 
+			Demetrius Dionisy Dorofei Evdox Evstratius
+			Eugenios Eufimius Eustatius Evangelos Gabriel Gennady 
+			George Gerasim Hermanos Gregoras Gregory Hectorius Elias 
+			Heracles Hierotheus of Hymeria
+			Georgios Konstantin Pavlos Nikolaos Aeneas Alexei Ambrosius
+			Chrysanthemum David Dmitry Diogenes Irineus Elpidio Gregorios Hector 
+			Castor Manuel Matthew Nestor Nicomed Orest Palemon Pelagius Petr Filimon Philip 
+			Scantarium Stefanos Theodoros Thomas Basilios Prokopius John Jason
+			Edouard Herrard Etienne Adrienne Adrienne Emery Allen.
+			Aldebert Aldéric Alfons Amory Amédée Ansel André Andrée Arshambo Arno
+			Arnold Arno Aubrey Aimar Barthelemy Baudouin Benoit Berenger Bernard Bertrand Boehmund
+			Bouchard Sentul Boson Carl Cloter Ebbon Engerrand Ed Estah Eurar Fulk François
+			Frederick Gaucher Gaulin Gaultier Joffrois Gilbert Godefroy
+			Guichard Guillem Guillaume Guillem Ameline Henri Herbert Hildebecker Hugo Humbert Jacques
+			Jopher Jasper Jean Jourdin Julien Leon Leonar Luther Louis Loup Mathieu Maurice Nicolas Ogier Honfroy Orson Oton
+			Pien Philippe Pierre Rimbaud Raoul Raymond Renaud Richard Robert Roger Rorgon Rubo Savari Sigismon Simon Thibaud Theobald
+			Thierry Toma Valeran Yves
+		}
+		female_names = {
+			Alexandra Adriana Agafia Agata Agnes Catherine Alexei Anastasia 
+			Anna Anfa Antusa Antipatra Antonia Apollo Barbara Vasily
+			Chrysongony Damian Demeter Dionysius Dorothea Eirene Irina Epiphanius 
+			Evdokia Eudoxia Eulalia Efnika Eufimia Euphrosynia
+			Eupraxia Eustatia Gabrielia Garifallia George Gregory Elena 
+			Ioanna Juliana Justina Calais Constance
+			Constantine Kira Kiriakia Ipatija Zoya
+			Eleanor Elodier Einette Adel Adalmod Adelaide Adelinda.
+			Agne Alearda Alice Alienor Agata
+			Alix Almodis Amelie Anne Antoinette Arsinda Od Oregarda
+			Beatrix Beatrix Belleasse Benoit Berenguer
+			Berthe Blanche Bonnes Burgogne Cecilia Cecilia Catherine
+			Catherine Charlotte Carlotte Constance Denise Denise Dous Dous Echive Eglantine
+			Elizabeth Emma Ermengard Esclarmonde
+			Efrosin Estashi Ev Eva Gerberger Giselle Gillomett Elua Elvis Odierne Id Ildegarda
+			Isabelle Jeanne Judith Julienne Mafalda Maho Margot Margaret Marie Martha
+			Masquerose Matilda Melusin Pernell Perin Pernette Pleasant.
+			Raymond Sarrazin Solen Sophie Stephanie Sibyll Tibourge Valens Yolanda
+		}
+		dynasty_names = {
+			Cantacuse Duca Comnin Paleologist Lascaris Angel Foca
+			"de Valois" "de bourbon" Bonaparte "de la Tour" "de Anjou"
+			"de Lorien" "de Foie" "de Monfort" "de Blois" "de Pentievre" "de Dreux"
+			"de Rogan" "de Bar" "d'Albre" "d'Escoble" "de Nefville"
+			"Kameniat" "Chance" "Demetrien" "Lalud" "Stamopat" "Peloponnese" "Treasure" "Avastact" 
+			"Lardothyr" "Kiriti" "Koloy" "Subpagur" "Tuvak" "Petenac" "Orif" "Mykary" "Tojias" 
+			"Varduh" "Voylas" "Skepid" "Mammyan" "Katakil" "Dracocephaly" "Rentak" "Exarch" "Skepast" 
+			"Kimin" "Beauty" "Constantinas" "Museum" "Suanite" "Carterukas" "Maher" "Kutzodaktil" 
+			"Kanakar" "Vamvaludius" "Leontar" "Clock" "Axiot" "Chrysuchus" "Pirrogen" "Safinas" "Macroleon" 
+			"Calopragmonium" "Carphitium" "Tikhar" "Kokkale" "Crypharate" "Kretik" "Turk" "Symbatik" 
+			"Glycomachery" "Naples" "Amalphin" "Von" "Mistakon" "Pterot" "Monoty" "Muggin" 
+			"Kavr" "Sykel" "Cilician" "Macroduka" "Aeneas" 
+			"Cantacuzin" "Pegonite" "Angel" "Castriot" "Duca Camater" "Kamater" "Sclear" "Paleologist" 
+			"MacRempolite" "Votaniat" "Diogenes" "Dooka" "Comnin" "Stratiotik" "Monomakh" "Calafat" 
+			"Paphlagon" "Argyr" "Kurkuas" "Foka" "Lakapin" "Carbonops" "Macedonian" "Strift" "Euforven" 
+			"Gabra" "Aaron" "Lampin" "Dirk" "Mirzofl" "Valatij" "Uranus" "Amory" "Arminius" 
+			"Rangave" "Logofeet" "Isawr" "Polit" "Student ." "Skamandrin" "Synckell" "Cavleia" "Monoharzania" 
+			"Cassimata" "Nesteft" "Scholastics" "Zlatoust" "Nazianzin" "Nicomedian" "Harida" 
+			"Grammar" "Xenon" "Gabal" "Axukh" "Kamon" "Asiden" "Comnen Dooka" "Hephaestus" "Karacas" 
+			"Amiruz" "Vissarion" "Callisto" "Halkokondil" "Gas" "Kurtese" "Treasure" "de Patras" 
+			"Hemiste" "Allacium" "Korniak" "Damaskin" "Bishop" "Flangin" "Foka" "Heraclitus" 
+			"Kullokrat" "Cottuni" "Leontar" "Lukanius" "Marguni" "Musur" "Nafpliot" 
+			"Aprène"  "Khortyts" "Gavriylopul" "Gunaropul" "Velissariot" "Constantople" "Cavallari" 
+			"Maniac" "Notaras" "Sgouromall" "Epifan" "Logaras" "Eudaimon" "Suckellari" "Maurazum" "Styles" 
+			"Malain" "Vasilaki" "Mamonas" "Kekaumen" "Metaxas" "Kanav" "Kukuzel" "Coria" "Makrin" 
+			"Lambardas" "Adrian" "Agallon" "Acropolitan" "Aoin" "Apocaux" "Aprène" "Arbanten" "Argyr" 
+			"Arianite" "Atrapy" "Walsamon" "Vatatatsion" "Votaniat" "Wumbal" "Vircium" "Vranas" "Vrienne" 
+			"Chrysaphia" "Chrysoloras" "Dalassen" "Dermocaptium" "Diasoren" 
+			"Dokoyan" "Eirenik" "Gabra" "Glabas" "Yagar" "Tobacco" "Kabasilas" "Calaman" "KALOETIY" 
+			"Calotte" "Kamater" "Katrarium" "Caucaden" "Kontostefan" "Koresiysk" "Kurkuas" 
+			"Kurtyky" "Lascar" "Limpidarium" "Mahone" "MacRempolite" "Malachi" "Maliassen" "Mamal" 
+			"Mandroman" "Manuelit" "Melachroin" "Mourzufle" "Muzaki" "Musalon" "Neocesarite" 
+			"Nestong" "Pantechny" "Parsonounced ." "Petraliface" "Petsikopoul" "Philanthropist" "Foka" "Pleustius" 
+			"Prasomali" "Prinkyps" "Psell" "Raden" "Rossatas" "Sarantapeh" "Sebastopul" "Seguropool" 
+			"Sgur" "Partner" "France" "Strabomitium" "Sinaden" "Syranerii" "Syrupul" "Tagarius" 
+			"Tarkhaneiotius" "Tornicky" "Trichas" "Tsafas" "Zaridas" "Akunin" "Abalanty" 
+			"Abudim" "Adlalest" "Agillian" "Agritus" "Acapnia" "Alop" "Alucian" "Aliattium" "Amasseyan" 
+			"Amiropoule" "Anatolique" "Andreiomen" "Androsalite" "Anemas" "Anguria" "Antemiotius" "Antiohit" 
+			"Antioch" "Antipas" "Arbinten" "Areobinden" "Areobind" "Argiropool" "Aristen" "Artukomit" 
+			"Arwanten" "Attaleiatius" "Aulen" "Aulepathy" "Aksinit" "Axiomatics" "Valantium" "Warbar" "Vardalius" 
+			"Varen" "Varsaki" "Var" "Velissarioty" "Vempeciotius" "Veriboi" "Veriotius" "Blachernite" "Vlangas" 
+			"Voplas" "Woohy" "Vukarius" "Lie" "Vringas" "Chrysantes" "Chrysalis" "Chrysobalantites" "Chrysobergia"
+			"Daimonium" "Dalassen" "Dalassen Dooka" "Dean" "Diabaten" "Diogenes" "Domecopul" 
+			"Dooka Lascar" "Duca Paleologue" "Doxapatrix" "Dracontopul" "Drosin" "Dros" "Drulen" 
+			"Elegmith" "Enoch" "Epanokomite" "Yergodoty" "Erotic" "Eugenian" "Eugenie" "Ewlogies" "Eksotroch" 
+			"Gabalas" "Galaton" "Gelotium" "Guide" "Glick" "Goudelia" "Gurzubaten" "Grenade" "Gribas" "Grisp" 
+			"Hymn" "Iasit" 
+			"Iberopoul" "Isakiotii" "Italyk" "Caballari" "Kabasilas" "Caesar" "Calameter" "Calamaras" 
+			"Kalampaky" "Catalogon" "Kamitses Comnin Dooka" "Cappadocia" "Cappadox Kalampaki" "Carabiten" 
+			"Carabitio" "Caraponathan" "Karamall" "Karanden" "Quarantine" "Cardamopoul" "Karen" "Karianite" 
+			"Carcaronim" "Karmaliki" "Carousseiatius" "Caspax" "Castamonite" "Katakalon" "Katakal" "Chaffelor" 
+			"Catas" "Qatar" "Katotyk" "Katsamundi" "Kegeny" "Kekaleimen" "Kecklimman" "Kemineian" "Cenchry" 
+			"Cennary" "Kefalas" "Kerulari" "Kibirreoty" "Kinnam" "Kokkin" "Comnen Dooka" "Konops" 
+			"Contefanos Comnenus" "Copsen" "Kostomiriy" "Kotercian" "Cilician" "Kunery" "Crater" "Crinitus" 
+			"Critaras" "Crytopol" "Chiminian" "Kinochorit" "Kiriotii" "Kiritiy" "Lactentitia" 
+			"Lalacon" "Lampsyotium" "Lapardas" "Leicho Studio" "Lependrene" "Leukedonite" "Libadary" "Libadas" 
+			"Libellisi" "Limas" "Liparite" "Lithocastrete" "Logariasty" "Lulius" "Luluki" "Lycaon" "Makhetari" 
+			"Madrid" "Maditen" "Macropoderium" "Malepn" "Malessius" "Mamal" "Manganium" "Marajas" "Marapas" 
+			"Marhapsab" "Marianite" "Marzapul" "Matsar" "Matzas" "Matsuki" "Maurex" "Maurokatakal" "Maur" 
+			"Maurosomius" "Fur" "Megalomatium" "Megen" "Megin" "Melias" "Melissen" "Mermenthal" "Mesarit" 
+			"Mesx" "Mesopotamite" "Metohit" "Metropool" "Mitylenai" "Monahith" "Monocarit" "Monomakhat" 
+			"Moroian" "Mosaraf" "Mosch" "Moselle" "Mung" "Murmuriy" "Mustachi" "Mosaic" "Miralidius" 
+			"Miredepty" "Mirelaetius" "Myron" "Nabaten" "Narbiotium" "Narsit" "Neofit" "Noustongie" "Nikerite" 
+			"Niculitius" "Oinaiotius" "Olinten" "Op" "Pagomenon" "Pacurian" "Pactiarium" 
+			"Paleologist Comnenus" "Duca Murzufle" "Palaiotium" "Palatine" "Pamphyl" "Panareth" "Pankal" 
+			"Panokomite" "Parsakuten" "Parteni" "Paxen" "Pediasim" "Peganite" "Pegonite" "Peculius" 
+			"Pelamedia" "Pentarcly" "Pepagomenon" "Pepan" "Translated by" "Periblepten" "Pistophile" "Playuria" "Politopol" "Sweat" "Probatas" 
+			"Promunten" "Proteuon" "Ptoh" "Rentaken" "Rodi" "Rogerie" "Romai" "Rusopul" 
+			"Sagopul" "Sarakenopul" "Saronite" "Sauloianni" "Seed" "Serbias" "Sykunden" "Sinopit" 
+			"Scandal" "Scanning" "Skeblen" "Scleropool" "Scutario" "Scribas" "Smirnai" "Solomon" "Sortii" 
+			"Sumen" "Spanogregory" "Spanopul" "Spondylium" "Stachitius" "Stemnicity" "Strategopulse" 
+			"Strefny" "Stypeiotius" "Stippius" "Sinacher" "Sire" "Taronite" "Tatica" "Tetragonite" "Feodorokan" 
+			"Feodosiopolite" "Thrace" "Philacas" "Tilap" "Timonite" "Turmarhopul" "Trafinium" "Trill" 
+			"Triacontafill" "Triblattitis" "Trichinopodium" "Trifilli"  "Watatz" "Xant" "Xen" "Xer" "Xyfias" 
+			"Xyphiline" "Xylinite" "Zabareiotius" "Tanning" "Zerb" "Zomius" "Zonaras" "Kalomalas" "Caludius" 
+			"Kamater Kantakuzin" "Kampanari" "Kamicium" "Callergy" "Lukit" "Cometopul" "Vasiliak" 
+			"Pateran" "Paleologo" "Gregoras" "Sanudo" "Comissions" "Lassar" "Kirdiniate" "Agapet" 
+			"Attic" "Anastasiot" "Evergetidiot" "Eugeniot" "Vorradiot" "Muntan" 
+			"Feotokit" "Authorian" "Acoimit" "Panemorfiot" "Iyakintiot" 
+			"Galesiot" "Vecc" "Cyprie" "Gonit" "Pammacaratitis" "Periwleptiot" "Manganiot" "Calecas" 
+			"Hieracléidon" "Xylaloy" "Sirik" "Tactics" "Aspietius" "Kastenian" "Leovach" "Maniat" "Vaklikas" 
+			"Mauriqui" "Screenari" "Mesanact" "Lakhanodrakon" "Kalokir" "Lycodonte" "Skillar" "Ampelas" 
+			"Gerontas" "Apocap" "Pallicari" "Orphanotroph" "Iexavul" "Martinaki" "Agelast" 
+			"Kotion" "Toxaras" "Aplacio" "Homost" "Kufaras" "Tiropool" "Contomitium" "Sellocalas" 
+			"Kentrocourt" "Antigon" "Pastillas" "Cataclisium" "Manicophage" "Kolokint" "Rakhit" "Voie Spatas" 
+			"Apsemar" "Artemy" "Leon" "Foka" "Arabyssin" "Constantine" "Constance" "Polkari"
+		}
+	}
+	antioch = {
+		primary = ATO
+		male_names = {
+			Adrianos Adrianos Akaki Alexandros Alexander Alexius Anastasius Anatolios 
+			Andreas Andronicus Andronicus Anfimos Antioch Antonios Anthony Apollo. 
+			Arseniy Artemiy Afanasiyus Bardas
+			Bartholomew Basil Velisarius Boetius Bosphorus 
+			Christopher Chrysogon Damian Daniel. 
+			Demetrius Dionisy Dorofei Evdox Evstratius
+			Eugenios Eufimius Eustatius Evangelos Gabriel Gennady 
+			George Gerasim Hermanos Gregoras Gregory Hectorius Elias 
+			Heracles Hierotheus of Hymeria
+			Georgios Konstantin Pavlos Nikolaos Aeneas Alexei Ambrosius
+			Chrysanthemum David Dmitry Diogenes Irineus Elpidio Gregorios Hector 
+			Castor Manuel Matthew Nestor Nicomed Orest Palemon Pelagius Petr Filimon Philip 
+			Scantarium Stefanos Theodoros Thomas Basilios Prokopius John Jason
+		}
+		female_names = {
+			Alexandra Adriana Agafia Agata Agnes Catherine Alexei Anastasia 
+			Anna Anfa Antusa Antipatra Antonia Apollo Barbara Vasily
+			Chrysongony Damian Demeter Dionysius Dorothea Eirene Irina Epiphanius 
+			Evdokia Eudoxia Eulalia Efnika Eufimia Euphrosynia
+			Eupraxia Eustatia Gabrielia Garifallia George Gregory Elena 
+			Ioanna Juliana Justina Calais Constance
+			Constantine Kira Kiriakia Ipatija Zoya
+		}
+		dynasty_names = {
+			Cantacuse Duca Comnin Paleologist Lascaris Angel Foca
+			"Kameniat" "Chance" "Demetrien" "Lalud" "Stamopat" "Peloponnese" "Treasure" "Avastact" 
+			"Lardothyr" "Kiriti" "Koloy" "Subpagur" "Tuvak" "Petenac" "Orif" "Mykary" "Tojias" 
+			"Varduh" "Voylas" "Skepid" "Mammyan" "Katakil" "Dracocephaly" "Rentak" "Exarch" "Skepast" 
+			"Kimin" "Beauty" "Constantinas" "Museum" "Suanite" "Carterukas" "Maher" "Kutzodaktil" 
+			"Kanakar" "Vamvaludius" "Leontar" "Clock" "Axiot" "Chrysuchus" "Pirrogen" "Safinas" "Macroleon" 
+			"Calopragmonium" "Carphitium" "Tikhar" "Kokkale" "Crypharate" "Kretik" "Turk" "Symbatik" 
+			"Glycomachery" "Naples" "Amalphin" "Von" "Mistakon" "Pterot" "Monoty" "Muggin" 
+			"Kavr" "Sykel" "Cilician" "Macroduka" "Aeneas" 
+			"Cantacuzin" "Pegonite" "Angel" "Castriot" "Duca Camater" "Kamater" "Sclear" "Paleologist" 
+			"MacRempolite" "Votaniat" "Diogenes" "Dooka" "Comnin" "Stratiotik" "Monomakh" "Calafat" 
+			"Paphlagon" "Argyr" "Kurkuas" "Foka" "Lakapin" "Carbonops" "Macedonian" "Strift" "Euforven" 
+			"Gabra" "Aaron" "Lampin" "Dirk" "Mirzofl" "Valatij" "Uranus" "Amory" "Arminius" 
+			"Rangave" "Logofeet" "Isawr" "Polit" "Student ." "Skamandrin" "Synckell" "Cavleia" "Monoharzania" 
+			"Cassimata" "Nesteft" "Scholastics" "Zlatoust" "Nazianzin" "Nicomedian" "Harida" 
+			"Grammar" "Xenon" "Gabal" "Axukh" "Kamon" "Asiden" "Comnen Dooka" "Hephaestus" "Karacas" 
+			"Amiruz" "Vissarion" "Callisto" "Halkokondil" "Gas" "Kurtese" "Treasure" "de Patras" 
+			"Hemiste" "Allacium" "Korniak" "Damaskin" "Bishop" "Flangin" "Foka" "Heraclitus" 
+			"Kullokrat" "Cottuni" "Leontar" "Lukanius" "Marguni" "Musur" "Nafpliot" 
+			"Aprène"  "Khortyts" "Gavriylopul" "Gunaropul" "Velissariot" "Constantople" "Cavallari" 
+			"Maniac" "Notaras" "Sgouromall" "Epifan" "Logaras" "Eudaimon" "Suckellari" "Maurazum" "Styles" 
+			"Malain" "Vasilaki" "Mamonas" "Kekaumen" "Metaxas" "Kanav" "Kukuzel" "Coria" "Makrin" 
+			"Lambardas" "Adrian" "Agallon" "Acropolitan" "Aoin" "Apocaux" "Aprène" "Arbanten" "Argyr" 
+			"Arianite" "Atrapy" "Walsamon" "Vatatatsion" "Votaniat" "Wumbal" "Vircium" "Vranas" "Vrienne" 
+			"Chrysaphia" "Chrysoloras" "Dalassen" "Dermocaptium" "Diasoren" 
+			"Dokoyan" "Eirenik" "Gabra" "Glabas" "Yagar" "Tobacco" "Kabasilas" "Calaman" "KALOETIY" 
+			"Calotte" "Kamater" "Katrarium" "Caucaden" "Kontostefan" "Koresiysk" "Kurkuas" 
+			"Kurtyky" "Lascar" "Limpidarium" "Mahone" "MacRempolite" "Malachi" "Maliassen" "Mamal" 
+			"Mandroman" "Manuelit" "Melachroin" "Mourzufle" "Muzaki" "Musalon" "Neocesarite" 
+			"Nestong" "Pantechny" "Parsonounced ." "Petraliface" "Petsikopoul" "Philanthropist" "Foka" "Pleustius" 
+			"Prasomali" "Prinkyps" "Psell" "Raden" "Rossatas" "Sarantapeh" "Sebastopul" "Seguropool" 
+			"Sgur" "Partner" "France" "Strabomitium" "Sinaden" "Syranerii" "Syrupul" "Tagarius" 
+			"Tarkhaneiotius" "Tornicky" "Trichas" "Tsafas" "Zaridas" "Akunin" "Abalanty" 
+			"Abudim" "Adlalest" "Agillian" "Agritus" "Acapnia" "Alop" "Alucian" "Aliattium" "Amasseyan" 
+			"Amiropoule" "Anatolique" "Andreiomen" "Androsalite" "Anemas" "Anguria" "Antemiotius" "Antiohit" 
+			"Antioch" "Antipas" "Arbinten" "Areobinden" "Areobind" "Argiropool" "Aristen" "Artukomit" 
+			"Arwanten" "Attaleiatius" "Aulen" "Aulepathy" "Aksinit" "Axiomatics" "Valantium" "Warbar" "Vardalius" 
+			"Varen" "Varsaki" "Var" "Velissarioty" "Vempeciotius" "Veriboi" "Veriotius" "Blachernite" "Vlangas" 
+			"Voplas" "Woohy" "Vukarius" "Lie" "Vringas" "Chrysantes" "Chrysalis" "Chrysobalantites" "Chrysobergia"
+			"Daimonium" "Dalassen" "Dalassen Dooka" "Dean" "Diabaten" "Diogenes" "Domecopul" 
+			"Dooka Lascar" "Duca Paleologue" "Doxapatrix" "Dracontopul" "Drosin" "Dros" "Drulen" 
+			"Elegmith" "Enoch" "Epanokomite" "Yergodoty" "Erotic" "Eugenian" "Eugenie" "Ewlogies" "Eksotroch" 
+			"Gabalas" "Galaton" "Gelotium" "Guide" "Glick" "Goudelia" "Gurzubaten" "Grenade" "Gribas" "Grisp" 
+			"Hymn" "Iasit" 
+			"Iberopoul" "Isakiotii" "Italyk" "Caballari" "Kabasilas" "Caesar" "Calameter" "Calamaras" 
+			"Kalampaky" "Catalogon" "Kamitses Comnin Dooka" "Cappadocia" "Cappadox Kalampaki" "Carabiten" 
+			"Carabitio" "Caraponathan" "Karamall" "Karanden" "Quarantine" "Cardamopoul" "Karen" "Karianite" 
+			"Carcaronim" "Karmaliki" "Carousseiatius" "Caspax" "Castamonite" "Katakalon" "Katakal" "Chaffelor" 
+			"Catas" "Qatar" "Katotyk" "Katsamundi" "Kegeny" "Kekaleimen" "Kecklimman" "Kemineian" "Cenchry" 
+			"Cennary" "Kefalas" "Kerulari" "Kibirreoty" "Kinnam" "Kokkin" "Comnen Dooka" "Konops" 
+			"Contefanos Comnenus" "Copsen" "Kostomiriy" "Kotercian" "Cilician" "Kunery" "Crater" "Crinitus" 
+			"Critaras" "Crytopol" "Chiminian" "Kinochorit" "Kiriotii" "Kiritiy" "Lactentitia" 
+			"Lalacon" "Lampsyotium" "Lapardas" "Leicho Studio" "Lependrene" "Leukedonite" "Libadary" "Libadas" 
+			"Libellisi" "Limas" "Liparite" "Lithocastrete" "Logariasty" "Lulius" "Luluki" "Lycaon" "Makhetari" 
+			"Madrid" "Maditen" "Macropoderium" "Malepn" "Malessius" "Mamal" "Manganium" "Marajas" "Marapas" 
+			"Marhapsab" "Marianite" "Marzapul" "Matsar" "Matzas" "Matsuki" "Maurex" "Maurokatakal" "Maur" 
+			"Maurosomius" "Fur" "Megalomatium" "Megen" "Megin" "Melias" "Melissen" "Mermenthal" "Mesarit" 
+			"Mesx" "Mesopotamite" "Metohit" "Metropool" "Mitylenai" "Monahith" "Monocarit" "Monomakhat" 
+			"Moroian" "Mosaraf" "Mosch" "Moselle" "Mung" "Murmuriy" "Mustachi" "Mosaic" "Miralidius" 
+			"Miredepty" "Mirelaetius" "Myron" "Nabaten" "Narbiotium" "Narsit" "Neofit" "Noustongie" "Nikerite" 
+			"Niculitius" "Oinaiotius" "Olinten" "Op" "Pagomenon" "Pacurian" "Pactiarium" 
+			"Paleologist Comnenus" "Duca Murzufle" "Palaiotium" "Palatine" "Pamphyl" "Panareth" "Pankal" 
+			"Panokomite" "Parsakuten" "Parteni" "Paxen" "Pediasim" "Peganite" "Pegonite" "Peculius" 
+			"Pelamedia" "Pentarcly" "Pepagomenon" "Pepan" "Translated by" "Periblepten" "Pistophile" "Playuria" "Politopol" "Sweat" "Probatas" 
+			"Promunten" "Proteuon" "Ptoh" "Rentaken" "Rodi" "Rogerie" "Romai" "Rusopul" 
+			"Sagopul" "Sarakenopul" "Saronite" "Sauloianni" "Seed" "Serbias" "Sykunden" "Sinopit" 
+			"Scandal" "Scanning" "Skeblen" "Scleropool" "Scutario" "Scribas" "Smirnai" "Solomon" "Sortii" 
+			"Sumen" "Spanogregory" "Spanopul" "Spondylium" "Stachitius" "Stemnicity" "Strategopulse" 
+			"Strefny" "Stypeiotius" "Stippius" "Sinacher" "Sire" "Taronite" "Tatica" "Tetragonite" "Feodorokan" 
+			"Feodosiopolite" "Thrace" "Philacas" "Tilap" "Timonite" "Turmarhopul" "Trafinium" "Trill" 
+			"Triacontafill" "Triblattitis" "Trichinopodium" "Trifilli"  "Watatz" "Xant" "Xen" "Xer" "Xyfias" 
+			"Xyphiline" "Xylinite" "Zabareiotius" "Tanning" "Zerb" "Zomius" "Zonaras" "Kalomalas" "Caludius" 
+			"Kamater Kantakuzin" "Kampanari" "Kamicium" "Callergy" "Lukit" "Cometopul" "Vasiliak" 
+			"Pateran" "Paleologo" "Gregoras" "Sanudo" "Comissions" "Lassar" "Kirdiniate" "Agapet" 
+			"Attic" "Anastasiot" "Evergetidiot" "Eugeniot" "Vorradiot" "Muntan" 
+			"Feotokit" "Authorian" "Acoimit" "Panemorfiot" "Iyakintiot" 
+			"Galesiot" "Vecc" "Cyprie" "Gonit" "Pammacaratitis" "Periwleptiot" "Manganiot" "Calecas" 
+			"Hieracléidon" "Xylaloy" "Sirik" "Tactics" "Aspietius" "Kastenian" "Leovach" "Maniat" "Vaklikas" 
+			"Mauriqui" "Screenari" "Mesanact" "Lakhanodrakon" "Kalokir" "Lycodonte" "Skillar" "Ampelas" 
+			"Gerontas" "Apocap" "Pallicari" "Orphanotroph" "Iexavul" "Martinaki" "Agelast" 
+			"Kotion" "Toxaras" "Aplacio" "Homost" "Kufaras" "Tiropool" "Contomitium" "Sellocalas" 
+			"Kentrocourt" "Antigon" "Pastillas" "Cataclisium" "Manicophage" "Kolokint" "Rakhit" "Voie Spatas" 
+			"Apsemar" "Artemy" "Leon" "Foka" "Arabyssin" "Constantine" "Constance" "Polkari"
+		}
+	}
+	armenian = {
+		primary = ARM
+		dynasty_names = { 
+			Bagratuni Rubenid Pahlavuni
+			Tumanishvili Abamelik Amatuni "Argutinsky-Dolgoruky" Babutov "Hassan-Jalalians" Khojaminasishvili
+			Melikov Orbeli 
+			#CK2
+			"Baghdasaryan" "Melik-Avanyan"
+		}
+		male_names = {
+			David Mkhitar Ashot Gagik Sbat Abbas Hovhannes Vagram Musah Sahak Tachar Arakel Ari Armen 
+			Arshavir Avedis Badugan Bedros Berjoni Bojos Hukas Hagop Hovhannes Hovsep Girair Capriel 
+			Kevork Khajag Krikor Levon Moysheshes Nairi Sevan Taniel Vahan Zadig Zoravan
+			Abbas Abirad Abdukharm Abulgharib Alexander Artashes Artashir Ardeshir Artavazd Arsen 
+			Arshak Ashot Athom Atnerseh Avag Avedis Bagur Bagrat Bedros 
+			Boghos Paul Davit David Eshhan Gagik Gevorg Karayan
+			State Secretary Konstantin Grigor Gurgen Lupo Hagop Hamazasp Hethum Khoikhannes Khoisep 
+			Ishkhan Ivan Capriel Gabriel Khachik Khosrow Khosrau Levon Leo Malhas 
+			Mamigon Manuel Margos Markus Melek Mihrdat Mikael Michael Mlekh Michekh 
+			Mushel Mzhej Nerseh Narses Oshin Rupen Ryuben Sahag Isaac Sarkis Sergius Sevag Shahanshan 
+		}
+		female_names = {
+			Ahabni Alise Alice Almasd Anaheid Anna Anush Arda Arevig Arin Baizzar Berzhanush Berzhuhi 
+			Date David Dalita Eliz Gadar Goranugh Hasmid Khuri Khranush Hripsimeh 		
+			Keghanush Keran Horishah Kohar Latavri Leyli Lusin Mara Margaride Maria 
+			Maryam Maryam Megranush Nane Nazani Hovsanna Runig Razmukhi Rita Satenik Satinik Seth Cyran 
+			Sirvart Spuhi Shushanig Takuhi Tamar Vartanuh Vartuhi Vosgi Yeva Zabel 
+		}
+		dynasty_names = {
+		# CKII - Alan
+		"Burtaside" "Alaunee" "Hadani" "Shoana" "Senti" "Zmbalani" "Sathixi" "Totrazi" "Ovseti" "Zerasante" "Elbeg" 
+		"Ardasen" "Beccuisar" "Geber" "Zarechoh" "Jebe" "Gergie" "Gujibe" "Zaenji" 
+		"Carquis" "Jikkai" "Gojves" "Magazette" "Parraesta" "Hetagkat" "Hadarka" "Toileg" 
+		"Fairnyat" "Ephraimide" "Tandelat" "Zeikoste" "Sozana" "Merzaoi"
+		}
+	}
+	epirus = {
+		primary = EPI
+		male_names = {
+			Adrianos Adrianos Akaki Alexandros Alexander Alexius Anastasius Anatolios 
+			Andreas Andronicus Andronicus Anfimos Antioch Antonios Anthony Apollo. 
+			Arseniy Artemiy Afanasiyus Bardas
+			Bartholomew Basil Velisarius Boetius Bosphorus 
+			Christopher Chrysogon Damian Daniel. 
+			Demetrius Dionisy Dorofei Evdox Evstratius
+			Eugenios Eufimius Eustatius Evangelos Gabriel Gennady 
+			George Gerasim Hermanos Gregoras Gregory Hectorius Elias 
+			Heracles Hierotheus of Hymeria
+			Georgios Konstantin Pavlos Nikolaos Aeneas Alexei Ambrosius
+			Chrysanthemum David Dmitry Diogenes Irineus Elpidio Gregorios Hector 
+			Castor Manuel Matthew Nestor Nicomed Orest Palemon Pelagius Petr Filimon Philip 
+			Scantarium Stefanos Theodoros Thomas Basilios Prokopius John Jason
+		}
+		female_names = {
+			Alexandra Adriana Agafia Agata Agnes Catherine Alexei Anastasia 
+			Anna Anfa Antusa Antipatra Antonia Apollo Barbara Vasily
+			Chrysongony Damian Demeter Dionysius Dorothea Eirene Irina Epiphanius 
+			Evdokia Eudoxia Eulalia Efnika Eufimia Euphrosynia
+			Eupraxia Eustatia Gabrielia Garifallia George Gregory Elena 
+			Ioanna Juliana Justina Calais Constance
+			Constantine Kira Kiriakia Ipatija Zoya
+		}
+		dynasty_names = {
+			Cantacuse Duca Comnin Paleologist Lascaris Angel Foca
+			"Kameniat" "Chance" "Demetrien" "Lalud" "Stamopat" "Peloponnese" "Treasure" "Avastact" 
+			"Lardothyr" "Kiriti" "Koloy" "Subpagur" "Tuvak" "Petenac" "Orif" "Mykary" "Tojias" 
+			"Varduh" "Voylas" "Skepid" "Mammyan" "Katakil" "Dracocephaly" "Rentak" "Exarch" "Skepast" 
+			"Kimin" "Beauty" "Constantinas" "Museum" "Suanite" "Carterukas" "Maher" "Kutzodaktil" 
+			"Kanakar" "Vamvaludius" "Leontar" "Clock" "Axiot" "Chrysuchus" "Pirrogen" "Safinas" "Macroleon" 
+			"Calopragmonium" "Carphitium" "Tikhar" "Kokkale" "Crypharate" "Kretik" "Turk" "Symbatik" 
+			"Glycomachery" "Naples" "Amalphin" "Von" "Mistakon" "Pterot" "Monoty" "Muggin" 
+			"Kavr" "Sykel" "Cilician" "Macroduka" "Aeneas" 
+			"Cantacuzin" "Pegonite" "Angel" "Castriot" "Duca Camater" "Kamater" "Sclear" "Paleologist" 
+			"MacRempolite" "Votaniat" "Diogenes" "Dooka" "Comnin" "Stratiotik" "Monomakh" "Calafat" 
+			"Paphlagon" "Argyr" "Kurkuas" "Foka" "Lakapin" "Carbonops" "Macedonian" "Strift" "Euforven" 
+			"Gabra" "Aaron" "Lampin" "Dirk" "Mirzofl" "Valatij" "Uranus" "Amory" "Arminius" 
+			"Rangave" "Logofeet" "Isawr" "Polit" "Student ." "Skamandrin" "Synckell" "Cavleia" "Monoharzania" 
+			"Cassimata" "Nesteft" "Scholastics" "Zlatoust" "Nazianzin" "Nicomedian" "Harida" 
+			"Grammar" "Xenon" "Gabal" "Axukh" "Kamon" "Asiden" "Comnen Dooka" "Hephaestus" "Karacas" 
+			"Amiruz" "Vissarion" "Callisto" "Halkokondil" "Gas" "Kurtese" "Treasure" "de Patras" 
+			"Hemiste" "Allacium" "Korniak" "Damaskin" "Bishop" "Flangin" "Foka" "Heraclitus" 
+			"Kullokrat" "Cottuni" "Leontar" "Lukanius" "Marguni" "Musur" "Nafpliot" 
+			"Aprène"  "Khortyts" "Gavriylopul" "Gunaropul" "Velissariot" "Constantople" "Cavallari" 
+			"Maniac" "Notaras" "Sgouromall" "Epifan" "Logaras" "Eudaimon" "Suckellari" "Maurazum" "Styles" 
+			"Malain" "Vasilaki" "Mamonas" "Kekaumen" "Metaxas" "Kanav" "Kukuzel" "Coria" "Makrin" 
+			"Lambardas" "Adrian" "Agallon" "Acropolitan" "Aoin" "Apocaux" "Aprène" "Arbanten" "Argyr" 
+			"Arianite" "Atrapy" "Walsamon" "Vatatatsion" "Votaniat" "Wumbal" "Vircium" "Vranas" "Vrienne" 
+			"Chrysaphia" "Chrysoloras" "Dalassen" "Dermocaptium" "Diasoren" 
+			"Dokoyan" "Eirenik" "Gabra" "Glabas" "Yagar" "Tobacco" "Kabasilas" "Calaman" "KALOETIY" 
+			"Calotte" "Kamater" "Katrarium" "Caucaden" "Kontostefan" "Koresiysk" "Kurkuas" 
+			"Kurtyky" "Lascar" "Limpidarium" "Mahone" "MacRempolite" "Malachi" "Maliassen" "Mamal" 
+			"Mandroman" "Manuelit" "Melachroin" "Mourzufle" "Muzaki" "Musalon" "Neocesarite" 
+			"Nestong" "Pantechny" "Parsonounced ." "Petraliface" "Petsikopoul" "Philanthropist" "Foka" "Pleustius" 
+			"Prasomali" "Prinkyps" "Psell" "Raden" "Rossatas" "Sarantapeh" "Sebastopul" "Seguropool" 
+			"Sgur" "Partner" "France" "Strabomitium" "Sinaden" "Syranerii" "Syrupul" "Tagarius" 
+			"Tarkhaneiotius" "Tornicky" "Trichas" "Tsafas" "Zaridas" "Akunin" "Abalanty" 
+			"Abudim" "Adlalest" "Agillian" "Agritus" "Acapnia" "Alop" "Alucian" "Aliattium" "Amasseyan" 
+			"Amiropoule" "Anatolique" "Andreiomen" "Androsalite" "Anemas" "Anguria" "Antemiotius" "Antiohit" 
+			"Antioch" "Antipas" "Arbinten" "Areobinden" "Areobind" "Argiropool" "Aristen" "Artukomit" 
+			"Arwanten" "Attaleiatius" "Aulen" "Aulepathy" "Aksinit" "Axiomatics" "Valantium" "Warbar" "Vardalius" 
+			"Varen" "Varsaki" "Var" "Velissarioty" "Vempeciotius" "Veriboi" "Veriotius" "Blachernite" "Vlangas" 
+			"Voplas" "Woohy" "Vukarius" "Lie" "Vringas" "Chrysantes" "Chrysalis" "Chrysobalantites" "Chrysobergia"
+			"Daimonium" "Dalassen" "Dalassen Dooka" "Dean" "Diabaten" "Diogenes" "Domecopul" 
+			"Dooka Lascar" "Duca Paleologue" "Doxapatrix" "Dracontopul" "Drosin" "Dros" "Drulen" 
+			"Elegmith" "Enoch" "Epanokomite" "Yergodoty" "Erotic" "Eugenian" "Eugenie" "Ewlogies" "Eksotroch" 
+			"Gabalas" "Galaton" "Gelotium" "Guide" "Glick" "Goudelia" "Gurzubaten" "Grenade" "Gribas" "Grisp" 
+			"Hymn" "Iasit"
+			"Mauriqui" "Screenari" "Mesanact" "Lakhanodrakon" "Kalokir" "Lycodonte" "Skillar" "Ampelas" 
+			"Gerontas" "Apocap" "Pallicari" "Orphanotroph" "Iexavul" "Martinaki" "Agelast" 
+			"Kotion" "Toxaras" "Aplacio" "Homost" "Kufaras" "Tiropool" "Contomitium" "Sellocalas" 
+			"Kentrocourt" "Antigon" "Pastillas" "Cataclisium" "Manicophage" "Kolokint" "Rakhit" "Voie Spatas" 
+			"Apsemar" "Artemy" "Leon" "Foka" "Arabyssin" "Constantine" "Constance" "Polkari"
+		}
+	}
+	cretan = {
+		primary = CRT
+		male_names = {
+			Adrianos Adrianos Akaki Alexandros Alexander Alexius Anastasius Anatolios 
+			Andreas Andronicus Andronicus Anfimos Antioch Antonios Anthony Apollo. 
+			Arseniy Artemiy Afanasiyus Bardas
+			Bartholomew Basil Velisarius Boetius Bosphorus 
+			Christopher Chrysogon Damian Daniel. 
+			Demetrius Dionisy Dorofei Evdox Evstratius
+			Eugenios Eufimius Eustatius Evangelos Gabriel Gennady 
+			George Gerasim Hermanos Gregoras Gregory Hectorius Elias 
+			Heracles Hierotheus of Hymeria
+			Georgios Konstantin Pavlos Nikolaos Aeneas Alexei Ambrosius
+			Chrysanthemum David Dmitry Diogenes Irineus Elpidio Gregorios Hector 
+			Castor Manuel Matthew Nestor Nicomed Orest Palemon Pelagius Petr Filimon Philip 
+			Scantarium Stefanos Theodoros Thomas Basilios Prokopius John Jason
+			Emily Anthony Atius Aufidius Aurelius Cecily Calpournius Cassius Claudius Cornelius Domitius Fabius Flavius Fulvius Furius 
+			Gabinius Gallery Horace Julius Licinius Lucius Mamilius Manlius Mammius Nigidius Octavius Papyri Pliny Postumius Pompeii
+			Rabirius Quincentius Salvius Sempronius Sempronius Sertorius Cilius Titius Ullpius Valerius Vesuvius Vinitius Vitellius
+		}
+		female_names = {
+			Alexandra Adriana Agafia Agata Agnes Catherine Alexei Anastasia 
+			Anna Anfa Antusa Antipatra Antonia Apollo Barbara Vasily
+			Chrysongony Damian Demeter Dionysius Dorothea Eirene Irina Epiphanius 
+			Evdokia Eudoxia Eulalia Efnika Eufimia Euphrosynia
+			Eupraxia Eustatia Gabrielia Garifallia George Gregory Elena 
+			Ioanna Juliana Justina Calais Constance
+			Constantine Kira Kiriakia Ipatija Zoya
+			Grícola Agrippa Albin Alb Arat Azina Avezc Balbat Bibul Brut Bubo Bouteon Caesar Calvin Calvé Cato Catul Catul Cicero 
+			Cinna Cotta Crispian Curion Dame Damas Dentat Dives Dolabella Donat Dragon Eugene Euphemia Falcone Felix Fimbria Flacq
+			Flor Fronton Gala Gahler Gemell Gorgoni Gracch Gracch Gracil Habit Hilary Horace Ignacio Huba Labeón Lenai Lentul Lepid Leptius Libona 
+			Longin Long Lukan Lutsull Lupius Macron Marciali Marulla Maxim Memmi Mercator Messala Montana Muirena Moussa Nazica Otzian Octavian Optat 
+			Oton Penula Panther Pavon Peregrin Pertinax Petronax Piktor Pilate Paul Prim Prisca Protion Pulchre Quarton Quirque Regall Rem Roman Romulus
+			Ruth Ruson Sabin Salinator Scevola Scrofa Seneca Senna North Sorex Strabon Super Tacitus Tertul Tibull Trebonius Station
+			Tullius Ursin Urs Valens Varron Var Virgil Victor Vindex Viril Vital Vit Zenon Zoil Zosim
+		}
+		dynasty_names = {
+			Prima Secunda Tertia Quarter Quintus Septa Septima Octave Nona Decima Undecima Duodetsima
+			Cantacuse Duca Comnin Paleologist Lascaris Angel Foca
+			# CKII
+			"Kameniat" "Chance" "Demetrien" "Lalud" "Stamopat" "Peloponnese" "Treasure" "Avastact" 
+			"Lardothyr" "Kiriti" "Koloy" "Subpagur" "Tuvak" "Petenac" "Orif" "Mykary" "Tojias" 
+			"Varduh" "Voylas" "Skepid" "Mammyan" "Katakil" "Dracocephaly" "Rentak" "Exarch" "Skepast" 
+			"Kimin" "Beauty" "Constantinas" "Museum" "Suanite" "Carterukas" "Maher" "Kutzodaktil" 
+			"Kanakar" "Vamvaludius" "Leontar" "Clock" "Axiot" "Chrysuchus" "Pirrogen" "Safinas" "Macroleon" 
+			"Calopragmonium" "Carphitium" "Tikhar" "Kokkale" "Crypharate" "Kretik" "Turk" "Symbatik" 
+			"Glycomachery" "Naples" "Amalphin" "Von" "Mistakon" "Pterot" "Monoty" "Muggin" 
+			"Kavr" "Sykel" "Cilician" "Macroduka" "Aeneas" 
+			"Cantacuzin" "Pegonite" "Angel" "Castriot" "Duca Camater" "Kamater" "Sclear" "Paleologist" 
+			"MacRempolite" "Votaniat" "Diogenes" "Dooka" "Comnin" "Stratiotik" "Monomakh" "Calafat" 
+			"Paphlagon" "Argyr" "Kurkuas" "Foka" "Lakapin" "Carbonops" "Macedonian" "Strift" "Euforven" 
+			"Gabra" "Aaron" "Lampin" "Dirk" "Mirzofl" "Valatij" "Uranus" "Amory" "Arminius" 
+			"Rangave" "Logofeet" "Isawr" "Polit" "Student ." "Skamandrin" "Synckell" "Cavleia" "Monoharzania" 
+			"Cassimata" "Nesteft" "Scholastics" "Zlatoust" "Nazianzin" "Nicomedian" "Harida" 
+			"Grammar" "Xenon" "Gabal" "Axukh" "Kamon" "Asiden" "Comnen Dooka" "Hephaestus" "Karacas" 
+			"Amiruz" "Vissarion" "Callisto" "Halkokondil" "Gas" "Kurtese" "Treasure" "de Patras" 
+			"Hemiste" "Allacium" "Korniak" "Damaskin" "Bishop" "Flangin" "Foka" "Heraclitus" 
+			"Kullokrat" "Cottuni" "Leontar" "Lukanius" "Marguni" "Musur" "Nafpliot" 
+			"Aprène"  "Khortyts" "Gavriylopul" "Gunaropul" "Velissariot" "Constantople" "Cavallari" 
+			"Maniac" "Notaras" "Sgouromall" "Epifan" "Logaras" "Eudaimon" "Suckellari" "Maurazum" "Styles" 
+			"Malain" "Vasilaki" "Mamonas" "Kekaumen" "Metaxas" "Kanav" "Kukuzel" "Coria" "Makrin" 
+			"Lambardas" "Adrian" "Agallon" "Acropolitan" "Aoin" "Apocaux" "Aprène" "Arbanten" "Argyr" 
+			"Arianite" "Atrapy" "Walsamon" "Vatatatsion" "Votaniat" "Wumbal" "Vircium" "Vranas" "Vrienne" 
+			"Chrysaphia" "Chrysoloras" "Dalassen" "Dermocaptium" "Diasoren" 
+			"Dokoyan" "Eirenik" "Gabra" "Glabas" "Yagar" "Tobacco" "Kabasilas" "Calaman" "KALOETIY" 
+			"Calotte" "Kamater" "Katrarium" "Caucaden" "Kontostefan" "Koresiysk" "Kurkuas" 
+			"Kurtyky" "Lascar" "Limpidarium" "Mahone" "MacRempolite" "Malachi" "Maliassen" "Mamal" 
+			"Mandroman" "Manuelit" "Melachroin" "Mourzufle" "Muzaki" "Musalon" "Neocesarite" 
+			"Nestong" "Pantechny" "Parsonounced ." "Petraliface" "Petsikopoul" "Philanthropist" "Foka" "Pleustius" 
+			"Prasomali" "Prinkyps" "Psell" "Raden" "Rossatas" "Sarantapeh" "Sebastopul" "Seguropool" 
+			"Sgur" "Partner" "France" "Strabomitium" "Sinaden" "Syranerii" "Syrupul" "Tagarius" 
+			"Tarkhaneiotius" "Tornicky" "Trichas" "Tsafas" "Zaridas" "Akunin" "Abalanty" 
+			"Abudim" "Adlalest" "Agillian" "Agritus" "Acapnia" "Alop" "Alucian" "Aliattium" "Amasseyan" 
+			"Amiropoule" "Anatolique" "Andreiomen" "Androsalite" "Anemas" "Anguria" "Antemiotius" "Antiohit" 
+			"Antioch" "Antipas" "Arbinten" "Areobinden" "Areobind" "Argiropool" "Aristen" "Artukomit" 
+			"Arwanten" "Attaleiatius" "Aulen" "Aulepathy" "Aksinit" "Axiomatics" "Valantium" "Warbar" "Vardalius" 
+			"Varen" "Varsaki" "Var" "Velissarioty" "Vempeciotius" "Veriboi" "Veriotius" "Blachernite" "Vlangas" 
+			"Voplas" "Woohy" "Vukarius" "Lie" "Vringas" "Chrysantes" "Chrysalis" "Chrysobalantites" "Chrysobergia"
+			"Daimonium" "Dalassen" "Dalassen Dooka" "Dean" "Diabaten" "Diogenes" "Domecopul" 
+			"Dooka Lascar" "Duca Paleologue" "Doxapatrix" "Dracontopul" "Drosin" "Dros" "Drulen" 
+			"Elegmith" "Enoch" "Epanokomite" "Yergodoty" "Erotic" "Eugenian" "Eugenie" "Ewlogies" "Eksotroch" 
+			"Gabalas" "Galaton" "Gelotium" "Guide" "Glick" "Goudelia" "Gurzubaten" "Grenade" "Gribas" "Grisp" 
+			"Hymn" "Iasit" 
+			"Iberopoul" "Isakiotii" "Italyk" "Caballari" "Kabasilas" "Caesar" "Calameter" "Calamaras" 
+			"Kalampaky" "Catalogon" "Kamitses Comnin Dooka" "Cappadocia" "Cappadox Kalampaki" "Carabiten" 
+			"Carabitio" "Caraponathan" "Karamall" "Karanden" "Quarantine" "Cardamopoul" "Karen" "Karianite" 
+			"Carcaronim" "Karmaliki" "Carousseiatius" "Caspax" "Castamonite" "Katakalon" "Katakal" "Chaffelor" 
+			"Catas" "Qatar" "Katotyk" "Katsamundi" "Kegeny" "Kekaleimen" "Kecklimman" "Kemineian" "Cenchry" 
+			"Cennary" "Kefalas" "Kerulari" "Kibirreoty" "Kinnam" "Kokkin" "Comnen Dooka" "Konops" 
+			"Contefanos Comnenus" "Copsen" "Kostomiriy" "Kotercian" "Cilician" "Kunery" "Crater" "Crinitus" 
+			"Critaras" "Crytopol" "Chiminian" "Kinochorit" "Kiriotii" "Kiritiy" "Lactentitia" 
+			"Lalacon" "Lampsyotium" "Lapardas" "Leicho Studio" "Lependrene" "Leukedonite" "Libadary" "Libadas" 
+			"Libellisi" "Limas" "Liparite" "Lithocastrete" "Logariasty" "Lulius" "Luluki" "Lycaon" "Makhetari" 
+			"Madrid" "Maditen" "Macropoderium" "Malepn" "Malessius" "Mamal" "Manganium" "Marajas" "Marapas" 
+			"Marhapsab" "Marianite" "Marzapul" "Matsar" "Matzas" "Matsuki" "Maurex" "Maurokatakal" "Maur" 
+			"Maurosomius" "Fur" "Megalomatium" "Megen" "Megin" "Melias" "Melissen" "Mermenthal" "Mesarit" 
+			"Mesx" "Mesopotamite" "Metohit" "Metropool" "Mitylenai" "Monahith" "Monocarit" "Monomakhat" 
+			"Moroian" "Mosaraf" "Mosch" "Moselle" "Mung" "Murmuriy" "Mustachi" "Mosaic" "Miralidius" 
+			"Miredepty" "Mirelaetius" "Myron" "Nabaten" "Narbiotium" "Narsit" "Neofit" "Noustongie" "Nikerite" 
+			"Niculitius" "Oinaiotius" "Olinten" "Op" "Pagomenon" "Pacurian" "Pactiarium" 
+			"Paleologist Comnenus" "Duca Murzufle" "Palaiotium" "Palatine" "Pamphyl" "Panareth" "Pankal" 
+			"Panokomite" "Parsakuten" "Parteni" "Paxen" "Pediasim" "Peganite" "Pegonite" "Peculius" 
+			"Pelamedia" "Pentarcly" "Pepagomenon" "Pepan" "Translated by" "Periblepten" "Pistophile" "Playuria" "Politopol" "Sweat" "Probatas" 
+			"Promunten" "Proteuon" "Ptoh" "Rentaken" "Rodi" "Rogerie" "Romai" "Rusopul" 
+			"Sagopul" "Sarakenopul" "Saronite" "Sauloianni" "Seed" "Serbias" "Sykunden" "Sinopit" 
+			"Scandal" "Scanning" "Skeblen" "Scleropool" "Scutario" "Scribas" "Smirnai" "Solomon" "Sortii" 
+			"Sumen" "Spanogregory" "Spanopul" "Spondylium" "Stachitius" "Stemnicity" "Strategopulse" 
+			"Strefny" "Stypeiotius" "Stippius" "Sinacher" "Sire" "Taronite" "Tatica" "Tetragonite" "Feodorokan" 
+			"Feodosiopolite" "Thrace" "Philacas" "Tilap" "Timonite" "Turmarhopul" "Trafinium" "Trill" 
+			"Triacontafill" "Triblattitis" "Trichinopodium" "Trifilli"  "Watatz" "Xant" "Xen" "Xer" "Xyfias" 
+			"Xyphiline" "Xylinite" "Zabareiotius" "Tanning" "Zerb" "Zomius" "Zonaras" "Kalomalas" "Caludius" 
+			"Kamater Kantakuzin" "Kampanari" "Kamicium" "Callergy" "Lukit" "Cometopul" "Vasiliak" 
+			"Pateran" "Paleologo" "Gregoras" "Sanudo" "Comissions" "Lassar" "Kirdiniate" "Agapet" 
+			"Attic" "Anastasiot" "Evergetidiot" "Eugeniot" "Vorradiot" "Muntan" 
+			"Feotokit" "Authorian" "Acoimit" "Panemorfiot" "Iyakintiot" 
+			"Galesiot" "Vecc" "Cyprie" "Gonit" "Pammacaratitis" "Periwleptiot" "Manganiot" "Calecas" 
+			"Hieracléidon" "Xylaloy" "Sirik" "Tactics" "Aspietius" "Kastenian" "Leovach" "Maniat" "Vaklikas" 
+			"Mauriqui" "Screenari" "Mesanact" "Lakhanodrakon" "Kalokir" "Lycodonte" "Skillar" "Ampelas" 
+			"Gerontas" "Apocap" "Pallicari" "Orphanotroph" "Iexavul" "Martinaki" "Agelast" 
+			"Kotion" "Toxaras" "Aplacio" "Homost" "Kufaras" "Tiropool" "Contomitium" "Sellocalas" 
+			"Kentrocourt" "Antigon" "Pastillas" "Cataclisium" "Manicophage" "Kolokint" "Rakhit" "Voie Spatas" 
+			"Apsemar" "Artemy" "Leon" "Foka" "Arabyssin" "Constantine" "Constance" "Polkari"
+		}
+	}
+	cypriot = {
+		primary = CYP
+		male_names = {
+			Adrianos Adrianos Akaki Alexandros Alexander Alexius Anastasius Anatolios 
+			Andreas Andronicus Andronicus Anfimos Antioch Antonios Anthony Apollo. 
+			Arseniy Artemiy Afanasiyus Bardas
+			Bartholomew Basil Velisarius Boetius Bosphorus 
+			Christopher Chrysogon Damian Daniel. 
+			Demetrius Dionisy Dorofei Evdox Evstratius
+			Eugenios Eufimius Eustatius Evangelos Gabriel Gennady 
+			George Gerasim Hermanos Gregoras Gregory Hectorius Elias 
+			Heracles Hierotheus of Hymeria
+			Georgios Konstantin Pavlos Nikolaos Aeneas Alexei Ambrosius
+			Chrysanthemum David Dmitry Diogenes Irineus Elpidio Gregorios Hector 
+			Castor Manuel Matthew Nestor Nicomed Orest Palemon Pelagius Petr Filimon Philip 
+			Scantarium Stefanos Theodoros Thomas Basilios Prokopius John Jason
+		}
+		female_names = {
+			Alexandra Adriana Agafia Agata Agnes Catherine Alexei Anastasia 
+			Anna Anfa Antusa Antipatra Antonia Apollo Barbara Vasily
+			Chrysongony Damian Demeter Dionysius Dorothea Eirene Irina Epiphanius 
+			Evdokia Eudoxia Eulalia Efnika Eufimia Euphrosynia
+			Eupraxia Eustatia Gabrielia Garifallia George Gregory Elena 
+			Ioanna Juliana Justina Calais Constance
+			Constantine Kira Kiriakia Ipatija Zoya
+		}
+		dynasty_names = {
+			Cantacuse Duca Comnin Paleologist Lascaris Angel Foca
+			"Kameniat" "Chance" "Demetrien" "Lalud" "Stamopat" "Peloponnese" "Treasure" "Avastact" 
+			"Lardothyr" "Kiriti" "Koloy" "Subpagur" "Tuvak" "Petenac" "Orif" "Mykary" "Tojias" 
+			"Varduh" "Voylas" "Skepid" "Mammyan" "Katakil" "Dracocephaly" "Rentak" "Exarch" "Skepast" 
+			"Kimin" "Beauty" "Constantinas" "Museum" "Suanite" "Carterukas" "Maher" "Kutzodaktil" 
+			"Kanakar" "Vamvaludius" "Leontar" "Clock" "Axiot" "Chrysuchus" "Pirrogen" "Safinas" "Macroleon" 
+			"Calopragmonium" "Carphitium" "Tikhar" "Kokkale" "Crypharate" "Kretik" "Turk" "Symbatik" 
+			"Glycomachery" "Naples" "Amalphin" "Von" "Mistakon" "Pterot" "Monoty" "Muggin" 
+			"Kavr" "Sykel" "Cilician" "Macroduka" "Aeneas" 
+			"Cantacuzin" "Pegonite" "Angel" "Castriot" "Duca Camater" "Kamater" "Sclear" "Paleologist" 
+			"MacRempolite" "Votaniat" "Diogenes" "Dooka" "Comnin" "Stratiotik" "Monomakh" "Calafat" 
+			"Paphlagon" "Argyr" "Kurkuas" "Foka" "Lakapin" "Carbonops" "Macedonian" "Strift" "Euforven" 
+			"Gabra" "Aaron" "Lampin" "Dirk" "Mirzofl" "Valatij" "Uranus" "Amory" "Arminius" 
+			"Rangave" "Logofeet" "Isawr" "Polit" "Student ." "Skamandrin" "Synckell" "Cavleia" "Monoharzania" 
+			"Cassimata" "Nesteft" "Scholastics" "Zlatoust" "Nazianzin" "Nicomedian" "Harida" 
+			"Grammar" "Xenon" "Gabal" "Axukh" "Kamon" "Asiden" "Comnen Dooka" "Hephaestus" "Karacas" 
+			"Amiruz" "Vissarion" "Callisto" "Halkokondil" "Gas" "Kurtese" "Treasure" "de Patras" 
+			"Hemiste" "Allacium" "Korniak" "Damaskin" "Bishop" "Flangin" "Foka" "Heraclitus" 
+			"Kullokrat" "Cottuni" "Leontar" "Lukanius" "Marguni" "Musur" "Nafpliot" 
+			"Aprène"  "Khortyts" "Gavriylopul" "Gunaropul" "Velissariot" "Constantople" "Cavallari" 
+			"Maniac" "Notaras" "Sgouromall" "Epifan" "Logaras" "Eudaimon" "Suckellari" "Maurazum" "Styles" 
+			"Malain" "Vasilaki" "Mamonas" "Kekaumen" "Metaxas" "Kanav" "Kukuzel" "Coria" "Makrin" 
+			"Lambardas" "Adrian" "Agallon" "Acropolitan" "Aoin" "Apocaux" "Aprène" "Arbanten" "Argyr" 
+			"Arianite" "Atrapy" "Walsamon" "Vatatatsion" "Votaniat" "Wumbal" "Vircium" "Vranas" "Vrienne" 
+			"Chrysaphia" "Chrysoloras" "Dalassen" "Dermocaptium" "Diasoren" 
+			"Dokoyan" "Eirenik" "Gabra" "Glabas" "Yagar" "Tobacco" "Kabasilas" "Calaman" "KALOETIY" 
+			"Calotte" "Kamater" "Katrarium" "Caucaden" "Kontostefan" "Koresiysk" "Kurkuas" 
+			"Kurtyky" "Lascar" "Limpidarium" "Mahone" "MacRempolite" "Malachi" "Maliassen" "Mamal" 
+			"Mandroman" "Manuelit" "Melachroin" "Mourzufle" "Muzaki" "Musalon" "Neocesarite" 
+			"Nestong" "Pantechny" "Parsonounced ." "Petraliface" "Petsikopoul" "Philanthropist" "Foka" "Pleustius" 
+			"Prasomali" "Prinkyps" "Psell" "Raden" "Rossatas" "Sarantapeh" "Sebastopul" "Seguropool" 
+			"Sgur" "Partner" "France" "Strabomitium" "Sinaden" "Syranerii" "Syrupul" "Tagarius" 
+			"Tarkhaneiotius" "Tornicky" "Trichas" "Tsafas" "Zaridas" "Akunin" "Abalanty" 
+			"Abudim" "Adlalest" "Agillian" "Agritus" "Acapnia" "Alop" "Alucian" "Aliattium" "Amasseyan" 
+			"Amiropoule" "Anatolique" "Andreiomen" "Androsalite" "Anemas" "Anguria" "Antemiotius" "Antiohit" 
+			"Antioch" "Antipas" "Arbinten" "Areobinden" "Areobind" "Argiropool" "Aristen" "Artukomit" 
+			"Arwanten" "Attaleiatius" "Aulen" "Aulepathy" "Aksinit" "Axiomatics" "Valantium" "Warbar" "Vardalius" 
+			"Varen" "Varsaki" "Var" "Velissarioty" "Vempeciotius" "Veriboi" "Veriotius" "Blachernite" "Vlangas" 
+			"Voplas" "Woohy" "Vukarius" "Lie" "Vringas" "Chrysantes" "Chrysalis" "Chrysobalantites" "Chrysobergia"
+			"Daimonium" "Dalassen" "Dalassen Dooka" "Dean" "Diabaten" "Diogenes" "Domecopul" 
+			"Dooka Lascar" "Duca Paleologue" "Doxapatrix" "Dracontopul" "Drosin" "Dros" "Drulen" 
+			"Elegmith" "Enoch" "Epanokomite" "Yergodoty" "Erotic" "Eugenian" "Eugenie" "Ewlogies" "Eksotroch" 
+			"Gabalas" "Galaton" "Gelotium" "Guide" "Glick" "Goudelia" "Gurzubaten" "Grenade" "Gribas" "Grisp" 
+			"Hymn" "Iasit"
+			"Mauriqui" "Screenari" "Mesanact" "Lakhanodrakon" "Kalokir" "Lycodonte" "Skillar" "Ampelas" 
+			"Gerontas" "Apocap" "Pallicari" "Orphanotroph" "Iexavul" "Martinaki" "Agelast" 
+			"Kotion" "Toxaras" "Aplacio" "Homost" "Kufaras" "Tiropool" "Contomitium" "Sellocalas" 
+			"Kentrocourt" "Antigon" "Pastillas" "Cataclisium" "Manicophage" "Kolokint" "Rakhit" "Voie Spatas" 
+			"Apsemar" "Artemy" "Leon" "Foka" "Arabyssin" "Constantine" "Constance" "Polkari"
+		}
+	}
+	morean = {
+		primary = MOE
+		male_names = {
+			Adrianos Adrianos Akaki Alexandros Alexander Alexius Anastasius Anatolios 
+			Andreas Andronicus Andronicus Anfimos Antioch Antonios Anthony Apollo. 
+			Arseniy Artemiy Afanasiyus Bardas
+			Bartholomew Basil Velisarius Boetius Bosphorus 
+			Christopher Chrysogon Damian Daniel. 
+			Demetrius Dionisy Dorofei Evdox Evstratius
+			Eugenios Eufimius Eustatius Evangelos Gabriel Gennady 
+			George Gerasim Hermanos Gregoras Gregory Hectorius Elias 
+			Heracles Hierotheus of Hymeria
+			Georgios Konstantin Pavlos Nikolaos Aeneas Alexei Ambrosius
+			Chrysanthemum David Dmitry Diogenes Irineus Elpidio Gregorios Hector 
+			Castor Manuel Matthew Nestor Nicomed Orest Palemon Pelagius Petr Filimon Philip 
+			Scantarium Stefanos Theodoros Thomas Basilios Prokopius John Jason
+			Emily Anthony Atius Aufidius Aurelius Cecily Calpournius Cassius Claudius Cornelius Domitius Fabius Flavius Fulvius Furius 
+			Gabinius Gallery Horace Julius Licinius Lucius Mamilius Manlius Mammius Nigidius Octavius Papyri Pliny Postumius Pompeii
+			Rabirius Quincentius Salvius Sempronius Sempronius Sertorius Cilius Titius Ullpius Valerius Vesuvius Vinitius Vitellius
+		}
+		female_names = {
+			Alexandra Adriana Agafia Agata Agnes Catherine Alexei Anastasia 
+			Anna Anfa Antusa Antipatra Antonia Apollo Barbara Vasily
+			Chrysongony Damian Demeter Dionysius Dorothea Eirene Irina Epiphanius 
+			Evdokia Eudoxia Eulalia Efnika Eufimia Euphrosynia
+			Eupraxia Eustatia Gabrielia Garifallia George Gregory Elena 
+			Ioanna Juliana Justina Calais Constance
+			Constantine Kira Kiriakia Ipatija Zoya
+			Grícola Agrippa Albin Alb Arat Azina Avezc Balbat Bibul Brut Bubo Bouteon Caesar Calvin Calvé Cato Catul Catul Cicero 
+			Cinna Cotta Crispian Curion Dame Damas Dentat Dives Dolabella Donat Dragon Eugene Euphemia Falcone Felix Fimbria Flacq
+			Flor Fronton Gala Gahler Gemell Gorgoni Gracch Gracch Gracil Habit Hilary Horace Ignacio Huba Labeón Lenai Lentul Lepid Leptius Libona 
+			Longin Long Lukan Lutsull Lupius Macron Marciali Marulla Maxim Memmi Mercator Messala Montana Muirena Moussa Nazica Otzian Octavian Optat 
+			Oton Penula Panther Pavon Peregrin Pertinax Petronax Piktor Pilate Paul Prim Prisca Protion Pulchre Quarton Quirque Regall Rem Roman Romulus
+			Ruth Ruson Sabin Salinator Scevola Scrofa Seneca Senna North Sorex Strabon Super Tacitus Tertul Tibull Trebonius Station
+			Tullius Ursin Urs Valens Varron Var Virgil Victor Vindex Viril Vital Vit Zenon Zoil Zosim
+		}
+		dynasty_names = {
+			Prima Secunda Tertia Quarter Quintus Septa Septima Octave Nona Decima Undecima Duodetsima
+			Cantacuse Duca Comnin Paleologist Lascaris Angel Foca
+			# CKII
+			"Kameniat" "Chance" "Demetrien" "Lalud" "Stamopat" "Peloponnese" "Treasure" "Avastact" 
+			"Lardothyr" "Kiriti" "Koloy" "Subpagur" "Tuvak" "Petenac" "Orif" "Mykary" "Tojias" 
+			"Varduh" "Voylas" "Skepid" "Mammyan" "Katakil" "Dracocephaly" "Rentak" "Exarch" "Skepast" 
+			"Kimin" "Beauty" "Constantinas" "Museum" "Suanite" "Carterukas" "Maher" "Kutzodaktil" 
+			"Kanakar" "Vamvaludius" "Leontar" "Clock" "Axiot" "Chrysuchus" "Pirrogen" "Safinas" "Macroleon" 
+			"Calopragmonium" "Carphitium" "Tikhar" "Kokkale" "Crypharate" "Kretik" "Turk" "Symbatik" 
+			"Glycomachery" "Naples" "Amalphin" "Von" "Mistakon" "Pterot" "Monoty" "Muggin" 
+			"Kavr" "Sykel" "Cilician" "Macroduka" "Aeneas" 
+			"Cantacuzin" "Pegonite" "Angel" "Castriot" "Duca Camater" "Kamater" "Sclear" "Paleologist" 
+			"MacRempolite" "Votaniat" "Diogenes" "Dooka" "Comnin" "Stratiotik" "Monomakh" "Calafat" 
+			"Paphlagon" "Argyr" "Kurkuas" "Foka" "Lakapin" "Carbonops" "Macedonian" "Strift" "Euforven" 
+			"Gabra" "Aaron" "Lampin" "Dirk" "Mirzofl" "Valatij" "Uranus" "Amory" "Arminius" 
+			"Rangave" "Logofeet" "Isawr" "Polit" "Student ." "Skamandrin" "Synckell" "Cavleia" "Monoharzania" 
+			"Cassimata" "Nesteft" "Scholastics" "Zlatoust" "Nazianzin" "Nicomedian" "Harida" 
+			"Grammar" "Xenon" "Gabal" "Axukh" "Kamon" "Asiden" "Comnen Dooka" "Hephaestus" "Karacas" 
+			"Amiruz" "Vissarion" "Callisto" "Halkokondil" "Gas" "Kurtese" "Treasure" "de Patras" 
+			"Hemiste" "Allacium" "Korniak" "Damaskin" "Bishop" "Flangin" "Foka" "Heraclitus" 
+			"Kullokrat" "Cottuni" "Leontar" "Lukanius" "Marguni" "Musur" "Nafpliot" 
+			"Aprène"  "Khortyts" "Gavriylopul" "Gunaropul" "Velissariot" "Constantople" "Cavallari" 
+			"Maniac" "Notaras" "Sgouromall" "Epifan" "Logaras" "Eudaimon" "Suckellari" "Maurazum" "Styles" 
+			"Malain" "Vasilaki" "Mamonas" "Kekaumen" "Metaxas" "Kanav" "Kukuzel" "Coria" "Makrin" 
+			"Lambardas" "Adrian" "Agallon" "Acropolitan" "Aoin" "Apocaux" "Aprène" "Arbanten" "Argyr" 
+			"Arianite" "Atrapy" "Walsamon" "Vatatatsion" "Votaniat" "Wumbal" "Vircium" "Vranas" "Vrienne" 
+			"Chrysaphia" "Chrysoloras" "Dalassen" "Dermocaptium" "Diasoren" 
+			"Dokoyan" "Eirenik" "Gabra" "Glabas" "Yagar" "Tobacco" "Kabasilas" "Calaman" "KALOETIY" 
+			"Calotte" "Kamater" "Katrarium" "Caucaden" "Kontostefan" "Koresiysk" "Kurkuas" 
+			"Kurtyky" "Lascar" "Limpidarium" "Mahone" "MacRempolite" "Malachi" "Maliassen" "Mamal" 
+			"Mandroman" "Manuelit" "Melachroin" "Mourzufle" "Muzaki" "Musalon" "Neocesarite" 
+			"Nestong" "Pantechny" "Parsonounced ." "Petraliface" "Petsikopoul" "Philanthropist" "Foka" "Pleustius" 
+			"Prasomali" "Prinkyps" "Psell" "Raden" "Rossatas" "Sarantapeh" "Sebastopul" "Seguropool" 
+			"Sgur" "Partner" "France" "Strabomitium" "Sinaden" "Syranerii" "Syrupul" "Tagarius" 
+			"Tarkhaneiotius" "Tornicky" "Trichas" "Tsafas" "Zaridas" "Akunin" "Abalanty" 
+			"Abudim" "Adlalest" "Agillian" "Agritus" "Acapnia" "Alop" "Alucian" "Aliattium" "Amasseyan" 
+			"Amiropoule" "Anatolique" "Andreiomen" "Androsalite" "Anemas" "Anguria" "Antemiotius" "Antiohit" 
+			"Antioch" "Antipas" "Arbinten" "Areobinden" "Areobind" "Argiropool" "Aristen" "Artukomit" 
+			"Arwanten" "Attaleiatius" "Aulen" "Aulepathy" "Aksinit" "Axiomatics" "Valantium" "Warbar" "Vardalius" 
+			"Varen" "Varsaki" "Var" "Velissarioty" "Vempeciotius" "Veriboi" "Veriotius" "Blachernite" "Vlangas" 
+			"Voplas" "Woohy" "Vukarius" "Lie" "Vringas" "Chrysantes" "Chrysalis" "Chrysobalantites" "Chrysobergia"
+			"Daimonium" "Dalassen" "Dalassen Dooka" "Dean" "Diabaten" "Diogenes" "Domecopul" 
+			"Dooka Lascar" "Duca Paleologue" "Doxapatrix" "Dracontopul" "Drosin" "Dros" "Drulen" 
+			"Elegmith" "Enoch" "Epanokomite" "Yergodoty" "Erotic" "Eugenian" "Eugenie" "Ewlogies" "Eksotroch" 
+			"Gabalas" "Galaton" "Gelotium" "Guide" "Glick" "Goudelia" "Gurzubaten" "Grenade" "Gribas" "Grisp" 
+			"Hymn" "Iasit" 
+			"Iberopoul" "Isakiotii" "Italyk" "Caballari" "Kabasilas" "Caesar" "Calameter" "Calamaras" 
+			"Kalampaky" "Catalogon" "Kamitses Comnin Dooka" "Cappadocia" "Cappadox Kalampaki" "Carabiten" 
+			"Carabitio" "Caraponathan" "Karamall" "Karanden" "Quarantine" "Cardamopoul" "Karen" "Karianite" 
+			"Carcaronim" "Karmaliki" "Carousseiatius" "Caspax" "Castamonite" "Katakalon" "Katakal" "Chaffelor" 
+			"Catas" "Qatar" "Katotyk" "Katsamundi" "Kegeny" "Kekaleimen" "Kecklimman" "Kemineian" "Cenchry" 
+			"Cennary" "Kefalas" "Kerulari" "Kibirreoty" "Kinnam" "Kokkin" "Comnen Dooka" "Konops" 
+			"Contefanos Comnenus" "Copsen" "Kostomiriy" "Kotercian" "Cilician" "Kunery" "Crater" "Crinitus" 
+			"Critaras" "Crytopol" "Chiminian" "Kinochorit" "Kiriotii" "Kiritiy" "Lactentitia" 
+			"Lalacon" "Lampsyotium" "Lapardas" "Leicho Studio" "Lependrene" "Leukedonite" "Libadary" "Libadas" 
+			"Libellisi" "Limas" "Liparite" "Lithocastrete" "Logariasty" "Lulius" "Luluki" "Lycaon" "Makhetari" 
+			"Madrid" "Maditen" "Macropoderium" "Malepn" "Malessius" "Mamal" "Manganium" "Marajas" "Marapas" 
+			"Marhapsab" "Marianite" "Marzapul" "Matsar" "Matzas" "Matsuki" "Maurex" "Maurokatakal" "Maur" 
+			"Maurosomius" "Fur" "Megalomatium" "Megen" "Megin" "Melias" "Melissen" "Mermenthal" "Mesarit" 
+			"Mesx" "Mesopotamite" "Metohit" "Metropool" "Mitylenai" "Monahith" "Monocarit" "Monomakhat" 
+			"Moroian" "Mosaraf" "Mosch" "Moselle" "Mung" "Murmuriy" "Mustachi" "Mosaic" "Miralidius" 
+			"Miredepty" "Mirelaetius" "Myron" "Nabaten" "Narbiotium" "Narsit" "Neofit" "Noustongie" "Nikerite" 
+			"Niculitius" "Oinaiotius" "Olinten" "Op" "Pagomenon" "Pacurian" "Pactiarium" 
+			"Paleologist Comnenus" "Duca Murzufle" "Palaiotium" "Palatine" "Pamphyl" "Panareth" "Pankal" 
+			"Panokomite" "Parsakuten" "Parteni" "Paxen" "Pediasim" "Peganite" "Pegonite" "Peculius" 
+			"Pelamedia" "Pentarcly" "Pepagomenon" "Pepan" "Translated by" "Periblepten" "Pistophile" "Playuria" "Politopol" "Sweat" "Probatas" 
+			"Promunten" "Proteuon" "Ptoh" "Rentaken" "Rodi" "Rogerie" "Romai" "Rusopul" 
+			"Sagopul" "Sarakenopul" "Saronite" "Sauloianni" "Seed" "Serbias" "Sykunden" "Sinopit" 
+			"Scandal" "Scanning" "Skeblen" "Scleropool" "Scutario" "Scribas" "Smirnai" "Solomon" "Sortii" 
+			"Sumen" "Spanogregory" "Spanopul" "Spondylium" "Stachitius" "Stemnicity" "Strategopulse" 
+			"Strefny" "Stypeiotius" "Stippius" "Sinacher" "Sire" "Taronite" "Tatica" "Tetragonite" "Feodorokan" 
+			"Feodosiopolite" "Thrace" "Philacas" "Tilap" "Timonite" "Turmarhopul" "Trafinium" "Trill" 
+			"Triacontafill" "Triblattitis" "Trichinopodium" "Trifilli"  "Watatz" "Xant" "Xen" "Xer" "Xyfias" 
+			"Xyphiline" "Xylinite" "Zabareiotius" "Tanning" "Zerb" "Zomius" "Zonaras" "Kalomalas" "Caludius" 
+			"Kamater Kantakuzin" "Kampanari" "Kamicium" "Callergy" "Lukit" "Cometopul" "Vasiliak" 
+			"Pateran" "Paleologo" "Gregoras" "Sanudo" "Comissions" "Lassar" "Kirdiniate" "Agapet" 
+			"Attic" "Anastasiot" "Evergetidiot" "Eugeniot" "Vorradiot" "Muntan" 
+			"Feotokit" "Authorian" "Acoimit" "Panemorfiot" "Iyakintiot" 
+			"Galesiot" "Vecc" "Cyprie" "Gonit" "Pammacaratitis" "Periwleptiot" "Manganiot" "Calecas" 
+			"Hieracléidon" "Xylaloy" "Sirik" "Tactics" "Aspietius" "Kastenian" "Leovach" "Maniat" "Vaklikas" 
+			"Mauriqui" "Screenari" "Mesanact" "Lakhanodrakon" "Kalokir" "Lycodonte" "Skillar" "Ampelas" 
+			"Gerontas" "Apocap" "Pallicari" "Orphanotroph" "Iexavul" "Martinaki" "Agelast" 
+			"Kotion" "Toxaras" "Aplacio" "Homost" "Kufaras" "Tiropool" "Contomitium" "Sellocalas" 
+			"Kentrocourt" "Antigon" "Pastillas" "Cataclisium" "Manicophage" "Kolokint" "Rakhit" "Voie Spatas" 
+			"Apsemar" "Artemy" "Leon" "Foka" "Arabyssin" "Constantine" "Constance" "Polkari"
+		}
+	}
+	cilician = = {
+		primary = KIL
+		dynasty_names = { 
+			Bagratuni Rubenid Pahlavuni
+			Tumanishvili Abamelik Amatuni "Argutinsky-Dolgoruky" Babutov "Hassan-Jalalians" Khojaminasishvili
+			Melikov Orbeli 
+			#CK2
+			"Baghdasaryan" "Melik-Avanyan"
+		}
+		male_names = {
+			David Mkhitar Ashot Gagik Sbat Abbas Hovhannes Vagram Musah Sahak Tachar Arakel Ari Armen 
+			Arshavir Avedis Badugan Bedros Berjoni Bojos Hukas Hagop Hovhannes Hovsep Girair Capriel 
+			Kevork Khajag Krikor Levon Moysheshes Nairi Sevan Taniel Vahan Zadig Zoravan
+			Abbas Abirad Abdukharm Abulgharib Alexander Artashes Artashir Ardeshir Artavazd Arsen 
+			Arshak Ashot Athom Atnerseh Avag Avedis Bagur Bagrat Bedros 
+			Boghos Paul Davit David Eshhan Gagik Gevorg Karayan
+			State Secretary Konstantin Grigor Gurgen Lupo Hagop Hamazasp Hethum Khoikhannes Khoisep 
+			Ishkhan Ivan Capriel Gabriel Khachik Khosrow Khosrau Levon Leo Malhas 
+			Mamigon Manuel Margos Markus Melek Mihrdat Mikael Michael Mlekh Michekh 
+			Mushel Mzhej Nerseh Narses Oshin Rupen Ryuben Sahag Isaac Sarkis Sergius Sevag Shahanshan 
+		}
+		female_names = {
+			Ahabni Alise Alice Almasd Anaheid Anna Anush Arda Arevig Arin Baizzar Berzhanush Berzhuhi 
+			Date David Dalita Eliz Gadar Goranugh Hasmid Khuri Khranush Hripsimeh 		
+			Keghanush Keran Horishah Kohar Latavri Leyli Lusin Mara Margaride Maria 
+			Maryam Maryam Megranush Nane Nazani Hovsanna Runig Razmukhi Rita Satenik Satinik Seth Cyran 
+			Sirvart Spuhi Shushanig Takuhi Tamar Vartanuh Vartuhi Vosgi Yeva Zabel 
+		}
+		dynasty_names = {
+			"Burtaside" "Alaunee" "Hadani" "Shoana" "Senti" "Zmbalani" "Sathixi" "Totrazi" "Ovseti" "Zerasante" "Elbeg" 
+			"Ardasen" "Beccuisar" "Geber" "Zarechoh" "Jebe" "Gergie" "Gujibe" "Zaenji" 
+			"Carquis" "Jikkai" "Gojves" "Magazette" "Parraesta" "Hetagkat" "Hadarka" "Toileg" 
+			"Fairnyat" "Ephraimide" "Tandelat" "Zeikoste" "Sozana" "Merzaoi"
+		}
+	}
+	cappadocian = {
+		primary = CAP
+		dynasty_names = { 
+			Bagratuni Rubenid Pahlavuni
+			Tumanishvili Abamelik Amatuni "Argutinsky-Dolgoruky" Babutov "Hassan-Jalalians" Khojaminasishvili
+			Melikov Orbeli 
+			#CK2
+			"Baghdasaryan" "Melik-Avanyan"
+		}
+		male_names = {
+			David Mkhitar Ashot Gagik Sbat Abbas Hovhannes Vagram Musah Sahak Tachar Arakel Ari Armen 
+			Arshavir Avedis Badugan Bedros Berjoni Bojos Hukas Hagop Hovhannes Hovsep Girair Capriel 
+			Kevork Khajag Krikor Levon Moysheshes Nairi Sevan Taniel Vahan Zadig Zoravan
+			Abbas Abirad Abdukharm Abulgharib Alexander Artashes Artashir Ardeshir Artavazd Arsen 
+			Arshak Ashot Athom Atnerseh Avag Avedis Bagur Bagrat Bedros 
+			Boghos Paul Davit David Eshhan Gagik Gevorg Karayan
+			State Secretary Konstantin Grigor Gurgen Lupo Hagop Hamazasp Hethum Khoikhannes Khoisep 
+			Ishkhan Ivan Capriel Gabriel Khachik Khosrow Khosrau Levon Leo Malhas 
+			Mamigon Manuel Margos Markus Melek Mihrdat Mikael Michael Mlekh Michekh 
+			Mushel Mzhej Nerseh Narses Oshin Rupen Ryuben Sahag Isaac Sarkis Sergius Sevag Shahanshan 
+		}
+		female_names = {
+			Ahabni Alise Alice Almasd Anaheid Anna Anush Arda Arevig Arin Baizzar Berzhanush Berzhuhi 
+			Date David Dalita Eliz Gadar Goranugh Hasmid Khuri Khranush Hripsimeh 		
+			Keghanush Keran Horishah Kohar Latavri Leyli Lusin Mara Margaride Maria 
+			Maryam Maryam Megranush Nane Nazani Hovsanna Runig Razmukhi Rita Satenik Satinik Seth Cyran 
+			Sirvart Spuhi Shushanig Takuhi Tamar Vartanuh Vartuhi Vosgi Yeva Zabel 
+		}
+		dynasty_names = {
+			"Burtaside" "Alaunee" "Hadani" "Shoana" "Senti" "Zmbalani" "Sathixi" "Totrazi" "Ovseti" "Zerasante" "Elbeg" 
+			"Ardasen" "Beccuisar" "Geber" "Zarechoh" "Jebe" "Gergie" "Gujibe" "Zaenji" 
+			"Carquis" "Jikkai" "Gojves" "Magazette" "Parraesta" "Hetagkat" "Hadarka" "Toileg" 
+			"Fairnyat" "Ephraimide" "Tandelat" "Zeikoste" "Sozana" "Merzaoi"
+		}
+	}
+	high_greek = {
+		male_names = {
+			Adrianos Adrianos Akaki Alexandros Alexander Alexius Anastasius Anatolios 
+			Andreas Andronicus Andronicus Anfimos Antioch Antonios Anthony Apollo. 
+			Arseniy Artemiy Afanasiyus Bardas
+			Bartholomew Basil Velisarius Boetius Bosphorus 
+			Christopher Chrysogon Damian Daniel. 
+			Demetrius Dionisy Dorofei Evdox Evstratius
+			Eugenios Eufimius Eustatius Evangelos Gabriel Gennady 
+			George Gerasim Hermanos Gregoras Gregory Hectorius Elias 
+			Heracles Hierotheus of Hymeria
+			Georgios Konstantin Pavlos Nikolaos Aeneas Alexei Ambrosius
+			Chrysanthemum David Dmitry Diogenes Irineus Elpidio Gregorios Hector 
+			Castor Manuel Matthew Nestor Nicomed Orest Palemon Pelagius Petr Filimon Philip 
+			Scantarium Stefanos Theodoros Thomas Basilios Prokopius John Jason
+			Emily Anthony Atius Aufidius Aurelius Cecily Calpournius Cassius Claudius Cornelius Domitius Fabius Flavius Fulvius Furius 
+			Gabinius Gallery Horace Julius Licinius Lucius Mamilius Manlius Mammius Nigidius Octavius Papyri Pliny Postumius Pompeii
+			Rabirius Quincentius Salvius Sempronius Sempronius Sertorius Cilius Titius Ullpius Valerius Vesuvius Vinitius Vitellius
+		}
+		female_names = {
+			Alexandra Adriana Agafia Agata Agnes Catherine Alexei Anastasia 
+			Anna Anfa Antusa Antipatra Antonia Apollo Barbara Vasily
+			Chrysongony Damian Demeter Dionysius Dorothea Eirene Irina Epiphanius 
+			Evdokia Eudoxia Eulalia Efnika Eufimia Euphrosynia
+			Eupraxia Eustatia Gabrielia Garifallia George Gregory Elena 
+			Ioanna Juliana Justina Calais Constance
+			Constantine Kira Kiriakia Ipatija Zoya
+			Grícola Agrippa Albin Alb Arat Azina Avezc Balbat Bibul Brut Bubo Bouteon Caesar Calvin Calvé Cato Catul Catul Cicero 
+			Cinna Cotta Crispian Curion Dame Damas Dentat Dives Dolabella Donat Dragon Eugene Euphemia Falcone Felix Fimbria Flacq
+			Flor Fronton Gala Gahler Gemell Gorgoni Gracch Gracch Gracil Habit Hilary Horace Ignacio Huba Labeón Lenai Lentul Lepid Leptius Libona 
+			Longin Long Lukan Lutsull Lupius Macron Marciali Marulla Maxim Memmi Mercator Messala Montana Muirena Moussa Nazica Otzian Octavian Optat 
+			Oton Penula Panther Pavon Peregrin Pertinax Petronax Piktor Pilate Paul Prim Prisca Protion Pulchre Quarton Quirque Regall Rem Roman Romulus
+			Ruth Ruson Sabin Salinator Scevola Scrofa Seneca Senna North Sorex Strabon Super Tacitus Tertul Tibull Trebonius Station
+			Tullius Ursin Urs Valens Varron Var Virgil Victor Vindex Viril Vital Vit Zenon Zoil Zosim
+		}
+		dynasty_names = {
+			Prima Secunda Tertia Quarter Quintus Septa Septima Octave Nona Decima Undecima Duodetsima
+			Cantacuse Duca Comnin Paleologist Lascaris Angel Foca
+			# CKII
+			"Kameniat" "Chance" "Demetrien" "Lalud" "Stamopat" "Peloponnese" "Treasure" "Avastact" 
+			"Lardothyr" "Kiriti" "Koloy" "Subpagur" "Tuvak" "Petenac" "Orif" "Mykary" "Tojias" 
+			"Varduh" "Voylas" "Skepid" "Mammyan" "Katakil" "Dracocephaly" "Rentak" "Exarch" "Skepast" 
+			"Kimin" "Beauty" "Constantinas" "Museum" "Suanite" "Carterukas" "Maher" "Kutzodaktil" 
+			"Kanakar" "Vamvaludius" "Leontar" "Clock" "Axiot" "Chrysuchus" "Pirrogen" "Safinas" "Macroleon" 
+			"Calopragmonium" "Carphitium" "Tikhar" "Kokkale" "Crypharate" "Kretik" "Turk" "Symbatik" 
+			"Glycomachery" "Naples" "Amalphin" "Von" "Mistakon" "Pterot" "Monoty" "Muggin" 
+			"Kavr" "Sykel" "Cilician" "Macroduka" "Aeneas" 
+			"Cantacuzin" "Pegonite" "Angel" "Castriot" "Duca Camater" "Kamater" "Sclear" "Paleologist" 
+			"MacRempolite" "Votaniat" "Diogenes" "Dooka" "Comnin" "Stratiotik" "Monomakh" "Calafat" 
+			"Paphlagon" "Argyr" "Kurkuas" "Foka" "Lakapin" "Carbonops" "Macedonian" "Strift" "Euforven" 
+			"Gabra" "Aaron" "Lampin" "Dirk" "Mirzofl" "Valatij" "Uranus" "Amory" "Arminius" 
+			"Rangave" "Logofeet" "Isawr" "Polit" "Student ." "Skamandrin" "Synckell" "Cavleia" "Monoharzania" 
+			"Cassimata" "Nesteft" "Scholastics" "Zlatoust" "Nazianzin" "Nicomedian" "Harida" 
+			"Grammar" "Xenon" "Gabal" "Axukh" "Kamon" "Asiden" "Comnen Dooka" "Hephaestus" "Karacas" 
+			"Amiruz" "Vissarion" "Callisto" "Halkokondil" "Gas" "Kurtese" "Treasure" "de Patras" 
+			"Hemiste" "Allacium" "Korniak" "Damaskin" "Bishop" "Flangin" "Foka" "Heraclitus" 
+			"Kullokrat" "Cottuni" "Leontar" "Lukanius" "Marguni" "Musur" "Nafpliot" 
+			"Aprène"  "Khortyts" "Gavriylopul" "Gunaropul" "Velissariot" "Constantople" "Cavallari" 
+			"Maniac" "Notaras" "Sgouromall" "Epifan" "Logaras" "Eudaimon" "Suckellari" "Maurazum" "Styles" 
+			"Malain" "Vasilaki" "Mamonas" "Kekaumen" "Metaxas" "Kanav" "Kukuzel" "Coria" "Makrin" 
+			"Lambardas" "Adrian" "Agallon" "Acropolitan" "Aoin" "Apocaux" "Aprène" "Arbanten" "Argyr" 
+			"Arianite" "Atrapy" "Walsamon" "Vatatatsion" "Votaniat" "Wumbal" "Vircium" "Vranas" "Vrienne" 
+			"Chrysaphia" "Chrysoloras" "Dalassen" "Dermocaptium" "Diasoren" 
+			"Dokoyan" "Eirenik" "Gabra" "Glabas" "Yagar" "Tobacco" "Kabasilas" "Calaman" "KALOETIY" 
+			"Calotte" "Kamater" "Katrarium" "Caucaden" "Kontostefan" "Koresiysk" "Kurkuas" 
+			"Kurtyky" "Lascar" "Limpidarium" "Mahone" "MacRempolite" "Malachi" "Maliassen" "Mamal" 
+			"Mandroman" "Manuelit" "Melachroin" "Mourzufle" "Muzaki" "Musalon" "Neocesarite" 
+			"Nestong" "Pantechny" "Parsonounced ." "Petraliface" "Petsikopoul" "Philanthropist" "Foka" "Pleustius" 
+			"Prasomali" "Prinkyps" "Psell" "Raden" "Rossatas" "Sarantapeh" "Sebastopul" "Seguropool" 
+			"Sgur" "Partner" "France" "Strabomitium" "Sinaden" "Syranerii" "Syrupul" "Tagarius" 
+			"Tarkhaneiotius" "Tornicky" "Trichas" "Tsafas" "Zaridas" "Akunin" "Abalanty" 
+			"Abudim" "Adlalest" "Agillian" "Agritus" "Acapnia" "Alop" "Alucian" "Aliattium" "Amasseyan" 
+			"Amiropoule" "Anatolique" "Andreiomen" "Androsalite" "Anemas" "Anguria" "Antemiotius" "Antiohit" 
+			"Antioch" "Antipas" "Arbinten" "Areobinden" "Areobind" "Argiropool" "Aristen" "Artukomit" 
+			"Arwanten" "Attaleiatius" "Aulen" "Aulepathy" "Aksinit" "Axiomatics" "Valantium" "Warbar" "Vardalius" 
+			"Varen" "Varsaki" "Var" "Velissarioty" "Vempeciotius" "Veriboi" "Veriotius" "Blachernite" "Vlangas" 
+			"Voplas" "Woohy" "Vukarius" "Lie" "Vringas" "Chrysantes" "Chrysalis" "Chrysobalantites" "Chrysobergia"
+			"Daimonium" "Dalassen" "Dalassen Dooka" "Dean" "Diabaten" "Diogenes" "Domecopul" 
+			"Dooka Lascar" "Duca Paleologue" "Doxapatrix" "Dracontopul" "Drosin" "Dros" "Drulen" 
+			"Elegmith" "Enoch" "Epanokomite" "Yergodoty" "Erotic" "Eugenian" "Eugenie" "Ewlogies" "Eksotroch" 
+			"Gabalas" "Galaton" "Gelotium" "Guide" "Glick" "Goudelia" "Gurzubaten" "Grenade" "Gribas" "Grisp" 
+			"Hymn" "Iasit" 
+			"Iberopoul" "Isakiotii" "Italyk" "Caballari" "Kabasilas" "Caesar" "Calameter" "Calamaras" 
+			"Kalampaky" "Catalogon" "Kamitses Comnin Dooka" "Cappadocia" "Cappadox Kalampaki" "Carabiten" 
+			"Carabitio" "Caraponathan" "Karamall" "Karanden" "Quarantine" "Cardamopoul" "Karen" "Karianite" 
+			"Carcaronim" "Karmaliki" "Carousseiatius" "Caspax" "Castamonite" "Katakalon" "Katakal" "Chaffelor" 
+			"Catas" "Qatar" "Katotyk" "Katsamundi" "Kegeny" "Kekaleimen" "Kecklimman" "Kemineian" "Cenchry" 
+			"Cennary" "Kefalas" "Kerulari" "Kibirreoty" "Kinnam" "Kokkin" "Comnen Dooka" "Konops" 
+			"Contefanos Comnenus" "Copsen" "Kostomiriy" "Kotercian" "Cilician" "Kunery" "Crater" "Crinitus" 
+			"Critaras" "Crytopol" "Chiminian" "Kinochorit" "Kiriotii" "Kiritiy" "Lactentitia" 
+			"Lalacon" "Lampsyotium" "Lapardas" "Leicho Studio" "Lependrene" "Leukedonite" "Libadary" "Libadas" 
+			"Libellisi" "Limas" "Liparite" "Lithocastrete" "Logariasty" "Lulius" "Luluki" "Lycaon" "Makhetari" 
+			"Madrid" "Maditen" "Macropoderium" "Malepn" "Malessius" "Mamal" "Manganium" "Marajas" "Marapas" 
+			"Marhapsab" "Marianite" "Marzapul" "Matsar" "Matzas" "Matsuki" "Maurex" "Maurokatakal" "Maur" 
+			"Maurosomius" "Fur" "Megalomatium" "Megen" "Megin" "Melias" "Melissen" "Mermenthal" "Mesarit" 
+			"Mesx" "Mesopotamite" "Metohit" "Metropool" "Mitylenai" "Monahith" "Monocarit" "Monomakhat" 
+			"Moroian" "Mosaraf" "Mosch" "Moselle" "Mung" "Murmuriy" "Mustachi" "Mosaic" "Miralidius" 
+			"Miredepty" "Mirelaetius" "Myron" "Nabaten" "Narbiotium" "Narsit" "Neofit" "Noustongie" "Nikerite" 
+			"Niculitius" "Oinaiotius" "Olinten" "Op" "Pagomenon" "Pacurian" "Pactiarium" 
+			"Paleologist Comnenus" "Duca Murzufle" "Palaiotium" "Palatine" "Pamphyl" "Panareth" "Pankal" 
+			"Panokomite" "Parsakuten" "Parteni" "Paxen" "Pediasim" "Peganite" "Pegonite" "Peculius" 
+			"Pelamedia" "Pentarcly" "Pepagomenon" "Pepan" "Translated by" "Periblepten" "Pistophile" "Playuria" "Politopol" "Sweat" "Probatas" 
+			"Promunten" "Proteuon" "Ptoh" "Rentaken" "Rodi" "Rogerie" "Romai" "Rusopul" 
+			"Sagopul" "Sarakenopul" "Saronite" "Sauloianni" "Seed" "Serbias" "Sykunden" "Sinopit" 
+			"Scandal" "Scanning" "Skeblen" "Scleropool" "Scutario" "Scribas" "Smirnai" "Solomon" "Sortii" 
+			"Sumen" "Spanogregory" "Spanopul" "Spondylium" "Stachitius" "Stemnicity" "Strategopulse" 
+			"Strefny" "Stypeiotius" "Stippius" "Sinacher" "Sire" "Taronite" "Tatica" "Tetragonite" "Feodorokan" 
+			"Feodosiopolite" "Thrace" "Philacas" "Tilap" "Timonite" "Turmarhopul" "Trafinium" "Trill" 
+			"Triacontafill" "Triblattitis" "Trichinopodium" "Trifilli"  "Watatz" "Xant" "Xen" "Xer" "Xyfias" 
+			"Xyphiline" "Xylinite" "Zabareiotius" "Tanning" "Zerb" "Zomius" "Zonaras" "Kalomalas" "Caludius" 
+			"Kamater Kantakuzin" "Kampanari" "Kamicium" "Callergy" "Lukit" "Cometopul" "Vasiliak" 
+			"Pateran" "Paleologo" "Gregoras" "Sanudo" "Comissions" "Lassar" "Kirdiniate" "Agapet" 
+			"Attic" "Anastasiot" "Evergetidiot" "Eugeniot" "Vorradiot" "Muntan" 
+			"Feotokit" "Authorian" "Acoimit" "Panemorfiot" "Iyakintiot" 
+			"Galesiot" "Vecc" "Cyprie" "Gonit" "Pammacaratitis" "Periwleptiot" "Manganiot" "Calecas" 
+			"Hieracléidon" "Xylaloy" "Sirik" "Tactics" "Aspietius" "Kastenian" "Leovach" "Maniat" "Vaklikas" 
+			"Mauriqui" "Screenari" "Mesanact" "Lakhanodrakon" "Kalokir" "Lycodonte" "Skillar" "Ampelas" 
+			"Gerontas" "Apocap" "Pallicari" "Orphanotroph" "Iexavul" "Martinaki" "Agelast" 
+			"Kotion" "Toxaras" "Aplacio" "Homost" "Kufaras" "Tiropool" "Contomitium" "Sellocalas" 
+			"Kentrocourt" "Antigon" "Pastillas" "Cataclisium" "Manicophage" "Kolokint" "Rakhit" "Voie Spatas" 
+			"Apsemar" "Artemy" "Leon" "Foka" "Arabyssin" "Constantine" "Constance" "Polkari"
+		}
+	}
+}
+albany = {
+	arvanite = {
+		male_names = {
+			George John Constantine Luban Pal Pal Tanush Alexander Carolus Filippo Adnan Bashkiem Besnik Lubin
+			Dardan Dhurim Lubisav Alidon Lubodrag Fatmir Flamur Florin Hekuran Ilir Ismail Claudian Luija Milayim 
+			Pashko Pavel Panteleimon Peroslav Petroslav Tahir Viktor Orthodox Predrag Zenel Khalil Ali Mustafa Oemal 
+			Mehmet Ramiz Edi Samuel Edon Dukajin Mansur Mensur Kreshnik Rahman Recep 
+			Suleiman Selim Sadik Nicola Enver Ramadan
+		}
+		female_names = {
+			Guelo Aphrodite Blert Bore Dafin Dardan Era Fatmir Flutur Gentian Jehon Lindit Lulet Prunwer Spres 
+			Theuta Venus Vera Vesa "Christmas tree"
+		}	
+		dynasty_names = { 
+			"Trpimirovich" "Svetoslavic" "Kosovic" "Kresimirovich" "Zrinsky" "Domagodzhevich" "Hrvatinic" "Kotromanich" "Brankovic" "Lazarevich" "Ibragimovich"
+		}
+	}
+}

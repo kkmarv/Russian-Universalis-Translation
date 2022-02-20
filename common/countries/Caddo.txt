@@ -1,0 +1,75 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 125 32 29 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	algonkin_tomahawk_charge
+	native_indian_horsemen
+	commanche_swarm
+	creek_arquebusier
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Tashar #0" = 20
+	"Zauninot #0" = 20
+	"Satyonhoun #0" = 20
+	"Tinnequinan #0" = 20 
+	"Tinnovin #0" = 20
+	"Chovabagh #0" = 20
+	"Kianhong #0" = 20
+	"Tiatesun #0" = 20
+	"Teovavinou #0" = 20
+	"Tevunnun #0" = 20
+	"Cardy #0" = 20
+	"Tiotou #0" = 20
+	"Teavakhinno #0" = 20
+	"Toakkoch #0" = 20
+	"Chovainin #0" = 20
+	"Sunninou #0" = 20
+	"Sauninot #0" = 20
+	"Hiahidok #0" = 20
+	"Mattan #0" = 20
+	"Toachinnek #0" = 20
+	"Aah #0" = 20
+	"Souakyanton #0" = 20
+	"Shoshone #0" = 20
+	"Ossinse #0" = 20
+
+	"Zakado #0" = -10
+	"Zakakurrivax #0" = -1
+	"Tztaka #0" = -1
+	"Tztarakhuksti #0" = -1
+	"Zaktahiraas #0" = -1
+	"Tskusaski #0" = -1
+	"Ctariuriu #0" = -1
+	"Tztapittarius #0" = -1
+}
+
+leader_names = {
+	Adai Kahinnio Dustioni Ayash Hainai Hashinai Kadohadaho
+	Kichay Nabedache Nabiti Nakogdoche Nadako Nanasoho
+	Nasoni Nachitoches Neshawai Neche Wachiya Tula Yatashi.
+}
+
+ship_names = {
+ 	Adai Kahinnio Dustioni Ayash Hainai Hashinai Kadohadaho
+	Kichay Nabedache Nabiti Nakogdoche Nadako Nanasoho
+	Nasoni Nachitoches Neshawai Neche Wachiya Tula Yatashi.
+}

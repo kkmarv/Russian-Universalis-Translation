@@ -1,0 +1,140 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 180  55  40 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	quality_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Fa Ngum #0" = 20
+	"Samsenetai #0" = 20
+	"Lam Kham Deng #0" = 20
+	"Pommat #0" = 20
+	"Khamtoum #0" = 20
+	"Mansai #0" = 20
+	"Konekham #0" = 20
+	"Kham Tam Sa #0" = 20
+	"La Sai #0" = 20
+	"Khai Bua Ban #0" = 20
+	"Khong Kham #0" = 20
+	"Sai Tia Kaphut #0" = 20
+	"Tieng Kham #0" = 20
+	"Laasenthai #0" = 20
+	"Sompuu #0" = 20
+	"Visunarat #0" = 20
+	"Potisarat #0" = 30
+	"Settatirat #0" = 35
+	"Sainsurin #0" = 20
+	"Maha Plow #0" = 20
+	"Nakhone Noi #0" = 20
+	"Nukeo Coomane #0" = 20
+	"Tammikarat #0" = 20
+	"Upagnuvarat #0" = 20
+	"Moni Keo #0" = 20
+	"Tone Kham #0" = 20
+	"Visay #0" = 20
+	"Sulinga Wongsa #0" = 20
+	"Tian Tala #0" = 20
+	"Nan Tarat #0" = 20
+	"Ong Long #0" = 20
+	"Anuwong #0" = 20
+	"Sai #0" = 10
+	"Kham Tam #0" = 10
+	"Khong Keo #0" = 10
+	"La Sai #0" = 10
+	"Fa Khyeon #0" = 10
+	"Yu Khong #0" = 10
+	"Nan Rat #0" = 5
+	"Saya Kumane #0" = 5
+	"Xiang Keo #0" = 5
+	"Fai Na #0" = 5
+	"But Muong #0" = 5
+	"Tia Nou #0" = 5
+	"Manoj #0" = 5
+	"Ciao Yeo #0" = 5
+	"King Kitsarat #0" = 5
+	"Ong Kham #0" = 5
+	"Tao Anung #0" = 5
+	"Intaravongsa #0" = 5
+	"Intafom #0" = 5
+	"Sotica Cumane #0" = 5
+	"Anurata #0" = 5
+	"Mantaturat #0" = 5
+
+	
+	"Sys #0" = -1
+	"Nang Keo Pimfa #0" = -1
+	"Manor #0" = -1
+	"Souffutta #0" = -1
+	"Anosa #0" = -1
+	"Knockasat #0" = -1
+}
+
+leader_names = {
+	"Abhai"
+	"Baravon"
+	"Bofa"
+	"Tyampassak"
+	"Syunlamani"
+	"Syunramani"
+	"Insisengmay"
+	"Keola"
+	"Kommandam"
+	"Luangviset"
+	"Nosavan"
+	"Patammavong"
+	"Fetrasi"
+	"Fimmason"
+	"Fomvihan"
+	"Fuma"
+	"Fumsoon"
+	"Rattanasamay"
+	"Sananico"
+	"Sasorit"
+	"Soukbandit"
+	"Souxombone"
+	"Sounton"
+	"Tammavongsa"
+	"Watanatam"
+	"Wattana"
+	"Hangs"
+	"Wongkhamka"
+	"Wongpratyan"
+	"Wongsang"
+	"Wongwit"
+	"Wongsawat"
+	"Vorovong"
+}
+
+ship_names = {
+	"Samsentai" 
+	"Pommat"
+	"Khamtoum" 
+	"Yukkhon" 
+	"Mong Sai" 
+	"Fa Ngum" "Fa Hai"
+	"Khong Kham" "Kham Khit"
+	"Lan Kham Deng"
+	"Vutha Singsawaddi"
+}

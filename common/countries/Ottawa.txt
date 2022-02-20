@@ -1,0 +1,73 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 1 48 21 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Pontiac #0" = 20
+	"Abave #0" = 20
+	"Kawachuan #0" = 20
+	"Sagama #0" = 20
+	"Ohaus #0" = 20
+	"Wasgashik #0" = 20
+	"Kevagushkum #0" = 20
+	"Nocojegown #0" = 20
+	"Kyotoob #0" = 20
+	"Ketchamchainav #0" = 20
+	"Eppesance #0" = 20
+	"Kanivi #0" = 20
+	"Moapatto #0" = 20
+	"Matchpinachuish #0" = 20
+	"Whiwisky #0" = 20
+	"Nige #0" = 20
+	"Egusheva #0" = 20
+	"Kinoshamik #0" = 20
+	"Makiveta #0" = 20
+	"Tovanava #0" = 20
+	"Seco #0" = 20
+
+	"Ononega #0" = -1
+	"Watseka #0" = -1
+}
+
+leader_names = {
+	Kainouche Kiskakon Nasavaketon Synago Igakotchaising Anamivottigong Apontigumi
+	Cheboigan Quino Makani Manisti Minozbetononon Mikilimakinak Maskigan
+	Obijivon Waganakishi Uekitonsing Agushavas Mishkmawas Mishkmaw Ogonz Okuanoxa Tawa
+	Tondagoni Tashkegan Vogo Ikanetoton Manitovaning Manitulin Shengienda
+	Shigwaning Beþwanong Wikwemikong Chikuamigon Michigami Shabawiyahun
+	Kainatroin Masquerade Nykikuk Niskak Ontontijn Huacheskkezuen
+	Autaoakamigu Sagnituigama
+}
+
+ship_names = {
+	Kainouche Kiskakon Nasavaketon Synago Igakotchaising Anamivottigong Apontigumi
+	Cheboigan Quino Makani Manisti Minozbetononon Mikilimakinak Maskigan
+	Obijivon Waganakishi Uekitonsing Agushavas Mishkmawas Mishkmaw Ogonz Okuanoxa Tawa
+	Tondagoni Tashkegan Vogo Ikanetoton Manitovaning Manitulin Shengienda
+	Shigwaning Beþwanong Wikwemikong Chikuamigon Michigami Shabawiyahun
+	Kainatroin Masquerade Nykikuk Niskak Ontontijn Huacheskkezuen
+	Autaoakamigu Sagnituigama	
+}

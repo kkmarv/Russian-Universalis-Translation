@@ -1,0 +1,17 @@
+government = tribal
+add_government_reform = tribal_despotism
+primary_culture = tamil
+government_rank = 2
+religion = hinduism
+technology_group = indian
+capital = 3417
+
+1309.1.1 = {
+	monarch = {
+		name = "Coundra"
+		dynasty = "Chola"
+		ADM = 5
+		DIP = 2
+		MIL = 5
+	}
+}

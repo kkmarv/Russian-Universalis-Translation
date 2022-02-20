@@ -1,0 +1,263 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 93  160  163 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Karl #2" = 40
+	"Louis #1" = 40
+	"Renee #1" = 20
+	"Nicolas #0" = 10
+	"Jean #0" = 5
+	"Raymond Berengar #3" = 1
+	"Alphonse #2" = 1
+	"Robert #1" = 1
+	"Adhemar #0" = 0
+	"Emeric #0" = 0
+	"Bartomew #0" = 0
+	"Benedy #0" = 0
+	"Berna #0" = 0
+	"Bertrand #0" = 0
+	"Damian #0" = 0
+	"Emeric #0" = 0
+	"Enric #0" = 0
+	"Esteve #0" = 0
+	"Ferran #0" = 0
+	"Fulk #0" = 0
+	"Frans #0" = 0
+	"Gaston #0" = 0
+	"Guillaume #0" = 0
+	"Yuk #0" = 0
+	"Jacquet #0" = 0
+	"Joffre #0" = 0
+	"Jourdain #0" = 0
+	"Lua #0" = 0
+	"Luke #0" = 0
+	"Martin #0" = 0
+	"Mathieu #0" = 0
+	"Myke #0" = 0
+	"Per #0" = 0
+	"Paul #0" = 0
+	"Ponce #0" = 0
+	"Sanc #0" = 0
+	"Thibao #0" = 0
+	"Vicenc #0" = 0
+	"Victor #0" = 0
+	"Xavier #0" = 0
+	
+	"Nadine #0" = -1
+	"Hosanna #0" = -1
+	"Iolanta #0" = -1
+}
+
+leader_names = {
+	"d'Abeye"
+	"d'Adhemar"
+	"d'Agul"
+	"d'Eglioun"
+	"d'Egierret"
+	"d'Aleman"
+	"d'Amalrick"
+	"d'Odiffredi"
+	"de Banyol"
+	"de Berberren"
+	"de Barsión"
+	"de Bashi"
+	"de Bo"
+	"de Bermont"
+	"de Bignon"
+	"de Brunet"
+	"de Cadenet"
+	"de Cascari-Castellet"
+	"de Casten"
+	"de Castellane"
+	"de Castión"
+	"Kokorel"
+	"de Corde"
+	"de Cormie"
+	"de Creyon"
+	"d'Entrecasto"
+	"d'Espanyer"
+	"Esparron"
+	"d'Espinuz"
+	"de Farges"
+	"Foque de Jonquière"
+	"Ferre de la Grange"
+	"de Gassendi"
+	"de Guevodane"
+	"de Gomber"
+	"de Gorde"
+	"de Greignan"
+	"Grimaldi"
+	"de Grimaud"
+	"de Guest"
+	"de Isnard"
+	"de Laurie"
+	"de Liberté"
+	"de Lomainier"
+	"de Monteil"
+	"de Monpéez"
+	"de Paul"
+	"de Pena"
+	"Peine de la Borde"
+	"de la Peruss"
+	"de Ponteve"
+	"de Remondi"
+	"de Revez"
+	"de Ricketti"
+	"de Sabran"
+	"de Sade"
+	"de Saint-Victoria"
+	"de Seguran"
+	"de Simian"
+	"de Walbel"
+}
+
+
+ship_names = {
+	"Ashel"
+	"Agreabel"
+	"Eggl Volan"
+	"Alcion"
+	"Alouette"
+	"Altier"
+	"Aquilon"
+	"Ardant"
+	"Assure"
+	"Avenan"
+	"Adventure"
+	"Balleyne"
+	"Bécass"
+	"Bienvenue"
+	"Bizarr"
+	"Beaure"
+	"Branche d'Olivier"
+	"Brijun"
+	"Busantour"
+	"Kashe"
+	"Kai"
+	"Caption"
+	"Santur"
+	"Cesar"
+	"Cheval Mahren"
+	"Kosh"
+	"Kommers de Marseille"
+	"Kommers de Montpellier"
+	"Comte de Provence"
+	"Conceran"
+	"Constan"
+	"Kontan"
+	"Croissant"
+	"Dauphin"
+	"Diaman"
+	"Dieppoise"
+	"Du"
+	"Dromader"
+	"Eclatan"
+	"Aeol"
+	"Esperance"
+	"Fantasca"
+	"Farm"
+	"Fidel"
+	"Fie"
+	"Florissan"
+	"Formidable"
+	"Fort"
+	"Foodroian"
+	"Gayar"
+	"Evro"
+	"Eros"
+	"Jason"
+	"Lyon"
+	"Mignon"
+	"Minerva"
+	"Ossean"
+	"Orphe"
+	"Parfait"
+	"Phoenix"
+	"Paulie"
+	"Pompo"
+	"Portefoua"
+	"Protect"
+	"Provence"
+	"Provence"
+	"Prudan"
+	"Puissant"
+	"Reality"
+	"Redoubtable"
+	"Reken"
+	"Royal Louis"
+	"Soot ."
+	"Syjitter"
+	"Royal Therese"
+	"St. Esprey"
+	"Saint Joseph"
+	"St. Phillip"
+	"Sardine"
+	"Septre"
+	"Shaduysan"
+	"Seine"
+	"Series"
+	"Solid"
+	"Sovereign ."
+	"Suffisan"
+	"Temerer"
+	"Terrible"
+	"Tiger"
+	"Tonnan"
+	"Toulon"
+	"Toulouse"
+	"Tridane"
+	"Triomphene"
+	"Triton"
+	"Union"
+	"Vyan"
+	"Vigilan"
+	"Volunteer"
+	"Seele"
+}
+
+army_names = {
+	"Marseille's Army"
+	"Bo Army"
+	"Provence-Forcalquier Army"
+	"Armée d'Orange"
+	"Pey d'Arles Army"
+	"Alpine Army"
+	"Ron's Army"
+	"Durant's army"
+	"Upper Provence Army"
+	"Lower Provence Army"
+	"Vivare Army"
+	"Provincial Army. $PROVINCE$"
+}

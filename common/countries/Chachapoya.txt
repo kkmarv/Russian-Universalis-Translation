@@ -1,0 +1,96 @@
+ #Country Name: Please see filename.
+
+graphical_culture = southamericagfx
+
+color = { 157 199 224 }
+
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	offensive_ideas
+	maritime_ideas
+	spy_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	south_american_spearmen
+	south_american_horsemen
+	south_american_warfare
+	inca_mountain_warfare
+	incan_slingshots
+	incan_axemen
+	south_american_gunpowder_warfare
+	south_american_reformed_gunpowder_warfare
+	south_american_arquebusier
+	westernized_incan
+	reformed_westernized_incan
+	incan_guerilla_warfare
+}
+
+leader_names = {
+	Ankimarka Apo Ataualpa Apasa Auki-Ouaman
+	Kanchari Chalkuchima Chalco Chiakitinta Chilce Cola Topa Curiatao Kusi 
+	Ukra Uritito Uritopa
+	Wachouri Waman Waskar Wypalcon
+	Slawhale Inkil
+	Lyclick
+	Maila Maras Markavilka Maita 
+	Ninankoro
+	Oscok
+	Parinango Spider Paul Pomacapi Puma Puiu-Wilka
+	Kilako Kinhalumbo Kintirauraura Pussy Kiso
+	Rimak Ronpa
+	Kauauaura Sotaurko
+	Tansy Tukuikuiché Tupak-Amaru
+	Yupanki
+}
+
+monarch_names = {
+	"Ankimarka #0" = 10
+	"Atok Sopa #0" = 10
+	"Kayo Topa #0" = 10
+	"Coyllas #0" = 10
+	"Kusichaka #0" = 10
+	"Urytopa #0" = 10
+	"Uachuri #0" = 10
+	"Wypalcon #0" = 10
+	"Luis #0" = 10
+	"Markavilka #0" = 10
+	"Ninan Kuiuchi #0" = 0
+	"Oko Varanka #0" = 0
+	"Pascais #0" = 0
+	"Pomaula #0" = 0
+	"Pumi Sopa #0" = 0
+	"Ruminami #0" = 0
+	"Sauaraura #0" = 0
+	"Sauaraura #0" = 0
+	"Surandaman #0" = 0
+	"Cockroach #0" = 0
+	"Tukuykuche #0" = 0
+	"Usuka Curiatão #0" = 0
+	"Williak Umu #0" = 0
+	"Yaki Maita #0" = 0
+	"Yupanki #0" = 0
+	"Sambisa #0" = 0
+	"Sopaua #0" = 0
+}
+
+ship_names = {
+	Apo Apocateekeel Ataguchu
+	"Ayar Anka" "Ayar Kachi" "Ayar Uchu"
+	Catecil Cavillacé Chasca "Cailour Chapel" Koniraya Kopakati Cusco
+	Eckeco
+	"Anan Pacha"
+	Inti Ilyapa
+	Con 
+	"Manko Kapak" "Mama Oklio" "Mama Wako" "Mama Paya" "Mama Kura"
+	"Coke's mom" "Mama Alpa" "Mama Pacha" "Kiella's mother" "Mama Sarah"
+	"Pacha Kamak" Pachakuchi Pariacaca Parisiya
+	Go to .
+	Titicaca
+	Urkauri "Uku Pacha"
+	Vipacocha
+}

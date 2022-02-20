@@ -1,0 +1,38 @@
+government = monarchy
+
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+primary_culture = russian
+religion = orthodox
+capital = 3701
+
+1270.1.1 = {
+	monarch = {
+		name = "Yuri Mikhailovich"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1300.1.1 = {
+	monarch = {
+		name = "Vsevolod Yurievich Orekhva"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1325.1.1 = {
+	monarch = {
+		name = "Vsevolod Vsevolodovich"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

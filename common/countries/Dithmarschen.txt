@@ -1,0 +1,83 @@
+#Ditmarschen
+#Flag is from after Danish Conquest. The original seal had Ditmarsian patron saints Virgin Mary and St. Oswald (but have found no reference to how those actually looked).
+
+graphical_culture = westerngfx
+
+color = { 72 194 212 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	prussian_frederickian
+	prussian_uhlan
+	prussian_drill
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Markus #0" = 5
+	"Peter #0" = 5
+	"Henning #0" = 5
+	"Bernhardt #0" = 0
+	"Johann Adolf #0" = 0
+	"Johann Samuel #0" = 0
+	"Joachim #0" = 0
+	"Nikolaus #0" = 0
+	"Johan #0" = 0
+	"Henry #0" = 0
+	"Daniel #0" = 0
+	"Reimer #0" = 0
+	
+	"Telsa #0" = -1
+	"Magdalena #0" = -1
+	"Eva #0" = -1
+}
+
+leader_names = {
+	Combat
+	Karl
+	Cutter
+	Gisbert
+	Bonfire
+	Nunn
+	Rachel
+	Reimers
+	Rousse
+	Pig
+	Viben
+	"von Wimerstedt"
+}
+
+ship_names = {
+	Dame
+	Grossenbrod
+	Kiel Kellenhuusen
+	Neustadt
+	Ostia 
+	Charboitz Zirksdorf
+	Vedel 
+}
+
+
+army_names = {
+	"Background Army $PROVINCE$"
+}

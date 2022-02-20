@@ -1,0 +1,238 @@
+#Polish-Lithuanian Commonwealth
+
+graphical_culture = easterngfx
+
+color = { 176  81  111 }
+
+historical_score = 1500
+
+historical_idea_groups = {
+	economic_ideas
+	aristocracy_ideas
+	trade_ideas
+	religious_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"August #1" = 60
+	"Vladislav #1" = 60
+	"Stanislav #0" = 40
+	"Casimir #3" = 20
+	"Alexander #0" = 20
+	"Henry #0" = 20
+	"Jan #0" = 20
+	"Ian #0 Albert" = 20
+	"Yang #0 Casimir" = 20
+	"Michal #0" = 20
+	"Stefan #0" = 20
+	"Sigismund #0" = 20
+	"Sigismund #0 August" = 20
+	"Alexander #0 Carl" = 15
+	"Sigismund #0 Kazimir" = 15
+	"Krzysztof #0" = 10
+	"Friedrich #0" = 10
+	"Jan #0 Olbracht" = 10
+	"Jan #0 Sigismund" = 10
+	"Karl #0 Ferdinand" = 10
+	"Olbracht #0" = 10
+	"Albert #0" = 0
+	"Alexey #0" = 0
+	"Andrzej #0" = 0
+	"Bartholomew #0" = 0
+	"Bohumil #0" = 0
+	"Bronislav #0" = 0
+	"David #0" = 0
+	"Dominic #0" = 0
+	"Emile #0" = 0
+	"Eugeniusz #0" = 0
+	"Ferdinand #0" = 0
+	"Gustav #0" = 0
+	"Igor #0" = 0
+	"Ivan #0" = 0
+	"Christian #0" = 0
+	"Lech #0" = 0
+	"Luciusz #0" = 0
+	"Ludwig #0" = 0
+	"Lukash #0" = 0
+	"Maxim #0" = 0
+	"Marjush #0" = 0
+	"Meshko #0" = 0
+	"Miroslav #0" = 0
+	"Oscar #0" = 0
+	"Patrick #0" = 0
+	"Rafal #0" = 0
+	"Sylvester #0" = 0
+	"Shimon #0" = 0
+	"Siegfried #0" = 0
+	"Ryksa #0" = -1
+	"Judith #0" = -1
+	"Agafia #0" = -1
+	"Alexandras #0" = 20
+	"Jonas #0 Albertas" = 20
+}
+
+leader_names = {
+	"Artsishevsky"
+	"Benevsky"
+	"Bidzinsky"
+	"Branicki"
+	"Czarniecki"
+	"Khometsky"
+	"Dunin"
+	"Denhoff"
+	"Jevitsky"
+	"Grodzicki"
+	"Hill"
+	"Hawwaldt"
+	"Yablonowski"
+	"Yazlovetsky"
+	"Kurozvetsky"
+	"Kurbsky"
+	"Konecpolsky"
+	"Kostsyushko"
+	"Krasinsky"
+	"Kalinowsky"
+	"Korytsky"
+	"Kazanovsky"
+	"Kita"
+	"Lubomirski"
+	"Lisovsky"
+	"Lantskoronsky"
+	"Leszczynski"
+	"Łacki"
+	"Malsky"
+	"Mnishek"
+	"Matchynsky"
+	"Mlodzeyevsky"
+	"Ostrozhsky"
+	"Olesnitsky"
+	"Opatsky"
+	"Ozarovsky"
+	"Ossolinsky"
+	"Panevsky"
+	"Ratkul"
+	"Poniatowski"
+	"Pulaski"
+	"Przyemsky"
+	"Pyasechinsky"
+	"Pototsky"
+	"Rytviansky"
+	"Zhevusky"
+	"Sobesky"
+	"Sagaidachny"
+	"Semenovich"
+	"Sulkowski"
+	"Stadnitsky"
+	"Sieniawski"
+	"Tarnovsky"
+	"Vykhovsky"
+	"Wielopolski"
+	"Zamoysky"
+	"Zebydowski"
+	"Zasvilikhovsky"
+	"Zborovski"
+	"Zbarsky"
+	"Alytus"
+	"The Exchange"
+	"Druskininkai"
+	"Grodno"
+	"Yonawa"
+	"Kaunas"
+	"Kretinga"
+	"Crea"
+	"Lasdiay"
+	"Novogrudok"
+	"Palanga"
+	"Break it down ."
+	"Šiauliai"
+	"Swentoy"
+	"Taurage"
+	"Telshiai"
+	"Troki"
+	"Utena"
+	"Ukmerger"
+}
+
+ship_names = {
+	"Noego Arch"
+	"Byala Augel"
+	"Boozha"
+	"Byala Leo"
+	"Brzeko-Kujawskie"
+	"Bielskie"
+	"Bratslavske"
+	"Haritas"
+	"Charney Auger"
+	"Charney Crook"
+	"Chelminsk"
+	"Chernikhivsk"
+	"Fortune"
+	"Gryff"
+	"Gvyazda"
+	"Gniezenskie"
+	"Inovorclavske"
+	"Krul David"
+	"Kaliske"
+	"Krakow"
+	"Kievsk"
+	"Krakow"
+	"Lublin"
+	"Latajaci Eleni"
+	"Lviv"
+	"Leciske"
+	"Lubelskie"
+	"Little Byala Augel"
+	"Malborske"
+	"Mazovetske"
+	"Influence"
+	"New Charne Auger"
+	"Prophet Samuel"
+	"Panna Vodna"
+	"Fleece"
+	"Poznansk"
+	"Plockke"
+	"Podlaska"
+	"Podolsk"
+	"Knight Sveta Yerzy"
+	"Ravske"
+	"Russke"
+	"Szheletz"
+	"Sovereigns ."
+	"Lights Peter"
+	"Seradzke"
+	"Sandomersk"
+	"Lights of Kazimierz"
+	"Wielke Słonce"
+	"Vodnik"
+	"Warminskie"
+	"Volynske"
+	"Warsaw"
+	"Acknowledgement"
+	"Zulty Lev"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$"
+}

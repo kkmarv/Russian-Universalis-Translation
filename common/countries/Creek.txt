@@ -1,0 +1,92 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 108  139  208 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	algonkin_tomahawk_charge
+	native_indian_horsemen
+	commanche_swarm
+	creek_arquebusier
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Opotlejacolo #0" = 20
+	"Amistezigo #0" = 10
+	"Fife #0" = 10
+	"Alexander #0 McGillivre" = 10
+	"Lamochate #0" = 20
+	"Yahatatastenake #0" = 20
+	"William #0 Mclintosh." = 20
+	"Miko Malatchi #0" = 20
+	"Fuscatchmico #0" = 20
+	"Nitlock #0" = 20
+	"Hallettemaltli #0" = 20
+	"Opaimico #0" = 20
+	"Totkishayu #0" = 20
+	"Hopotemico #0" = 20
+	"Opotaachi #0" = 20
+	"Sychologies #0" = 20
+	"Ochihihio #0" = 20
+	"Tuskinaa #0" = 20
+	"Homata #0" = 20
+	"Chinnaby #0" = 20
+	"Yuliyalimata #0" = 20
+	"Chavooclimico #0" = 20
+	"Coosadioshop #0" = 20
+	"Mutti #0" = 20
+	"Stimafootchky #0" = 20
+	"Stilanalige #0" = 20
+	"Mumagichi #0" = 20
+	
+	"Millaray #0" = -1
+	"Sekhoi #0" = -1
+	"Kecharte #0" = -1
+	"Stage #0" = -1
+	"Talisa #0" = -1
+}
+
+leader_names = {
+	"Chitto"
+	"Hasse Ola"
+	"Hopoet"
+	"Talof Harjo"
+	"Yaholo"
+	"Meneva"
+	"Chebona"
+	"Oceola"
+	"Hotlepoy"
+	"Lume Chathi"
+}
+
+ship_names = {
+	"Ibofanga"
+	"Eve's octaque"
+	"Nokosa Occupation"
+	"Lvste Nokose"
+	"Okvtke Lvme"
+	"Kate Iwme"
+	"Kate Hayo"
+	"Ayo-rakko"
+	"Est-akvnaive"
+	"Esaugetu Amissi"
+	"Nunne Chan"
+	"Nisagita-Imisi"
+	"St Holo"
+}

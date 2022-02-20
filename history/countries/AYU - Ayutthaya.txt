@@ -1,0 +1,652 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = central_thai
+religion = buddhism
+technology_group = chinese
+capital = 600 # Ayutthaya
+
+
+1395.1.1 = {
+	monarch = {
+		name = "Ramraj"
+		dynasty = "Utong"
+		adm = 2
+		dip = 1
+		mil = 1	
+	}
+}
+
+1408.1.1 = {
+	monarch = {
+		name = "Intaraja I"
+		dynasty = "Sufannafum"
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}
+
+1408.1.1 = {
+	heir = {
+		name = "Boromoraja"
+		monarch_name = "Boromoraja II"
+		dynasty = "Sufannafum"
+		birth_date = 1408.1.1 # Actual unknown
+		death_date = 1448.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 3
+		leader = { 
+			name = "Boromoraja II"
+			type = general
+		
+			fire = 2	
+			shock = 4	
+			manuever = 3	
+			siege = 1 
+		}
+		
+	}
+}
+		
+1424.1.1 = {
+	monarch = {
+		name = "Boromoraja II"
+		dynasty = "Sufannafum"
+		adm = 1
+		dip = 2
+		mil = 3
+		leader = { name = "Boromoraja II"      	type = general	fire = 2	shock = 4	manuever = 3	siege = 1 }
+	}
+}
+
+1431.1.1 = {
+	heir = {
+		name = "Boromo Trylokanat"
+		monarch_name = "Boromo Trylokanat"
+		dynasty = "Sufannafum"
+		birth_date = 1431.1.1
+		death_date = 1488.1.1
+		claim = 95
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+}
+
+1448.1.1 = {
+	monarch = {
+		name = "Boromo Trylokanat"
+		dynasty = "Sufannafum"
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+}
+
+1473.1.1 = {
+	heir = {
+		name = "Boromoraja"
+		monarch_name = "Boromoraja III"
+		dynasty = "Sufannafum"
+		claim = 95
+		birth_date = 1470.1.1
+		death_date = 1491.1.1
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+
+1488.1.1 = {
+	monarch = {
+		name = "Boromoraja III"
+		dynasty = "Sufannafum"
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+
+1488.1.1 = {
+	heir = {
+		name = "Tibodi Frame"
+		monarch_name = "Tibodi Frame III"
+		dynasty = "Sufannafum"
+		birth_date = 1473.1.1
+		death_date = 1529.7.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+		leader = { name = "Tibodi Frame III"      type = general	fire = 1	shock = 3	manuever = 4	siege = 0 }
+	}
+}
+
+1491.1.1 = {
+	monarch = {
+		name = "Tibodi Frame III"
+		dynasty = "Sufannafum"
+		adm = 2
+		dip = 1
+		mil = 1
+		leader = { name = "Tibodi Frame III"      type = general	fire = 1	shock = 3	manuever = 4	siege = 0 }
+	}
+}
+
+1515.1.1 = {
+	heir = {
+		name = "Atitayvongse"
+		monarch_name = "Boromoraja IV"
+		dynasty = "Sufannafum"
+		birth_date = 1515.1.1
+		death_date = 1533.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1529.7.1 = {
+	monarch = {
+		name = "Boromoraja IV"
+		dynasty = "Sufannafum"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1529.7.1 = {
+	heir = {
+		name = "Ratzada"
+		monarch_name = "Ratzada"
+		dynasty = "Sufannafum"
+		birth_date = 1528.1.1
+		death_date = 1534.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1533.1.1 = {
+	monarch = {
+		name = "Ratzada"
+		dynasty = "Sufannafum"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1533.1.1 = {
+	heir = {
+		name = "Chairacha"
+		monarch_name = "Chairacha"
+		dynasty = "Sufannafum"
+		birth_date = 1520.1.1
+		death_date = 1546.6.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1534.1.1 = {
+	monarch = {
+		name = "Chairacha"
+		dynasty = "Sufannafum"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1535.1.1 = {
+	heir = {
+		name = "Keo Fa"
+		monarch_name = "Keo Fa"
+		dynasty = "Sufannafum"
+		birth_date = 1535.1.1
+		death_date = 1548.11.12
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1546.6.1 = {
+	monarch = {
+		name = "Keo Fa"
+		dynasty = "Sufannafum"
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1548.11.12 = {
+	monarch = {
+		name = "Buncie"
+		dynasty = "Khmer"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1549.1.20 = {
+	monarch = {
+		name = "Maha Chakkrapat"
+		dynasty = "Sufannafum"
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1549.1.20 = {
+	heir = {
+		name = "Mahin"
+		monarch_name = "Mahin"
+		dynasty = "Sufannafum"
+		birth_date = 1539.1.1
+		death_date = 1569.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1564.1.1 = {
+	government_rank = 1
+}
+
+1568.1.1 = {
+	monarch = {
+		name = "Mahin"
+		dynasty = "Sufannafum"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+	government_rank = 2
+}
+
+1569.1.1 = {
+	government_rank = 1
+}
+
+1569.11.1 = {
+	monarch = {
+		name = "Maha Thammaraja I"
+		dynasty = "Dry up"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1569.11.1 = {
+	heir = {
+		name = "Available at ."
+		monarch_name = "Available at ."
+		dynasty = "Dry up"
+		birth_date = 1555.4.25
+		death_date = 1605.4.7
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 5
+		leader = { name = "Available at ."	type = general	fire = 2	shock = 3	manuever = 4	siege = 1 }
+	}
+}
+
+1584.5.3 = {
+	government_rank = 2
+}
+
+1590.7.1 = {
+	monarch = {
+		name = "Available at ."
+		dynasty = "Dry up"
+		adm = 4
+		dip = 3
+		mil = 5
+		
+		leader = { name = "Available at ."	type = general	fire = 2	shock = 3	manuever = 4	siege = 1 }
+	}
+}
+
+1590.7.1 = {
+	heir = {
+		name = "Ekatotsarat"
+		monarch_name = "Ekatotsarat"
+		dynasty = "Dry up"
+		birth_date = 1556.1.1
+		death_date = 1610.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1605.5.17 = {
+	monarch = {
+		name = "Ekatotsarat"
+		dynasty = "Dry up"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1605.5.17 = {
+	heir = {
+		name = "Songtham"
+		monarch_name = "Songtam Intaraja II"
+		dynasty = "Dry up"
+		birth_date = 1580.1.1
+		death_date = 1611.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1610.1.1 = {
+	monarch = {
+		name = "Si Souphak"
+		dynasty = "Dry up"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1611.1.1 = {
+	monarch = {
+		name = "Songtam Intaraja II"
+		dynasty = "Dry up"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1613.1.1 = {
+	heir = {
+		name = "Jettatirat"
+		monarch_name = "Jettatirat"
+		dynasty = "Dry up"
+		birth_date = 1613.1.1
+		death_date = 1629.8.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1628.12.13 = {
+	monarch = {
+		name = "Jettatirat"
+		dynasty = "Dry up"
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1628.12.13 = {
+	heir = {
+		name = "Atit-Yavang"
+		monarch_name = "Atit-Yavang"
+		dynasty = "Dry up"
+		birth_date = 1618.1.1
+		death_date = 1640.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1629.8.1 = {
+	monarch = {
+		name = "Atit-Yavang"
+		dynasty = "Dry up"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1629.9.1 = {
+	monarch = {
+		name = "Prasat Tong"
+		dynasty = "Prasat Tong"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1629.9.1 = {
+	heir = {
+		name = "Chao Fa Jai"
+		monarch_name = "Chao Fa Jai"
+		dynasty = "Prasat Tong"
+		birth_date = 1629.1.1
+		death_date = 1688.7.11
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+		leader = { name = "Naray"	type = general	fire = 2	shock = 2	manuever = 2	siege = 0 }
+	}
+}
+1656.8.8 = {
+	monarch = {
+		name = "Chao Fa Jai"
+		dynasty = "Prasat Tong"
+		adm = 2
+		dip = 1
+		mil = 1
+		leader = { name = "Naray"	type = general	fire = 2	shock = 2	manuever = 2	siege = 0 }
+	}
+}
+
+1656.8.9 = {
+	monarch = {
+		name = "Sri Sutammaraja"
+		dynasty = "Prasat Tong"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1656.8.26 = {
+	monarch = {
+		name = "Naray"
+		dynasty = "Prasat Tong"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1656.8.26 = {
+	heir = {
+		name = "Pra Pra Petraj"
+		monarch_name = "Pra Pra Petraj"
+		dynasty = "Ban Flu Luang"
+		birth_date = 1632.1.1
+		death_date = 1703.2.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1688.7.12 = {
+	monarch = {
+		name = "Pra Pra Petraj"
+		dynasty = "Ban Flu Luang"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1688.7.12 = {
+	heir = {
+		name = "Prachao Soa"
+		monarch_name = "Prachao Soa"
+		dynasty = "Ban Flu Luang"
+		birth_date = 1680.1.1 # Actual unknown
+		death_date = 1709.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1703.2.1 = {
+	monarch = {
+		name = "Prachao Soa"
+		dynasty = "Ban Flu Luang"
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1703.2.1 = {
+	heir = {
+		name = "Tai Sri Puminaraja"
+		monarch_name = "Tai Sri Puminaraja"
+		dynasty = "Ban Flu Luang"
+		birth_date = 1680.1.1
+		death_date = 1733.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1709.1.1 = {
+	monarch = {
+		name = "Tai Sri Puminaraja"
+		dynasty = "Ban Flu Luang"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1709.1.1 = {
+	heir = {
+		name = "Boromakot Maya Tammaraja"
+		monarch_name = "Boromakot Maya Tammaraja"
+		dynasty = "Ban Flu Luang"
+		birth_date = 1680.1.1
+		death_date = 1758.4.14
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1733.1.1 = {
+	monarch = {
+		name = "Boromakot Maya Tammaraja"
+		dynasty = "Ban Flu Luang"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1758.4.14 = {
+	monarch = {
+		name = "Utumpon"
+		dynasty = "Ban Flu Luang"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1758.5.1 = {
+	monarch = {
+		name = "Boromoraja Ecatat"
+		dynasty = "Ban Flu Luang"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1760.1.1 = { leader = {	name = "Ponnay"		type = general	fire = 4	shock = 3	manuever = 3	siege = 0	death_date = 1770.1.1 } }
+
+
+1767.4.8 = {
+	monarch = {
+		name = "Fa Taxin"
+		dynasty = "Tonburi"
+		adm = 4
+		dip = 4
+		mil = 6
+		leader = { name = "Taxi"	type = general	fire = 2	shock = 4	manuever = 4	siege = 0 }
+	}
+}
+
+1782.4.8 = {
+	monarch = {
+		name = "Frame I"
+		dynasty = "Chakri"
+		adm = 5
+		dip = 3
+		mil = 5
+		leader = { name = "Frame I"	type = general	fire = 2	shock = 4	manuever = 4	siege = 0 }
+	}
+}
+
+1782.4.8 = {
+	heir = {
+		name = "Buddha Loetla Nabhalai"
+		monarch_name = "Frame II"
+		dynasty = "Chakri" 
+		birth_date = 1767.2.24
+		death_date = 1824.7.21
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1809.9.7 = {
+	monarch = {
+		name = "Frame II"
+		dynasty = "Chakri"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}

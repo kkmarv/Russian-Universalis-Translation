@@ -1,0 +1,497 @@
+#Slavia
+
+graphical_culture = easterngfx
+
+color = { 0  46  104 }
+
+
+historical_idea_groups = {
+	defensive_ideas
+	expansion_ideas
+	religious_ideas
+	offensive_ideas
+	naval_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Ivan #3" = 60
+	"Feodor #1" = 60
+	"Peter #0" = 60
+	"Vasily #2" = 20
+	"Alexander #0" = 20
+	"Alexey #0" = 20
+	"Boris #0" = 20
+	"Michael #0" = 20
+	"Paul #0" = 20
+	"Catherine #0" = -20
+	"Dmitry #6" = 15
+	"Yuri #4" = 15
+	"Anna #0" = -15
+	"Elizabeth #0" = -15
+	"Constantine #0" = 15
+	"Andrei #3" = 10
+	"Semyon #1" = 10
+	"Nicholas #0" = 10
+	"Afanasiy #0" = 0
+	"Anatoly #0" = 0
+	"Anton #0" = 0
+	"Arseniy #0" = 0
+	"Artamon #0" = 0
+	"Artemy #0" = 0
+	"Bogdan #0" = 0
+	"Demian #0" = 0
+	"Epiphany #0" = 0
+	"Feofan #0" = 0
+	"Gabriel #0" = 0
+	"Gregory #0" = 0
+	"Joseph #0" = 0
+	"Isaac #0" = 0
+	"Kirill #0" = 0
+	"Laurentian #0" = 0
+	"Lazarus #0" = 0
+	"Leo #0" = 0
+	"Malyuta #0" = 0
+	"Mark #0" = 0
+	"Methodius #0" = 0
+	"Nicephorus #0" = 0
+	"Nikita #0" = 0
+	"Nicholas #0" = 0
+	"Oleg #0" = 0
+	"Plato #0" = 0
+	"Procopy #0" = 0
+	"Sergei #0" = 0
+	"Stanislav #0" = 0
+	"Bartholomew #0" = 0
+	"Efim #0" = 0
+	"Julian #0" = 0
+	"August #1" = 60
+	"Vladislav #3" = 60
+	"Stanislav #0" = 40
+	"Casimir #3" = 20
+	"Alexander #0" = 20
+	"Henry #0" = 20
+	"Jan #0" = 20
+	"Ian #0 Albert" = 20
+	"Yang #0 Casimir" = 20
+	"Michal #0" = 20
+	"Stefan #0" = 20
+	"Sigismund #0" = 20
+	"Sigismund #0 August" = 20
+	"Alexander #0 Carl" = 15
+	"Sigismund #0 Kazimir" = 15
+	"Krzysztof #0" = 10
+	"Friedrich #0" = 10
+	"Jan #0 Sigismund" = 10
+	"Karl #0 Ferdinand" = 10
+	"Olbracht #0" = 10
+	"Albert #0" = 0
+	"Alexey #0" = 0
+	"Andrzej #0" = 0
+	"Bartholomew #0" = 0
+	"Bohumil #0" = 0
+	"Bronislav #0" = 0
+	"David #0" = 0
+	"Dominic #0" = 0
+	"Emile #0" = 0
+	"Eugeniusz #0" = 0
+	"Ferdinand #0" = 0
+	"Gustav #0" = 0
+	"Igor #0" = 0
+	"Ivan #0" = 0
+	"Christian #0" = 0
+	"Lech #0" = 0
+	"Luciusz #0" = 0
+	"Ludwig #0" = 0
+	"Lukash #0" = 0
+	"Maxim #0" = 0
+	"Marjush #0" = 0
+	"Meshko #3" = 0
+	"Miroslav #0" = 0
+	"Oscar #0" = 0
+	"Patrick #0" = 0
+	"Rafal #0" = 0
+	"Sylvester #0" = 0
+	"Shimon #0" = 0
+	"Siegfried #0" = 0
+	"Richeza #0" = -1
+	"Judith #0" = -1
+	"Agafia #0" = -1
+	"Stefan #2" = 60
+	"Lazarus #1" = 20
+	"George #0" = 20
+	"Yuri #0" = 20
+	"Milos #0" = 20
+	"George #0" = 20
+	"Alexey #0" = 15
+	"Grgur #0" = 15
+	"Peter #0" = 15
+	"Todor #0" = 15
+	"Alexander #0" = 10
+	"Michael #0" = 10
+	"Milan #0" = 10
+	"Bogdan #0" = 0
+	"Branco #0" = 0
+	"Bratislava #0" = 0
+	"Darko #0" = 0
+	"Dragan #0" = 0
+	"Dubravko #0" = 0
+	"Dushan #0" = 0
+	"Philip #0" = 0
+	"Goran #0" = 0
+	"Ivan #0" = 0
+	"Joseph #0" = 0
+	"Constantine #0" = 0
+	"Luke #0" = 0
+	"Marco #0" = 0
+	"Matthew #0" = 0
+	"Miroslav #0" = 0
+	"Mladen #0" = 0
+	"Nebosha #0" = 0
+	"Nemanja #0" = 0
+	"Nenad #0" = 0
+	"Nicola #0" = 0
+	"Pedrag #0" = 0
+	"Stanko #0" = 0
+	"Tom #0" = 0
+	"Vinko #0" = 0
+	"Vekoslav #0" = 0
+	"Hello . #0" = 0
+	"Caller #0" = 0
+
+	"Branca #0" = -1
+	"Jakoda #0" = -1
+	"Myrna #0" = -1
+}
+
+leader_names = {
+	"Adashev"
+	"Apraksin"
+	"Bestuzhev-Ryumin"
+	"Basmanov"
+	"Baryatinsky"
+	"Bibikov"
+	"Beckett"
+	"Buturlin"
+	"Aksakov"
+	"Chernyshev"
+	"Obolensky"
+	"Dolgorukov"
+	"Golovkin"
+	"Plescheev"
+	"Shogin"
+	"Ermolov"
+	"Golovin"
+	"Godunov"
+	"Golitsyn"
+	"Gagarin"
+	"Glinsky"
+	"Kasimovsky"
+	"Kurbsky"
+	"Khovansky"
+	"Kutuzov"
+	"Koltsov-Mosalsky"
+	"Kurakin"
+	"Mikulinsky"
+	"Konovnitsyn"
+	"Lopukhin"
+	"Mansurov"
+	"Miloslavsky"
+	"Ovchina-Obolensky"
+	"Tolstoy"
+	"Orlov"
+	"Pozharsky"
+	"Potemkin"
+	"Prozorovsky"
+	"Mstislavsky"
+	"Patrykeev"
+	"Romodanowski"
+	"Rumyantsev"
+	"Repnin"
+	"Naryshkin"
+	"Shuisky"
+	"Sheremetev"
+	"Troekurov"
+	"Shein"
+	"Saltykov"
+	"Spiridov"
+	"Senyavin"
+	"Stroganoff"
+	"Suvorov"
+	"Shuvalov"
+	"Odoyevsky"
+	"Trubetskoy"
+	"Ushakov"
+	"Vorotynsky"
+	"Volkonsky"
+	"Vorontsov"
+	"Shcherbatov"
+	"Tatishchev"
+	"Artsishevsky"
+	"Benevsky"
+	"Bidzinsky"
+	"Branicki"
+	"Czarniecki"
+	"Khometsky"
+	"Dunin"
+	"Denhoff"
+	"Jevitsky"
+	"Grodzicki"
+	"Hill"
+	"Hawwaldt"
+	"Yablonowski"
+	"Yazlovetsky"
+	"Kurozvetsky"
+	"Kurbsky"
+	"Konecpolsky"
+	"Kostsyushko"
+	"Krasinsky"
+	"Kalinowsky"
+	"Korytsky"
+	"Kazanovsky"
+	"Kita"
+	"Lubomirski"
+	"Lisovsky"
+	"Lantskoronsky"
+	"Leszczynski"
+	"Łacki"
+	"Malsky"
+	"Mnishek"
+	"Matchynsky"
+	"Mlodzeyevsky"
+	"Ostrozhsky"
+	"Olesnitsky"
+	"Opatsky"
+	"Ozarovsky"
+	"Ossolinsky"
+	"Panevsky"
+	"Ratkul"
+	"Poniatowski"
+	"Pulaski"
+	"Przyemsky"
+	"Pyasechinsky"
+	"Pototsky"
+	"Rytviansky"
+	"Zhevusky"
+	"Sobesky"
+	"Sagaidachny"
+	"Semenovich"
+	"Sulkowski"
+	"Stadnitsky"
+	"Sieniawski"
+	"Tarnovsky"
+	"Vykhovsky"
+	"Wielopolski"
+	"Zamoysky"
+	"Zebydowski"
+	"Zasvilikhovsky"
+	"Zborovski"
+	"Zbarsky"
+	"Bojovic"
+	"Drašković"
+	"Ginjic"
+	"Hrakovec"
+	"Lazarevich"
+	"Markovich"
+	"Obilich"
+	"Petrovich"
+	"Postek"
+	"Putnik"
+}
+
+army_names = {
+	"Russian army"
+	"Baltic Army"
+	"Polish Army"
+	"Ч"
+	"Б"
+	"Urals Army"
+	"П"
+	"Siberian Army"
+	"С"
+	"Р"
+	"С"
+	"С"
+	"Х"
+	"Ч"
+}
+ship_names = {
+	"С"
+	"Maria Magdalene"
+	"С"
+	"С"
+	"Apostle Peter"
+	"Apostle Paul"
+	"С"
+	"С"
+	"С"
+	"С"
+	"С"
+	"С"
+	"С"
+	"С"
+	"С"
+	"Mstislav"
+	"Yaroslav"
+	"Svyatoslav"
+	"Sudislav"
+	"Stanislav"
+	"Vsevolod"
+	"Vladislav"
+	"Rurik"
+	"Rostislav"
+	"Vladimir"
+	"Izaslav"
+	"Alleslav"
+	"Boleslav"
+	"Mechslav"
+	"Rodislav"
+	"Ratibor"
+	"Branimir"
+	"Gabriel"
+	"Michael"
+	"Uriel"
+	"Raphael"
+	"Salafiel"
+	"Varahiliil"
+	"Yehudiil"
+	"Castor"
+	"Yaroslavets"
+	"Pallada"
+	"Passat"
+	"Rolling"
+	"Led by"
+	"Surf"
+	"Fine"
+	"Approximate ."
+	"Tough"
+	"Ivanovec"
+	"Hurry up"
+	"Smart"
+	"Fervent"
+	"Pearls"
+	"Hope"
+	"Neva"
+	"Diana"
+	"Mercury"
+	"East"
+	"Peaceful"
+	"Juno"
+	"Alexander"
+	"Pollux"
+	"Quick ."
+	"Bold"
+	"Kamchatka"
+	"Gum"
+	"Dnieper"
+	"Brave"
+	"Eustatius"
+	"Nativity of Christ"
+	"Transformation"
+	"Twelve Apostles"
+	"The Three Saints"
+	"Bogatyr"
+	"Europe"
+	"Crimea"
+	"Tavrida"
+	"Attention ."
+	"Hard"
+	"Ezekiel"
+	"Noego Arch"
+	"Byala Augel"
+	"Boozha"
+	"Byala Leo"
+	"Brzeko-Kujawskie"
+	"Bielskie"
+	"Bratslavske"
+	"Haritas"
+	"Charney Auger"
+	"Charney Crook"
+	"Chelminsk"
+	"Chernikhivsk"
+	"Fortune"
+	"Gryff"
+	"Gvyazda"
+	"Gniezenskie"
+	"Inovorclavske"
+	"Krul David"
+	"Kaliske"
+	"Krakow"
+	"Kievsk"
+	"Krakow"
+	"Lublin"
+	"Latajaci Eleni"
+	"Lviv"
+	"Leciske"
+	"Lubelskie"
+	"Little Byala Augel"
+	"Malborske"
+	"Mazovetske"
+	"Influence"
+	"New Charne Auger"
+	"Prophet Samuel"
+	"Panna Vodna"
+	"Fleece"
+	"Poznansk"
+	"Plockke"
+	"Podlaska"
+	"Podolsk"
+	"Knight Sveta Yerzy"
+	"Ravske"
+	"Russke"
+	"Szheletz"
+	"Sovereigns ."
+	"Lights Peter"
+	"Seradzke"
+	"Sandomersk"
+	"Lights of Kazimierz"
+	"Wielke Słonce"
+	"Vodnik"
+	"Warminskie"
+	"Volynske"
+	"Warsaw"
+	"Acknowledgement"
+	"Zulty Lev"
+	"Raska"
+	"Bosnia"
+	"Duklya"
+	"Zaumlia"
+	"Travunia"
+	"Pagania"
+	"Stefan Nemanja"
+	"Stefan Prwovenkani"
+	"Stefan Dushan"
+	"Milyutin"
+}
+
+fleet_names = {
+	"Blue Squadron"
+	"Red Squadron"
+	"White Squadron"
+	"С"	
+	"Baltic Sea Fleet"
+	"Black Sea Fleet"
+	"С"
+	"Pacific Fleet"
+}

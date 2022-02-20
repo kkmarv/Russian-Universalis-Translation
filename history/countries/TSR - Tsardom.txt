@@ -1,0 +1,1160 @@
+government = monarchy
+add_government_reform = tsardom
+primary_culture = russian
+culture_group_union = east_slavic
+religion = orthodox
+technology_group = eastern
+unit_type = eastern
+capital = 295 # Moskva
+government_rank = 3
+
+1462.3.28 = {
+	monarch = {
+		name = "Ivan III Great"
+		dynasty = "Rurikovich"
+		birth_date = 1440.1.22
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1462.3.28 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Maria"
+		dynasty = "Yurievich"
+		birth_date = 1442.1.1
+		death_date = 1467.4.22
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1462.3.28 = {
+	heir = {
+		name = "Ivan"
+		monarch_name = "Ivan IV"
+		dynasty = "Rurikovich"
+		birth_date = 1458.2.15
+		death_date = 1490.3.7
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1472.11.12 = {
+	queen = {
+		country_of_origin = MOE
+		name = "Sofia"
+		dynasty = "Paleologist"
+		birth_date = 1455.1.1
+		death_date = 1503.4.7
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1490.3.7 = {
+	heir = {
+		name = "Vasily"
+		monarch_name = "Vasily III"
+		dynasty = "Rurikovich"
+		birth_date = 1479.3.25
+		death_date = 1505.10.29
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+		leader = {	name = "Vasily III"	type = general		fire = 2	shock = 2	manuever = 2	siege = 0 }
+	}
+}
+
+1505.1.1 = { leader = {	name = "Mikhail Glinsky"        	type = general		fire = 3	shock = 4	manuever = 4	siege = 1	death_date = 1520.1.1 } }
+
+1505.10.29 = {
+	monarch = {
+		name = "Vasily III"
+		dynasty = "Rurikovich"
+		birth_date = 1479.3.25
+		adm = 3
+		dip = 2
+		mil = 3
+		leader = {	name = "Vasily III"	type = general		fire = 2	shock = 2	manuever = 2	siege = 0 }
+	}
+}
+
+1505.10.29 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Solomonia"
+		dynasty = "Saburov"
+		birth_date = 1490.1.1
+		death_date = 1525.11.25
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1530.1.1 = { leader = {	name = "Ovchina-Obolensky"     	type = general		fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1539.1.1 } }
+
+1530.1.1 = { leader = {	name = "Kasimovsky"           	type = general		fire = 1	shock = 2	manuever = 4	siege = 0	death_date = 1567.1.1 } }
+
+1525.11.25 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Helen"
+		dynasty = "Glinsky"
+		birth_date = 1508.1.1
+		death_date = 1533.12.4
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1530.8.25 = {
+	heir = {
+		name = "Ivan"
+		monarch_name = "Ivan IV the Terrible"
+		dynasty = "Rurikovich"
+		birth_date = 1530.8.25
+		death_date = 1584.3.28
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+}
+
+1531.1.1 = { leader = {	name = "Mikulinsky"            	type = general		fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1540.1.1 } }
+
+1533.12.4 = {
+	monarch = {
+		name = "Ivan IV the Terrible"
+		dynasty = "Rurikovich"
+		birth_date = 1530.8.25
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+}
+
+1539.1.1 = { leader = {	name = "Peter Shuisky"         	type = general		fire = 2	shock = 3	manuever = 2	siege = 1	death_date = 1564.1.1 } }
+1547.1.16  = { changed_tag_from = MOS }
+
+
+1547.1.17 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Anastasia"
+		dynasty = "Zakharin-Yuriev"
+		birth_date = 1530.1.1
+		death_date = 1560.8.7
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1547.1.16 = { 
+	decision = establish_zemsky 
+	decision = establish_pomestie
+	#decision = establish_bride	### STT
+	decision = establish_duma
+}
+
+1550.1.1 = { leader = {	name = "Sheremetev"            	type = general		fire = 2	shock = 3	manuever = 4	siege = 0	death_date = 1564.1.1 } }
+
+1550.1.1 = { leader = {	name = "Vorotynsky"            	type = general		fire = 3	shock = 4	manuever = 5	siege = 1	death_date = 1573.1.1 } }
+
+1550.1.1 = {
+	decision = establish_glinsky
+}
+
+1552.1.1 = { leader = {	name = "Andrey Kurbsky"		type = general		fire = 3	shock = 2	manuever = 3	siege = 0	death_date = 1564.1.1 } }
+
+1552.1.1 = {
+	heir = {
+		name = "Dmitry"
+		monarch_name = "Dmitry I"
+		dynasty = "Rurikovich"
+		birth_date = 1552.1.1
+		death_date = 1553.4.6
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1553.1.1 = { leader = {	name = "Alexey Adashev"		type = general		fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1560.1.1 } }
+
+1554.3.28 = {
+	heir = {
+		name = "Ivan"
+		monarch_name = "Ivan V"
+		dynasty = "Rurikovich"
+		birth_date = 1554.3.28
+		death_date = 1581.11.19
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1555.1.1 = { leader = {	name = "Grigory Stroganov"    	type = conquistador	fire = 1	shock = 1	manuever = 3	siege = 0	death_date = 1575.1.1 } }
+
+1555.1.1 = { 
+	decision = establish_starosta
+	decision = establish_mos_company
+}
+
+1557.1.1 = { leader = {	name = "Vishnevetskiy"          	type = general		fire = 1	shock = 2	manuever = 3	siege = 0	death_date = 1563.1.1 } }
+
+1560.1.1 = { leader = {	name = "Ivan Shuisky"          	type = general		fire = 3	shock = 3	manuever = 2	siege = 0	death_date = 1587.1.1 } }
+
+1561.8.21 = {
+	queen = {
+		country_of_origin = CIR
+		name = "Maria"
+		dynasty = "Temrukovich"
+		birth_date = 1545.1.1
+		death_date = 1569.9.6
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1565.1.1 = { leader = {	name = "Ivan Petrov"           	type = conquistador	fire = 3	shock = 4	manuever = 2	siege = 0	death_date = 1570.1.1 } }
+
+1565.1.1 = { leader = {	name = "Burnash Yalychev"      	type = conquistador	fire = 2	shock = 3	manuever = 4	siege = 0	death_date = 1576.1.1 } }
+
+1571.10.28 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Marfa"
+		dynasty = "Dogkin"
+		birth_date = 1545.1.1
+		death_date = 1571.11.13
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1572.5.1 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Anna"
+		dynasty = "Kotlovsky"
+		birth_date = 1545.1.1
+		death_date = 1572.9.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1575.10.30 = {
+	monarch = {
+		name = "Simeon II Beckbulatovich"
+		dynasty = "Genghisid"
+		birth_date = 1540.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1575.10.30 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Anastasia"
+		dynasty = "Mstislavsky"
+		birth_date = 1540.1.1
+		death_date = 1576.1.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1575.10.30 = {
+	heir = {
+		name = "Ivan the Terrible"
+		monarch_name = "Ivan IV the Terrible"
+		dynasty = "Rurikovich"
+		birth_date = 1530.8.25
+		death_date = 1584.3.28
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+}
+
+1576.7.18 = {
+	monarch = {
+		name = "Ivan IV the Terrible"
+		dynasty = "Rurikovich"
+		birth_date = 1530.8.25
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+}
+
+1576.7.18 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Anna"
+		dynasty = "Vasilchikov"
+		birth_date = 1550.1.1
+		death_date = 1577.1.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1576.7.18 = {
+	heir = {
+		name = "Ivan"
+		monarch_name = "Ivan V"
+		dynasty = "Rurikovich"
+		birth_date = 1554.3.28
+		death_date = 1581.11.19
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1579.1.1 = { leader = {	name = "Ermak Timofeyevich"	type = conquistador	fire = 4	shock = 3	manuever = 5	siege = 2	death_date = 1585.8.6 } }
+
+1580.1.1 = { leader = {	name = "Koltsov-Mosalsky"      	type = conquistador	fire = 2	shock = 2	manuever = 5	siege = 0	death_date = 1605.1.1 } }
+
+1580.9.1 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Maria"
+		dynasty = "Naked"
+		birth_date = 1553.2.8
+		death_date = 1584.3.20
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1581.11.19 = {
+	heir = {
+		name = "Feodor"
+		monarch_name = "Feodor I"
+		dynasty = "Rurikovich"
+		birth_date = 1557.5.31
+		death_date = 1598.1.16
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1584.1.1 = { leader = {	name = "Ivan Mansurov"         	type = conquistador	fire = 2	shock = 2	manuever = 5	siege = 0	death_date = 1598.1.1 } }
+
+1584.3.20 = {
+	monarch = {
+		name = "Feodor I"
+		dynasty = "Rurikovich"
+		birth_date = 1557.5.31
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1584.3.20 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Irina Feodorovna"
+		dynasty = "Godunov"
+		birth_date = 1557.1.1
+		death_date = 1598.1.16
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1584.3.20 = {
+	heir = {
+		name = "Dmitry"
+		monarch_name = "Dmitry I"
+		dynasty = "Rurikovich"
+		birth_date = 1582.10.19
+		death_date = 1591.5.15
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1588.1.1 = { decision = establish_russian_patriarchate } # The Russian Orthodox Church declared independent of Constantinople
+
+1592.5.29 = {
+	heir = {
+		name = "Feodosiya Feodorovna"
+		monarch_name = "Feodosia I"
+		dynasty = "Rurikovich"
+		birth_date = 1592.5.29
+		death_date = 1594.1.25
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 0
+		female = yes
+	}
+}
+
+1595.1.1 = { leader = {	name = "Peter Basmanov"              	type = general		fire = 2	shock = 2	manuever = 2	siege = 0	death_date = 1606.1.1 } }
+
+1598.1.6 = { set_country_flag = time_of_troubles }
+
+1598.1.16 = {
+	monarch = {
+		name = "Irina Feodorovna"
+		dynasty = "Godunov"
+		birth_date = 1557.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+		female = yes
+	}
+}
+
+1598.1.16 = {
+	heir = {
+		name = "Boris"
+		monarch_name = "Boris"
+		dynasty = "Godunov"
+		birth_date = 1552.1.1
+		death_date = 1605.4.13
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1598.2.11 = {
+	monarch = {
+		name = "Boris"
+		dynasty = "Godunov"
+		birth_date = 1552.1.1
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1598.2.11 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Maria"
+		dynasty = "Skuratow-Bielski"
+		birth_date = 1552.1.1
+		death_date = 1605.4.13
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1598.2.11 = {
+	heir = {
+		name = "Feodor"
+		monarch_name = "Feodor II"
+		dynasty = "Godunov"
+		birth_date = 1589.1.1
+		death_date = 1605.6.10
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1605.4.13 = {
+	monarch = {
+		name = "Feodor II"
+		dynasty = "Godunov"
+		birth_date = 1589.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1605.4.13 = {
+	queen = {
+		country_of_origin = GEO
+		name = "Helen"
+		dynasty = "Bagration"
+		birth_date = 1591.1.1
+		death_date = 1605.6.10
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1605.6.10 = {
+	monarch = {
+		name = "False Dmitry I"
+		dynasty = "Oprepiev"
+		birth_date = 1582.10.19
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1605.6.10 = {
+	queen = {
+		country_of_origin = PLC
+		name = "Marina"
+		dynasty = "Mnishek"
+		birth_date = 1588.1.1
+		death_date = 1606.4.17 
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1606.1.1 = { leader = {	name = "Skopin-Shuisky"        	type = general		fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1610.1.1 } }
+
+1606.5.27 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 1
+		dip = 1
+		mil = 3
+		regent = yes
+	}
+}
+
+1606.5.29 = {
+	monarch = {
+		name = "Vasily IV"
+		dynasty = "Shuisky"
+		birth_date = 1552.1.1
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1606.5.29 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Maria"
+		dynasty = "Buynosov-Rostovsky"
+		birth_date = 1586.1.1
+		death_date = 1610.7.21
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1607.1.1 = { leader = {	name = "Mikhail Shein"          	type = general		fire = 1	shock = 2	manuever = 2	siege = 0	death_date = 1640.1.1 } }
+
+1608.1.1 = { leader = {	name = "Dmitry Pozharsky"	type = general		fire = 2	shock = 2	manuever = 3	siege = 1	death_date = 1642.4.20 } }
+
+1610.1.1 = { 
+	decision = establish_foreign_formation
+}
+
+1610.7.17 = {
+	monarch = {
+		name = "(Semiboyarschina)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1611.8.17 = {
+	monarch = {
+		name = "Vladislav Zhigimontovich"
+		dynasty = "Vase"
+		birth_date = 1595.6.9
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+1612.8.26 = {
+	monarch = {
+		name = "(Land government)"
+		adm = 2
+		dip = 2
+		mil = 4
+		regent = yes
+	}
+}
+
+1612.8.26 = {
+	heir = {
+		name = "Michael"
+		monarch_name = "Mikhail Fyodorovich"
+		dynasty = "Romanov"
+		birth_date = 1596.7.12
+		death_date = 1645.7.25
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1613.2.21 = {
+	monarch = {
+		name = "Mikhail Fyodorovich"
+		dynasty = "Romanov"
+		birth_date = 1596.7.12
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1618.12.1 = { clr_country_flag = time_of_troubles }
+
+1619.1.1 = { leader = {	name = "Andrey Dubensky"           	type = conquistador	fire = 1	shock = 1	manuever = 5	siege = 0	death_date = 1630.1.1 } }
+
+1624.9.19 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Maria"
+		dynasty = "Dolgorukov"
+		birth_date = 1601.1.1
+		death_date = 1625.1.6
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1626.1.1 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Evdokia"
+		dynasty = "Streshnev"
+		birth_date = 1608.1.1
+		death_date = 1645.7.25
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1627.4.22 = {
+	heir = {
+		name = "Irina"
+		monarch_name = "Irina Mikhailovna"
+		dynasty = "Romanov"
+		birth_date = 1627.4.22
+		death_date = 1679.4.8
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1629.3.17 = {
+	heir = {
+		name = "Alexey"
+		monarch_name = "Alexey Mikhailovich"
+		dynasty = "Romanov"
+		birth_date = 1629.3.17
+		death_date = 1676.1.29
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1630.1.1 = { leader = {	name = "Dmitry Dolgorukov"            	type = general		fire = 3	shock = 3	manuever = 3	siege = 1	death_date = 1682.1.1 } }
+
+1631.1.1 = { leader = {	name = "Peter Becketov"         	type = conquistador	fire = 3	shock = 2	manuever = 3	siege = 0	death_date = 1655.1.1 } }
+
+1633.1.1 = { leader = {	name = "Ivan Rebrov"           	type = explorer		fire = 1	shock = 1	manuever = 4	siege = 0	death_date = 1647.1.1 } }
+
+1638.1.1 = { leader = {	name = "Semyon Dezhnev"         	type = explorer		fire = 2	shock = 2	manuever = 5	siege = 0	death_date = 1659.1.1 } }
+
+1638.1.1 = { leader = {	name = "Ivan Moskvitin"        	type = conquistador	fire = 2	shock = 2	manuever = 4	siege = 0	death_date = 1645.1.1 } }
+
+1642.1.1 = { leader = {	name = "Vasiliy Poyarkov"      	type = conquistador	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1648.1.1 } }
+
+1642.1.1 = { leader = {	name = "Yuri Baryatinsky"            	type = general		fire = 2	shock = 3	manuever = 3	siege = 0	death_date = 1672.1.1 } }
+
+1645.1.1 = { leader = {	name = "Ivan Sheremetev"         	type = general		fire = 2	shock = 3	manuever = 2	siege = 1	death_date = 1680.1.1 } }
+
+1645.7.25 = {
+	monarch = {
+		name = "Alexey Mikhailovich"
+		dynasty = "Romanov"
+		birth_date = 1629.3.17
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1648.1.1 = { leader = {	name = "Yerofei Khabarov"       	type = conquistador	fire = 4	shock = 4	manuever = 4	siege = 0	death_date = 1654.1.1 } }
+
+1648.1.16 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Maria"
+		dynasty = "Miloslavsky"
+		birth_date = 1624.4.1
+		death_date = 1669.3.3
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1648.10.22 = {
+	heir = {
+		name = "Dmitry"
+		monarch_name = "Dmitry Alekseevich"
+		dynasty = "Romanov"
+		birth_date = 1648.10.22
+		death_date = 1649.10.6
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1650.1.1 = { leader = {	name = "Fyodor Romodanovsky"          	type = general		fire = 2	shock = 4	manuever = 3	siege = 0	death_date = 1682.1.1 } }
+
+1650.1.1 = { 
+	decision = establish_rasko
+}
+
+1650.2.17 = {
+	heir = {
+		name = "Evdokia"
+		monarch_name = "Yevdokia Alekseevna"
+		dynasty = "Romanov"
+		birth_date = 1650.2.17
+		death_date = 1712.4.10
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1654.2.17 = {
+	heir = {
+		name = "Alexey"
+		monarch_name = "Alexey II Alexeevich"
+		dynasty = "Romanov"
+		birth_date = 1654.2.17
+		death_date = 1670.1.17
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1655.1.1 = { leader = {	name = "Ivan Khovansky"	type = general		fire = 2	shock = 3	manuever = 2	siege = 0	death_date = 1683.1.1 } }
+
+1665.1.1 = { leader = {	name = "Yakov Chernigovets"          	type = conquistador	fire = 1	shock = 1	manuever = 3	siege = 0	death_date = 1672.1.1 } }
+
+1670.1.17 = {
+	heir = {
+		name = "Feodor"
+		monarch_name = "Fyodor III Alexeyevich"
+		dynasty = "Romanov"
+		birth_date = 1661.6.9
+		death_date = 1682.4.27
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1671.1.16 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Natalya"
+		dynasty = "Naryshkin"
+		birth_date = 1651.8.22
+		death_date = 1669.3.3
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1676.2.1 = {
+	monarch = {
+		name = "Fyodor III Alexeyevich"
+		dynasty = "Romanov"
+		birth_date = 1661.6.9
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1676.2.1 = {
+	heir = {
+		name = "Ivan"
+		monarch_name = "Ivan V"
+		dynasty = "Romanov"
+		birth_date = 1666.8.27
+		death_date = 1696.1.29
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1680.1.1 = { leader = {	name = "Patrick Gordon"                	type = general	fire = 2	shock = 3	manuever = 3	siege = 1	death_date = 1699.1.1 } }
+
+1680.1.1 = { leader = {	name = "Vasily Golitsyn"	type = general	fire = 1	shock = 2	manuever = 2	siege = 0	death_date = 1689.1.1 } }
+
+1680.7.18 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Agafia"
+		dynasty = "Grushetsky"
+		birth_date = 1663.1.1
+		death_date = 1681.7.14
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1681.7.11 = {
+	heir = {
+		name = "Ilya"
+		monarch_name = "Ilya Fyodorovich"
+		dynasty = "Romanov"
+		birth_date = 1681.7.11
+		death_date = 1681.7.21
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1681.7.14 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Marfa"
+		dynasty = "Apraksin"
+		birth_date = 1664.1.1
+		death_date = 1682.2.15
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1681.7.21 = {
+	heir = {
+		name = "Ivan"
+		monarch_name = "Ivan V"
+		dynasty = "Romanov"
+		birth_date = 1666.8.27
+		death_date = 1696.1.29
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1682.1.1 = { 
+	decision = establish_heraldry
+}
+
+1682.4.27 = {
+	monarch = {
+		name = "Peter I"
+		dynasty = "Romanov"
+		birth_date = 1672.5.30
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+1682.4.27 = {
+	heir = {
+		name = "Ivan"
+		monarch_name = "Ivan V"
+		dynasty = "Romanov"
+		birth_date = 1666.8.27
+		death_date = 1696.1.29
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1682.5.29 = {
+	monarch = {
+		name = "Sofia Alexeevna"
+		dynasty = "Romanov"
+		birth_date = 1657.9.17
+		adm = 1
+		dip = 4
+		mil = 3
+		female = yes
+	}
+}
+
+1682.2.15 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Vasily"
+		dynasty = "Golitsyn"
+		birth_date = 1643.1.1
+		death_date = 1687.7.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1682.4.29 = {
+	heir = {
+		name = "Ivan"
+		monarch_name = "Ivan V"
+		dynasty = "Romanov"
+		birth_date = 1666.8.27
+		death_date = 1696.1.29
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+#1682.4.29 = { government = monarchy add_government_reform = autocracy_reform }
+
+1685.1.1 = { leader = {	name = "Boris Sheremetev"	type = general		fire = 3	shock = 3	manuever = 3	siege = 1	death_date = 1719.1.1 } }
+
+1687.7.1 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Feodor"
+		dynasty = "Shaklovy"
+		birth_date = 1640.1.1
+		death_date = 1689.9.7
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1689.9.7 = {
+	monarch = {
+		name = "Ivan V"
+		dynasty = "Romanov"
+		birth_date = 1666.8.27
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1689.9.7 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Praskovia"
+		dynasty = "Saltykov"
+		birth_date = 1664.10.12
+		death_date = 1696.1.21
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1689.9.7 = {
+	heir = {
+		name = "Peter"
+		monarch_name = "Peter I Great"
+		dynasty = "Romanov"
+		birth_date = 1672.6.9
+		death_date = 1725.1.28
+		claim = 95
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+1690.1.1 = { leader = {	name = "Franz Lefort"		type = general		fire = 4	shock = 2	manuever = 2	siege = 1	death_date = 1699.3.1 } }
+
+1696.1.1 = { leader = {	name = "Vladimir Atlasov"	type = conquistador	fire = 2	shock = 2	manuever = 4	siege = 0	death_date = 1711.1.1 } }
+
+1696.1.21 = {
+	monarch = {
+		name = "Peter I Great"
+		dynasty = "Romanov"
+		birth_date = 1672.6.9
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+1696.1.21 = {
+	queen = {
+		country_of_origin = RUS
+		name = "Evdokia"
+		dynasty = "Lopukhin"
+		birth_date = 1669.7.30
+		death_date = 1698.1.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1696.1.21 = {
+	heir = {
+		name = "Alexey"
+		monarch_name = "Alexey II"
+		dynasty = "Romanov"
+		birth_date = 1690.2.18
+		death_date = 1718.6.26
+		claim = 80
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1698.1.1 = {
+	queen = {
+		country_of_origin = KOL
+		name = "Anna"
+		dynasty = "Mons"
+		birth_date = 1672.1.26
+		death_date = 1712.2.19
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1700.1.1 = { leader = {	name = "Matvei Gagarin"        	type = conquistador	fire = 3	shock = 3	manuever = 5	siege = 0	death_date = 1715.1.1 } }
+
+1700.1.1 = { leader = {	name = "Fedor Apraksin"	type = admiral		fire = 4	shock = 4	manuever = 3	siege = 0	death_date = 1728.11.10 } }
+
+1700.1.1 = { leader = {	name = "Mikhail Golitsyn"           	type = general		fire = 3	shock = 4	manuever = 3	siege = 1	death_date = 1730.1.1 } }
+
+1700.1.1 = { leader = {	name = "Alexander Menshikov"	type = general		fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1729.1.1 } }
+
+1700.1.1 = { 
+	decision = establish_voronezh_admiralty
+}
+
+1705.1.1 = { leader = {	name = "Grigory Spiridov"              	type = admiral		fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1715.1.1 } }
+	
+1711.1.1 = { technology_group = western } # Governmental Reforms
+
+1712.1.1 = { decision = make_st_petersburg_capital } # St. Petersburg
+
+1712.2.19 = {
+	queen = {
+		country_of_origin = SWE
+		name = "Ekaterina Alekseevna"
+		dynasty = "Scavronsky"
+		birth_date = 1672.1.26
+		death_date = 1712.2.19
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1718.6.26 = {
+	heir = {
+		name = "Peter"
+		monarch_name = "Peter II"
+		dynasty = "Romanov"
+		birth_date = 1715.10.29
+		death_date = 1719.4.25
+		claim = 80
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1720.1.1 = { leader = {	name = "Semyon Saltykov"           	type = general	fire = 2	shock = 3	manuever = 3	siege = 0	death_date = 1760.1.1 } } 
+
+1721.1.1 = { decision = church_tax decision = dissolution_of_the_monasteries } # The reforms of Peter the great

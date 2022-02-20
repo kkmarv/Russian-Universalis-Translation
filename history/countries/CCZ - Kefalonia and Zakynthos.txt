@@ -1,0 +1,39 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = sicilian
+add_accepted_culture = epirus
+religion = catholic
+technology_group = western
+capital = 3033
+
+1304.1.1 = {
+	monarch = {
+		name = "John I"
+		dynasty = "Orsini"
+		death_date = 1317.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1317.1.1 = {
+	monarch = {
+		name = "Nicholas"
+		dynasty = "Axenie"
+		death_date = 1323.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1323.1.1 = {
+	monarch = {
+		name = "John II"
+		dynasty = "Orsini"
+		death_date = 1335.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}

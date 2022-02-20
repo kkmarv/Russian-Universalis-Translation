@@ -1,0 +1,109 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 168  121  129 }
+
+historical_idea_groups = {
+	maritime_ideas
+	religious_ideas
+	defensive_ideas
+	administrative_ideas
+	trade_ideas
+	quality_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Feodor #0" = 40
+	"Dmitry #1" = 20
+	"Thomas #0" = 15
+	"Manuel #2" = 10
+	"Andrei #1" = 10
+	"John #1" = 10
+	"Constantine #1" = 10
+	"Helen #0" = -10
+	"Aeneas #0" = 0
+	"Alexander #0" = 0
+	"Ambrosius #0" = 0
+	"Aristotle #0" = 0
+	"Bartholomew #0" = 0
+	"Chrysanth #0" = 0
+	"Diogenes #0" = 0
+	"Dionysius #0" = 0
+	"Irenei #0" = 0
+	"Elpidium #0" = 0
+	"Gregory #0" = 0
+	"Hector #0" = 0
+	"Heracles #0" = 0
+	"Hermes #0" = 0
+	"Jason #0" = 0
+	"Joseph #0" = 0
+	"Castor #0" = 0
+	"Creon #0" = 0
+	"Matthew #0" = 0
+	"Nestor #0" = 0
+	"Nicholas #0" = 0
+	"Nycomed #0" = 0
+	"Orestes #0" = 0
+	"Palemon #0" = 0
+	"Paul #0" = 0
+	"Pelagius #0" = 0
+	"Peter #0" = 0
+	"Filimon #0" = 0
+	"Philippe #0" = 0
+	"Procopy #0" = 0
+	"Stefan #0" = 0
+	"Timofey #0" = 0
+}	
+
+leader_names = { 
+	"Angel"
+	"Asan"
+	"Bran"
+	"Cantacuzin"
+	"Comnin"
+	"Dooka"
+	"Moor"
+	"Notary"
+	"Paleologist"
+	"Foka"
+	"Raoul"
+	"Spiñoli"
+	"Sfranji"
+	"Tocco"
+	"Dzakkaria"
+}
+
+ship_names = {
+	"Agios Ciprianos"
+	"Areopoli"
+	"Elika"
+	"Herolimenas"
+	"Giteyo"
+	"Cardamili"
+	"Kokkala"
+	"Kotronas"
+	"Scutari"
+	"Watiya"
+}

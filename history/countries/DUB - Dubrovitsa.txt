@@ -1,0 +1,70 @@
+government = monarchy
+
+add_government_reform = principality
+government_rank = 2
+technology_group = eastern
+religion = orthodox
+primary_culture = ruthenian
+capital = 3694	# Dombrovica
+fixed_capital = 3694
+
+1168.1.1 = {
+	monarch = {
+		name = "Gleb Yurievich"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1190.1.1 = {
+	monarch = {
+		name = "Alexander Glebovich"
+		dynasty = "Rurikovich"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1223.6.1 = {
+	monarch = {
+		name = "George Alexandrovich"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1250.1.1 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1309.1.1 = {
+	monarch = {
+		name = "Mikhail Alekseevich" # Random name. The princes are unknown at 1309, and Grabchev does not want to make a union.
+		dynasty = "Rurikovich"
+		birth_date = 1270.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1340.1.1 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}

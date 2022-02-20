@@ -1,0 +1,156 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = austrian
+capital = 1769 # Gorz
+fixed_capital = 1769 
+
+1102.1.1 = {
+	monarch = {
+		name = "Maynhardt I"
+		dynasty = "Minhardiner"
+		birth_date = 1070.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1142.1.1 = {
+	monarch = {
+		name = "Engelbert II"
+		dynasty = "Minhardiner"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1191.4.1 = {
+	monarch = {
+		name = "Engelbert III"
+		dynasty = "Minhardiner"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1220.1.1 = {
+	monarch = {
+		name = "Maynhardt II"
+		dynasty = "Minhardiner"
+		birth_date = 1160.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1232.3.9 = {
+	monarch = {
+		name = "Maynhardt III"
+		dynasty = "Minhardiner"
+		birth_date = 1194.1.17
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1232.3.9 = {
+	monarch = {
+		name = "Maynhardt III"
+		dynasty = "Minhardiner"
+		birth_date = 1194.1.17
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1258.1.1 = {
+	monarch = {
+		name = "Maynhardt IV"
+		dynasty = "Minhardiner"
+		birth_date = 1238.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1258.1.1 = {
+	monarch = {
+		name = "Albert I"
+		dynasty = "Minhardiner"
+		birth_date = 1240.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1304.9.7 = {
+	monarch = {
+		name = "Albert II"
+		dynasty = "Minhardiner"
+		birth_date = 1261.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1308.1.1 = {
+	heir = {
+		name = "Albert"
+		monarch_name = "Albert III"
+		dynasty = "Minhardiner"
+		birth_date = 1308.1.1
+		death_date = 1365.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1304.9.7 = {
+	monarch = {
+		name = "Albert II"
+		dynasty = "Minhardiner"
+		birth_date = 1261.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1376.1.1 = {
+	monarch = {
+		name = "Henry VI"
+		dynasty = "Minhardiner"
+		birth_date = 1376.1.1
+		death_date = 1454.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1440.1.1 = {
+	heir = {
+		name = "Johann"
+		monarch_name = "Johann II"
+		dynasty = "Minhardiner"
+		birth_date = 1440.1.1
+		death_date = 1500.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

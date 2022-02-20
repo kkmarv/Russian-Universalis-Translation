@@ -1,0 +1,127 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 154  129  35 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	administrative_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	indian_archers
+	indian_arquebusier
+	mughal_musketeer
+	mughal_mansabdar
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_cavalry
+	maharathan_guerilla_warfare
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Rughuji #0" = 20
+	"Yanogi #0" = 20
+	"Sabaji #0" = 20
+	"Muji #1" = 20
+	"Shivaji #0" = 20
+	"Sambahji #0" = 20
+	"Rayyaram #0" = 20
+	"Ramayara #0" = 20
+	"Shahu #0" = 30
+	"Sunder #0" = 0
+	"Krishna #0" = 0
+	"Barman #0" = 0
+	"Bisharta #0" = 0
+	"Jagannath #0" = 0
+	"Narayana #0" = 0
+	"Bebarta #0" = 0
+	"Chandra #0" = 0
+	"Damodar #0" = 0
+	"Jadunath #0" = 0
+	"Pradeep #0" = 0
+	"Baji Prabhu #0" = 0
+	"Suryaji #0" = 0
+	"Tanaji #0" = 0
+	"Chimaji #0" = 0
+	"Ranoji #0" = 0
+	"Raghunathrao #0" = 0
+	"Malhar #0" = 0
+	"Tukojirao #0" = 0
+	"Harypant #0" = 0
+	"Jaschantrao  #0" = 0
+	"Daria Bai #0" = -4
+	"Baka Bai #0" = -1
+	"Savitri Bai #0" = -1
+	"Uma Bai #0" = -1
+	"Annapurna Bai #0" = -1
+}
+
+leader_names = {
+	Virmani
+	Sugriva
+	Purujit
+	Rayal
+	Nirmal
+	Muthuszchami
+	Vish
+	Virai
+	Tayagri
+	Lahiri
+	Bohnsle
+	Syndhya
+	Singh
+	Deo
+	Gangabansi
+	Busapati
+	Ghumsuur
+	Parmar
+	Patnaik
+	Samant
+	Raschat
+	Deb
+	Bhanya
+	Vidyadhar
+	Malusare
+	Nicam
+	Dabhad
+	Shirke
+	Morey
+	Nimbalk
+	Kate
+	Chavan
+	Ran
+	Guiyar
+	Aher
+	Sasantha
+	Kauschal
+	Khursh
+	Narsala
+	Krishnaum
+	Lolaxie
+	Maruthi
+	Nagaray
+	Ramiach
+}
+
+ship_names = {
+	Agni Bhim Brahma Devi Durga.
+	Ganesh Gayatri Hanumaun
+	Indra Jalsen "Kala Yahaji"
+	Kali Kubera Krishna Lakshmi
+	"Lal Yahaji" Nausen "Nava ka Yudh"
+	"Neela Yahaji" Parvati Radha Ratri
+	Sagar Saraswati Shiva Sita Soma
+	Surya Varuna Vayu Vishnu Yama
+}

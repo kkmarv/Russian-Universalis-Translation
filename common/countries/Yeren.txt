@@ -1,0 +1,400 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 16  156  27 }
+
+historical_idea_groups = {
+	administrative_ideas
+	religious_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Bukuri Yunsun #0" = 10
+	"Mentemu #0" = 10
+	"Tsunsan #0" = 10
+	"Tolo #0" = 10
+	"Sibuchi Fiangu #0" = 10	
+	"Fuman #0" = 10
+	"Goetzanga #0" = 10
+	"Taxi #0" = 20
+	"Nurhachi #0" = 20
+	"Huantaiji #0" = 20
+	"Dorgon #0" = 10
+	"Hoogie #0" = 10
+	"Fulin #0" = 20
+	"Xuanier #0" = 20
+	"Yinzhen #0" = 20	
+	"Hunli #0" = 20
+	"Yunyang #0" = 20
+	"Minnin #0" = 20	
+	"Fanza #0" = 10
+	"Hoogle #0" = 10
+	"Yinji #0" = 10
+	"Yinzhen #0" = 10
+	"Yinti #0" = 10
+	"Dysan #0" = 5
+	"Abatai #0" = 5
+	"Agige #0" = 5
+	"Dodo #0" = 5
+	"Insyan #0" = 5
+	"Inci #0" = 5
+	"Intan #0" = 5
+	"Hunshi #0" = 5
+	"Hunzhou #0" = 5
+	"Yunzi #0" = 5
+	"Hejing #0" = -5
+	"Hejia #0" = -5
+	"Hesiao #0" = -5
+	"Zhuangjing #0" = -5
+	"Akjan #0" = 0
+	"Ayan #0" = 0
+	"Ising #0" = 0
+	"Ajida #0" = 0
+	"Agige #0" = 0
+	"Adali #0" = 0
+	"Adjigen #0" = 0
+	"Akdun #0" = 0
+	"Alan #0" = 0
+	"Alin #0" = 0
+	"Anabu #0" = 0
+	"Anaku #0" = 0
+	"Arsun #0" = 0
+	"Arsalan #0" = 0
+	"Ashai #0" = 0
+	"Asu #0" = 0
+	"Ayanda #0" = 0
+	"Badai #0" = 0
+	"Baja #0" = 0
+	"Bahabu #0" = 0
+	"Bahai #0" = 0
+	"Baise #0" = 0
+	"Bachar #0" = 0
+	"Baxan #0" = 0
+	"Ballroom #0" = 0
+	"Ramb #0" = 0
+	"Bassan #0" = 0
+	"Bojoto #0" = 0	
+	"Boji #0" = 0
+	"Boothai #0" = 0
+	"Boro #0" = 0
+	"Beeca #0" = 0
+	"Busuku #0" = 0
+	"Buyali Mergen #0" = 0
+	"Buyandai Efu #0" = 0
+	"Zagan #0" = 0
+	"Cayda #0" = 0
+	"Tsangadai #0" = 0
+	"Tzarky #0" = 0
+	"Tseke #0" = 0
+	"Tengtai #0" = 0
+	"Tsihala #0" = 0
+	"Zolkhon #0" = 0
+	"Socky #0" = 0
+	"Zohar #0" = 0
+	"Tsukuatura #0" = 0
+	"Give me . #0" = 0
+	"Daihan #0" = 0
+	"Dalan #0" = 0
+	"Dari #0" = 0
+	"Dasu #0" = 0
+	"Dafu #0" = 0
+	"Dodo #0" = 0
+	"Doha #0" = 0
+	"Dawholon #0" = 0
+	"Dola #0" = 0
+	"Dorgon #0" = 0
+	"Duytsi #0" = 0
+	"Dulba #0" = 0
+	"Doolay #0" = 0
+	"Dunga #0" = 0
+	"Ebilun #0" = 0
+	"Elbihe #0" = 0
+	"Torch #0" = 0
+	"Fakjin #0" = 0
+	"Fange #0" = 0
+	"Fata #0" = 0
+	"Fatan #0" = 0
+	"Fiyada #0" = 0
+	"Fiyanga #0" = 0
+	"Fiyahan #0" = 0
+	"Fiyasha #0" = 0
+	"Gabula #0" = 0
+	"Gabula Batura #0" = 0
+	"Gadakhun #0" = 0
+	"Haha #0" = 0
+	"Gatssitai #0" = 0
+	"Ganjiuhan #0" = 0
+	"Garyin #0" = 0
+	"Hasha #0" = 0
+	"Gebunge #0" = 0
+	"Gyohoto #0" = 0
+	"Jesus Christ #0" = 0
+	"Goho #0" = 0
+	"Gokhon #0" = 0
+	"Goko #0" = 0
+	"Gunge #0" = 0
+	"Hada #0" = 0
+	"Hyde #0" = 0
+	"Halhan #0" = 0
+	"Hari #0" = 0
+	"Hashiri #0" = 0
+	"Hatan #0" = 0
+	"Hetsen #0" = 0
+	"Headu #0" = 0
+	"Haleh #0" = 0
+	"Heta #0" = 0
+	"Hatou #0" = 0
+	"Hae #0" = 0
+	"Hida #0" = 0
+	"Heefe #0" = 0
+	"Hifebax #0" = 0
+	"Hyrgen #0" = 0
+	"Hiribu #0" = 0
+	"Khohori #0" = 0 
+	"Khohori Efu #0" = 0
+	"Hawkton #0" = 0
+	"Holo #0" = 0
+	"Homin #0" = 0
+	"Hontoho #0" = 0
+	"Khorontai #0" = 0
+	"Hose #0" = 0
+	"Jotto #0" = 0
+	"Huhu #0" = 0
+	"Hujiu #0" = 0
+	"Hutu #0" = 0
+	"Huba #0" = 0
+	"Juban #0" = 0
+	"Julan #0" = 0
+	"Huri #0" = 0
+	"Huse #0" = 0
+	"Ibahan #0" = 0
+	"Yitzanga #0" = 0
+	"Yitsenge #0" = 0
+	"Ilha #0" = 0
+	"Ilibu #0" = 0
+	"Indahun #0" = 0
+	"Isan #0" = 0
+	"Isanga #0" = 0
+	"Isha #0" = 0
+	"Isu #0" = 0
+	"Itoo #0" = 0
+	"Jingji #0" = 0
+	"Jiratai #0" = 0
+	"Zelo #0" = 0
+	"Tzorho #0" = 0
+	"Tzortay #0" = 0
+	"Jiuze #0" = 0
+	"Jiuzenge Batura #0" = 0
+	"Jumara #0" = 0
+	"Juntai #0" = 0
+	"Kamtu #0" = 0
+	"Kacilan #0" = 0
+	"Kara #0" = 0
+	"Gyeongse #0" = 0
+	"Cases #0" = 0
+	"Kesabu #0" = 0
+	"Cilin #0" = 0
+	"Smoke #0" = 0
+	"Laby #0" = 0
+	"Ladu #0" = 0
+	"Lahari #0" = 0
+	"Luzzu #0" = 0
+	"Lamun #0" = 0
+	"Langaree #0" = 0
+	"Loby #0" = 0
+	"Lomi #0" = 0
+	"Lungu #0" = 0
+	"Maha #0" = 0
+	"Maycan #0" = 0
+	"Meiße #0" = 0
+	"Maitou #0" = 0
+	"Mazzyan #0" = 0
+	"Mala #0" = 0
+	"Malukan #0" = 0
+	"Malachi #0" = 0
+	"Mangay #0" = 0
+	"Malu #0" = 0
+	"Mangya #0" = 0
+	"Masan #0" = 0
+	"Megu #0" = 0
+	"Mingan #0" = 0
+	"Mingatu #0" = 0
+	"Mungo #0" = 0
+	"Mutsen #0" = 0
+	"Muhelenien #0" = 0
+	"Fly #0" = 0
+	"Mujian #0" = 0
+	"Mulu #0" = 0
+	"Murza #0" = 0
+	"Moore #0" = 0
+	"Mouzen #0" = 0
+	"Moosey #0" = 0
+	"Namu #0" = 0
+	"Natsin #0" = 0
+	"Nican #0" = 0
+	"Nare #0" = 0
+	"Nican Batura #0" = 0
+	"Neno #0" = 0
+	"Nishiha #0" = 0
+	"Niyadh #0" = 0
+	"Musu #0" = 0
+	"Otsir #0" = 0
+	"Phone #0" = 0
+	"Oha #0" = 0
+	"Olbo #0" = 0
+	"Oxon #0" = 0
+	"Olon #0" = 0
+	"Orody #0" = 0
+	"Ongoro #0" = 0
+	"Ordo #0" = 0
+	"Sabdanga #0" = 0
+	"Sabi #0" = 0
+	"Sadoon #0" = 0
+	"Sakha #0" = 0
+	"Sahada #0" = 0
+	"Sahalyan #0" = 0
+	"Sahana #0" = 0
+	"Saibigan #0" = 0
+	"Syse #0" = 0
+	"Samha #0" = 0
+	"Sangabu #0" = 0
+	"Sahee #0" = 0
+	"Sala #0" = 0
+	"Selmin #0" = 0
+	"Shingari #0" = 0
+	"Syjintai #0" = 0
+	"Xintai #0" = 0
+	"Silan #0" = 0
+	"Shiteku #0" = 0
+	"Solho #0" = 0
+	"Solon #0" = 0
+	"Sungotu Batura #0" = 0
+	"Sonin Buxi #0" = 0
+	"Sonin Batura #0" = 0
+	"Suburi #0" = 0
+	"Sube #0" = 0
+	"Sudan #0" = 0
+	"Sukhe #0" = 0
+	"Sukhetsen #0" = 0
+	"Suiha #0" = 0
+	"Sullan #0" = 0
+	"Soonkoro Batura #0" = 0
+	"Syungina #0" = 0
+	"Sunta #0" = 0
+	"Suya #0" = 0
+	"Sahoun #0" = 0
+	"Sari #0" = 0
+	"Sunjiazi #0" = 0
+	"Tact of Batura #0" = 0
+	"Talman #0" = 0
+	"Tanguyha #0" = 0
+	"Tantu #0" = 0
+	"That's . #0" = 0
+	"Toro #0" = 0
+	"Tubihe #0" = 0
+	"Tulhoun #0" = 0
+	"Tumen #0" = 0
+	"Tour #0" = 0
+	"Tours #0" = 0
+	"Tusa #0" = 0
+	"Wahun #0" = 0
+	"Wazzima #0" = 0
+	"Wase #0" = 0
+	"Wahe #0" = 0	
+	"Weihei #0" = 0
+	"Ukada #0" = 0
+	"Uku #0" = 0
+	"Smoke #0" = 0
+	"Ulae #0" = 0
+	"Uljiyatsi #0" = 0
+	"Ulhu #0" = 0
+	"Uli #0" = 0
+	"Umudu #0" = 0
+	"Ounce #0" = 0
+	"Unduri #0" = 0
+	"Wusun #0" = 0
+	"Usaku #0" = 0
+	"Yabu #0" = 0
+	"Yala #0" = 0
+	"Yaki #0" = 0
+	"Jasha #0" = 0
+	"Yentai #0" = 0
+	"Yodan #0" = 0
+	"Yale #0" = 0
+	"Yero #0" = 0
+	"Yuvamboo #0" = 0	
+	"Feng #0" = -1
+	"Jian #0" = -1
+	"Wen #0" = -1
+}
+
+
+leader_names = {
+	Amur "Ayan Goro" Asouri "Aha Gero" Akjan Aysin 
+	Borgigin Bayot Bayot Bajara Boheri Behgirjan Besut Biru Buyatsi Bohori Busay
+	Busa Bouhi Bouhi Bouhi Bouhi Bouhi Bouhi Bouhi Bouhi Bouhi Bouhi Bouhi Bouhi Bouhi Bouhi Bouhi Bouhi Bouhi Bouhi Bouhi Bouhi.
+	Tsarala Cemgun Tsui Caccine 
+	Daigia Dungo Dungiya Daigia Dorgun Dedure Dukta Duktari
+	Elge Esuri Ertut Fuza Foimo Fija Fujuri
+	Guvalgi Gero Hertz "Gero Hala" Görzan Gégile Guvalza Gorlo "Gyrangy Warka"
+	Gerungero Gin Gorey Gorben Gotsir Giri Gigile Guvangiyara
+	Hesheri Hitar Honggotso Honggo Hoiho Hurhasu Hasara Hulhu "Sakhaari Hook" Hongri
+	Hingyan Hushari Hingyan Hurha Khunlo Hoggo Huya Huyaya
+	Manu Ilara Itari "Yörk Ule" Yokuri "Jørgen Gøro" "Irgen Batura" Itum Ira
+	Joogia Jalari Jakuta Janzi Jerde Jateh. "Jash Uri" Jebe
+	Jughia Jingeri Jaruza Julgan Jughia Jot Jodomu. 
+	Ki Kerde Kuyala Kocili Carl Cardasu Kubulu
+	Ligeia Laibou Lady Lumbury Lay "Lac Ule" Lubui
+	Magiya Mungori Mu Murzan Mungo Man Mengoro Murza 
+	Muljire Manjia Morzi Mongoro Muyan
+	Nuhuru Nara Ninguta Nimats Namduru Nikiri Nisa Nyuwangiya Noyan
+	Nahata Nimaha Naya Namdolu Omoto Oji
+	Sumuru Sakda "Sirin Hero" Shohary Sartu Samira Sictari Samarga Sakdaholo
+	SANGIA SYTARA SUNGIA Samara SUGIA CICTELI SACZA SACHGIRE
+	Socor Saimire Sorghi Sogia Sorghi Saimire Surtu Sadara Sura Sikda
+	Tatar Tungya Tajagertsa Tokoro Tsangia Tomo Tooli Taitsuru Tuseri Tomu Tuktan 
+	Tungi Tumen Tolote Taicuru Ungtahe Ujala Urgutsan Unuhutsin Ushin Ulu Uya Undu
+	Urgutsa Ujaku Ungiot Unchehehen Ungirjin Ujaku Urda Ukuri Uhlinga Uksun Usujan Usila Ue
+	Wangia Wakutu Wei Waigue Ware Vase Wanjab Wali Yonoto Yanja Yangya Eher Yanji
+	Yukuri Yunde Ur Yasu
+}
+
+ship_names = {
+	Zhurzhen
+	Hashery
+	Nyhuuru
+	Fuza
+	Hun
+	Jetsen
+	Dungo
+	Nan
+	Zhusheri
+	Vanga
+	Ylan
+	Hueyaye
+}
+
+army_names = {
+	"Zhang $PROVINCE$" 
+}

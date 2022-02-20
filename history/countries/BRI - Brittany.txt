@@ -1,0 +1,1050 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = breton
+religion = catholic
+technology_group = western
+capital = 172	# Nantes
+
+380.1.1 = {
+	monarch = {
+		name = "Conan Meriadoc"
+		dynasty = "Meriadoc"
+		birth_date = 305.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+395.1.1 = {
+	monarch = {
+		name = "Great Castle"
+		dynasty = "Meriadoc"
+		birth_date = 330.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+434.1.1 = {
+	monarch = {
+		name = "Salomon I"
+		dynasty = "Meriadoc"
+		birth_date = 355.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+446.1.1 = {
+	monarch = {
+		name = "Aldrien"
+		dynasty = "Meriadoc"
+		birth_date = 373.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+464.1.1 = {
+	monarch = {
+		name = "Beeper I"
+		dynasty = "Meriadoc"
+		birth_date = 420.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+501.1.1 = {
+	monarch = {
+		name = "Melu"
+		dynasty = "Meriadoc"
+		birth_date = 470.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+520.1.1 = {
+	monarch = {
+		name = "Rival"
+		dynasty = "Meriadoc"
+		birth_date = 470.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+540.1.1 = {
+	monarch = {
+		name = "Rival"
+		dynasty = "Meriadoc"
+		birth_date = 460.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+542.1.1 = {
+	monarch = {
+		name = "Beeper II"
+		dynasty = "Meriadoc"
+		birth_date = 460.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+544.1.1 = {
+	monarch = {
+		name = "Joel the Great"
+		dynasty = "Meriadoc"
+		birth_date = 480.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+545.1.1 = {
+	monarch = {
+		name = "Theodore the Great"
+		dynasty = "Meriadoc"
+		birth_date = 520.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+584.1.1 = {
+	monarch = {
+		name = "Ayline I"
+		dynasty = "Meriadoc"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+594.1.1 = {
+	monarch = {
+		name = "Joel III"
+		dynasty = "Meriadoc"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+605.1.1 = {
+	monarch = {
+		name = "St. Eudicaël"
+		dynasty = "Meriadoc"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+615.1.1 = {
+	monarch = {
+		name = "Salomon II"
+		dynasty = "Meriadoc"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+632.1.1 = {
+	monarch = {
+		name = "St. Eudicaël"
+		dynasty = "Meriadoc"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+634.1.1 = {
+	monarch = {
+		name = "Ayline II"
+		dynasty = "Meriadoc"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+635.1.1 = {
+	monarch = {
+		name = "Judicael"
+		dynasty = "Meriadoc"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+650.1.1 = {
+	monarch = {
+		name = "(No data.)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+813.1.1 = {
+    government_rank = 2
+	monarch = {
+		name = "Jarnitine"
+		dynasty = "up to Lisbedu"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+818.1.1 = {
+	monarch = {
+		name = "Morwan"
+		dynasty = "up to Lisbedu"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+818.6.1 = {
+	monarch = {
+		name = "Viomark"
+		dynasty = "up to Lisbedu"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+825.1.1 = {
+    government_rank = 1
+	monarch = {
+		name = "(No data.)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+
+846.1.1 = {
+	monarch = {
+		name = "Nominoe"
+		dynasty = "ап Plumog"
+		birth_date = 800.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+851.3.7 = {
+	monarch = {
+		name = "Erispoe"
+		dynasty = "ап Plumog"
+		birth_date = 820.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+851.9.1 = {
+government_rank = 2
+}
+
+857.11.12 = {
+	monarch = {
+		name = "Salomon"
+		dynasty = "de Poeur"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+874.1.1 = {
+	monarch = {
+		name = "Gurwan"
+		dynasty = "de Rennes"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+876.1.1 = {
+	monarch = {
+		name = "Paskveten"
+		dynasty = "de Nantes"
+		birth_date = 800.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+877.1.1 = {
+	monarch = {
+		name = "Judicael II"
+		dynasty = "de Rennes"
+		birth_date = 820.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+888.11.8 = {
+	monarch = {
+		name = "Alain I Great"
+		dynasty = "de Nantes"
+		birth_date = 850.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+907.1.1 = {
+	monarch = {
+		name = "Gurmaelon"
+		dynasty = "de Cornuay"
+		birth_date = 870.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+913.1.1 = {
+    government_rank = 1
+	monarch = {
+		name = "Audicaelle Beranje"
+		dynasty = "de Rennes"
+		birth_date = 870.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+931.1.1 = {
+	monarch = {
+		name = "William I Long Sword"
+		dynasty = "de Normandy"
+		birth_date = 900.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+937.1.1 = {
+	monarch = {
+		name = "Alain II"
+		dynasty = "de Nantes"
+		birth_date = 910.1.1
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+}
+
+952.1.1 = {
+	monarch = {
+		name = "Drogo"
+		dynasty = "de Nantes"
+		birth_date = 950.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+958.1.1 = {
+	monarch = {
+		name = "Fulk Kind"
+		dynasty = "Ingelgering"
+		birth_date = 906.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+958.11.11 = {
+	monarch = {
+		name = "Joel I"
+		dynasty = "de Nantes"
+		birth_date = 930.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+981.1.1 = {
+	monarch = {
+		name = "Gueres"
+		dynasty = "de Nantes"
+		birth_date = 930.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+988.1.1 = {
+	monarch = {
+		name = "Alain III"
+		dynasty = "de Nantes"
+		birth_date = 981.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+}
+
+990.1.1 = {
+	monarch = {
+		name = "Conan I le Cake"
+		dynasty = "de Rennes"
+		birth_date = 950.1.1
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+
+992.6.27 = {
+	monarch = {
+		name = "Joffrois I"
+		dynasty = "de Rennes"
+		birth_date = 980.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+1008.11.20 = {
+	monarch = {
+		name = "Alain III"
+		dynasty = "de Rennes"
+		birth_date = 997.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1040.10.1 = {
+	monarch = {
+		name = "Aeon I"
+		dynasty = "de Pentievre"
+		birth_date = 997.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1047.10.1 = {
+	monarch = {
+		name = "Conan II"
+		dynasty = "de Rennes"
+		birth_date = 1030.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1066.12.11 = {
+	monarch = {
+		name = "Joel II"
+		dynasty = "de Cornuay"
+		birth_date = 1030.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+		female = yes
+	}
+}
+
+1084.4.13 = {
+	monarch = {
+		name = "Alain IV Fergen"
+		dynasty = "de Cornuay"
+		birth_date = 1060.1.1
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1112.1.1 = {
+	monarch = {
+		name = "Conan III"
+		dynasty = "de Cornuay"
+		birth_date = 1095.1.1
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1148.9.17 = {
+	monarch = {
+		name = "Joel III"
+		dynasty = "de Cornuay"
+		birth_date = 1115.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1148.11.1 = {
+	monarch = {
+		name = "Aeon II"
+		dynasty = "de Poroet"
+		birth_date = 1110.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1156.1.1 = {
+	monarch = {
+		name = "Conan IV"
+		dynasty = "de Pentievre"
+		birth_date = 1138.1.1
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+1166.2.20 = {
+	monarch = {
+		name = "Constance"
+		dynasty = "de Pentievre"
+		birth_date = 1161.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+		female = yes
+	}
+}
+
+1181.1.1 = {
+	monarch = {
+		name = "Joffrois II"
+		dynasty = "Plantagenet"
+		birth_date = 1158.9.123
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1186.8.19 = {
+	monarch = {
+		name = "Constance"
+		dynasty = "de Pentievre"
+		birth_date = 1161.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+		female = yes
+	}
+}
+
+1201.9.5 = {
+	monarch = {
+		name = "Arthur I"
+		dynasty = "Plantagenet"
+		birth_date = 1187.4.30
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1203.4.3 = {
+	monarch = {
+		name = "Guy"
+		dynasty = "de Toire"
+		birth_date = 1180.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1213.4.13 = {
+	monarch = {
+		name = "Alice"
+		dynasty = "de Toire"
+		birth_date = 1200.1.1
+		adm = 3
+		dip = 4
+		mil = 1
+		female = yes
+	}
+}
+
+1221.10.21 = {
+	monarch = {
+		name = "Pierre I Mocklerk"
+		dynasty = "de Dreux"
+		birth_date = 1187.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1237.1.1 = {
+	monarch = {
+		name = "Jean I"
+		dynasty = "de Dreux"
+		birth_date = 1217.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1286.10.8 = {
+	monarch = {
+		name = "Jean II"
+		dynasty = "de Dreux"
+		birth_date = 1239.1.3
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+
+1305.11.16 = {
+	monarch = {
+		name = "Arthur II"
+		dynasty = "de Dreux"
+		birth_date = 1262.7.2
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+1305.11.16 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean III"
+		dynasty = "de Dreux"
+		birth_date = 1286.3.8
+		death_date = 1341.4.30
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+1312.8.27 = {
+	monarch = {
+		name = "Jean III"
+		dynasty = "de Dreux"
+		birth_date = 1286.3.8
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+1341.4.30 = {
+	monarch = {
+		name = "Jean IV"
+		dynasty = "de Monfort"
+		birth_date = 1293.1.1
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+1341.4.30 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean V"
+		dynasty = "de Monfort"
+		birth_date = 1339.1.1
+		death_date = 1399.11.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1345.9.16 = {
+	monarch = {
+		name = "Karl I"
+		dynasty = "de Chatillon"
+		birth_date = 1318.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1345.9.16 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean V"
+		dynasty = "de Chatillon"
+		birth_date = 1345.1.1
+		death_date = 1405.1.16
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1364.9.29 = {
+	monarch = {
+		name = "Jean V"
+		dynasty = "de Monfort"
+		birth_date = 1339.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1389.12.24 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean VI"
+		dynasty = "de Monfort"
+		birth_date = 1389.12.24
+		death_date = 1442.8.29
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1399.11.1 = {
+	monarch = {
+		name = "Jean VI"
+		dynasty = "de Monfort"
+		birth_date = 1389.12.24
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+	queen = {
+		country_of_origin = FRA
+		name = "Jeanne"
+		dynasty = "de Valois-Angoulême"
+		birth_date = 1391.1.24
+		death_date = 1433.9.27
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1414.5.11 = {
+	heir = {
+		name = "Francis"
+		monarch_name = "Francis I"
+		dynasty = "de Monfort"
+		birth_date = 1414.5.11
+		death_date = 1450.7.18
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1442.8.29 = {
+	monarch = {
+		name = "Francis I"
+		dynasty = "de Monfort"
+		birth_date = 1414.5.14
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = charismatic_negotiator_personality 
+}
+
+1442.8.29 = {
+	heir = {
+		name = "Pierre"
+		monarch_name = "Pierre II"
+		dynasty = "de Monfort"
+		birth_date = 1418.7.7
+		death_date = 1457.9.22
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1442.10.30 = {
+	queen = {
+		country_of_origin = SCO
+		name = "Isabella"
+		dynasty = "Stuart"
+		birth_date = 1426.1.1
+		death_date = 1494.10.13
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1450.7.19 = {
+	monarch = {
+		name = "Pierre II"
+		dynasty = "de Monfort"
+		birth_date = 1418.7.7
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	queen = {
+		country_of_origin = FRA
+		name = "Françoise"
+		dynasty = "d'Amboise"
+		birth_date = 1427.5.29
+		death_date = 1485.11.4
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1450.7.20 = {
+	heir = {
+		name = "Arthur"
+		monarch_name = "Arthur III"
+		dynasty = "de Monfort"
+		birth_date = 1393.8.24
+		death_date = 1458.12.26
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+	
+1457.9.23 = {
+	monarch = {
+		name = "Arthur III Rishmond"
+		dynasty = "de Monfort"
+		birth_date = 1393.8.24
+		adm = 3
+		dip = 2
+		mil = 4
+		leader = { name = "Arthur III Rishmond"	type = general	fire = 4	shock = 4	manuever = 4	siege = 1 }
+	}
+}
+
+1457.9.23 = {
+	heir = {
+		name = "Francis"
+		monarch_name = "Francis II"
+		dynasty = "de Monfort"
+		birth_date = 1433.6.23
+		death_date = 1488.9.9
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	clear_scripted_personalities = yes
+	add_heir_personality = cruel_personality  
+}
+
+1458.12.27 = {
+	monarch = {
+		name = "Francis II"
+		dynasty = "de Monfort"
+		birth_date = 1433.6.23
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = cruel_personality  
+}
+
+1477.1.25 = {
+	heir = {
+		name = "Anna"
+		monarch_name = "Anna I"
+		dynasty = "de Monfort"
+		birth_date = 1477.1.25
+		death_date = 1514.1.9
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 1
+		female = yes
+	}
+}
+
+1488.9.10 = {
+	monarch = {
+		name = "Anna I"
+		dynasty = "de Monfort"
+		birth_date = 1477.1.25
+		adm = 5
+		dip = 4
+		mil = 1
+		female = yes
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = just_personality # Righteous would also be valid
+}
+
+1499.10.14 = {
+	heir = {
+		name = "Cloyd"
+		monarch_name = "Cloyd I"
+		dynasty = "de Valois-Angoulême"
+		birth_date = 1499.10.14
+		death_date = 1525.7.20
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1514.1.10 = {
+	monarch = {
+		name = "Claude I"
+		dynasty = "de Valois Orleans"
+		birth_date = 1499.10.14
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1518.2.28 = {
+	heir = {
+		name = "Francis"
+		monarch_name = "Francis III"
+		dynasty = "de Valois-Angoulême"
+		birth_date = 1518.2.28
+		death_date = 1536.8.10
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1524.7.21 = {
+	monarch = {
+		name = "Francis III"
+		dynasty = "de Valois-Angoulême"
+		birth_date = 1518.2.28
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1524.7.21 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry"
+		dynasty = "de Valois-Angoulême"
+		birth_date = 1519.3.31
+		death_date = 1559.7.10
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1536.8.10 = {
+	monarch = {
+		name = "Henry"
+		dynasty = "de Valois-Angoulême"
+		birth_date = 1519.3.31
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1544.1.19 = {
+	monarch = {
+		name = "Francis V"
+		dynasty = "de Valois-Angoulême"
+		birth_date = 1544.1.19
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1555.7.10 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1589.8.3 = { set_legacy_government = administrative_monarchy }
+
+1661.3.9 = { government = monarchy
+add_government_reform = autocracy_reform }

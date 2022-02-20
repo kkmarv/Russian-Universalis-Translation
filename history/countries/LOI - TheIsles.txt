@@ -1,0 +1,170 @@
+government = monarchy
+add_government_reform = feudalism_reform
+mercantilism = 0.1
+technology_group = western
+primary_culture = highland_scottish
+religion = catholic
+capital = 253	# Inbhir Pheofharain
+government_rank = 1
+
+1156.1.1 = {
+	monarch = {
+		name = "Somerlead"
+		dynasty = "McSomerlade"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1164.1.1 = {
+	monarch = {
+		name = "Ranald"
+		dynasty = "McSomerlade"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1209.1.1 = {
+	monarch = {
+		name = "Angus"
+		dynasty = "McSomerlade"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1210.1.1 = {
+	monarch = {
+		name = "Donald"
+		dynasty = "McDonald"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1248.1.1 = {
+	monarch = {
+		name = "Ewan"
+		dynasty = "McDougall"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1249.1.1 = {
+	monarch = {
+		name = "Dougal"
+		dynasty = "MacRoirie"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1266.1.1 = {
+	monarch = {
+		name = "Ewan"
+		dynasty = "McDougall"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1270.1.1 = {
+	monarch = {
+		name = "Angus More"
+		dynasty = "McDonald"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1295.1.1 = {
+	monarch = {
+		name = "Alexander Og"
+		dynasty = "McDonald"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1299.1.1 = {
+	monarch = {
+		name = "Angus Og"
+		dynasty = "McDonald"
+		birth_date = 1296.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1318.1.1 = {
+	monarch = {
+		name = "John Ailey"
+		dynasty = "McDonald"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1386.1.1 = {
+	monarch = {
+		name = "Donald"
+		dynasty = "McDonald"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1423.1.1 = {
+	monarch = {
+		name = "Alexander"
+		dynasty = "McDonald"
+		birth_date = 1404.1.1
+		death_date = 1449.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+
+1434.1.1 = {
+	heir = {
+		name = "John"
+		monarch_name = "John II"
+		dynasty = "McDonald"
+		birth_date = 1434.1.1
+		death_date = 1503.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+
+1449.1.1 = {
+	monarch = {
+		name = "John II"
+		dynasty = "McDonald"
+		birth_date = 1434.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+
+1560.8.1   = { religion = reformed }

@@ -1,0 +1,118 @@
+#Gefьrstete Grafschaft Tirol
+
+graphical_culture = westerngfx
+
+color = { 170 43 21 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	spy_ideas
+ 	innovativeness_ideas
+	administrative_ideas
+	religious_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Ferdinand #0" = 40
+	"Friedrich #0" = 40
+	"Maximilian #0" = 40
+	"Albrecht #5" = 20
+	"Leopold #1" = 20
+	"Ernst #0" = 20
+	"Ferdinand Karl #0" = 20
+	"Sigismund #0" = 20
+	"Sigismund Franz #0" = 20
+	"William #0" = 20
+	"Johann #0" = 15
+	"Wolfgang #0" = 15
+	"Adalbert #0" = 0
+	"Adolf #0" = 0
+	"Alfred #0" = 0
+	"Benedict #0" = 0
+	"Benno #0" = 0
+	"Bruno #0" = 0
+	"Christian #0" = 0
+	"Christoph #0" = 0
+	"Clemens #0" = 0
+	"Florian #0" = 0
+	"Gerhardt #0" = 0
+	"Gregor #0" = 0
+	"Gunter #0" = 0
+	"Henry #0" = 0
+	"Herman #0" = 0
+	"Humbert #0" = 0
+	"Isaac #0" = 0
+	"Isidore #0" = 0
+	"Jacob #0" = 0
+	"Jorg #0" = 0
+	"Michael #0" = 0
+	"Oscar #0" = 0
+	"Otto #0" = 0
+	"Raphael #0" = 0
+	"Siegfried #0" = 0
+	"Stefan #0" = 0
+	"Ulrich #0" = 0
+	"Victor #0" = 0
+
+	"Iris #0" = -1
+	"Julia #0" = -1
+	"Catherine #0" = -1
+}
+
+leader_names = {
+	"Abentung"
+	"Ashbacher"
+	"Blathl"
+	"Bucher"
+	"Eisenstecken"
+	"Haglitner"
+	"Haspinger"
+	"Hofer"
+	"Krismer"
+	"Luger"
+	"Olasser"
+	"Pfurtscheller"
+	"Rapp"
+	"Santer"
+	"Schaulle"
+	"Shpecbacher"
+	"Straub"
+	"Talguter"
+}
+
+ship_names = {
+	"Innsbruck"
+	"Inn"
+	"Kufstein"
+	"Bosen"
+	"Meran"
+	"Brixen"
+	"Brenner"
+	"Stubaytal"
+	"Estalel"
+	"Zillertal"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$"
+}

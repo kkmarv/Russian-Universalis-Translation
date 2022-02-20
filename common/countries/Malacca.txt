@@ -1,0 +1,105 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+
+color = { 100  96  197 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	religious_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+leader_names = {
+	"Abdulfata"
+	"Ahmad"
+	"Amir"
+	"Anwar"
+	"Azmi"
+	"Batuta"
+	"Chairul"
+	"Hamza"
+	"Hasanuddin"
+	"Ibnu"
+	"Kiyai"
+	"Mahat"
+	"Mukhtar"
+	"Najamuddin"
+	"Nathzar"
+	"Nazmizan"
+	"Roy"
+	"Syarifuddin"
+	"Zulkiffles"
+}
+
+monarch_names = {
+	"Aghi himself #0" = 10
+	"Paramesvara #0" = 10
+	"Megat Iskander #0" = 10
+	"Muhammad Shah #0" = 10
+	"Abu Suahid #0" = 10
+	"Muzaffar Shah #0" = 10
+	"Mansour Shah #0" = 10
+	"Riyat Shah #0" = 10
+	"Mahmoud Shah #0" = 10
+	"Abd al-Jalil Shah #0" = 10
+	"Mayayat Shah #0" = 10
+	"Ibrahim Shah #0" = 10
+	"Rahmat Shah #0" = 10
+	"Suleiman Badr Shah #0" = 10
+	"Mubarak Shah #0" = 10
+	"Mahmoud Riyat Shah #0" = 10
+	"Abd al-Rahman Shah #0" = 10
+	"Raj Kasim #0" = 10
+	
+	"Azura #0" = -1
+	"'Smart #0" = -1
+	"Hafeza #0" = -1
+	"Aisha #0" = -1
+	"Azura #0" = -1
+}
+
+ship_names = {
+	"Paramesvara"
+	"Sultan Iskander"
+	"Bendahara"
+	"Laxamana"
+	"Temeng Kong"
+	"Pengulu Bendahari"
+	"Shahbandar"
+	"Hukum Kanun"
+	"Oundang-Undang"
+	"Pulau Bakung"
+	"Pulau Lingga"
+	"Capulauan"
+	"Pulau Singkep"
+	"Capulauan Riau"
+	"Pulau Rempang"
+	"Pulau Kundur"
+	"Pulau Padang"
+	"Pulau Bengkaus"
+	"Pulau Tinggi"
+	"Pulau Shibu"
+	"Pulau Tioman"
+	"Pulau Aur"
+	"Pulau Rupat"
+	"Pulau Rangsang"
+	"Pulau Tebing Tinggi"
+}

@@ -1,0 +1,138 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 251 251 251 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	maritime_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"David #0" = 20
+	"Mkhitar #0" = 20
+	"Ashot #4" = 15
+	"Gagik #2" = 15
+	"Smbat #3" = 15
+	"Abbas #1" = 15
+	"Ovanes Smbat #1" = 15
+	"Wagram #1" = 10
+	"Museh #0" = 10
+	"Sahak #0" = 10
+	"Tachar #0" = 10
+	"Arakel #0" = 0
+	"Ari #0" = 0
+	"Armen #0" = 0
+	"Arsen #0" = 0
+	"Arshavir #0" = 0
+	"Avedis #0" = 0
+	"Badugan #0" = 0
+	"Thigh #0" = 0
+	"Berjuhi #0" = 0
+	"Godos #0" = 0
+	"Gukas #0" = 0
+	"Hagop #0" = 0
+	"Haig #0" = 0
+	"Hovhannes #0" = 0
+	"Ovsep #0" = 0
+	"Girair #0" = 0
+	"Capriel #0" = 0
+	"Karayan #0" = 0
+	"Kevork #0" = 0
+	"Hajjag #0" = 0
+	"Cricor #0" = 0
+	"Lavon #0" = 0
+	"Movses #0" = 0
+	"Nairi #0" = 0
+	"Sevan #0" = 0
+	"Taniel #0" = 0
+	"Vagan #0" = 0
+	"Zadig #0" = 0
+	"Zoravan #0" = 0
+
+	"Adrinna #0" = -1
+	"Alsapet #0" = -1
+	"Sarina #0" = -1
+}
+
+leader_names = {
+	"Adamyan"
+	"Adomyan"
+	"Aghajanian"
+	"Altuanian"
+	"Hpkaryan"
+	"Baghyan"
+	"Babayan"
+	"Babikyan"
+	"Chobanyan"
+	"Bobanyan"
+	"Damadian"
+	"Eskandaryan"
+	"Kapikyan"
+	"Kazanjian"
+	"Kebabyan"
+	"Kevorkian"
+	"Hachikyan"
+	"Khachaturian"
+	"Kirlian"
+	"Mergelyan"
+	"Orbeli"
+	"Poghosyan"
+	"Sadyan"
+	"Simjanyan"
+	"Sevanyan"
+	"Maimaryan"
+	"Shaginyan"
+}
+
+ship_names = {
+	"Aramu"
+	"Argishtis"
+	"Ararat"
+	"Ani"
+	"Artsakh"
+	"Dvin"
+	"Erimena"
+	"Hike"
+	"Haldi"
+	"Ishpuinis"
+	"Kars"
+	"Lutipri"
+	"Musasir"
+	"Menuas"
+	"Manzikert"
+	"Parisos"
+	"Rusasus II"
+	"Sivini"
+	"Celardi"
+	"Sardouri I"
+	"Sardouri II"
+	"Vaspurakan"
+	"Yerevan"
+}

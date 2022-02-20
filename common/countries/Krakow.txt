@@ -1,0 +1,117 @@
+graphical_culture = easterngfx
+
+color = { 138  193  231 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	quality_ideas
+	religious_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Boleslav #5" = 20
+	"Vladislav #4" = 20
+	"Casimir #3" = 15
+	"Meshko #3" = 15
+	"Leszek #2" = 10
+	"Przemysław #2" = 10
+	"Wenceslas #2" = 10
+	"Adrian #0" = 0
+	"Alexander #0" = 0
+	"Alexey #0" = 0
+	"Andrzej #0" = 0
+	"Anthony #0" = 0
+	"Aaron #0" = 0
+	"Bartholomew #0" = 0
+	"Boris #0" = 0
+	"Caesar #0" = 0
+	"Cybor #0" = 0
+	"David #0" = 0
+	"Eliash #0" = 0
+	"Ivan #0" = 0
+	"Isaac #0" = 0
+	"Jakub #0" = 0
+	"Jozef #0" = 0
+	"Lech #0" = 0
+	"Ludwig #0" = 0
+	"Lukash #0" = 0
+	"Marek #0" = 0
+	"Mateusz #0" = 0
+	"Michal #0" = 0
+	"Miroslav #0" = 0
+	"Nicodemus #0" = 0
+	"Paul #0" = 0
+	"Rafal #0" = 0
+	"Samuel #0" = 0
+	"Sebastian #0" = 0
+	"Stanislav #0" = 0
+	"Shimon #0" = 0
+	"Tadeusz #0" = 0
+	"Tomasz #0" = 0
+	"Zacharias #0" = 0
+	
+	"Regina #0" = -1
+	"Ursula #0" = -1
+	"Kasya #0" = -1
+}
+
+leader_names = {
+	"Artsishevsky"
+	"Benevsky" "Bidzinsky" "Branicki"
+	"Czarniecki" "Khometsky"
+	"Dunin" "Denhoff" "Jevitsky"
+	"Grodzicki" "Hill"
+	"Hawwaldt"
+	"Yablonowski" "Yazlovetsky"
+	"Kurozvetsky" "Kurbsky" "Konecpolsky" "Kostsyushko" "Krasinsky" "Kalinowsky" "Korytsky" "Kazanovsky" "Kita"
+	"Lubomirski" "Lisovsky" "Lantskoronsky" "Leszczynski" "Łacki"
+	"Malsky" "Mnishek" "Matchynsky" "Mlodzeyevsky"
+	"Ostrozhsky" "Olesnitsky" "Opatsky" "Ozarovsky" "Ossolinsky"
+	"Panevsky" "Patkul" "Poniatowski" "Pulaski" "Przyemsky" "Pyasechinsky" "Pototsky"
+	"Rytviansky" "Zhevusky"
+	"Sobesky" "Sagaidachny" "Semenovich" "Sulkowski" "Stadnitsky" "Sieniawski"
+	"Tarnovsky"
+	"Vykhovsky" "Wielopolski"
+	"Zamoysky" "Zebydowski" "Zasvilikhovsky" "Zborovski" "Zbarsky"
+}
+
+ship_names = {
+	"Noego Arch"
+        "Byala Augel" "Boozha" "Byala Leo" "Brzeko-Kujawskie" "Bielskie" "Bratslavske"
+        "Haritas" "Charney Auger" "Charney Crook" "Chelminsk" "Chernikhivsk"
+        "Fortune"
+        "Gryff" "Gvyazda" "Gniezenskie"
+	"Inovorclavske"
+	"Krul David" "Kaliske" "Krakow" "Kievsk" "Krakow"
+        "Lublin" "Latajaci Eleni" "Lviv" "Leciske" "Lubelskie"
+        "Little Byala Augel" "Malborske" "Mazovetske"
+        "Influence" "New Charne Auger"
+        "Prophet Samuel" "Panna Vodna" "Fleece" "Poznansk" "Plockke" "Podlaska" "Podolsk"
+	"Knight Sveta Yerzy" "Ravske" "Russke"
+        "Szheletz" "Sovereigns ." "Lights Peter" "Seradzke" "Sandomersk" "Lights of Kazimierz"
+        "Wielke Słonce" "Vodnik" "Warminskie" "Volynske" "Warsaw"
+        "Acknowledgement" "Zulty Lev"
+}

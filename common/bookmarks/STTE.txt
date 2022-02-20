@@ -1,0 +1,26 @@
+bookmark =
+{
+	name = "Russian Univeralis Mod"
+	desc = "It brings together all the countries that have changed in this mod and we would recommend you to play. If you are playing this game for the first time, I should note that the default page opens with the Ottoman Rise. I should also note that lightweight countries are highlighted by a yellow glow."
+	date = 1444.11.11
+	
+	center = 295
+	
+	
+	country = MOS
+	country = BYZ
+	country = POL	
+	country = LIT
+	country = ENG
+	country = HAB
+	country = AAC
+	country = BRA
+	country = HUN
+	country = SER
+	
+	easy_country = MOS
+	easy_country = POL
+	easy_country = BRA
+	easy_country = HAB
+	easy_country = LIT
+}

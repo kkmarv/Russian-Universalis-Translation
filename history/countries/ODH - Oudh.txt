@@ -1,0 +1,164 @@
+government = monarchy
+add_government_reform = iqta
+technology_group = indian
+religion = shiite
+primary_culture = avadhi
+capital = 523	# Lucknow
+
+# Nawabs of Awadh/Oudh
+
+1724.10.9 = {
+	government_rank = 1
+	monarch = {
+		name = "Muhammad Saadat Khan"
+		dynasty = "Avadh"
+		ADM = 5
+		DIP = 6
+		MIL = 5
+	}
+}
+
+1724.10.9 = {
+	heir = {
+		name = "Muhammad Safdar Khan"
+		monarch_name = "Muhammad Safdar Khan"
+		dynasty = "Avadh"
+		birth_date = 1708.1.1
+		death_date = 1754.10.5
+		claim = 95
+		ADM = 2
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1739.3.19 = {
+	monarch = {
+		name = "Muhammad Safdar Khan"
+		dynasty = "Avadh"
+		ADM = 2
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1739.3.19 = {
+	heir = {
+		name = "Shuja al-Dawla"
+		monarch_name = "Shuja al-Dawla"
+		dynasty = "Avadh"
+		birth_date = 1732.1.19
+		death_date = 1775.1.26
+		claim = 95
+		ADM = 1
+		DIP = 1
+		MIL = 0
+	}
+}
+
+1754.10.5 = {
+	monarch = {
+		name = "Shuja al-Dawla"
+		dynasty = "Avadh"
+		ADM = 1
+		DIP = 1
+		MIL = 0
+	}
+}
+
+1754.10.5 = {
+	heir = {
+		name = "Asaf al-Dawlah"
+		monarch_name = "Asaf al-Dawlah"
+		dynasty = "Avadh"
+		birth_date = 1748.9.23
+		death_date = 1797.1.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 2
+	}
+}
+
+1775.1.26 = {
+	monarch = {
+		name = "Asaf al-Dawlah"
+		dynasty = "Avadh"
+		ADM = 0
+		DIP = 0
+		MIL = 2
+	}
+}
+
+1775.1.26 = {
+	heir = {
+		name = "Wazir Ali"
+		monarch_name = "Wazir Ali"
+		dynasty = "Avadh"
+		birth_date = 1748.9.23
+		death_date = 1798.1.1
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1797.1.1 = {
+	monarch = {
+		name = "Wazir Ali"
+		dynasty = "Avadh"
+		ADM = 3
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1797.1.1 = {
+	heir = {
+		name = "Saadat Ali"
+		monarch_name = "Saadat Ali Khan"
+		dynasty = "Avadh"
+		birth_date = 1752.1.1
+		death_date = 1814.7.11
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1798.1.1 = {
+	monarch = {
+		name = "Saadat Ali Khan"
+		dynasty = "Avadh"
+		ADM = 1
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1798.1.1 = {
+	heir = {
+		name = "Gazi oud-Din Haidar"
+		monarch_name = "Gazi oud-Din Haidar"
+		dynasty = "Avadh"
+		birth_date = 1769.1.1
+		death_date = 1827.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 3
+	}
+}
+		
+
+1814.1.1 = {
+	monarch = {
+		name = "Gazi oud-Din Haidar"
+		dynasty = "Avadh"
+		ADM = 2
+		DIP = 2
+		MIL = 3
+	}
+}

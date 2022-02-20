@@ -1,0 +1,134 @@
+graphical_culture = muslimgfx
+
+color = { 255  220  104 } 
+
+revolutionary_colors = { 5  0  1 }
+
+historical_idea_groups = {
+	maritime_ideas
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Muhammad #2" = 40
+	"Ahmed #1" = 40
+	"Kansuh #0" = 40
+	"Tumanbei #0" = 40
+	"Inal #0" = 20
+	"Hushkadam #1" = 20
+	"Abd al-Aziz #0" = 20
+	"Al-Mustaine #0" = 20
+	"al-Nasr Faraj #0" = 20
+	"Barsbay #0" = 20
+	"Jackmak #0" = 20
+	"Kaitbei #0" = 20
+	"Sheikh Al-Mahmoudi #0" = 20
+	"Timurbugha #0" = 20
+	"Osman #0" = 20
+	"Yalbai #0" = 20
+	"Janbulat #0" = 20
+	"Yusuf #0" = 20
+	"Barcouc #1" = 15
+	"Ali #2" = 10
+	"Baybars #2" = 10
+	"Hadji #2" = 10
+	"Shaban #2" = 10
+	"Abu Bakr #1" = 10
+	"Al-Hassan #1" = 10
+	"Ismayil #1" = 10
+	"Kujuk #1" = 10
+	"Salih #1" = 10
+	"Abd al-Malik #0" = 0
+	"Bassir #0" = 0
+	"Fadl #0" = 0
+	"Gait #0" = 0
+	"Hatim #0" = 0
+	"Ilyas #0" = 0
+	"Jabir #0" = 0
+	"Nadim #0" = 0
+	"Nizar #0" = 0
+	"Kasim #0" = 0
+	"Sadi #0" = 0
+	"Sayyid #0" = 0
+	"Yunus #0" = 0
+	
+	"Shahir #0" = -1
+	"Yusra #0" = -1
+	"Asma #0" = -1
+}
+
+leader_names = {
+ 	"Ali"
+	"Aybak"
+	"Baybars"
+	"Bai"
+	"Bay"
+	"Bugha"
+	"Inal"
+	"Kansour"
+	"Sayfuddin"
+	"Zangi"
+}
+
+ship_names = {
+	 "Zaher Barkuk"
+	"Farag Ben Barkuk"
+	"Ben Barkuk"
+	"Muyaid Sheikh"
+	"Ahmen Muyaid"
+	"Zaher Tatar"
+	"Nasser Muhammad"
+	"Ashraf Barsbai"
+	"Aziz Gamal"
+	"Nahr al-Nil"
+	"Al-Farafira"
+	"ad-Dakhil"
+	"Al-Harijah"
+	"Al-Ali"
+	"Al-Baria"
+	"Rahman"
+	"Rahim"
+	"Malik"
+	"Kuddus"
+	"Salam"
+	"Mumin"
+	"Muhaymin"
+	"Aziz"
+	"Jabbar"
+	"Mutacabbir"
+	"Halik"
+	"Bari"
+	"Musavvir"
+	"Haffar"
+	"Kahhar"
+	"Wahhab"
+	"Razzaq"
+	"Fatta"
+	"Alim"
+	"Kabid"
+	"Basit"
+	"Hafid"
+	"Rafi"
+	"Muizz"
+	"Moodhill"
+	"Sami"
+	"Bassir"
+	"Hakam"
+	"Adl"
+}

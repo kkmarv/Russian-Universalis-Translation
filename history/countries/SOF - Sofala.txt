@@ -1,0 +1,307 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = sub_saharan
+religion = shamanism #Fetishism
+primary_culture = mali
+capital = 1131	# Goundam
+
+
+#Bambara
+#Kings of Segu
+1600.1.1 = {
+	monarch = {
+		name = "Barama Ngolo"
+		dynasty = "Culibali"
+		dip = 5
+		adm = 5
+		mil = 3
+	}
+}
+
+1630.1.1 = {
+	heir = {
+		name = "Caladian"
+		monarch_name = "Caladian"
+		dynasty = "Culibali"
+		birth_date = 1630.1.1
+		death_date = 1682.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1652.1.1 = {
+	monarch = {
+		name = "Caladian"
+		dynasty = "Culibali"
+		dip = 3
+		adm = 5
+		mil = 5
+	}
+}
+
+1652.1.1 = {
+	heir = {
+		name = "Danfasri"
+		monarch_name = "Danfasri"
+		dynasty = "Culibali"
+		birth_date = 1652.1.1
+		death_Date = 1697.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+1682.1.1 = {
+	monarch = {
+		name = "Danfasri"
+		dynasty = "Culibali"
+		dip = 4
+		adm = 1
+		mil = 1
+	}
+}
+
+1682.1.1 = {
+	heir = {
+		name = "Soma"
+		monarch_name = "Soma"
+		dynasty = "Culibali"
+		birth_date = 1682.1.1
+		death_Date = 1712.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1697.1.1 = {
+	monarch = {
+		name = "Soma"
+		dynasty = "Culibali"
+		dip = 3
+		adm = 1
+		mil = 2
+	}
+}
+
+1697.1.1 = {
+	heir = {
+		name = "Beaton Mamari"
+		monarch_name = "Beaton Mamari"
+		dynasty = "Culibali"
+		birth_date = 1695.1.1
+		death_date = 1755.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1712.1.1 = {
+	monarch = {
+		name = "Beaton Mamari"
+		dynasty = "Culibali"
+		dip = 4
+		adm = 3
+		mil = 2
+	}
+}
+
+1712.1.1 = {
+	heir = {
+		name = "Denkoro"
+		monarch_name = "Denkoro"
+		dynasty = "Diarra"
+		birth_date = 1700.1.1
+		death_date = 1757.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+}
+
+1755.1.1 = {
+	monarch = {
+		name = "Denkoro"
+		dynasty = "Diarra"
+		dip = 0
+		adm = 3
+		mil = 1
+	}
+}
+
+1755.1.1 = {
+	heir = {
+		name = "Bakary"
+		monarch_name = "Bakary"
+		dynasty = "Diarra"
+		birth_date = 1735.1.1
+		death_date = 1757.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1757.1.1 = {
+	monarch = {
+		name = "Bakary"
+		dynasty = "Diarra"
+		dip = 0
+		adm = 0
+		mil = 0
+	}
+}
+
+1757.1.1 = {
+	heir = {
+		name = "Tonmansa Demele"
+		monarch_name = "Tonmansa Demele"
+		dynasty = "Diarra"
+		birth_date = 1720.1.1
+		death_date = 1760.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1757.7.1 = {
+	monarch = {
+		name = "Tonmansa Demele"
+		dynasty = "Diarra"
+		dip = 1
+		adm = 1
+		mil = 1
+	}
+}
+
+1757.7.1 = {
+	heir = {
+		name = "Canuba Nyama"
+		monarch_name = "Canuba Nyama"
+		dynasty = "Diarra"
+		birth_date = 1740.1.1
+		death_date = 1763.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1760.1.1 = {
+	monarch = {
+		name = "Canuba Nyama"
+		dynasty = "Diarra"
+		dip = 2
+		adm = 2
+		mil = 4
+	}
+}
+
+1760.1.1 = {
+	heir = {
+		name = "Kafadiogu"
+		monarch_name = "Kafadiogu"
+		dynasty = "Diarra"
+		birth_date = 1730.1.1
+		death_date = 1766.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1763.1.1 = {
+	monarch = {
+		name = "Kafadiogu"
+		dynasty = "Diarra"
+		dip = 3
+		adm = 2
+		mil = 1
+	}
+}
+
+1763.1.1 = {
+	heir = {
+		name = "Nolo"
+		monarch_name = "Nolo"
+		dynasty = "Diarra"
+		birth_date = 1730.1.1
+		death_date = 1790.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1766.1.1 = {
+	monarch = {
+		name = "Nolo"
+		dynasty = "Diarra"
+		dip = 3
+		adm = 4
+		mil = 4
+	}
+}
+
+1766.1.1 = {
+	heir = {
+		name = "Monson"
+		monarch_name = "Monson"
+		dynasty = "Diarra"
+		birth_date = 1750.1.1
+		death_date = 1808.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}
+
+1790.1.1 = {
+	monarch = {
+		name = "Monson"
+		dynasty = "Diarra"
+		dip = 2
+		adm = 0
+		mil = 2
+	}
+}
+
+1790.1.1 = {
+	heir = {
+		name = "Tonkomo"
+		monarch_name = "Tonkomo"
+		dynasty = "Diarra"
+		birth_date = 1780.1.1
+		death_date = 1827.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}
+
+1808.1.1 = {
+	monarch = {
+		name = "Tonkomo"
+		dynasty = "Diarra"
+		dip = 2
+		adm = 0
+		mil = 2
+	}
+}

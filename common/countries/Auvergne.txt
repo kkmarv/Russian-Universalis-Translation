@@ -1,0 +1,197 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 248 207 70 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Bertrand #0" = 40
+	"Jean #2" = 20
+	"Karl #0" = 20
+	"Karl Phillip #0" = 20
+	"Guy #2" = 10
+	"Anna #0" = -10
+	"Katerina #0" = -10
+	"Jeanne #1" = -10
+	"Margarita #0" = -10
+	"Maria #0" = -10
+	"Guillaume #13" = 1
+	"Robert #7" = 1
+	"Bernard #2" = 1
+	"America #0" = 0
+	"Henriu #0" = 0
+	"Arno #0" = 0
+	"Berange #0" = 0
+	"Berna #0" = 0
+	"Borel #0" = 0
+	"Domain #0" = 0
+	"Emeric #0" = 0
+	"Enric #0" = 0
+	"Esteve #0" = 0
+	"Philippe #0" = 0
+	"Guilhem #0" = 0
+	"Guy #0" = 0
+	"Joffre #0" = 0
+	"Joan #0" = 0
+	"Jordi #0" = 0
+	"Jules #0" = 0
+	"Per #0" = 0
+	"Ponce #0" = 0
+	"Repair #0" = 0
+	"Roger #0" = 0
+	"Serge #0" = 0
+	"Sikar #0" = 0
+	"Thibao #0" = 0
+	"Tom #0" = 0
+	"Victor #0" = 0
+	"Xavier #0" = 0
+}
+
+leader_names = {
+	"d'Alegre"
+	"d'Altier de Borne"
+	"d'Upshone"
+	"d'Harpheill"
+	"Arno"
+	"d'Arpaignon"
+	"de Bafier"
+	"de Balzac"
+	"Barbay"
+	"de Basraedon"
+	"de Beaujolais"
+	"de Blanchfort"
+	"Bouiller du Charilles"
+	"Brasse"
+	"de Brossadol"
+	"de Bruges"
+	"de Canillac"
+	"de la Barte"
+	"de Cardillac"
+	"de Carla"
+	"de Custer"
+	"de Chalenson"
+	"de Chazeron"
+	"de Clermon"
+	"de Cresac"
+	"du Crock"
+	"de Fougere"
+	"de Grançaigner"
+	"d'Humiere"
+	"de Lavier"
+	"de Maniac"
+	"de Massebo"
+	"de Merque"
+	"de Montboissier"
+	"de Montgaskon"
+	"de Montpensier"
+	"de Monver"
+	"de Nerestan"
+	"d'Auger"
+	"de Pennottier"
+	"de Pascal"
+	"de Polignac"
+	"de la Keul"
+	"de Rochefort d'Ellie"
+	"de Roger-Beaufort"
+	"de Saint-Necterre"
+	"de Corail"
+	"de Terrever"
+	"de Thierre"
+	"d'Usselle"
+}
+
+ship_names = {
+	"Egye"
+	"Artance"
+	"Bann d'Ordanche"
+	"Sesaye"
+	"Schodefour"
+	"Clierge"
+	"Clyers"
+	"Den de la Rancun"
+	"Gu de Tazena"
+	"Lac Chauvet"
+	"Lac de Ghery"
+	"Lac du Joland"
+	"Lac Pavin"
+	"Lac de Servière"
+	"Mandaye"
+	"Mon Dor"
+	"Nars d'Espinasse"
+	"Orge de Bohr"
+	"Per Ars"
+	"Plomble du Cantal"
+	"Pui Chavaroche"
+	"Puy de l'Angle"
+	"Puy de Bohr"
+	"Pui de Com"
+	"Puy de Dom."
+	"Puy de Goul"
+	"Pui de la Groosse."
+	"Pui de Lassola."
+	"Pui de Monnet"
+	"Pui de Monchal"
+	"Pui de Moncinaire."
+	"Pui de Montenar."
+	"Pui de Paire."
+	"Pui de la Perdri."
+	"Pui de Sancy."
+	"Puy de Seychez."
+	"Pui de la Tash"
+	"Pui de Tartaré."
+	"Puy de la vas"
+	"Pui Yen Vele."
+	"Pui Ferran"
+	"Pui Griu"
+	"Pui Gro"
+	"Pui Marie"
+	"Pui Violin"
+	"Rochefort Montagnier"
+	"Roche Tuillette"
+	"Sanadua"
+	"Sarkuy"
+	"Cignal du Luge"
+}
+
+army_names = {
+	"Auvergne army"
+	"Clermon's Army"
+	"Montpensier Army"
+	"Vele Army"
+	"Brivadua army"
+	"Army of the Auvergne dauphin"
+	"Gran Limani Army"
+	"Livradua Army"
+	"Kantal Army"
+	"La Margerida Army"
+	"Provincial Army. $PROVINCE$"
+}

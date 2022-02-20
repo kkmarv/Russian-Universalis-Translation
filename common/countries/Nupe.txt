@@ -1,0 +1,89 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 211  84  79 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+	religious_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	african_spearmen
+	mali_tribal_warfare
+	african_hill_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+	african_western_franchise_warfare
+	african_mandelaku
+	african_tuareg_cavalry
+	african_mossi_horsemen
+	african_hussar
+	african_dragoon
+}
+
+
+monarch_names = {
+	"Edegi #0" = 20
+	"Abdu Waliya #0" = 20
+	"Aliu #0" = 20
+	"Ganamace #0" = 20
+	"Ibrahim #0" = 20
+	"Idirisu #0" = 20
+	"Abdullihi 'Tsado #0" = 20
+	"Abu Bakr Colo #0" = 20
+	"Jibirin dan Abu Bakr Colo #0" = 20
+	"Ma'azu #0" = 20
+	"Majiya #0" = 20
+	"Iliasu #0" = 20
+	"Ali Colo Tankari #0" = 20
+	"Mamma #0" = 20
+	"Jimada #0" = 20
+	"Gia #0" = 20
+	"Masaba #0" = 20
+	"Maza #0" = 20
+	"Ma'azu 'Isa #0" = 20
+	"Tsoede #0" = 20
+	"'Usumar Zaki #0" = 20
+	"'Umaru Majigi #0" = 20
+	"Maliki #0" = 20
+	"Abu Bakr #0" = 20
+	"Muhammad #0" = 20
+	"Bello #0" = 20
+	"Malam #0" = 20
+	"'Usmar Sarki #0" = 20
+	"'Umaru Sanda Ndayako #0" = 20
+	"Yahaya #0" = 20
+	
+	"Abagbe #0" = -1
+	"Abegi #0" = -1
+	"Abeye #0" = -1
+	"Oluremy #0" = -1
+	"Titilayo #0" = -1
+}
+
+leader_names = {
+	Ubah
+	Umaru
+	Aliu
+	Solaja
+	Ocara
+	Ayuva
+	Ezinva
+	Kanu
+	Oprah
+	Rufai
+}
+
+ship_names = {
+	Oranian Ajaka Sango "Oio-Ille" Dduva
+	"Oloron Olodumare" "Ile-Ife" Odoua
+	Obatala "O'odoa" "Ile n'fe"
+}

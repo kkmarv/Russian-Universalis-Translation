@@ -1,0 +1,100 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 61 145 57 }
+
+revolutionary_colors = { 1  0  10 }
+
+historical_idea_groups = {
+	humanist_ideas
+	influence_ideas
+	administrative_ideas
+	aristocracy_ideas
+	economic_ideas
+	trade_ideas
+	offensive_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Muhammad #6" = 140
+	"Yusuf #2" = 60
+	"Alo #0" = 20
+	"Saad #0" = 20
+	"Ismayil #2" = 10
+	"Nasr #1" = 5
+	"Abd al-Karim #0" = 0
+	"Ayman #0" = 0
+	"Barracat #0" = 0
+	"Bassir #0" = 0
+	"Dawood #0" = 0
+	"Fahd #0" = 0
+	"Faris #0" = 0
+	"Farouk #0" = 0
+	"Firdaus #0" = 0
+	"Fouad #0" = 0
+	"Haidar #0" = 0
+	"Hashim #0" = 0
+	"Husam #0" = 0
+	"Iqbal #0" = 0
+	"Jabbar #0" = 0
+	"Jafar #0" = 0
+	"Jamal #0" = 0
+	"Junyde #0" = 0
+	"Halik #0" = 0
+	"Malik #0" = 0
+	"Mansour #0" = 0
+	"Mustafa #0" = 0
+	"Najib #0" = 0
+	"Kasim #0" = 0
+	"Kusey #0" = 0
+	"Rahim #0" = 0
+	"Rashid #0" = 0
+	"Safi #0" = 0
+	"Sugar #0" = 0
+	"Samir #0" = 0
+	"Tariq #0" = 0
+	"Umar #0" = 0
+	"Wahid #0" = 0
+	"Zahir #0" = 0
+	
+	"Aliya #0" = -1
+	"Fahima #0" = -1
+	"Haifa #0" = -1
+}
+
+leader_names = {
+	"Ibn Abd al-Rahman" "Ibn Abbad" "Ibn Abd Allah" "Ibn Abi Hafs" "Ibn al-Azafi" "Ibn Ali"
+	"Ibn Hakan" "Ibn Hammud" "Ibn Khisam" "Ibn Hussein"
+	"Ibn Idris" "Ibn Ishaq" "Ibn Ismail"
+	"Ibn Marwan" "Ibn Muhammad" "Ibn Nasr" "Ibn Kasim" "Ibn Saad" "Ibn Suleiman"
+	"Ibn Umar" "Ibn Umma" "Ibn Uthman" "Ibn Jafar" "Ibn Yahya" "Ibn Yusuf"
+}
+
+ship_names = {
+	"Muhammad ibn Nasr" "Muhammad Al-Faqih"
+	"Muhammad III" Nasr "Ismayil I" "Muhammad IV"
+	"Yusuf I" "Muhammad V" "Ismayil II" "Muhammad VI"
+	"Yusuf II" "Muhammad VII" "Yusuf III" "Muhammad VIII"
+	"Muhammad IX" "Yusuf IV" "Yusuf V" "Muhammad X"
+}
+
+
+army_names = {
+	"JASH-al-$PROVINCE$" 
+}
+
+fleet_names = {
+	"Alboran squadron" "Balearic squadron" "Squadron Jabal Tariq" 
+}

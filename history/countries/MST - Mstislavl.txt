@@ -1,0 +1,39 @@
+government = monarchy
+
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+primary_culture = byelorussian
+religion = orthodox
+capital = 292 # Mstislavl
+
+1180.1.1 = {
+	monarch = {
+		name = "Mstislav Romanovich Stariy"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1223.6.2 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1309.1.1 = {
+	monarch = {
+		name = "Ivan Andreyevich" # Random name. The princes are unknown at 1309, and Grabchev does not want to make a union.
+		dynasty = "Rurikovich"
+		birth_date = 1270.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

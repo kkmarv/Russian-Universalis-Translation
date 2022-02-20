@@ -1,0 +1,19 @@
+government = tribal
+add_government_reform = tribal_despotism
+primary_culture = mali
+religion = sunni
+technology_group = sub_saharan
+capital = 1148	# Gobir
+
+1804.1.1 = {
+	monarch = {
+		name = "Osman dan"
+		dynasty = "Fodio"
+		dip = 2
+		adm = 3
+		mil = 2
+	}
+	add_piety = -0.2
+	government = monarchy
+add_government_reform = autocracy_reform
+}

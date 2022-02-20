@@ -1,0 +1,454 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = kashmiri
+religion = vajrayana
+technology_group = indian
+capital = 2074	# Ladakh
+fixed_capital = 2074 # Cannot move capital away from this province & no power cost to move to it
+
+1430.1.1 = {	#Realm divided between 2 monarchs at this date.
+	monarch = {
+		name = "Gyalpo Takpa Bomlde."
+		dynasty = "Namgyal"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1430.1.1 = {
+	heir = {
+		name = "Lotus Chogaldan"
+		monarch_name = "Lotus Chogaldan"
+		dynasty = "Namgyal"
+		birth_date = 1430.1.1
+		death_Date = 1500.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1440.1.1 = {
+	government_rank = 1
+}
+
+1440.1.1 = {	
+	monarch = {
+		name = "Lhachen Chogdan"
+		dynasty = "Mau Yul"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1440.1.1 = {
+	heir = {
+		name = "Lhachen Bara"
+		monarch_name = "Lhachen Bara"
+		dynasty = "Mau Yul"
+		birth_date = 1440.1.1
+		death_Date = 1470.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1465.1.1 = {
+	monarch = {
+		name = "Lhachen Bara"
+		dynasty = "Mau Yul"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1470.1.2 = {
+	monarch = {
+		name = "Lhachen Bhagan"
+		dynasty = "Namgyal"
+		adm = 2
+		dip = 3
+		mil = 4
+		leader = {	name = "Lhachen Bhagan"            	type = general	fire = 3	shock = 4	manuever = 5	siege = 1 }
+	}
+}
+
+1470.1.2 = {
+	heir = {
+		name = "Lhavan"
+		monarch_name = "Lhavan"
+		dynasty = "Namgyal"
+		birth_date = 1460.1.1
+		death_Date = 1510.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1485.1.1 = {
+	monarch = {
+		name = "Lhavan"
+		dynasty = "Namgyal"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1485.1.1 = {
+	heir = {
+		name = "Lata Juhdan"
+		monarch_name = "Lata Juhdan"
+		dynasty = "Namgyal"
+		birth_date = 1480.1.1
+		death_Date = 1535.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1510.1.2 = {
+	monarch = {
+		name = "Lata Juhdan"
+		dynasty = "Namgyal"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1510.1.2 = {
+	heir = {
+		name = "Kundge"
+		monarch_name = "Kundge"
+		dynasty = "Namgyal"
+		birth_date = 1500.1.1
+		death_Date = 1550.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+1535.1.2 = {
+	monarch = {
+		name = "Kundge"
+		dynasty = "Namgyal"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+1535.1.2 = {
+	heir = {
+		name = "Tashi"
+		monarch_name = "Tashi"
+		dynasty = "Namgyal"
+		birth_date = 1510.1.1
+		death_Date = 1575.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+
+1550.1.2 = {
+	monarch = {
+		name = "Tashi"
+		dynasty = "Namgyal"
+		adm = 5
+		dip = 1
+		mil = 3
+		leader = {	name = "Tashi"            	type = general	fire = 2	shock = 3	manuever = 1	siege = 1 }
+	}
+}
+
+1550.1.2 = {
+	heir = {
+		name = "Cevang"
+		monarch_name = "Cevang I"
+		dynasty = "Namgyal"
+		birth_date = 1530.1.1
+		death_Date = 1595.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+1575.1.2 = {
+	monarch = {
+		name = "Cevang I"
+		dynasty = "Namgyal"
+		adm = 2
+		dip = 1
+		mil = 5
+		leader = {	name = "Cevang I"            	type = general	fire = 5	shock = 4	manuever = 3	siege = 2}
+	}
+}
+
+1575.1.2 = {
+	heir = {
+		name = "Jamyang"
+		monarch_name = "Jamyang"
+		dynasty = "Namgyal"
+		birth_date = 1550.1.1
+		death_Date = 1616.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1595.1.2 = {
+	monarch = {
+		name = "Jamyang"
+		dynasty = "Namgyal"
+		adm = 4
+		dip = 4
+		mil = 3
+		religion = sunni
+	}
+}
+
+1595.1.2 = {
+	heir = {
+		name = "Senge"
+		monarch_name = "Senge"
+		dynasty = "Namgyal"
+		birth_date = 1575.1.1
+		death_Date = 1642.1.1
+		claim = 95
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+}
+
+1616.1.2 = {
+	monarch = {
+		name = "Senge"
+		dynasty = "Namgyal"
+		adm = 6
+		dip = 4
+		mil = 6
+		religion = vajrayana
+	}
+}
+
+1630.1.1 = {
+	government_rank = 2
+}
+
+1616.1.2 = {
+	heir = {
+		name = "Deldan"
+		monarch_name = "Deldan"
+		dynasty = "Namgyal"
+		birth_date = 1600.1.1
+		death_Date = 1694.1.1
+		claim = 70
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+
+
+1642.1.2 = {
+	monarch = {
+		name = "Deldan"
+		dynasty = "Namgyal"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1642.1.2 = {
+	heir = {
+		name = "Nyima"
+		monarch_name = "Nyima"
+		dynasty = "Namgyal"
+		birth_date = 1620.1.1
+		death_Date = 1729.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1694.1.2 = {
+	monarch = {
+		name = "Nyima"
+		dynasty = "Namgyal"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1694.1.2 = {
+	heir = {
+		name = "Detsun"
+		monarch_name = "Detsun"
+		dynasty = "Namgyal"
+		birth_date = 1690.1.1
+		death_Date = 1739.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+
+1729.1.2 = {
+	monarch = {
+		name = "Detsun"
+		dynasty = "Namgyal"
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+
+1729.1.2 = {
+	heir = {
+		name = "Punzog"
+		monarch_name = "Punzog"
+		dynasty = "Namgyal"
+		birth_date = 1710.1.1
+		death_Date = 1753.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1739.1.2 = {
+	monarch = {
+		name = "Punzog"
+		dynasty = "Namgyal"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1739.1.2 = {
+	heir = {
+		name = "Cevang"
+		monarch_name = "Cevang II"
+		dynasty = "Namgyal"
+		birth_date = 1730.1.1
+		death_Date = 1782.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1753.1.2 = {
+	monarch = {
+		name = "Cevang II"
+		dynasty = "Namgyal"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1753.1.2 = {
+	heir = {
+		name = "Cetan"
+		monarch_name = "Cetan"
+		dynasty = "Namgyal"
+		birth_date = 1745.1.1
+		death_Date = 1802.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1782.1.2 = {
+	monarch = {
+		name = "Zat4"
+		dynasty = "Namgyal"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1782.1.2 = {
+	heir = {
+		name = "Chappal"
+		monarch_name = "Chappal"
+		dynasty = "Namgyal"
+		birth_date = 1760.1.1
+		death_Date = 1837.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1802.1.2 = {
+	monarch = {
+		name = "Chappal"
+		dynasty = "Namgyal"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1809.1.1 = {
+	government_rank = 2
+}
+
+1810.1.1 = {
+	heir = {
+		name = "Tondup Chain"
+		monarch_name = "Tondup Chain"
+		dynasty = "Namgyal"
+		birth_date = 1780.1.1
+		death_Date = 1834.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1820.1.1 = {
+	monarch = {
+		name = "Tondup Chain"
+		dynasty = "Namgyal"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}

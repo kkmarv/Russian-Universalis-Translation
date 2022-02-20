@@ -1,0 +1,74 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 23  110  90 }
+
+historical_idea_groups = {
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+	religious_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	indian_archers
+	indian_arquebusier
+	sikh_hit_and_run
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Gälpo #0" = 10
+	"Lotus #0" = 10
+	"Tashi #0" = 10
+	"Zevan #0" = 20
+	"Zhamkyang #0" = 10
+	"Shinge #0" = 10
+	"Deldan #0" = 10
+	"Nyuma #0" = 10
+	"Daeksen #0" = 10
+	"Funzog #0" = 10
+	"Cetan #0" = 10
+	"Chain #0" = 10
+	"Skalzan #0" = -1
+	"Nielsa #0" = -1
+	"Zizi #0" = -1
+	"Kunzan #0" = -1
+	"Mandok #0" = -1
+}
+
+leader_names = {
+	Kaplu
+	Shigar
+	Balti
+	Rupshu
+	Phocar
+	Karce
+	Mulbec
+	Zanskar
+	Heniscat
+	Purige
+	Sot
+}
+
+ship_names = {
+	Lech
+	Kaplu
+	Shigar
+	Balti
+	Rupshu
+	Phocar
+	Karce
+	Mulbec
+	Zanskar
+	Heniscat
+	Purige
+	Sot
+}

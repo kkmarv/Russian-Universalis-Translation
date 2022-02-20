@@ -1,0 +1,112 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = {  70 130 180  }
+
+historical_idea_groups = {
+	humanist_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	chinese_longspear
+	eastern_bow
+	chinese_footsoldier
+	chinese_steppe
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	manchu_banner
+	han_banner
+	asian_musketeer
+	chinese_dragoon
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+	reformed_manchu_rifle
+}
+
+monarch_names = {
+	"Akbarjin #0" = 20
+	"Adai #0" = 20
+	"Altan #0" = 20
+	"Arigaba #1" = 10
+	"Argutai #0" = 10
+	"Ayurparibhadra #1" = 10
+	"Bodie #0" = 20
+	"Beck #0" = 20
+	"Bahamu #0" = 20
+	"Bars #0" = 20
+	"Buyan #0" = 20
+	"Belikto #1" = 10
+	"Diane #0" = 20
+	"Darasun #0" = 20
+	"Delbeg #0" = 20
+	"Aj #1" = 10
+	"Elbeke #1" = 10
+	"Engke #1" = 10
+	"Guyuk #1" = 10
+	"Gong #0" = 20
+	"Ugechi #0" = 20
+	"Irijibal #1" = 10
+	"Zorigto #1" = 10
+	"Kubilai #1" = 10
+	"Huke #0" = 10
+	"Ligden #0" = 20
+	"Marcougis #0" = 10
+	"Muse #1" = 10
+	"Mulan #0" = 20
+	"Manduluun #0" = 20
+	"Ulj #0" = 20
+	"Uruguay #0" = 15
+	"Oiradai #0" = 20
+	"Ugaday #1" = 10
+	"Hissan #1" = 10
+	"Hoshila #1" = 10
+	"Sayan #0" = 20
+	"Shidebala #1" = 10
+	"Tohta #0" = 20
+	"Temudgin #1" = 10
+	"Temur #1" = 10
+	"Ton #1" = 10
+	"Tumen #0" = 10
+	"Tolui #1" = 10
+	"Tog #1" = 10
+	"Gone . #1" = 10
+	"Yusun #1" = 10
+	"Arigh #0" = 0
+	"Batu #0" = 0
+	"Elgigiday #0" = 0	
+	"Jucie #0" = 0
+
+	"Temulen #0" = -1
+	"Borte #0" = -1
+	"Manduhai #0" = -1
+	"Samara #0" = -1
+	"Zaufishan #0" = -1
+}
+
+leader_names = {
+	Borjigin Borjigin Borjigin Borjigin Borjigin Borjigin Borjigin Borjigin Borjigin Borjigin Borjigin # Ghengisid supremacy among the Mongols
+	Khalha Chahar Uryanhai Ordos Tumed Yunshiebu
+	Inchan Karakorum Huh-Hoto Chagaan
+	Noahan Dargan Van Horchin Onriut Abaga Abaganar Ast Karachin
+	Jurim Silingol Ulankab.
+}
+
+ship_names = {
+	Inchan Karakorum Huh-Hoto Chagaan
+	"Genghis Khan" Juchi Ugaday Tolui.
+	Munke Kubilai Hulagu Buke
+	Jinjim Kamala Dharmapala "Uruguay Temur"
+	Adai Elbek Batu Mughali "Boorchu" Chilown Beetle
+	Kubilai Jelme Jebe Subeday.
+	"Yelu Chuqai" Shihutug "Sorkan Shira" "Har Surgery"
+	"Durben kuluud" "Durban Noyas"
+}

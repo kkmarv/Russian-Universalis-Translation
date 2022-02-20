@@ -1,0 +1,171 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = polish
+religion = catholic
+technology_group = eastern
+capital = 262	# Krakow
+fixed_capital = 262 # Cannot move capital away from this province & no power cost to move to it
+historical_rival = GNE
+historical_rival = TEU
+historical_friend = LIT
+
+
+1305.1.1 = {
+	monarch = {
+		name = "Wenceslas III"
+		dynasty = "Przemyslovich"
+		birth_date = 1289.10.6
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}
+1306.1.1 = {
+	monarch = {
+		name = "Vladislav I Loketek"
+		dynasty = "Piast"
+		birth_date = 1261.1.19
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+}
+
+1530.1.1 = { set_legacy_government = administrative_monarchy }
+
+1540.1.1 = { government = republic
+set_legacy_government = administrative_republic  }
+
+1750.1.1 = { government = republic
+set_legacy_government = constitutional_republic }
+
+1815.5.3 = {
+	monarch = {
+		name = "National Assembly"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1815.11.2 = {
+	monarch = {
+		name = "Stanislav Vozditsky"
+		birth_date = 1764.7.27
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1827.1.1 = {
+	monarch = {
+		name = "Senate"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1827.12.18 = {
+	monarch = {
+		name = "Stanislav Vozditsky"
+		birth_date = 1764.7.27
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1831.1.19 = {
+	monarch = {
+		name = "Senate"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1833.3.24 = {
+	monarch = {
+		name = "Claudius Wilglowski"
+		birth_date = 1780.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1836.2.25 = {
+	monarch = {
+		name = "Senate"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1836.2.26 = {
+	monarch = {
+		name = "Jozef Haller"
+		birth_date = 1783.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1839.4.27 = {
+	monarch = {
+		name = "Jan Schindler"
+		birth_date = 1802.9.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1846.2.22 = {
+	monarch = {
+		name = "National government"
+		regent = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1846.2.24 = {
+	monarch = {
+		name = "Jan Tysosowski"
+		birth_date = 1811.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1846.3.3 = {
+	monarch = {
+		name = "Joseph Vikenty Vozditsky"
+		birth_date = 1800.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1846.11.16 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+

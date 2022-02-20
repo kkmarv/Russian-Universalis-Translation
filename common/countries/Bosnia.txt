@@ -1,0 +1,117 @@
+#Country Name: Please see filename
+
+graphical_culture = easterngfx
+
+color = { 240  167  130 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Stepan Tvrtko #1" = 20
+	"Stepan Ostoja #0" = 20
+	"Stepan Ostoic #0" = 20
+	"Stepan Tomasz #0" = 20
+	"Stepan Tomasevich #0" = 20
+	"Radio #0" = 15
+	"Shimun #0" = 15
+	"Duraj #5" = 10
+	"Tvrtko #0" = 10
+	"Matthew #0" = 10
+	"Stepan #2" = 5
+	"Alexander #0" = 0
+	"Andrei #0" = 0
+	"Antony #0" = 0
+	"Bogdan #0" = 0
+	"Bojan #0" = 0
+	"Borislav #0" = 0
+	"Danielle #0" = 0
+	"Darko #0" = 0
+	"Dubravko #0" = 0
+	"Goran #0" = 0
+	"Grgur #0" = 0
+	"Ivan #0" = 0
+	"Yadranko #0" = 0
+	"Josip #0" = 0
+	"Lubomir #0" = 0
+	"Marjan #0" = 0
+	"Meche #0" = 0
+	"Michael #0" = 0
+	"Nicola #0" = 0
+	"Orad #0" = 0
+	"Paul #0" = 0
+	"Peter #0" = 0
+	"Srechko #0" = 0
+	"Theodore #0" = 0
+	"Vasily #0" = 0
+	"Victor #0" = 0
+	"Wook #0" = 0
+	"Zoran #0" = 0
+	"Caller #0" = 0
+	
+	"Abida #0" = -1
+	"Besima #0" = -1
+	"Mahira #0" = -1
+}
+
+leader_names = {
+	"Babonich"
+	"Balsić"
+	"Branivoevich"
+	"Drazysic"
+	"Gradasevic"
+	"Hrvatinic"
+	"Isakovich"
+	"KASAKA"
+	"Kotromanich"
+	"Nelipic"
+	"Pavlovich"
+	"Radinovich"
+	"Sankovic"
+	"Santich"
+	"Sokolovich"
+	"Subic"
+	"Tvrtkovich"
+	"Vukasin"
+	"Vukcic"
+	"Vukovich"
+}
+
+ship_names = {
+	"Bosna"
+	"Bosnie"
+	"Dalmatia"
+	"Gazi Khusrev-beg"
+	"Kotromanici"
+	"Kulin Ban"
+	"Milaska"
+	"Sarajevo"
+	"Stepan II"
+	"Tvrtko I"
+}

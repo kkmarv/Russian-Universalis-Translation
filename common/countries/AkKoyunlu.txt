@@ -1,0 +1,108 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = {  31 49 138 }
+
+historical_idea_groups = {
+	expansion_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	administrative_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Kara Yuluk Osman #0" = 10
+	"Ali #0" = 20
+	"Jakub #0" = 20
+	"Jahangir #0" = 20
+	"Yusun Hasan #0" = 20
+	"Khalil #0" = 20
+	"Boysunkur #0" = 20
+	"Rustam #0" = 20
+	"Ahmad Gevde #0" = 20
+	"Mourad #0" = 20
+	"Alvand Mehmed #0" = 20
+	"Hamza #0" = 10
+	"Thor Ali #0" = 10
+	"Fahreddin Kutlu #0" = 10
+	"Hassan #0" = 10
+	"Kara Hassan #0" = 10
+	"Muhammad Mirza #1" = 20
+
+	"Salva #1" = -1
+}
+
+leader_names = {
+	Ali
+	Ahmad
+	Jahangir
+	Alvand
+	Fahreddin
+	Gewde
+	Khalil
+	Hamza
+	Hassan
+	Mirza
+	Mahammad
+	Mourad
+	Osman
+	Kara
+	Kutlu
+	Rustam
+	Uzun
+	Jakub
+	Yuluk
+}
+
+ship_names = {
+	Ahlat
+	Ardabol
+	Basra
+	Bayburt
+	Bayondore
+	"Diyar Bakr"
+	Erzincan
+	Isfahan
+	"Fahreddon Kootlu"
+	Gilyan
+	Hamadan
+	Hassan
+	Khazar
+	Karbala
+	Mardine
+	Moussoul
+	"Kara Yuluk"
+	Shirvan
+	Sultan
+	"Thor Ali"
+	Urfa
+	Van
+	Yazd
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$"
+}
+
+fleet_names = {
+	"Black Sea Flotilla" "Caspian Flotilla" "Persian Flotilla"
+}

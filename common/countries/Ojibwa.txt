@@ -1,0 +1,161 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 235 229 233 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Nemecas #0" = 20
+	"Pakanis #0" = 20
+	"Makuttikut #0" = 20
+	"Symmnanac #0" = 20
+	"Pakenosga #0" = 20
+	"Kekenachega #0" = 20
+	"Chimokmow #0" = 20
+	"Kekenachegan #0" = 20
+	"Pascobweiss #0" = 20
+	"Mascobens #0" = 20
+	"Wobonusa #0" = 20
+	"Vosakunai #0" = 20
+	"Minutum #0" = 20
+	"Otauson #0" = 20
+	"Tussougua #0" = 20
+	"Mixabi #0" = 20
+	"Kichevashen #0" = 20
+	"Nibinakin #0" = 20
+	"Anjuimekanbimi #0" = 20
+	"Aenevekva #0" = 20
+	"Naikimen #0" = 20
+	"Peshkueskam #0" = 20
+	"Maxamcino #0" = 20
+	"Quicinotating #0" = 20
+	"Wubikinyu #0" = 20
+	"Pashkiku #0" = 20
+	"Maito #0" = 20
+	"Shimagua #0" = 20
+	"Kaugest #0" = 20
+	"Kitschimatash #0" = 20
+	"Aniuweiba #0" = 20
+	"Volkeikijugo #0" = 20
+	"Otweinabi #0" = 20
+	"Nagonaysi #0" = 20
+	"Avenisham #0" = 20
+	"Voviyatam #0" = 20
+	"Muxonga #0" = 20
+	"Nouconvab #0" = 20
+	"Shingwolk #0" = 20
+	"Waubicuake #0" = 20
+	"Miveson #0" = 20
+	"Vepekamjigat #0" = 20
+	"Mackenwoebe #0" = 20
+	"Fongoon #0" = 20
+	"Nematetouva #0" = 20
+	"Kishkaku #0" = 20
+	"Pinaysi #0" = 20
+	"Ohemauneketo #0" = 20
+	"Reum #0" = 20
+	"Naukshak #0" = 20
+	"Mixmunito #0" = 20
+	"Vassu #0" = 20
+	"Kenyob #0" = 20
+	"Moksouba #0" = 20
+	"Matchtone #0" = 20
+	"Nyuwagon #0" = 20
+	"Okumanpinas #0" = 20
+	"Mexionn #0" = 20
+	"Popemiscob #0" = 20
+	"Koukakeshik #0" = 20
+	"Wawawasak #0" = 20
+	"Mishenanoinket #0" = 20
+	"Ockmans #0" = 20
+	"Nìmeke #0" = 20
+	"Maneligobvaa #0" = 20
+	"Pakwash #0" = 20
+	"Vaceneso #0" = 20
+	"Montons #0" = 20
+	"Kennevob #0" = 20
+	"Shoshawanobace #0" = 20
+	"Okuyosins #0" = 20
+	"Ondottovaugane #0" = 20
+	"Amiconina #0" = 20
+	"Kicheonandayo #0" = 20
+	"Sagasauvi #0" = 20
+	"Okimanpineysi #0" = 20
+	"Mingisiti #0" = 20
+	"Voubishkan #0" = 20
+	"Piaipei Menshi #0" = 20
+	"Okanak #0" = 20
+	"Ogiboins #0" = 20
+	"Paminating #0" = 20
+	"Neynautinishkan #0" = 20
+	"Kaujagonaygi #0" = 20
+	"Manisno #0" = 20
+	"Kakagoryan #0" = 20
+	"Kichmokuman #0" = 20
+	"Syngoc #0" = 20
+	"Maitveyshining #0" = 20
+	"Sagahosh #0" = 20
+	"Seibo #0" = 20
+	"Skywalk #0" = 20
+	"Aguagonab #0" = 20
+	"Sigonak #0" = 20
+	"Kokush #0" = 20
+	"Pemo #0" = 20
+	"Kavotoktam #0" = 20
+	"Sabo #0" = 20
+	"Civejon #0" = 20
+	"Meteteva #0" = 20
+	"Kaujeshikum #0" = 20
+	"Keitzum #0" = 20
+	"Atovagsec #0" = 20
+	"Momowkens #0" = 20
+	"Mamasekata #0" = 20
+	"Peniswijkesk #0" = 20
+	"Kawatinam #0" = 20
+	"Sepuen #0" = 20
+	"Shashibek #0" = 20
+	"Shakonk #0" = 20
+	"Mesnacrea #0" = 20
+	"Peymasotom #0" = 20
+	"Endus #0" = 20
+	"Oshtayounkusa . #0" = 20
+	"Wawapeniszek #0" = 20
+	"Omiku #0" = 20
+
+	"Ajaviggigigoki #0" = -1
+}
+
+leader_names = {
+	Mississiga Soughtou Bunji Sagino Achiliguan Amicurez Amicurez Awus
+	Bavating Shivamigen Kivino Kichigami Macomill Malanas Marameg Makino
+	Mandua Nikikuek Noket Mouzagai Osuarini Ausanik Ouchibu Ouchogai
+	Aseyacomingo
+}
+
+ship_names = {
+	Mississiga Soughtou Bunji Sagino Achiliguan Amicurez Amicurez Awus
+	Bavating Shivamigen Kivino Kichigami Macomill Malanas Marameg Makino
+	Mandua Nikikuek Noket Mouzagai Osuarini Ausanik Ouchibu Ouchogai
+	Aseyacomingo
+}

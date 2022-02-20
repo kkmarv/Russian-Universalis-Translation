@@ -1,0 +1,190 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 206  15  37 }
+
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	maritime_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Luis #0" = 40
+	"Pedro #4" = 20
+	"Enrique #0" = 20
+	"Renee #0" = 20
+	"Alphonse #5" = 15
+	"Juan #2" = 15
+	"Karl #0 " = 10
+	"Felipe #0" = 10
+	"Nicolas #0" = 10
+	"Ferran #2" = 5
+	"Jaime #2" = 5
+	"Martin #1" = 5
+	"Ambro #0" = 0
+	"Andre #0" = 0
+	"Anthony #0" = 0
+	"Arno #0" = 0
+	"Berna #0" = 0
+	"Clement #0" = 0
+	"Domain #0" = 0
+	"Edward #0" = 0
+	"Esteve #0" = 0
+	"Francesco #0" = 0
+	"Gonzalo #0" = 0
+	"Guillaume #0" = 0
+	"Hector #0" = 0
+	"Hugo #0" = 0
+	"Ignacio #0" = 0
+	"Joakim #0" = 0
+	"Hordi #0" = 0
+	"Hosep #0" = 0
+	"Hosep Anthony #0" = 0
+	"Llorenso #0" = 0
+	"Bow #0" = 0
+	"Manel #0" = 0
+	"Michael #0" = 0
+	"Pau #0" = 0
+	"Raphael #0" = 0
+	"Ramon #0" = 0
+	"Roderick #0" = 0
+	"Javier #0" = 0
+	
+	"Alicia #0" = -1
+	"Sofia #0" = -1
+	"Martha #0" = -1
+}
+
+leader_names = {
+	 "Alemani"
+	"Amethyer"
+	"Amic"
+	"de Balazhe"
+	"Barcelona"
+	"Blank"
+	"Channel"
+	"Casanova"
+	"de Guimera"
+	"Caso"
+	"Dalmo"
+	"Despla"
+	"Destorren"
+	"Domain"
+	"d'Espais"
+	"Ferrer"
+	"de Cardona"
+	"Fontana"
+	"Gagliard"
+	"Gassol"
+	"Gisber"
+	"Grane"
+	"de Gro"
+	"Hime"
+	"Leyx"
+	"Lul"
+	"de Margary"
+	"Muntane"
+	"de Moncada"
+	"Moraje"
+	"de Muyre"
+	"Nadal"
+	"d'om"
+	"Pagliare"
+	"Pinot"
+	"Peak"
+	"Ponce"
+	"Ruski"
+	"de la Riba"
+	"Ribalta"
+	"Ripio"
+	"Rifos"
+	"de Ripol"
+	"Salaver"
+	"de Subirat"
+	"Tamari"
+	"Valle"
+	"Vergo"
+	"Vilamari"
+	"Vilaplan"
+}
+
+ship_names = {
+"Aurora Blank"
+	"San Jacob"
+	"Flama"
+	"LIJONA"
+	"Falco"
+	"La Bonaventure"
+	"San Antoni"
+	"San Michel"
+	"San Bernat"
+	"San Francesc"
+	"Santa Agata"
+	"Santa Eulalia"
+	"San Gabriel"
+	"San Clinton"
+	"San Jordi"
+	"La Reyal"
+	"Trinitat"
+	"Santa Cruz"
+	"Santa Maria"
+	"Santa Caterina"
+	"San Joan Evangelista"
+	"Santa Barbara"
+	"Saint-Péré de Roma"
+	"La Gasela"
+	"Santa Magdalena"
+	"San Victor"
+	"Magnana"
+	"Santa Ventura"
+	"Santa Coloma"
+	"San Ambros"
+	"Constance"
+	"San Ferran"
+	"Invencible"
+	"Telecom"
+	"Gathering"
+	"Verge del Carme"
+	"Verger de Montserrat"
+	"Juno"
+	"Vigilante"
+	"Eclipsey"
+	"San Joan Baptista"
+	"Santisima Trinitat"
+	"Terrible"
+	"Temararia"
+	"Haute de le Neuss"
+	"Haume el Conceridor"
+	"March"
+	"Alerta"
+	"Serez"
+	"Sorpressa"
+	"Emporda"
+	"Catalunya"
+	"Roher de Flore"
+	"Roher de Luria"
+	"La Garza"
+}

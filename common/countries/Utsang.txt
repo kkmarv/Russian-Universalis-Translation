@@ -1,0 +1,139 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 38  101  255 }
+
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Gendup Drup #0" = 20
+	"Cheongfe trakpa #0" = 20
+	"Sangye Giantsen Pal Zangpo #0" = 20
+	"Dunyu Dorje #0" = 20
+	"Ngawang Namgyal #0" = 20
+	"Tundup Tseten #0" = 20
+	"Punzo Namgye #0" = 20
+	"Karma Ceten #0" = 20
+	"Lhavang Dorje #0" = 20
+	"Karma Ten-Kyong #0" = 20
+	"Geese #0" = 20
+	"Diane #0" = 20
+	"Tenzin Dalai #0" = 20
+	"Lhazang #0" = 20
+	"Zewang Aratan #0" = 20
+	"Phola Sonam Topgye. #0" = 20
+	"Gyumé Nagyal #0" = 20
+	"Lozang Giastro #0" = 20
+	"Zangyang Gyatso #0" = 20
+	"Kelsang Gyatso #0" = 20
+	"Jumphel Gyatso #0" = 20
+	"Lungtok Gyatso #0" = 20
+	"Tsultrim Gyatso #0" = 20
+	"Gendong Gyatso #0" = 10
+	"Sonam Gyatso #0" = 10
+	"Dacey Sangay Gyatso #0" = 5
+	"Ngwaang Yeshi Gyatso #0" = 5
+	"Chang Chub #0" = 1
+	"Sakya Giangtseng #0" = 1
+	"Richelon Trakpa #0" = 1
+	"Chang Chub Trakpa #0" = 1
+	"Cheungne Trakpa #0" = 1
+	"Sangye Gyamzo #0" = 0
+	"Losang Yeshe #0" = 0
+	"Paden Yeshi #0" = 0
+	"Ngapoi Takna #0" = 0
+	"Jigmae Wangyal #0" = 0
+	"Tashi Chophel #0" = 0
+	"Bapu Handun #0" = 0
+	"Rabtan #0" = 0
+	"Sengge #0" = 0
+	"Galdan #0" = 0
+	"Goosey #0" = 0
+
+	"Kamala #0" = -1
+	"Indira #0" = -1
+}
+
+leader_names = {
+	Sy
+	Mu
+	Dong
+	Tong
+	Ra
+	Dru
+	Niang
+	Bass
+	Non
+	Chesspong
+	Thonmi
+	Gar
+	Dree
+	Mong
+	Zhang
+	Chims
+	Ball
+	Lang
+	Chaudro
+	Dro
+	You
+	Schudpu
+	Nyags
+	Goos
+	Jang
+	Nang
+	Dro
+	Ma
+	Nyiba
+	Khu
+	Khun
+	Khar
+	Langes
+	Rinpungs
+	Zhinschag
+	Phujongxias
+	Nganlam
+	Ba
+	League
+	Khyungpo
+	You
+	Nyammed
+}
+
+ship_names = {
+	"Barkam"
+	"Darcendo"
+	"Gianze"
+	"Harze"
+	"Lhasa"
+	"Lhotse"
+	"Makalu"
+	"Nagku"
+	"Ningchi"
+	"Nedong"
+	"Pelbar"
+	"Camdo"
+	"Shigatse"
+	"Sakya"
+	"Tindry"
+}

@@ -1,0 +1,120 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 210  106  47 }
+
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	quantity_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	indian_archers
+	indian_arquebusier
+	sikh_hit_and_run
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Narasimkhadeva #3" = 30
+	"Bhanudeva #3" = 30
+	"Kapileshvara #0" = 30
+	"Prataprudra #3" = 30
+	"Kaluadeva #3" = 30
+	"Govindaraja Widyadhara #3" = 30
+	"Chakrapretapa #0" = 30
+	"Narashima Jana #0" = 30
+	"Raghurama Chhotra #0" = 30
+	"Mukundadeva Kharishandra #0" = 30
+	"Ramchandra Maiden #0" = 30
+	"Ramchandra #0" = 20
+	"Purushottama the Virgin #0" = 20
+	"Mukunda Maiden #0" = 10
+	"Narsimha Maiden #0" = 10
+	"Gangadar Virgo #0" = 10
+	"Balabhadra Maiden #0" = 10
+	"Divya Simha Maiden #0" = 10
+	"Hari Krishna Maiden #0" = 10
+	"Gapinat Maiden #0" = 10
+	"Padmanabha #0" = 10
+	"Vira Kishore Maiden #0" = 10
+	"Devendravarman #0" = 0
+	"Anantawarman #0" = 0
+	"Ananga #0" = 0
+	"Bheema #0" = 0
+	"Narasimha #0" = 0
+	"Bhanu #0" = 0
+	"Narayan #0" = 0
+	"Gopinath  #0" = 0
+	"Rudra #0" = 0
+	"Mucunda  #0" = 0
+	"Bira #0" = 0
+	"Jagat #0" = 0
+	"Sahib #0" = 0
+	"Kumar #0" = 0
+	"Hiryraj Kumari #0" = -1
+	"Surataranghini Virgo #0" = -1
+	"Krishnapur #0" = -1
+	"Brishnupriya #0" = -1
+	"Tikayet Maiden #0" = -1
+}
+
+leader_names = {
+	"Bkhovarbar"
+	"Bidyadhar"
+	"Dassa"
+	"Deo"
+	"Kalinga"
+	"Mansingh"
+	"Patra"
+	"Paradise"
+	"Ratha"
+	"Roy"
+	"Santra"
+	"Singhar"
+	"Sinha"
+	"Uriya"
+	"Vence"
+	"Virgo"
+	"Velama"
+	"Visareddy"
+	"Reddy"
+	"Nayudu"
+	"Busapati"
+}
+
+ship_names = {
+	"Baitarani"
+	"Balasor"
+	"Balugaon"
+	"Behrampur"
+	"Sync by honeybuneswar"
+	"Brahmani"
+	"Chandipur"
+	"Chilka"
+	"Kuttak"
+	"Durga"
+	"Gopalpur"
+	"Jagannath"
+	"Jaggernaut"
+	"Calidjay"
+	"Konark"
+	"Lakshmi"
+	"Mahanadi"
+	"Nalabana"
+	"Paradipal"
+	"Parvati"
+	"Puri"
+	"Radha"
+	"Saraswati"
+	"Satapada"
+}

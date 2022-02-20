@@ -1,0 +1,923 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+technology_group = nomad_group
+religion = tengri_pagan_reformed
+secondary_religion = vajrayana
+primary_culture = khalkha
+capital = 2116
+historical_rival = OIR #so they will try to break free
+
+1120.1.1 = {
+	monarch = {
+		name = "Habul-khan"
+		dynasty = "Borjigin"
+		birth_date = 1101.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1148.1.1 = {
+	monarch = {
+		name = "Ambagai Khan"
+		dynasty = "Borjigin"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1156.1.1 = {
+	monarch = {
+		name = "Hutula Khan"
+		dynasty = "Borjigin"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1160.1.1 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 3
+		dip = 3
+		mil = 4
+		regent = yes
+	}
+}
+
+1189.1.1 = {
+	monarch = {
+         name = "Tamujin"
+		dynasty = "Borjigin"
+		birth_date = 1162.1.1
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+1206.1.1 = {
+	government_rank = 3
+	monarch = {
+        name = "Genghis Khan" #Proclaimed himself Great Khan. 
+		dynasty = "Borjigin"
+		birth_date = 1162.1.1
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+1227.8.25 = {
+	monarch = {
+		name = "Tolui"
+		dynasty = "Borjigin"
+		birth_date = 1193.1.1
+		adm = 3
+		dip = 2
+		mil = 6
+		regent = yes
+	}
+}
+
+1229.9.13 = {
+	monarch = {
+		name = "Ugaday"
+		dynasty = "Borjigin"
+		birth_date = 1186.11.7
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+}
+
+1241.12.11 = {
+	monarch = {
+		name = "Turakina Khatun"
+		dynasty = "Borjigin"
+		birth_date = 1185.1.1
+		adm = 5
+		dip = 5
+		mil = 3
+		female = yes
+		regent = yes
+	}
+}
+
+1246.8.1 = {
+	monarch = {
+		name = "Guyuk"
+		dynasty = "Borjigin"
+		birth_date = 1206.3.19
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+1248.4.20 = {
+	monarch = {
+		name = "Ogul-Gaimysh"
+		birth_date = 1210.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+		female = yes
+		regent = yes
+	}
+}
+
+1251.7.1 = {
+	monarch = {
+		name = "Munchke"
+		dynasty = "Borjigin"
+		birth_date = 1209.1.11
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+1259.8.11 = {
+	monarch = {
+		name = "Arig-Buga"
+		dynasty = "Borjigin"
+		birth_date = 1219.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1260.5.1 = {
+	monarch = {
+		name = "Kubilai"
+		dynasty = "Borjigin"
+		birth_date = 1215.9.23
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+1294.2.10 = {
+	monarch = {
+		name = "Tamur"
+		dynasty = "Borjigin"
+		birth_date = 1265.10.15
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1307.3.10 = {
+	monarch = {
+		name = "Hissan"
+		dynasty = "Borjigin"
+		birth_date = 1281.8.4
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1311.1.27 = {
+	monarch = {
+		name = "Ayurbaribada"
+		dynasty = "Borjigin"
+		birth_date = 1285.4.9
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1320.3.1 = {
+	monarch = {
+		name = "Shidebala"
+		dynasty = "Borjigin"
+		birth_date = 1303.2.23
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1323.9.4 = {
+	monarch = {
+		name = "Esun-Tamur"
+		dynasty = "Borjigin"
+		birth_date = 1293.11.28
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1328.8.15 = {
+	monarch = {
+		name = "Rajapika"
+		dynasty = "Borjigin"
+		birth_date = 1320.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1328.11.14 = {
+	monarch = {
+		name = "Tug-Tamur"
+		dynasty = "Borjigin"
+		birth_date = 1304.2.16
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1329.4.3 = {
+	monarch = {
+		name = "Hoshila"
+		dynasty = "Borjigin"
+		birth_date = 1300.12.22
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+1329.8.30 = {
+	monarch = {
+		name = "Tug-Tamur"
+		dynasty = "Borjigin"
+		birth_date = 1304.2.16
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1332.9.2 = {
+	monarch = {
+		name = "Irijibal"
+		dynasty = "Borjigin"
+		birth_date = 1326.5.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+}
+
+1332.12.14 = {
+	monarch = {
+		name = "El-Timur"
+		dynasty = "Chonggurid"
+		birth_date = 1280.1.1
+		adm = 1
+		dip = 2
+		mil = 5
+		regent = yes
+	}
+}
+
+1333.3.1 = {
+	monarch = {
+		name = "Ton-Tamur"
+		dynasty = "Borjigin"
+		birth_date = 1320.5.25
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+1368.1.23 = {
+government_rank = 2
+government = monarchy
+add_government_reform = feudalism_reform
+}
+
+1370.5.23 = {
+	monarch = {
+		name = "Ayurshridar"
+		dynasty = "Borjigin"
+		birth_date = 1340.1.23
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1370.5.23 = {
+	heir = {
+		name = "Gone ."
+		monarch_name = "Togus-Tamur"
+		dynasty = "Borjigin"
+       	birth_date = 1342.1.1
+		death_date = 1388.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1378.4.28 = {
+	monarch = {
+		name = "Togus-Tamur"
+		dynasty = "Borjigin"
+		birth_date = 1342.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1378.4.28 = {
+	heir = {
+		name = "Dzorigtu"
+		monarch_name = "Yesuder"
+		dynasty = "Borjigin"
+		birth_date = 1358.1.1
+		death_date = 1392.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+}
+
+1388.11.1 = {
+	monarch = {
+		name = "Yesuder"
+		dynasty = "Borjigin"
+		birth_date = 1358.1.1
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+}
+
+1388.11.1 = {
+	heir = {
+		name = "Elbag"
+		monarch_name = "Nigulesugci"
+		dynasty = "Borjigin"
+		birth_date = 1361.1.1
+		death_date = 1399.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1393.1.1 = {
+	monarch = {
+		name = "Nigulesugci"
+		dynasty = "Borjigin"
+		birth_date = 1361.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1393.1.1 = {
+	heir = {
+		name = "Gun Temur"
+		monarch_name = "Gun Temur"
+		dynasty = "Borjigin"
+		birth_date = 1377.1.1
+		death_date = 1402.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1399.1.1 = {
+	monarch = {
+		name = "Gun Temur"
+		dynasty = "Borjigin"
+		birth_date = 1377.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1402.1.1 = {
+	monarch = {
+		name = "Ugechi Hashigoo"
+		dynasty = "Huguedaid"
+		birth_date = 1370.1.1
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1408.1.1 = {
+	monarch = {
+		name = "Punyashri"
+		dynasty = "Borjigin"
+		birth_date = 1384.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1433.1.1 = {
+	heir = {
+		name = "Delbeg"
+		monarch_name = "Delbeg"
+		dynasty = "Borjigin"
+		birth_date = 1395.1.1
+		death_date = 1415.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1412.1.1 = {
+	monarch = {
+		name = "Delbeg"
+		dynasty = "Borjigin"
+		birth_date = 1395.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1415.1.1 = {
+	monarch = {
+		name = "Oiradai"
+		dynasty = "Borjigin"
+		birth_date = 1400.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1425.1.1 = {
+	monarch = {
+		name = "Adai"
+		dynasty = "Borjigin"
+		birth_date = 1390.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1425.1.1 = {
+	heir = {
+		name = "Agbargin"
+		monarch_name = "Johnon"
+		dynasty = "Borjigin"
+		birth_date = 1423.1.1
+		death_date = 1452.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1438.1.1 = {
+	monarch = {
+		name = "Tohta Bug"
+		dynasty = "Borjigin"
+		birth_date = 1416.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1433.1.1 = {
+	heir = {
+		name = "Agbargin"
+		monarch_name = "Agbargin-Ginon"
+		dynasty = "Borjigin"
+		birth_date = 1418.1.1
+		death_date = 1465.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1453.1.1 = {
+	monarch = {
+		name = "Agbargin"
+		dynasty = "Borjigin"
+		birth_date = 1418.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1453.1.1 = {
+	heir = {
+		name = "Haraguzag"
+		monarch_name = "Haraguzag"
+		dynasty = "Choros"
+		birth_date = 1438.1.1
+		death_date = 1453.6.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1453.5.1 = {
+	monarch = {
+		name = "Seng Taishi"
+		dynasty = "Choros"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1453.5.1 = {
+	heir = {
+		name = "Uch Thamur"
+		monarch_name = "Uch Thamur"
+		dynasty = "Choros"
+		birth_date = 1450.1.1
+		death_date = 1465.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1454.1.1 = {
+	monarch = {
+		name = "Ukegtu"
+		dynasty = "Borjigin"
+		birth_date = 1447.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1454.1.1 = {
+	heir = {
+		name = "Molon"
+		monarch_name = "Molon"
+		dynasty = "Borjigin"
+		birth_date = 1449.1.1
+		death_date = 1466.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1465.1.1 = {
+	monarch = {
+		name = "Molon"
+		dynasty = "Borjigin"
+		birth_date = 1449.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1465.1.1 = {
+	heir = {
+		name = "Manduul"
+		monarch_name = "Manduguli"
+		dynasty = "Borjigin"
+		birth_date = 1438.1.1
+		death_date = 1479.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1466.1.1 = {
+	monarch = {
+		name = "Manduguli"
+		dynasty = "Borjigin"
+		birth_date = 1438.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1465.1.1 = {
+	heir = {
+		name = "Diane"
+		monarch_name = "Batu-Mune"
+		dynasty = "Borjigin"
+		birth_date = 1464.1.1
+		death_date = 1517.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1479.1.1 = {
+	monarch = {
+		name = "Batu-Mune"
+		dynasty = "Borjigin"
+		birth_date = 1464.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+1479.1.1 = {leader = {	name = "Manduhai-Hatun"              	type = general	fire = 1	shock = 3	manuever = 3	siege = 0	death_date = 1511.1.1 } }
+
+1490.1.1 = {
+	heir = {
+		name = "Barsbolod"
+		monarch_name = "Barsbolod"
+		dynasty = "Borjigin"
+		birth_date = 1490.1.1
+		death_date = 1519.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1519.1.1 = {
+	monarch = {
+		name = "Barsbolod"
+		dynasty = "Borjigin"
+		birth_date = 1490.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1519.1.1 = {	
+	heir = {
+		name = "Body Alag"
+		monarch_name = "Body Alag"
+		dynasty = "Borjigin"
+		birth_date = 1504.1.1
+		death_date = 1547.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1519.1.1 = {
+	monarch = {
+		name = "Body Alag"
+		dynasty = "Borjigin"
+		birth_date = 1504.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1520.1.1 = {
+	heir = {
+		name = "Daraisun-Goden"
+		monarch_name = "Daraisun-Goden"
+		dynasty = "Borjigin"
+		birth_date = 1520.1.1
+		death_Date = 1557.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1547.1.1 = {
+	monarch = {
+		name = "Daraisun-Goden"
+		dynasty = "Borjigin"
+		birth_date = 1520.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1547.1.1 = {
+	heir = {
+		name = "Tumen-Zasagtu"
+		monarch_name = "Tumen-Zasagtu"
+		dynasty = "Borjigin"
+		birth_date = 1547.1.1
+		death_date = 1592.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1551.1.1 = {
+	monarch = {
+		name = "Amda"
+		dynasty = "Borjigin"
+		birth_date = 1507.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+		leader = { name = "Altan Khan"	type = general	fire = 3	shock = 5	manuever = 5	siege = 1 }
+	}
+}
+
+1551.1.1 = {
+	heir = {
+		name = "Daraisun-Goden"
+		monarch_name = "Daraisun-Goden"
+		dynasty = "Borjigin"
+		birth_date = 1520.1.1
+		death_Date = 1557.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1557.1.1 = {
+	heir = {
+		name = "Tumen-Zasagtu"
+		monarch_name = "Tumen-Zasagtu"
+		dynasty = "Borjigin"
+		birth_date = 1547.1.1
+		death_date = 1592.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1582.1.1 = {
+	monarch = {
+		name = "Tumen-Zasagtu"
+		dynasty = "Borjigin"
+		birth_date = 1547.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1582.1.1 = {
+	heir = {
+		name = "Buyan-Setsen"
+		monarch_name = "Buyan-Setsen"
+		dynasty = "Borjigin"
+		birth_date = 1554.1.1
+		death_date = 1604.1.1
+		claim = 95 
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1592.1.1 = {
+	monarch = {
+		name = "Buyan-Setsen"
+		dynasty = "Borjigin"
+		birth_date = 1554.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1592.1.1 = {
+	heir = {
+		name = "Ligden Bagatur"
+		monarch_name = "Ligden"
+		dynasty = "Borjigin"
+		birth_date = 1592.1.1
+		death_date = 1634.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1604.1.1 = {
+	monarch = {
+		name = "Ligden"
+		dynasty = "Borjigin"
+		birth_date = 1592.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1610.1.1 = {
+	heir = {
+		name = "Erhe-Honogor"
+		monarch_name = "Aj"
+		dynasty = "Borjigin"
+		birth_date = 1610.1.1
+		death_date = 1661.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1634.1.1 = {
+	monarch = {
+		name = "Aj"
+		dynasty = "Borjigin"
+		birth_date = 1610.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1635.2.1 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1911.12.16 = {
+	monarch = {
+		name = "Bogdo Gegan Jebzun Damba"
+		dynasty = "Wangchuck"
+		birth_date = 1869.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+		heir = {
+		name = "Yalguusan Hutuhta"
+		monarch_name = "Yalguusan Hutuhta"
+		dynasty = "Wangchuck"
+		birth_date = 1890.1.1
+		death_date = 1950.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1921.7.11 = {
+    government = monarchy
+add_government_reform = feudalism_reform
+}
+
+1924.4.17 = {
+	monarch = {
+		name = "(Vacant)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

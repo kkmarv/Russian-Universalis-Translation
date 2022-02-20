@@ -1,0 +1,51 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 201 197 124 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	japanese_archer
+	eastern_bow
+	japanese_footsoldier
+	japanese_samurai
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {	
+	"Kosyamain #0" = 15
+	"Syakushian #0" = 15
+	"Kamokutain #0" = 15
+	"Onybishi #0" = 15
+	"Penry #0" = 15
+	"Pyripos #0" = 15
+	"Takatsky #0" = 15
+	
+	"Monasir #0" = -1
+	"Etunracitz #0" = -1
+	"Toitoi #0" = -1
+}
+
+leader_names = {
+	Shibushiari Hae Betsu Shiraoi Kurashi Kakizaki Ponyampe Shirokani Otona Ekashi Saru Usu
+}
+
+ship_names = {
+	Monasir Entunracitz Toitoi Shiratekka Menkakus Horpetsya Fuizak Opera Unkatue Umosmatek
+}

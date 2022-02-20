@@ -1,0 +1,91 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 169  54  54 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+
+historical_units = {
+	african_spearmen
+	bantu_tribal_warfare
+	bantu_plains_warfare
+	bantu_gunpowder_warfare
+	westernized_bantu
+	african_western_franchise_warfare
+	african_somali_cavalry
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_hussar
+	african_dragoon			
+}
+
+
+monarch_names = {
+	"Mischam #0" = 70
+	"Sheh #0" = 70
+	"Alo #0" = 30
+	"Muhammad #0" = 30
+	"Masid #0" = 30
+	"Ahmad #0" = 30
+	"Abd Allah #0" = 40
+	"Hussain #0" = 20
+	"Hassan #0" = 20
+	"Sayid #0" = 20
+	"Ibrahim #0" = 20
+	"Abu Bakr #0" = 20
+	"Munganai #0" = 20
+	"Yusuf #0" = 20
+	"Makame #0" = 1  
+	"Maini Ahmad #0" = 1  
+	"Saif #0" = 0  
+	"Nasr #0" = 0  
+	"Salih #0" = 0  
+	"Fumi Luti #0" = 0
+	"Bwana Shaziri #0" = 0
+	"Bwana Shikih #0" = 0
+	"Fumi Bakari #0" = 0
+	"Fumi Umar #0" = 0
+	"Hamis #0" = 0
+	"Rashid #0" = 0
+	"Mainiyah Hasan #0" = 0
+	"Combo #0" = 0
+	"Ngvale #0" = 0
+	"Ngwakani #0" = 0
+	"Athmani #0" = 0
+	"Alavi #0" = 0
+	"Tvakali #0" = 0
+	"Yanfar #0" = 0
+	"Muxedi #0" = 0
+	
+	"Abiria #0" = -1
+	"Fanicia #0" = -1
+}
+
+leader_names = {
+	Vakil
+	Yomba
+	Salim
+	Network
+	Jumbe
+	Semid
+	Kawavi
+	Dato
+	Sokoine
+	Suja
+}
+
+ship_names = {
+	Mlima Moto Moshi Homu Ukung Nyota
+	Dzua Maji Mwezi Mnja Samaki Ndege
+	Mbwa Nyoka Oua Damu.
+}

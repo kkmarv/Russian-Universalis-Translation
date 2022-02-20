@@ -1,0 +1,83 @@
+#Pelym
+
+graphical_culture = northamericagfx
+
+color = { 167 209 173 }
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	spy_ideas
+	quantity_ideas
+	economic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Michael #0" = 20
+	"Yarmolai #0" = 20
+	"Matthew #0" = 20
+	"Vasily #0" = 20
+	"Pitirim #0" = 10
+	"Gerasim #0" = 10
+	"Isaac #0" = 10
+	"Jonah #0" = 10
+	"Volod #0" = 10
+	"Gavrila #0" = 10
+	"Yegor #0" = 10
+	"Ivan #0" = 10
+	"Mykola #0" = 10
+	"Peter #0" = 10
+	"Syme #0" = 10
+	"Pedar #0" = 10
+	"Kostya #0" = 10
+	"Andrei #0" = 10
+	"Stepan #0" = 10
+	"Alexey #0" = 0
+	"Boris #0" = 0
+	"Danila #0" = 0
+	"Dmitry #0" = 0
+	"Fedot #0" = 0
+	"Ilya #0" = 0
+	"Sega #0" = 0
+	"Nastia #0" = -15
+	"Katya #0" = -15
+	"Olga #0" = -15
+}
+
+leader_names = { 
+	Burmatov Viselov Volegov Dozmorov Zerov Ichitkin 
+	Kanev Kasesov Kolegov Kochev Kikin 
+	Kinev Kinkugorov Kyrnyshev Kirov Kisov Kichanov 
+	Lyrov Michkin Moshev Oshkokov Porshin Purtov
+	Rakin Rochev Ruchev "Suzef" "Cheskidov" Yusev
+	Kumidov Zurianov 
+}
+
+ship_names = {
+	Kerdyn Pelym Kudym-Orda Shudeg
+	Voleg Rateg Koleg Already
+	Bsaeg Yus Pokcha Wicheda Sysola
+	Spark Kama Vishera Kolva Yazva Urosh Wilhoort
+}

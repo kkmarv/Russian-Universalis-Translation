@@ -1,0 +1,131 @@
+
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 0 74 128 } 
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	algonkin_tomahawk_charge
+	native_indian_horsemen
+	commanche_swarm
+	native_indian_mountain_warfare
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Seattle #0" = 20
+	"Patkanam #0" = 10
+	"Chuvitshut #0" = 10
+	"Goliach #0" = 10
+	"Quallatum #0" = 10
+	"JUST HUT #0" = 10
+	"Snagh Telk #0" = 10
+	"Scooshumum #0" = 10
+	"Syallapahan #0" = 10
+	"Heyhkanam #0" = 10
+	"Cenachtelk #0" = 10
+	"Nsskius #0" = 10
+	"Wotscalatchi #0" = 10
+	"Laughmate #0" = 10
+	"Slatiahkanam #0" = 10
+	"Stuhuai #0" = 10
+	"Lugsken #0" = 10
+	"Shihtsult #0" = 10
+	"Dockewsolt #0" = 10
+	"Klemshkanam #0" = 10
+	"Tshuahntl #0" = 10
+	"Kvuscanam #0" = 10
+	"Helmits #0" = 10
+	"Squeekee #0" = 10
+	"Sehlekku #0" = 10
+	"Schchechus #0" = 10
+	"Waylanhu #0" = 10
+	"Syakhdelthu #0" = 10
+	"Kwultsech #0" = 10
+	"Quulletin #0" = 10
+	"Klehkenttsut #0" = 10
+	"Sokhnehovs #0" = 10
+	"Sdehapkan #0" = 10
+	"Chulwaultan #0" = 10
+	"Skitum #0" = 10
+	"Patchkanam #0" = 10
+	"Satscanam #0" = 10
+	"Szomatl #0" = 10
+	"Dakhtldemin #0" = 10
+	"Szekdunum #0" = 10
+	"Novachais #0" = 10
+	"Mislotce #0" = 10
+	"Slunokstan #0" = 10
+	"Muvohladhu #0" = 10
+	"Tulehplane #0" = 10
+	"Heischdwan #0" = 10
+	"Huviltmechtum #0" = 10
+	"Weipah #0" = 10
+	"S'ahanhu #0" = 10
+	"Shihope #0" = 10
+	"Hvnlahlaq #0" = 10
+	"Htssimpt #0" = 10
+	"Tsesumten #0" = 10
+	"Klsahlten #0" = 10
+	"Kuttakanam #0" = 10
+	"Chlahben #0" = 10
+	"Nuhehus #0" = 10
+	"Hwehuk #0" = 10
+	"Pekhnus #0" = 10
+	"Yimkadam #0" = 10
+	"Tuyaskut #0" = 10
+	"Luchalcanam #0" = 10
+	"S'hutcanam #0" = 10
+	"Smikanam #0" = 10
+	"Sezziskeh #0" = 10
+	"Hechmachl #0" = 10
+	"Hatch Quentum #0" = 10
+	"Yoikum #0" = 10
+	"Tkwamahan #0" = 10
+	"Stodumkan #0" = 10
+	"Belolele #0" = 10
+	"D'zollegwamhu #0" = 10
+	"Steakhshale #0" = 10
+	"Kelkahlsut #0" = 10
+	"Patsen #0" = 10
+	"Pattehus #0" = 10
+	"Shulkkanam #0" = 10
+	"Shloksuts #0" = 10
+	
+	"Kikisoblu #0" = -1 	
+	"Vevik #0" = -1
+	"Sholitsa #0" = -1
+	"Ladalia #0" = -1
+	"Olahl #0" = -1
+}
+
+leader_names = {
+	Samish Sohamish Semiamu Shishalh Silets Skajit Skokomish Snokomish Snokvalmi Songis Skvamish Skvaksin 
+	Stylagouamish Stolo Eitchelitz Chavatil Cheam
+	Kvantlen Katsi Lecamel Matski Popkum Schwowhamel Squaway Shuvalhi Chehalis Sumas Caatchen 
+	Jakviakvius Suyaksbiksv Sukamish Swinomish 
+	Tsovassen "TSLEIL-WATT" Tulalip Xakuabs
+}
+
+ship_names = {
+	Samish Sohamish Semiamu Shishalh Silets Skajit Skokomish Snokomish Snokvalmi Songis Skvamish Skvaksin 
+	Stylagouamish Stolo Eitchelitz Chavatil Cheam
+	Kvantlen Katsi Lecamel Matski Popkum Schwowhamel Squaway Shuvalhi Chehalis Sumas Caatchen 
+	Jakviakvius Suyaksbiksv Sukamish Swinomish 
+	Tsovassen "TSLEIL-WATT" Tulalip Xakuabs
+}

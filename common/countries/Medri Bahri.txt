@@ -1,0 +1,101 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+#color = { 72  135  140 }
+color = { 23  114  60 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	african_spearmen
+	african_abyssinian_light_cavalry
+	bantu_tribal_warfare
+	ethiopian_mountain_warfare
+	ethiopian_gunpowder_warfare
+	westernized_ethiopian
+	ethiopian_guerilla_warfare
+	african_somali_cavalry
+	african_abyssinian_cavalry
+	african_mossi_horsemen
+	african_hussar
+	african_dragoon	
+}
+
+monarch_names = {
+	"Iasu #0" = 60
+	"Takla Haumanot #0" = 60
+	"Solomon #2" = 40
+	"Johannes #0" = 40
+	"Heskeyas #0"= 40
+	"Zar'a Jacob #0" = 20
+	"Ba'ida Mariam #1" = 20
+	"Custantinois #3" = 20
+	"'Amda Zeion #1" = 20
+	"Na'ode #0" = 20
+	"Lebna Dingel #0" = 20
+	"Galavdevos #0" = 20
+	"Minas #0" = 20
+	"Sars Dingel #0" = 20
+	"Jacob #0" = 20
+	"Sacenios #0" = 20
+	"Fasiladas #0" = 20
+	"Tevoflos #0" = 20
+	"Iostos #0" = 20
+	"Jonas #0" = 20
+	"Davit . #0" = 20
+	"'Amsa Giorgis #0" = 20
+	"Tukla Giorgis #0" = 20
+	"Dimetros #0" = 20
+	"Giorgis #0" = 20
+	"Fiktor #0" = 5
+	"Minas #0" = 5
+	"Marcos #0" = 5
+	"Hamalmal #0" = 5
+	"Saga Crestos #0" = 5
+	"Malta Crestos #0" = 5
+	"Fassil #0" = 5
+	"'Indreas #1" = 1
+	"Joshak #1" = 1
+	"Myka'el #0" = 0
+	"Amda Zeion #0" = 0
+	"Antenatevos #0" = 0
+	"Velde Giorgis #0" = 0
+	"Myka'el Sihul #0" = 0
+	"Gusho #0" = 0
+	"Vand Bivossen #0" = 0
+	"Haile #0" = 0
+	"Walda Gabrael #0" = 0
+
+	"Abeba #0" = -1
+	"Hagos #0" = -1
+	"Tenagne #0" = -1
+}
+
+leader_names = {
+	Baisa
+	Dredge
+	Ambo
+	Asris
+	You
+	Exhibit
+	Ezana
+	Iob
+	Aswaf
+	Degafe
+}
+
+ship_names = {
+	Judith Sheva "Mara Takla" Lalibela
+	"Yekuno Amlak" Play Tatadum Seyum.
+	"Kedus Garbay" "Na'aquieto La'ab" Yetbarak
+}

@@ -1,0 +1,143 @@
+#Country Name: Please see filename.
+
+graphical_culture = indiangfx
+
+color = { 80  165  10 }
+
+revolutionary_colors = { 6  0  10 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	humanist_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Sriranga #0" = 60
+	"Narashima #1" = 40
+	"Venkata #1" = 40
+	"Virupaksha #0" = 20
+	"Devara #0" = 20
+	"Vijaya #1" = 20
+	"Praudha #0" = 20
+	"Thimma #0" = 20
+	"Viranarashima #0" = 20
+	"Krishna #0" = 20
+	"Auchukhta #0" = 20
+	"Sadashiva #0" = 20
+	"Tyrumala #0" = 20
+	"Frame #0" = 20
+	"Jagga #0" = 10
+	"Etiraja #0" = 10
+	"Aliya Rama #0" = 5
+	"Tuluva #0" = 5
+	"Harihara #1" = 1
+	"Bucca #1" = 1
+	"Virgo #2" = 1
+	"Ramachandra #1" = 1
+	"Vira Vijaya Bukka #0" = 1
+	"Mallicarjuna #0" = 1
+	"Adarsh #0" = 0
+	"Budhil #0" = 0
+	"Chaitana #0" = 0
+	"Devarcy #0" = 0
+	"Devilal #0" = 0
+	"Gunda #0" = 0
+	"Chrydaine #0" = 0
+	"Kauschal #0" = 0
+	"Manprasad #0" = 0
+	"Marcandei #0" = 0
+	"Praned #0" = 0
+	"Prabuddha #0" = 0
+	"Purandarandasa #0" = 0
+	"Rishi #0" = 0
+	"Saraswat #0" = 0
+	"Shivvapa #0" = 0
+	"Tanjavur #0" = 0
+	"Tirumalai #0" = 0
+	"Timma #0" = 0
+	"Utkarsh #0" = 0
+	"Vikrant #0" = 0
+	"Yachama #0" = 0
+	"Nusrat #0" = 20
+	"Said Heidr #0" = 20
+	"Davlat Khan #0" = 20
+	"Heidr Khan #0" = 20
+	"Mubbarak Shah #1" = 30
+	"Muhammad Shah #3" = 40
+	"Aladdin Alam Shah #0" = 10
+	"Bahlil Ludi #0" = 20
+	"Sykander #0" = 20
+	"Ibrahim #1" = 20
+	"Cher Shah #0" = 20
+	"Isslam Shah #0" = 20
+	
+	"Bahiga #0" = -1
+	"Dua #0" = -1
+	"Kanchana #0" = -1
+}
+
+leader_names = {
+	"Keshaw"
+	"Ghemawat"
+	"Dasari"
+	"Chatterjee"
+	"Malini"
+	"Mallicarjun"
+	"Chittur"
+	"Jumal"
+	"Mackar"
+	"Padmesh"
+	"Ali"
+	"Azad"
+	"Butto"
+	"Hussein"
+	"Jahan"
+	"Khan"
+	"Lodi"
+	"Lokia"
+	"Musharif"
+	"Nagar"
+	"Nazimuddin"
+	"Wound"
+	"Charm"
+	"Sinan"
+	"Singh"
+	"Sharif"
+	"Vigar-ul-Mulk"
+}
+
+ship_names = {
+	"Amirta" "Amman" "Arul" "Bharapusa"
+	"Bhavani" "Bheema" "Chellam" "Devi" "Durga"
+	"Gyatri" "Godavari" "Iña" "Boars"
+	"Caveri" "Krishna" "Lakshmi" "Madhu"
+	"Meenakshi" "Nalini" "Pambar" "Parvati"
+	"Periyar" "Ponnie" "Radha" "Radri" "Saraswati"
+	"Sita" "Tamaray" "Tungabhabra"
+	"Aliya" "Chumbal" "Fatima" "Jalsen" "Gang"
+	"Kala Jahazi" "Khan" "Lal Jahazi"
+	"Nausen" "Nava ka Yud" "Niknaz"
+	"Nile Jahazi" "Niloufa" "Noor" "Sagar"
+	"Sleepy" "Yamuna" "Jasmine"
+}

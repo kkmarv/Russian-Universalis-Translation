@@ -1,0 +1,284 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 20  50  210 }
+
+revolutionary_colors = { 15  0  16 }
+
+historical_score = 6700
+
+historical_idea_groups = {
+	economic_ideas
+	offensive_ideas
+	exploration_ideas
+	defensive_ideas	
+	administrative_ideas	
+	maritime_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Ludovic #10" = 160
+	"Karl #5" = 80
+	"Henry #1" = 60
+	"Francis #0" = 40
+	"Philippe #6" = 10
+	"John #2" = 10
+	"Gaston #0" = 10
+	"Nicolas #0" = 10
+	"Louis-Francis #0" = 5
+	"Jacob #0" = 5
+	"Joachim #0" = 5
+	"Xavier #0" = 5
+	"Robert #2" = 1
+	"Hugo #1" = 1
+	"Raoul #1" = 1
+	"Alexander #0" = 0
+	"Alphonse #0" = 0
+	"Ambroise #0" = 0
+	"Arman #0" = 0
+	"Augustin #0" = 0
+	"Barthelemy #0" = 0
+	"Benoit #0" = 0
+	"Bernard #0" = 0
+	"Blaise #0" = 0
+	"Claude #0" = 0
+	"Clement #0" = 0
+	"Denis #0" = 0
+	"Etienne #0" = 0
+	"Brand #0" = 0
+	"Georges #0" = 0
+	"Guy #0" = 0
+	"Guillaume #0" = 0
+	"Ignas #0" = 0
+	"Jean-Antoine #0" = 0
+	"Jean-Baptiste #0" = 0
+	"Jean-Jacques #0" = 0
+	"Jean-Philippe #0" = 0
+	"Joseph #0" = 0
+	"Josquin #0" = 0
+	"Jules #0" = 0
+	"Mark #0" = 0
+	"Maurice #0" = 0
+	"Maximilien #0" = 0
+	"Michelle #0" = 0
+	"Nicolas #0" = 0
+	"Pascal #0" = 0
+	"Pierre #0" = 0
+	"Renee #0" = 0
+	"Sebastien #0" = 0
+	"Simon #0" = 0
+	"Joan #0" = -1
+}
+
+leader_names = {
+	"d'Ambletuse"
+	"d'Olnais"
+	"de Bogarne"
+	"de Bercy"
+	"de Bethune"
+	"de Boissier"
+	"de Bonnefoie"
+	"de Bonnay"
+	"du Bosque"
+	"de la Bretonnière"
+	"de Brogol"
+	"de Casten"
+	"de Comarten"
+	"de Chambly"
+	"de Chambronn"
+	"de ChampMarten"
+	"de Chevigny"
+	"de Coulomb"
+	"de Crevecoeur"
+	"de Krussol"
+	"de Dampierre"
+	"Desgutt"
+	"Duken"
+	"de Cuère"
+	"d'Entrage"
+	"d'Estrees"
+	"du Fournaye"
+	"de Gallar"
+	"de Erbières"
+	"de la Barte"
+	"de la Ferrandier"
+	"de la Galissonière"
+	"de la Motte"
+	"de la Motte d'Haran"
+	"de la Porte"
+	"Le Tellier"
+	"de Léry"
+	"de Ligne"
+	"de Margaery"
+	"de Maurepa"
+	"de Nefshatel"
+	"d'Ornano"
+	"de Pellefort"
+	"de Richmond"
+	"de Rocheshuar"
+	"de Rochemorie"
+	"de Rie"
+	"de Saint-Champond"
+	"de Saint Esprey"
+	"de Saint-Germain"
+	"de Saint Omer"
+	"de Siorac"
+	"de Toqueville"
+	"de la Tour d'Auvergne"
+	"de Treville"
+	"d'Eusson"
+	"du Valentinois"
+	"de Veurjenne"
+	"de Vibien"
+	"de Vigny"
+	"de Villeneuve"
+}
+
+ship_names = {
+	"l'Actif"
+	"l'Actionne"
+	"l'Egle"
+	"L'Alcide"
+	"l'Alexander"
+	"l'Ambition"
+	"l'Amfjon"
+	"l'Ardent"
+	"l'Arrogan"
+	"l'Artesian"
+	"L'Assure"
+	"l'Astre"
+	"la Belle Bullet"
+	"le bourbon"
+	"Le Brienne"
+	"Le Bienne Aimé"
+	"Le Bisar"
+	"Le Bretagne"
+	"le Beaure"
+	"Le Bourgogne"
+	"Le Brava"
+	"le Cato"
+	"Le Concerant"
+	"Le Contin"
+	"Le Couronne"
+	"le Dauphin Royale"
+	"Le Destin"
+	"le Diadem"
+	"le Duc de Bourgogne"
+	"L'Eveillette"
+	"l'Emeryon"
+	"Le Fantasque"
+	"le Fendan"
+	"le Fieux"
+	"Le Flaman"
+	"le Fleur de Lis"
+	"le Fleuron"
+	"le Foodroian"
+	"Le Glorieux"
+	"Le Ardi"
+	"l'Ermion"
+	"le Gaillard"
+	"Le Grand Ermine"
+	"le Eros"
+	"l'Illustre"
+	"l'Endienne"
+	"l'Entrepid"
+	"l'Envisable"
+	"le Languedoc"
+	"Le Licorne"
+	"le Fox"
+	"Le Magnanim"
+	"Le Magnyfique"
+	"Le Majestuer"
+	"le Marie-Catherine"
+	"Le Marky"
+	"forest of Mars"
+	"le Marseille"
+	"le Minotore"
+	"le Monarchais"
+	"le Neptune"
+	"L'Osean"
+	"L'Haso"
+	"l'Orien"
+	"Le Pelican"
+	"le Protecte"
+	"le Profe"
+	"La Provence"
+	"la Reyes"
+	"le Redoubtable"
+	"le Reflexes"
+	"le Regent"
+	"Le Robuste"
+	"Le Roland"
+	"le Royal Louis"
+	"le Sagittarius"
+	"le Saint-Anneuil"
+	"le Saint-Esprey"
+	"le Saint-Michel"
+	"le Saint Phillip"
+	"le Septre"
+	"Le Señor Château"
+	"le North"
+	"le Soleil Royal"
+	"le Solitaire"
+	"le Sovereign"
+	"Le Sphinx"
+	"le Superb"
+	"Le Tempereur"
+	"le Terrible"
+	"le Teresa"
+	"le Triomphene"
+	"le Tonnan"
+	"la trombe"
+	"Le Triton"
+	"Union"
+	"la Victoire"
+	"Ville de Paris"
+	"Le Seele"
+	"Le Zodiac"
+}
+
+army_names = {
+	"Royal Army"
+	"Flemish Army"
+	"Northern Army"
+	"Eastern Army"
+	"Jurassic Army"
+	"Lyon Army"
+	"Alpine Army"
+	"South Army"
+	"Iberian army"
+	"Atlantic Army"
+	"Breton Army"
+	"Italian Army"
+}
+
+fleet_names = {
+	"Blue Squadron"
+	"Red Squadron"
+	"White Squadron"
+	"English Channel Squadron"
+	"Atlantic squadron"
+	"Mediterranean Squadron"
+	"Gascon Squadron"
+}

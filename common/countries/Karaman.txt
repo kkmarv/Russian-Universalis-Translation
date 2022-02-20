@@ -1,0 +1,81 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 30  100  130 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	quality_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Muhammad #0" = 20
+	"Izz-ud-Din Hamza Run #0" = 20
+	"Taj ad-Din Ibrahim #1" = 20
+	"Ishak #0" = 20
+	"Ahmad #0" = 20
+	"Kasim #0" = 20
+	"Mahmoud #0" = 20
+	"Ibrahim #0" = 10
+	"Ali #0" = 10
+	"Mustafa #0" = 10
+	"Darwish #0" = 10 
+	
+	"Havva #0" = -1
+}
+
+leader_names = {
+	"Alemdar" "Amaziali" "Ayas"
+	"Bali" "Barbaros" "Bairam"
+	"Cesar" "Zandarli" "Zelebi" "Kerra" "Zerkes" "Kivan" "Zuhadar"
+	"Damad" "Dervish" "Defterdar"
+	"Gedik" "Gazi" "Gumelcineli" "Gurs"
+	"Hadim" "Hekimoglu" "Hersekly"
+	"Kepril" "Kemal" "Case" "Kosa" "Carmanley" "Kuse" "Kara" "Canigeli" "Kemankes" "Kaymak" "Kavali"
+	"Ishak" "Izzed"
+	"Lala" "Lefkeli"
+	"Malcose" "Mzzinzade"
+	"Neusechioli" "Nisanky"
+	"Oruz" "Usage" "Osmankikli" "Ohryli" "Oflu"
+	"Rumi"
+	"Peary" "Pargali" "Drinks" "Pehliwani"
+	"Salih" "Sokullu" "Sari" "Szilahdar" "Semiz" "Serdar"
+	"Topal" "Tayyar" "Turgut" "Tarchunku"
+	"Veli"
+	"Emissie"
+}
+
+ship_names = {
+	"Nure Sufi" "Sadaddin" "Bay Karaman" "Ermenek"
+	"Mouth" "Gulnara" "Mer" "Pilifke" "Cilicia" "Larande"
+	"Bunsus" "Zeynul-Hak" "Semceddin Mehmet" "Hexa"
+}
+
+army_names = {
+	"Ordusu $PROVINCE$"
+}
+
+fleet_names = {
+	"Donanmaso $PROVINCE$"
+}

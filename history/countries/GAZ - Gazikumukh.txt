@@ -1,0 +1,243 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = tsahur
+religion = sunni
+technology_group = muslim
+capital = 2198
+government_rank = 1
+# Pulling a Hansa with the first 1st ruler ( as information before Umal-Muhammad is limited ).  Usually referred to only by their title.
+# Also with birth dates (seniority based system)
+
+1444.1.1 = {			
+	monarch = {
+		name = "Shamkhal"
+		dynasty = "Kumukh"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1494.1.1 = {			
+	monarch = {
+		name = "Alibek"
+		dynasty = "Kumukh"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+
+1551.1.1 = {
+	monarch = {
+		name = "Umal Muhammad"
+		dynasty = "Kumukh"
+		birth_date = 1500.1.1
+		#death_Date = 1566.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1566.1.1 = {
+	monarch = {
+		name = "Buda"
+		dynasty = "Shamkhal"
+		birth_date = 1515.1.1
+		#death_Date = 1567.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+1567.1.1 = {
+	monarch = {
+		name = "Surhai I"
+		dynasty = "Shamkhal"
+		birth_date = 1518.1.1
+		#death_Date = 1569.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1569.1.1 = {
+	monarch = {
+		name = "Chopan"
+		dynasty = "Shamkhal"
+		birth_date = 1540.1.1
+		#death_Date = 1600.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1600.1.1 = {
+	monarch = {
+		name = "Alibek I"
+		dynasty = "Shamkhal"
+		#death_Date = 1605.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1605.1.1 = {
+	monarch = {
+		name = "Surhai II"
+		dynasty = "Shamkhal"
+		#death_Date = 1614.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1614.1.1 = {
+	monarch = {
+		name = "Andy"
+		dynasty = "Shamkhal"
+		#death_Date = 1623.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1623.1.1 = {
+	monarch = {
+		name = "Eldar"
+		dynasty = "Shamkhal"
+		#death_Date = 1635.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1635.1.1 = {
+	monarch = {
+		name = "Aidemir"
+		dynasty = "Shamkhal"
+		#death_Date = 1642.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1642.1.1 = {
+	monarch = {
+		name = "Alibek II"
+		dynasty = "Shamkhal"
+		#death_Date = 1680.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1680.1.1 = {
+	monarch = {
+		name = "Surhai III"
+		dynasty = "Shamkhal"
+		#death_Date = 1721.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1680.1.1 = { capital = 2031 } # Tarki
+
+1721.1.1 = {
+	monarch = {
+		name = "Murtazali"
+		dynasty = "Shamkhal"
+		#death_Date = 1743.1.1
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+1725.1.1 = { capital = 421 } # Shirvan
+
+1743.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Shamkhal"
+		#death_Date = 1789.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1789.1.1 = {
+	monarch = {
+		name = "Surhai IV"
+		dynasty = "Shamkhal"
+		#death_Date = 1820.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1820.1.1 = {
+	monarch = {
+		name = "Aslan"
+		dynasty = "Shamkhal"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1836.1.1 = {
+	monarch = {
+		name = "Muhammad Mirza"
+		dynasty = "Shamkhal"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1838.1.1 = {
+	monarch = {
+		name = "Ummu-Kuslum bike"
+		dynasty = "Shamkhal"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1841.1.1 = {
+	monarch = {
+		name = "Abdurahman"
+		dynasty = "Shamkhal"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1847.1.1 = {
+	monarch = {
+		name = "Aglar"
+		dynasty = "Shamkhal"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}

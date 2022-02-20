@@ -1,0 +1,119 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 23  114  143 }
+
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	diplomatic_ideas
+	defensive_ideas
+	trade_ideas
+	aristocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Mednepal Singh #0" = 20
+	"Arjun Deo #0" = 20
+	"Malhan Singh #0" = 20
+	"Rudra Pratap Singh #0" = 20
+	"Bharti Kandra #0" = 20
+	"Madukar #0" = 20
+	"Ram #0" = 20
+	"Bir Singh Deo #0" = 20
+	"Virsingh Virsingh Dev #0" = 20
+	"Jujhar Singh #0" = 20
+	"Devi Singh #0" = 20
+	"Indramani Singh #0" = 20
+	"Jaswant Singh #0" = 20
+	"Baghwat Singh #0" = 20
+	"Double Singh #0" = 20
+	"Prithvi Singh #0" = 20
+	"Savant Singh Mahendra #0" = 20
+	"Hati Singh Mahendra #0" = 20
+	"Man Singh Mahendra #0" = 20
+	"Jujhar #0" = 20
+	"Hard Saheeh #0" = 0
+	"Nirpat #0" = 0
+	"Sabha #0" = 0
+	"Hindupat #0" = 0
+	"Anirudh #0" = 0
+	"Dhokal #0" = 0
+	"Kishore #0" = 0
+	"Mahendra #0" = 0
+	"Lokpal #0" = 0
+	"Madho #0" = 0
+	"Malckhan #0" = 0
+	"Gianti Devi #0" = -1
+	"Indira #0" = -1
+	"Padmini #0" = -1
+}
+
+leader_names = {
+	"Sindgx"
+	"DATIA"
+	"Mihir"
+	"Jassos"
+	"Bundela"
+	"Bais"
+	"Chattar"
+	"Minhas"
+	"Baghela"
+	"Packchral"
+	"Pundir"
+	"Naru"
+	"Sahara"
+	"Maury"
+	"Chauhan"
+	"Bhaal"
+	"Naga"
+	"Tomara"
+	"Chandela"
+	"Ice rink"
+	"Judon"
+}
+
+ship_names = {
+	"Bethwa"
+	"Devi"
+	"Durga"
+	"Ganga"
+	"Gandak"
+	"Gayatri"
+	"Ghagra"
+	"Gomti"
+	"Jalsen"
+	"Kala Jahazi"
+	"Ken"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Nausen"
+	"Nava-ka-Yud"
+	"Nile Jahazi"
+	"Parvati"
+	"Radha"
+	"Ramganga"
+	"Ratri"
+	"Sagar"
+	"Saraswati"
+	"Satlage"
+	"Sita"
+	"Yamuna"
+}

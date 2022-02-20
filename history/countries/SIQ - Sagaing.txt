@@ -1,0 +1,76 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+religion = buddhism
+primary_culture = shan
+capital = 581
+
+1314.1.1 = {
+	monarch = {
+		name = "Savyun"
+		dynasty = "Minsain"
+		dip = 1
+		adm = 3
+		mil = 5
+	}
+}
+
+1327.1.1 = {
+	monarch = {
+		name = "Tarabaya I"
+		dynasty = "Minsain"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1335.1.1 = {
+	monarch = {
+		name = "Schwetaungt"
+		dynasty = "Minsain"
+		dip = 5
+		adm = 0
+		mil = 2
+	}
+}
+
+1339.1.1 = {
+	monarch = {
+		name = "Kyaswa"
+		dynasty = "Minsain"
+		dip = 0
+		adm = 0
+		mil = 2
+	}
+}
+
+1349.1.1 = {
+	monarch = {
+		name = "Navracht Minier"
+		dynasty = "Minsain"
+		dip = 1
+		adm = 2
+		mil = 2
+	}
+}
+
+1349.11.11 = {
+	monarch = {
+		name = "Tarabaya II"
+		dynasty = "Minsain"
+		dip = 3
+		adm = 1
+		mil = 3
+	}
+}
+
+1352.2.2 = {
+	monarch = {
+		name = "Minbuak Thihapate"
+		dynasty = "Minsain"
+		dip = 3
+		adm = 1
+		mil = 3
+	}
+}

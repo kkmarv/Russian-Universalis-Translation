@@ -1,0 +1,71 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 193 90 66 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	maritime_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+
+historical_units = {
+	south_american_spearmen
+	south_american_warfare
+	inca_mountain_warfare
+	incan_slingshots
+	incan_axemen
+	south_american_gunpowder_warfare
+	south_american_reformed_gunpowder_warfare
+	south_american_arquebusier
+	westernized_incan
+	reformed_westernized_incan
+	incan_guerilla_warfare
+}
+
+leader_names = {
+	Mbigua Caracara Timbu Tukaguye Kalchagui Kualoazaz Kario Itatine Tarky Bomboy Kurupaiti Kurupai Tape Kiriguana
+}
+
+monarch_names = {
+	"Angatupiri #0" = 10
+	"Aputer #0" = 10
+	"Aranda #0" = 10
+	"Araresa #0" = 10
+	"Amaru #0" = 10
+	"Amaritu #0" = 10
+	"Amangi #0" = 10
+	"Araver #0" = 10
+	"Arasunu #0" = 10
+	"Aatiri #0" = 10
+	"Chavuku #0" = 10
+	"Jakaira #0" = 10
+	"Kari #0" = 10
+	"Katupiri #0" = 10
+	"Guarani #0" = 10
+	"Guarahirese #0" = 10
+	"Maytei #0" = 10
+	"Mba'ehori #0" = 10
+	"Mbarakapu #0" = 10
+	"Namandu #0" = 10
+	"Tadji #0" = 10
+	"Tatarendy #0" = 10
+	"Tatajiv #0" = 10
+	"Tatapitu #0" = 10
+	"Tekokatu #0" = 10
+	"Tuvicha #0" = 10
+	"Igary #0" = 10
+	
+	"Porasi #0" = -1
+}
+
+ 
+ship_names = {
+	"Tejo Jagua" "Mboi tui" Monai "Jasi Jatere" Kurupi "Ao Ao" Luison Anhatupri Pitajovai Pombero Abaanggiu Jurupari Yande Yari "Mala Visión" "Iwigui board" Dumb Jackie Pinon Rainey Jaguar Marangatu. "Tume Aranda" Kerana
+}

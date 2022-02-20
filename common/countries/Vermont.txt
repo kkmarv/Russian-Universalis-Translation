@@ -1,0 +1,202 @@
+#Vermont
+
+graphical_culture = westerngfx
+
+color = { 49  71  121 }
+
+historical_idea_groups = {
+	plutocracy_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	maritime_ideas
+	administrative_ideas
+	offensive_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"George #0" = 20
+	"James #0" = 20
+	"John #0" = 20
+	"Thomas #0" = 20
+	"Charles #0" = 15
+	"Danielle #0" = 15
+	"Henry #0" = 15
+	"Samuel #0" = 15
+	"Arthur #0" = 10
+	"Cyrus #0" = 10
+	"David #0" = 10
+	"Elias #0" = 10
+	"Frederick August #0" = 10
+	"Nathaniel #0" = 10
+	"Python #0" = 10
+	"Richard #0" = 10
+	"Aaron #0" = 0
+	"Angus #0" = 0
+	"August #0" = 0
+	"Benjamin #0" = 0
+	"Kelvin #0" = 0
+	"Darren #0" = 0
+	"Elbridge #0" = 0
+	"Eric #0" = 0
+	"Francis #0" = 0
+	"Frederick #0" = 0
+	"Isaac #0" = 0
+	"Jonathan #0" = 0
+	"Joseph #0" = 0
+	"Kairan #0" = 0
+	"Luke #0" = 0
+	"Milton #0" = 0
+	"Patrick #0" = 0
+	"Paul #0" = 0
+	"Philippe #0" = 0
+	"Randolph #0" = 0
+	"Smlvester #0" = 0
+	"Timothy #0" = 0
+	"Wilbur #0" = 0
+	"William #0" = 0
+	"Alexander #0" = 0
+	"Stephen #0" = 0
+
+    "Debra #0" = -1
+    "Sarah #0" = -1
+    "Anna #0" = -1
+}
+
+leader_names = {
+	"Adams"
+	"Barr"
+	"Clinton"
+	"Jay"
+	"Jefferson"
+	"Harrison"
+	"King"
+	"Langdon"
+	"Madison"
+	"Monroe"
+	"Pikni"
+	"Rutledge"
+	"Starbuck"
+	"Style"
+	"Strider"
+	"Sutcliffe"
+	"Swaggart"
+	"Stoveer"
+	"Stettson"
+	"Kempton"
+	"Kendrick"
+	"Lane"
+	"Lyndon"
+	"Lyle"
+	"Merrick"
+	"Etvort"
+	"Arnott"
+	"Ashton"
+	"Boyd"
+	"Caddock"
+	"Drummond"
+	"Arquit"
+	"Kennedy"
+	"Trevin"
+	"Vaughan"
+	"Dylan"
+	"Dalton"
+	"Delvin"
+	"Sheldon"
+	"Spencer"
+	"Torley"
+	"Thompson"
+	"Anvin"
+	"Walden"
+	"Ward"
+	"Winston"
+	"Douglas"
+	"Floyd"
+	"Richardson"
+}
+
+ship_names = {
+	"Adams"
+	"Alfred"
+	"Alliance"
+	"America"
+	"Andrew Doria"
+	"Argo"
+	"Argus"
+	"Bon Richard"
+	"Boston"
+	"Cabot"
+	"Cesapik"
+	"Champion"
+	"Columbus"
+	"Confederacy"
+	"Congress"
+	"Constellation"
+	"Concierge"
+	"Dolphin"
+	"Dean"
+	"Delaware"
+	"Diligent"
+	"Effingham"
+	"Enterprise"
+	"Essex"
+	"Fly"
+	"General Gates"
+	"General Washington"
+	"Hampden"
+	"Hancock"
+	"Hornets"
+	"Indipendence"
+	"John Adams"
+	"Lexington"
+	"Montgomery"
+	"Mosquito"
+	"Nautilus"
+	"Philadelphia"
+	"Pigot"
+	"President"
+	"Providence"
+	"Queen of France"
+	"Raleigh"
+	"Randolph"
+	"Reiskhorses"
+	"Ranger"
+	"Ripraisle"
+	"Ripals"
+	"Riesistens"
+	"Ritaleschn"
+	"Rivenge"
+	"Sachem"
+	"Saratoga"
+	"Serapis"
+	"Syren"
+	"Seprice"
+	"Tramball"
+	"United States States"
+	"Viper"
+	"Virginia"
+	"Vixen"
+	"Warren"
+	"Washington, DC"
+	"Wosp"
+}

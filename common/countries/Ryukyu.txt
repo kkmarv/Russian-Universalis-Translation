@@ -1,0 +1,116 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 90  138  133 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+}
+
+monarch_names = {
+	"Bunay #1" = 1
+	"Sutto #1" = 1
+	"Sisho #1" = 5
+	"Hashi #1" = 5
+	"Thu #1" = 5
+	"Sitatsu #1" = 5
+	"Kimpuku #0" = 30
+	"Taikyu #0" = 30
+	"Toku #0" = 30
+	"En #0" = 30
+	"Sengyi #0" = 30
+	"Cyn #0" = 30
+	"Gan #0" = 30
+	"Sy #0" = 30
+	"Hey, . #0" = 30
+	"Nay #0" = 30
+	"Ho #0" = 30
+	"Can #0" = 30
+	"Sytsu #0" = 30
+	"Tay #0" = 30
+	"Ecki #0" = 30
+	"Kay #0" = 30
+	"Boku #0" = 30
+	"Tetsu #0" = 30
+	"It's . #0" = 30
+	"Go to . #0" = 30
+ 	"Tone #0" = 10
+	"Iku #0" = 10
+	"Syu #0" = 10
+	"Ё #0" = 10
+	"Kaku #0" = 10
+	"Wa #0" = 10
+	"Key #0" = 10
+	"Cocky #0" = 5
+	"Kotoku #0" = 5
+	"Kojin #0" = 5
+	"Kosai #0" = 5
+	"Tuca #0" = 0
+	"Tara #0" = 0
+	"Dzira #0" = 0
+	"Sanro #0" = 0
+	"Gura #0" = 0
+	"Tiru #0" = 0
+	"Wuxi #0" = 0
+	"Guji #0" = 0
+	
+	"Honko #0" = -1
+	"Sacine #0" = -1
+	"Ransitsu #0" = -1
+	"Hackiren #0" = -1
+	"Nanso #0" = -1
+}
+
+leader_names = {
+	Sho
+	Ba
+	Mo
+	О
+	Agarié
+	Arakachi
+	Fijia
+	Ikegusuku
+	Kanagusuku
+	Nagusuku
+	Shimabuku
+	Tamagusuku
+	Tera
+	Toyomigusuku
+	Ufugusuku
+	Yamagusuku	
+	Vibaru
+}      
+
+ship_names = { 
+	Bunay
+	Tuzan
+	Aiso Eiji
+	Gusuku Gikhon
+	Hokuzan
+	Nandzan Nakhijin 
+	Sho shuri sunten sei sutto
+	Taisei Tamagusuku
+	"Seo Aung" "Sho Shin" "Sho Hashi" "Shun Bajunky"
+	"Sho Sisho" "Sho Thu" "Shou Shitatsu"
+	"Sho Kimpuku" "Sho Taikyu" "Sho Toku" "Sho Sengyi"
+	"Sho Se Sei" "Sho Gyun" "Sho Ae"
+	"Sho Nei" "Sho Ho" "Sho-Kyeong" "Sho Shitsu"
+}

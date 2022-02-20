@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 3109	
+
+# buy by MAMluks in 1427
+
+1293.1.1 = { 
+	monarch = {
+		name = "Meduddin Mahmoud"          
+		dynasty = "Caramanogullar"
+		dip = 2
+		adm = 2
+		mil = 4
+		religion = sunni       
+		culture = turkish         
+	}
+}
+1330.1.1 = { 
+	monarch = {
+		name = "Yusuf"          
+		dynasty = "Caramanogullar"
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+1337.1.1 = { 
+	monarch = {
+		name = "Shemcidin Mehmed"          
+		dynasty = "Caramanogullar"
+		dip = 4
+		adm = 3
+		mil = 3
+	}
+}
+1352.1.1 = {
+	monarch = {
+		name = "Husameddin Mahmoud"          
+		dynasty = "Caramanogullar"
+		dip = 5
+		adm = 5
+		mil = 3		
+	}
+}
+1390.1.1 = {
+	monarch = {
+		name = "Shovel"          
+		dynasty = "Caramanogullar"
+		dip = 3
+		adm = 3
+		mil = 0
+	}
+}

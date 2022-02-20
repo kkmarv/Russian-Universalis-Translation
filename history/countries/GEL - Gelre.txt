@@ -1,0 +1,331 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = dutch
+religion = catholic
+technology_group = western
+capital = 99	# Coevorde
+
+1096.1.1 = {
+	monarch = {
+		name = "Gerhardt I"
+		dynasty = "von Wassenberg"
+		birth_date = 1065.1.1
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+
+1129.3.8 = {
+	monarch = {
+		name = "Gerhardt II"
+		dynasty = "von Wassenberg"
+		birth_date = 1090.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1131.10.16 = {
+	monarch = {
+		name = "Henry I"
+		dynasty = "von Wassenberg"
+		birth_date = 1117.5.27
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1182.9.10 = {
+	monarch = {
+		name = "Otto I"
+		dynasty = "von Wassenberg"
+		birth_date = 1150.1.1
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+}
+
+1207.1.1 = {
+	monarch = {
+		name = "Gerhardt III"
+		dynasty = "von Wassenberg"
+		birth_date = 1185.1.1
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+}
+
+1229.10.22 = {
+	monarch = {
+		name = "Otto II"
+		dynasty = "von Wassenberg"
+		birth_date = 1215.1.1
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+}
+
+1271.1.10 = {
+	monarch = {
+		name = "Reynald I"
+		dynasty = "von Wassenberg"
+		birth_date = 1255.1.1
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+}
+
+1295.1.1 = {
+	heir = {
+		name = "Reynald"
+		monarch_name = "Reynald II"
+		dynasty = "von Wassenberg"
+		birth_date = 1295.1.1
+		death_date = 1343.10.12
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1326.10.9 = {
+	monarch = {
+		name = "Reynald II"
+		dynasty = "von Wassenberg"
+		birth_date = 1295.1.1
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1333.5.13 = {
+	heir = {
+		name = "Reynald"
+		monarch_name = "Reynald III"
+		dynasty = "von Wassenberg"
+		birth_date = 1333.5.13
+		death_date = 1371.12.4
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1343.10.12 = {
+	monarch = {
+		name = "Reynald III"
+		dynasty = "von Wassenberg"
+		birth_date = 1333.5.13
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1343.10.12 = {
+	heir = {
+		name = "Maria"
+		monarch_name = "Maria I"
+		dynasty = "von Wassenberg"
+		birth_date = 1325.1.1
+		death_date = 1399.3.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 1
+		female = yes
+	}
+}
+
+1361.8.22 = {
+	monarch = {
+		name = "Edward I"
+		dynasty = "von Wassenberg"
+		birth_date = 1336.3.12
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1343.10.12 = {
+	heir = {
+		name = "Maria"
+		monarch_name = "Maria I"
+		dynasty = "von Wassenberg"
+		birth_date = 1325.1.1
+		death_date = 1399.3.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 1
+		female = yes
+	}
+}
+
+1371.8.24 = {
+	monarch = {
+		name = "Reynald III"
+		dynasty = "von Wassenberg"
+		birth_date = 1333.5.13
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1371.12.4 = {
+	monarch = {
+		name = "Matilda I"
+		dynasty = "von Wassenberg"
+		birth_date = 1320.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+		female = yes
+	}
+}
+
+
+1379.1.1 = {
+	monarch = {
+		name = "William I"
+		dynasty = "von Gengebach"
+		birth_date = 1364.3.5
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1379.1.1 = {
+	heir = {
+		name = "Reynald"
+		monarch_name = "Reynald IV"
+		dynasty = "von Gengebach"
+		birth_date = 1365.1.1
+		death_date = 1423.6.25
+		claim = 80
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1402.1.1 = {
+	monarch = {
+		name = "Reynald IV"
+		dynasty= "von Gengebach"
+		birth_date = 1365.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1423.6.29 = {
+	monarch = {
+		name = "Arnold I"
+		dynasty = "van Egmont"
+		birth_date = 1410.7.14
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1438.2.12 = {
+	heir = {
+		name = "Adolf"
+		monarch_name = "Adolf I"
+		dynasty = "van Egmont"
+		birth_date = 1438.2.12
+		death_date = 1471.7.23
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1465.1.11 = {
+	monarch = {
+		name = "Adolf I"
+		dynasty = "van Egmont"
+		birth_date = 1438.2.12
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1471.7.23 = {
+	monarch = {
+		name = "Arnold I"
+		dynasty = "van Egmont"
+		birth_date = 1410.7.14
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1477.1.5 = {
+	monarch = {
+		name = "Adolf I"
+		dynasty = "van Egmont"
+		birth_date = 1438.2.12
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1477.6.27 = {
+	monarch = {
+		name = "Maria I"
+		dynasty = "de Valois"
+		birth_date = 1457.2.13
+		adm = 3
+		dip = 4
+		mil = 2
+        female = yes
+	}
+}
+
+# The Reign of Philip the First is represented as HAB ownership.
+
+1492.1.1 = {
+	monarch = {
+		name = "Karl II"
+		dynasty = "van Egmond"
+		birth_date = 1467.11.9
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1520.1.1 = { leader = { name = "Maarten van Rossum" type = general fire = 2 shock = 3 manuever = 3 siege = 0 death_date = 1555.6.7 } }
+
+1538.6.30 = {
+	monarch = {
+		name = "William III"
+		dynasty = "von der Mark"
+		birth_date = 1516.7.28
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}

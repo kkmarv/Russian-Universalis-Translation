@@ -1,0 +1,151 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+
+color = { 98  138  99 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+	administrative_ideas
+	spy_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Thadominiya #0" = 30
+	"Nga Well #0" = 30
+	"Swasawke #0" = 30
+	"Tarab #0" = 30
+	"Nga Science Hsan #0" = 30
+	"Minhaung #1" = 40
+	"Thihatahu #0" = 30
+	"Minhlange #0" = 30
+	"Cale Kietaungnyo #0" = 30
+	"Minyekyavsva #0" = 30
+	"Narapati #0" = 100
+	"Thihathura #0" = 30
+	"Svenankyavshin #0" = 30
+	"Thawhanbwa #0" = 30
+	"Hkonmaing #0" = 30
+	"Mobile Narapati #0" = 30
+	"Sao Sith Pan Tu #0" = 10
+	"Sao Ai Avn #0" = 10
+	"Ai Woo Xa #0" = 10
+	"Yi Hkam Hka #0" = 10
+	"Sao Xam #0" = 10
+	"Sao Ham Mu #0" = 10
+	"Hpaya Kiao #0" = 10
+	"Sao Mong Hka #0" = 10
+	"Sao Hkam Tao #0" = 10
+	"Sao Mong Hkak #0" = 10
+	"Sao He #0" = 10
+	"Sao In Hkam #0" = 10
+	"Sao Avk #0" = 10
+	"Sao Mong Saik #0" = 10
+	"Sao Hsam Hpi #0" = 10
+	"Maung Nyo #0" = 10
+	"Sao Mong Shin #0" = 10
+	"Sao Mong Xam #0" = 10
+	"Sao Kawng Tai #0" = 10
+	"Sao Maha Hkanan #0" = 10
+	
+	"Tou Umma #0" = -1
+	"Thin Bohme #0" = -1
+	"Soe-min #0" = -1
+	"Besa #0" = -1
+	"Palais #0" = -1
+	"Pie Chantha #0" = -1
+	"Thesa #0" = -1
+	"Omma #0" = -1
+	"Tav Oo #0" = -1
+	"Gyi #0" = -1
+	"Hwai #0" = -1
+	"Pian #0" = -1
+	"Mint #0" = -1
+	"Htut #0" = -1
+	"Mi-Nauk #0" = -1
+	"Bo-Me #0" = -1
+
+}
+
+leader_names = {
+	Ava
+	Mo
+	Hopon
+	Taton
+	Tamaingkan
+	Taungdut
+	Teinny
+	Tidzit
+	Thibao
+	Calais
+	"Kiichi Bansan"
+	Chaingchaing
+	Chaingkan
+	Chaingtong
+	Kokang
+	Chong
+	Chaukku
+	Ladzes
+	Jaceuk
+	Louis
+	Luelong
+	Luemo
+	Mangloon
+	Mongsu
+	Monglin
+	Mongleam
+	Mongthorme
+	Maukme
+	Bonin
+	Bosaing
+	Mogaung
+	Munglong
+	Moeic
+	Moni
+	Mongnong
+	Mobier
+	"Mong Pan"
+	Maingpiin
+	Mingseake
+	Maington
+	Monsieur
+	Munjun
+	Nanke
+	Nancock
+	Nankon
+	Nantoc
+	Panglong
+	Pangmi
+	Pindara
+	Serve .
+	Sakoi
+	Female
+	Tongpeng
+	Bhamo
+	Bagnin
+	"Winn To"
+	Nhaungschwe
+	Yongan
+}
+
+ship_names = {
+	Salween Taungu Kangtong Tachilake Nam Tanlwin
+	Salween Louis Hsim Hsim Teng Mitge Pilu Inle Shveli.
+}

@@ -1,0 +1,114 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 107 107 225 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Ioneid #0" = 10
+	"Haidar #0" = 10
+	"Ismé'ol #0" = 10
+	"Tameshp #0" = 10
+	"Mohammad Kodabenda #0" = 10
+	"'Abbes #0" = 10
+	"Safi #0" = 10
+	"Solaemen #0" = 10
+	"Hosaan #0" = 10
+	"Neder #0 Sheh" = 10
+	"'Vdel #0 Sheh" = 10
+	"Ebrechim #0" = 10
+	"Sheh Ruch #0" = 10
+	"Neder Mirza #0" = 5
+	"Karim #0 Hen" = 10
+	"Abu'l Fath #0" = 10
+	"Mohammad Ali #0" = 10
+	"Mohammad Sedik #0" = 10
+	"'Ali Morad #0" = 10
+	"Ya'far #0" = 10
+	"Loft Ali #0" = 10
+	"Aga Muhammad #0" = 10
+	"Fatah Alo #0" = 10
+	"Receive #0" = 0
+	"Ahmad #0" = 0
+	"Hatem #0" = 0
+	"Shahkoli #0" = 0
+	"Rayab Ali #0" = 0
+	"Farayollach #0" = 0
+	"Amanollah #0" = 0
+	"Ebrahim #0" = 0
+	"Ali #0" = 0
+	"Allahar #0" = 0
+	"Abdol #0" = 0
+	"Hamid #0" = 0
+	
+	"Atia #0" = -1
+	"Pari #0" = -1
+	"Haar al-Nisa #0" = -1
+	"Tailu #0" = -1
+	"Dilaram #0" = -1
+	"Shahbanu #0" = -1
+	"Razia #0" = -1
+	"Maryam #0" = -1
+}
+
+leader_names = {
+	Sabiri
+	Yalili
+	Azizi
+	Checkers
+	Dai
+	Kazai
+	Daleand
+	Ahrari
+	Fatemi
+	Sabet
+	Ansari
+}
+
+ship_names = {
+	Abathur "Adamn Kasia" "Aesma Daea" Agas
+	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+	"Aka Manah" Aladdin Allatum Amashaspan Ameratatat
+	"Amesha Spentas" Anahita "Angra Maingue" Anyuman
+	"Apam-natat" Apaso Aredea Arishtat Armaiti Arsaces
+	"Asha eahista" Asman "Asto Vidatu" "Asteat-Yereta"
+	Athar "Azi Dahaka" Bahamas Bahamas Bahram Bouyasta Bouyasta
+	Tsamros Daena Daeaas Ahaka Dahhak Daea Daea Dee Dee Friend
+	Dreaspas Frashegird Fraeashis Gandarea "Gao-Keren"
+	Gayemard Gayemart "Geus-Tassan" "Geus-Urean" Haoma
+	Humai Hear Hearehshayet Holder Indar Indra Ija
+	Yamshid "Yeh" Kaei Hara Bearing "Khshatra yaira"
+	Kundrae Maha Mahre Mahriang Manu Manuchihir Mao 
+	Mashyanes Mashy Menog Mithras Nairyosangha Nanghaithya
+	Neriosang Ormasd Peris Peshdadians Rapithein Rushnu
+	Rustam Saurea Simurgh "Spenta Meinho" Sraosa Sroch
+	Taerich Thunaupa Tistrya Tushnamatai Vanant Wata
+	Veretragna "Wohu Manah" Voruskasha Yam Yasht Yazata
+	Yezidi Iima Hall Zam "Zam-Armatai" Zarathusra Zarich
+	"Zend-Aesta" Zurean
+}

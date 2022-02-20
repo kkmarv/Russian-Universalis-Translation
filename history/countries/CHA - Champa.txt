@@ -1,0 +1,403 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = cham
+religion = hinduism
+technology_group = chinese
+capital = 607	# Vijaya
+
+
+1390.1.1 = {
+	monarch = {
+		name = "Ko Chang"
+		dynasty = "Chum"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1390.1.1 = {
+	heir = {
+		name = "Jaya Singhawarman"
+		monarch_name = "Jaya Singhawarman V"
+		dynasty = "Chum"
+		birth_date = 1380.1.1
+		death_date = 1441.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1400.1.1 = {
+	monarch = {
+		name = "Jaya Singhawarman V"
+		dynasty = "Chum"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1421.1.1 = {
+	heir = {
+		name = "Maja Vijaya"
+		monarch_name = "Maja Vijaya"
+		dynasty = "Chum"
+		birth_date = 1421.1.1
+		death_date = 1446.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1441.1.1 = {
+	monarch = {
+		name = "Maja Vijaya"
+		dynasty = "Chum"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1441.1.1 = {
+	heir = {
+		name = "Moho Koei-Lai"
+		monarch_name = "Moho Koei-Lai"
+		dynasty = "Chum"
+		birth_date = 1427.1.1
+		death_date = 1449.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+}
+
+1447.1.1 = {
+	monarch = {
+		name = "Moho Koei-Lai"
+		dynasty = "Chum"
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+}
+
+1447.1.1 = {
+	heir = {
+		name = "Maha Qui Yu"
+		monarch_name = "Maha Qui Yu"
+		dynasty = "Chum"
+		birth_date = 1429.1.1
+		death_date = 1458.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1449.1.1 = {
+	monarch = {
+		name = "Maha Qui Yu"
+		dynasty = "Chum"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1458.1.1 = {
+	monarch = {
+		name = "Maha Panlow"
+		dynasty = "Chum"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1458.1.1 = {
+	heir = {
+		name = "Panlo Tutsun"
+		monarch_name = "Panlo Tutsun"
+		dynasty = "Chum"
+		birth_date = 1440.1.1
+		death_date = 1471.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1460.1.1 = {
+	monarch = {
+		name = "Panlo Tutsun"
+		dynasty = "Chum"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+#Vietnamese Rule
+
+1695.1.1 = {
+	monarch = {
+		name = "Saktirai"
+		dynasty = "By ."
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1695.1.1 = {
+	heir = {
+		name = "Hanwuh"
+		monarch_name = "Hanwuh"
+		dynasty = "By ."
+		birth_date = 1695.1.1
+		death_date = 1731.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1697.1.1 = {
+	government_rank = 1
+}
+
+1728.1.1 = {
+	monarch = {
+		name = "Hanwuh"
+		dynasty = "By ."
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1728.1.1 = {	
+	heir = {
+		name = "Suttirai"
+		monarch_name = "Suttirai"
+		dynasty = "By ."
+		birth_date = 1682.1.1
+		death_date = 1734.12.31
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1731.1.1 = {
+	monarch = {
+		name = "Suttirai"
+		dynasty = "By ."
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1731.1.1 = {
+	heir = {
+		name = "Rattirai"
+		monarch_name = "Rattirai"
+		dynasty = "By ."
+		birth_date = 1731.1.1
+		death_date = 1735.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+}
+
+1735.1.1 = {
+	monarch = {
+		name = "Rattirai"
+		dynasty = "By ."
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+}
+
+1735.1.1 = {
+	heir = {
+		name = "Tasun"
+		monarch_name = "Tasun"
+		dynasty = "By ."
+		birth_date = 1735.1.1
+		death_date = 1765.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1763.1.1 = {
+	monarch = {
+		name = "Tasun"
+		dynasty = "By ."
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1763.1.1 = {
+	heir = {
+		name = "Tisuntirai"
+		monarch_name = "Tisuntirai I"
+		dynasty = "By ."
+		birth_date = 1740.1.1
+		death_date = 1780.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+1765.1.1 = {
+	monarch = {
+		name = "Tisuntirai I"
+		dynasty = "By ."
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+1765.1.1 = {
+	heir = {
+		name = "Tisuntirai"
+		monarch_name = "Tisuntirai II"
+		dynasty = "By ."
+		birth_date = 1765.1.1
+		death_Date = 1783.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1780.1.1 = {
+	monarch = {
+		name = "Tisuntirai II"
+		dynasty = "By ."
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1780.1.1 = {
+	heir = {
+		name = "Chi Cree Bree"
+		monarch_name = "Chi Cree Bree"
+		dynasty = "By ."
+		birth_date = 1760.1.1
+		death_date = 1786.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1783.1.1 = {
+	monarch = {
+		name = "Chi Cree Bree"
+		dynasty = "By ."
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1783.1.1 = {
+	heir = {
+		name = "Tisun"
+		monarch_name = "Tisun"
+		dynasty = "By ."
+		birth_date = 1763.1.1
+		death_Date = 1786.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1786.1.1 = {
+	monarch = {
+		name = "Tisun"
+		dynasty = "By ."
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1786.1.1 = {
+	heir = {
+		name = "Lasun"
+		monarch_name = "Lasun"
+		dynasty = "By ."
+		birth_date = 1770.1.1
+		death_date = 1799.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1793.1.1 = {
+	monarch = {
+		name = "Lasun"
+		dynasty = "By ."
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1793.1.1 = {
+	heir = {
+		name = "Chong Chan"
+		monarch_name = "Chong Chan"
+		dynasty = "By ."
+		birth_date = 1780.1.1
+		death_date = 1822.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1799.1.1 = {
+	monarch = {
+		name = "Chong Chan"
+		dynasty = "By ."
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}

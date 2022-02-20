@@ -1,0 +1,155 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 200  210  3 }
+
+historical_score = 100
+
+historical_idea_groups = {
+	religious_ideas
+	quantity_ideas
+	innovativeness_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Sriranga #0" = 60
+	"Narasimha #1" = 40
+	"Venkata #1" = 40
+	"Virupaksha #0" = 20
+	"Devara #0" = 20
+	"Vijaya #1" = 20
+	"Praudha #0" = 20
+	"Timma #0" = 20
+	"Viranarasimha #0" = 20
+	"Krishna #0" = 20
+	"Achyuta #0" = 20
+	"Sadashiva #0" = 20
+	"Tyrumala #0" = 20
+	"Frame #0" = 20
+	"Jagga #0" = 10
+	"Yeti-raja #0" = 10
+	"Aliya Rama #0" = 5
+	"Tuluva #0" = 5
+	"Harihara #1" = 1
+	"Bucca #1" = 1
+	"Virgo #2" = 1
+	"Ramachandra #1" = 1
+	"Vira Vijaya Bukka #0" = 1
+	"Mallicarjuna #0" = 1
+	"Adarsh #0" = -1
+	"Budhil #0" = -1
+	"Chaitanya #0" = 0
+	"Devarshi #0" = 0
+	"Deville #0" = 0
+	"Gunda #0" = 0
+	"Chrydynath #0" = 0
+	"Kauschal #0" = 0
+	"Manprasad #0" = 0
+	"Marcandei #0" = 0
+	"Pranet #0" = 0
+	"Prabuddha #0" = 0
+	"Purandaradas #0" = 0
+	"Rishi #0" = 0
+	"Saraswat #0" = 0
+	"Sivvappa #0" = 0
+	"Tanjavur #0" = 0
+	"Tirumalai #0" = 0
+	"Timma #0" = 0
+	"Utkarsh #0" = 0
+	"Vikrant #0" = 0
+	"Yachama #0" = 0
+	"Wiswanata #0" = 0
+	"Lakshmidara #0" = 0
+	"Ishwara #0" = 0
+	"Salukarayaa #0" = 0
+	"Saluva Mango #0" = 0
+	"Manabusa #0" = 0
+	"Conithera #0" = 0
+	"Imadhi #0" = 0
+	"Campe Gouda #0" = 0
+	"Vyasaraya #0" = 0
+	"Allasani Pedana #0" = 0
+	"Nagama #0" = 0
+	"Celappa #0" = 0
+	"Aryavanata Mudalar #0" = 0
+	"Dandayanaka #0" = 0
+	"Kanaka #0" = 0
+	"Kumara #0" = 0
+}
+
+leader_names = {
+	"Keshaw"
+	"Gemawat"
+	"Dasari"
+	"Chatterjee"
+	"Malini"
+	"Mallicarjun"
+	"Chittur"
+	"Jeumel"
+	"Mayekar"
+	"Padmesh"
+	"Kamma"
+	"Tuluva"
+	"Govindaraya"
+	"Mangue"
+	"Timma"
+	"Timmarasa"
+	"Tirouvadi"
+	"Ummatur"
+	"Parouchuri"
+	"Vilama"
+	"Vasiraddy"
+	"Reddy"
+}
+
+ship_names = {
+	"Amirta"
+	"Amman"
+	"Arul"
+	"Bharatapusa"
+	"Bhavani"
+	"Bheema"
+	"Chellam"
+	"Devi"
+	"Durga"
+	"Gayatri"
+	"Godavari"
+	"Inia"
+	"Boars"
+	"Caveri"
+	"Krishna"
+	"Lakshmi"
+	"Madhu"
+	"Minakshi"
+	"Nalini"
+	"Pambar"
+	"Parvati"
+	"Periyar"
+	"Ponnie"
+	"Radha"
+	"Ratri"
+	"Saraswati"
+	"Sita"
+	"Tamaray"
+	"Tungabhadra"
+}

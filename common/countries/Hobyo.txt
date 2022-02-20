@@ -1,0 +1,78 @@
+#Country Name: Please seefilename.
+
+graphical_culture = muslimgfx
+
+color = { 255 73 7 }
+#color = { 38 100 70 }
+
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	african_spearmen
+	bantu_tribal_warfare
+	african_hill_warfare
+	adal_gunpowder_warfare
+	westernized_adal
+	adal_guerilla_warfare
+	african_somali_cavalry
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_hussar
+	african_dragoon		
+}
+
+monarch_names = {
+	"Arlico #1" = 60
+	"Sargelle #0" = 60
+	"Fadumo #0" = 40
+	"Umar #0" = 40
+	"Muhammad #0" = 20
+	
+	"Zainab #0" = -1
+	"Sadaf #0" = -1
+}
+
+leader_names = {
+	Abdallah
+	Abdikarim
+	Abubakar
+	Ahmad
+	Ayubu
+	Dalmar
+	Gedi
+	Hassan
+	Khalid
+	Liban
+	Mahad
+	Mosa
+	Muhammad
+	Omar
+	Rahim
+	Saad
+	Garden
+	Sharif
+}
+
+ship_names = {
+	Afgooye Awash Baraawe Berahle Bukame
+	Dallol Dolo's Dubti Duleca Elidar Eva. 
+	Gedo Gevane Gobolka Havo Jubbada 
+	Calabide Marc Semer Simurobi Yalo.
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$"
+}
+
+fleet_names = {
+	"Prov. Navy. $PROVINCE$"
+}

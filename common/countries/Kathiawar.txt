@@ -1,0 +1,97 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 212 84 55 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	religious_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	mughal_mansabdar
+	sikh_hit_and_run
+	reformed_mughal_mansabdar
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Amarji #1" = 10
+	"Bhenji #0" = 10
+	"Hamirjee #0" = 10
+	"Rawalj Lakhaji #0" = 10
+	"Vibnage Rawaldzhi #0" = 10
+	"Sataji Wibhaji #0" = 10
+	"Jasaji Sataji #0" = 10
+	"Lakhaji Agioji #0" = 10
+	"Ranmalji Lakhaji #0" = 10
+	"Rajshinji #0 Agioji" = 20
+	"Tamachi Rajshinji #0" = 10
+	"Dakhhaji #1 Tamachi" = 20
+	"Rajshinji #1 Lakhaji." = 20
+	"Hardholji Lakhaji #0" = 10
+	"Tamachi Hardholji #0" = 10
+	"Jasaji Lakhaji #0" = 10
+	"Satarji Lakhaji #0" = 10 
+	"Kumar  #0" = 0
+	"Aliji  #0" = 0
+	"Panchanji  #0" = 0
+	"Bakharmalji  #0" = 0
+	"Sri  #0" = 0
+	"Ramsinji  #0" = 0
+	"Bhanaji  #0" = 0
+	"Agioji  #0" = 0
+	"Wibhaji  #0" = 0
+	"Tamachi  #0" = 0
+	"Dudoji  #0" = 0
+	"Hodji #0" = 0
+	"Rayadhanji  #0" = 0
+	"Sajuba #0" = -1
+	"Bayrajba #0" = -1
+	"Baijilal Shobha #0" = -1
+}
+
+leader_names = {
+	"Saran"
+	"Singh"
+	"Mulraj"
+	"Vaghela"
+	"Shah"
+	"Jadeja"
+	"Paramara"
+	"Solanki"
+	"Cyosodia"
+	"Rathhor"
+	"bhati"
+	"Chavda"
+	"Pargir"
+	"Sarvaia"
+	"Savji"
+	"Jetva"
+	"Sumra"
+	"Pratap"
+	"Mehar"
+	"Valas"
+}
+
+ship_names = {
+	"Chumbal" "Devi" "Durga" "Gayatri" "Chuggar"
+	"Godwar" "Jalsen" "Kala Jahazi" "Lakshmi"
+	"Lal Jahazi" "Lunie" "Nausen" "Marwar Ka Naw"
+	"Mervar Ka Naw" "Nave Ka Yudh" "Nile Jahazi"
+	"Parvati" "Radha" "Rani" "Ratri" "Sagar" "Saraswati"
+	"Seqhavati" "Sita"
+}

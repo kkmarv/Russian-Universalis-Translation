@@ -1,0 +1,31 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = catalan
+add_accepted_culture = greek
+religion = catholic
+technology_group = western
+capital = 3104	# Lepanto
+
+historical_rival = BYZ
+historical_rival = THS
+
+1311.1.1 = {
+	monarch = {
+		name = "Roger"
+		dynasty = "Desslore"
+		death_date = 1318.1.1
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+1318.1.1 = {
+	monarch = {
+		name = "Regent Council"
+		regent = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

@@ -1,0 +1,138 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 58  174  61 }
+
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Friedrich #3" = 30
+	"William #0" = 20
+	"Balthazar #0" = 15
+	"George #0" = 15
+	"Albrecht #2" = 10
+	"Ernst #0" = 10
+	"Sigismund #0" = 10
+	"Conrad #1" = 5
+	"Otto #1" = 5
+	"Alfred #0" = 0
+	"August #0" = 0
+	"Bernhardt #0" = 0
+	"Berthold #0" = 0
+	"Burkhardt #0" = 0
+	"Christian #0" = 0
+	"Karl #0" = 0
+	"Dietrich #0" = 0
+	"Gunter #0" = 0
+	"Andreas #0" = 0
+	"Gustav #0" = 0
+	"Henry #0" = 0
+	"Joachim #0" = 0
+	"Johann #0" = 0
+	"Karl #0" = 0
+	"Casimir #0" = 0
+	"Leonard #0" = 0
+	"Leopold #0" = 0
+	"Lorenz #0" = 0
+	"Ludwig #0" = 0
+	"Maximilian #0" = 0
+	"Michael #0" = 0
+	"Moritz #0" = 0
+	"Nikolaus #0" = 0
+	"Paul #0" = 0
+	"Rainer #0" = 0
+	"Rudolph #0" = 0
+	"Thomas #0" = 0
+	"Ulrich #0" = 0
+	"Victor #0" = 0
+	"Waldemar #0" = 0
+	
+	"Annegret #0" = -1
+	"Beata #0" = -1
+	"Elise #0" = -1
+}
+
+leader_names = {
+	"Hoppe"
+	"Herzburg"
+	"Ackerman"
+	"Alberti"
+	"Albrecht"
+	"Alvensleben"
+	"Amman"
+	"Annecke"
+	"Ante"
+	"Bauer"
+	"Bause"
+	"Ehrenberg"
+	"Erxleben"
+	"Feuerstack"
+	"Fluxbart"
+	"Ghent"
+	"Gerstung"
+	"Held"
+	"Isaac"
+	"Janek"
+	"Yantke"
+	"Kersten"
+	"Kleinau"
+	"Maerz"
+	"Nemitz"
+	"Rumpf"
+	"Scarf"
+	"Schausaille"
+	"Shik"
+	"von Zerbst"
+}
+
+ship_names = {
+	"Albrecht der Ber"
+	"Ashersleben"
+	"Hermann Orlamunde"
+	"Bischof Siegfried"
+	"Dietrich Verben"
+	"Albrecht Ballenstedt"
+	"Bernhard Wittenberg"
+	"Henry I"
+	"Zerbst"
+	"Coswig"
+	"Dessau"
+	"Keten"
+	"Bernburg"
+	"Brocken"
+	"Harz"
+	"Plockau"
+	"Ramberg"
+	"Rosslau"
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$" 
+}

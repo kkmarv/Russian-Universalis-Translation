@@ -1,0 +1,107 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 0 120 145 }
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	quantity_ideas
+	expansion_ideas
+	offensive_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Abbas #0" = 10
+	"Agish #0" = 10
+	"Alchagir #0" = 10
+	"Arslanai #0" = 10
+	"Bucky #0" = 10
+	"Baltychak #0" = 10
+	"Batyr #1" = 10
+	"Dean Ahmad #0" = 10
+	"Dean Muhammad #0" = 10
+	"Dean Sufi #0" = 10
+	"Dingbei #0" = 10
+	"Divey #0" = 10
+	"Edigoo #1" = 10
+	"Gazi #1" = 10
+	"Haji Amad #0" = 10
+	"Haji Muhammad #0" = 10
+	"Hassan #0" = 10
+	"Isterek #0" = 10
+	"Blue #0" = 10
+	"Ismayil #0" = 10
+	"Jan Kubad #0" = 10
+	"Kanai #0" = 10
+	"Jorozmi #0" = 10
+	"Kuchuk #0" = 10
+	"Mansour #1" = 10
+	"Muhammad #0" = 10
+	"Musa #0" = 10
+	"Kasim #0" = 10
+	"Said Ahmad #0" = 10
+	"Shai Tarak #0" = 10
+	"Sheikh Mamay #0" = 10
+	"Timur #0" = 10
+	"Uraz Muhammad #0" = 10
+	"Urus #0" = 10
+	"Wakkas #0" = 10
+	"Yagmurci #0" = 10
+	"Yash Tarak #0" = 10
+	"Yusuf #0" = 10
+
+	"Aliya #0" = -1	
+	"Ikram #0" = -1	
+}
+
+leader_names = {
+	"Temur Ulagan"
+	"Bora Chinois"
+	"Suren Unegen"
+	"Kara Erdene"
+	"Delger Chen"
+	"Chaganchar"
+	"Corcigene"
+	"Burilgidai"
+	"Kadantai"
+	"Temurcher"
+	"Tegus-Chee"
+	"Berkegen"
+	"Yekechar"
+	"Batu-tu"
+}
+
+ship_names = {
+	"Kara Nogai"
+	"Yedigey"
+	"Shed"
+	"Yaik"
+	"Genghis Khan"
+	"Batu Khan"
+	"Tatar Khan"
+	"Munke Timur"
+	"Wakkas Badge"
+	"Chaka"
+	"Storms"
+	"Caca Cucuk"
+	"Mangit"
+}

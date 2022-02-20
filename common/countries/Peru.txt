@@ -1,0 +1,153 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = SPA
+random_nation_chance = 0
+
+color = { 124  140  162 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Juan #0" = 20
+	"Manuel #0" = 20
+	"Jose #0 Bernardo" = 15
+	"Jose #0 Francisco" = 15
+	"Luis #0 Jose" = 10
+	"Juan #0 Jose" = 10
+	"Adalberto #0" = 0
+	"Adan #0" = 0
+	"Agustin #0" = 0
+	"Alberto #0" = 0
+	"Alejandro #0" = 0
+	"Ambrosio #0" = 0
+	"Andres #0" = 0
+	"Antonio #0" = 0
+	"Augusto #0" = 0
+	"David #0" = 0
+	"Eduardo #0" = 0
+	"Emilio #0" = 0
+	"Felipe #0" = 0
+	"Fernando #0" = 0
+	"Francisco #0" = 0
+	"Francisco Xavier #0" = 0
+	"Guillermo #0" = 0
+	"Javier #0" = 0
+	"Jose #0" = 0
+	"Juan #0 Antonio" = 0
+	"Juan #0 Francisco" = 0
+	"Luis #0" = 0
+	"Mariano #0" = 0
+	"Martin #0" = 0
+	"Miguel #0" = 0
+	"Melchor #0" = 0
+	"Nicholas #0" = 0
+	"Oscar #0" = 0
+	"Pedro #0" = 0
+	"Pedro #0 Pablo" = 0
+	"Remihio #0" = 0
+	"Ricardo #0" = 0
+	"Sergio #0" = 0
+	"Valentin #0" = 0
+	
+	"Pacifica #0" = -1
+	"Valencia #0" = -1
+	"nereida #0" = -1
+}
+
+leader_names = {
+	"Aguilar"
+	"Alvarez de Arenales"
+	"Angulo"
+	"Ara"
+	"Astete"
+	"Barahona"
+	"Barrios"
+	"Behar"
+	"Kakma Condori"
+	"Carreño"
+	"Carrion"
+	"Castelli"
+	"Chimo Kapak"
+	"Kondorkanki"
+	"Cordoba"
+	"Galan"
+	"Gamarra"
+	"Gonzalez"
+	"Gise"
+	"Hurtado de Mendoza"
+	"Lara"
+	"de Luna"
+	"del Mar"
+	"Meldgar"
+	"Mendoza"
+	"Miller"
+	"Monteagudo"
+	"Moskoso"
+	"Orco Haranca"
+	"Pallardelli"
+	"Pass"
+	"Pizarro"
+	"Pumacaua"
+	"Kiroga"
+	"Rio delta"
+	"de la Riva Aguero"
+	"Rojas"
+	"Salaverry"
+	"Sanchez"
+	"Suarez"
+	"de Sucre"
+	"de la Toire"
+	"Product"
+	"Ubalde"
+	"Unanue"
+	"Velarde"
+	"Velasco"
+	"Veles de Cordoba"
+	"de Vivanco"
+	"de Sela"
+}
+
+ship_names = {
+	"Antofagasta"
+	"Callao"
+	"Kasma"
+	"Chipana"
+	"De Los Heroes"
+	"Ethene"
+	"Herrera"
+	"Larrea"
+	"Mariategui"
+	"Montero"
+	"Pite"
+	"Pisagwa"
+	"Sanchez Carrion"
+	"Santillana"
+	"Velarde"
+}

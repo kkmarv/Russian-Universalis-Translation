@@ -1,0 +1,122 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 101 115 155 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Henri #2" = 60
+	"Edward #4" = 10
+	"Guillaume #10" = 5
+	"Richard #2" = 5
+	"Jean #1" = 5
+	"Edmond #0" = 5
+	"Humphrey #0" = 5
+	"Arman #0" = 0
+	"Arno #0" = 0
+	"Emeric #0" = 0
+	"Bartomew #0" = 0
+	"Benedy #0" = 0
+	"Berna #0" = 0
+	"Bertrand #0" = 0
+	"Brun #0" = 0
+	"Karl #0" = 0	
+	"Eneko #0" = 0
+	"Enric #0" = 0
+	"Esteve #0" = 0
+	"Fulk #0" = 0
+	"Frans #0" = 0
+	"Fredole #0" = 0
+	"Gaston #0" = 0
+	"Corrugated #0" = 0
+	"Guillaume #0" = 0
+	"Ug #0" = 0
+	"Jacquet #0" = 0
+	"Jourdain #0" = 0
+	"Lua #0" = 0
+	"Mathieu #0" = 0
+	"Myke #0" = 0
+	"Nicolas #0" = 0
+	"Per #0" = 0
+	"Paul #0" = 0
+	"Ponce #0" = 0
+	"Tom #0" = 10
+	"Vicenc #0" = 0
+	"Vivian #0" = 0
+	"Xavier #0" = 0
+	
+	"Olivia #0" = -1
+	"Ninnet #0" = -1
+	"Rosalie #0" = -1
+}
+
+leader_names = {
+	"Aller"
+	"Detmold"
+	"Hamelm" "Hildensheim"
+	"Capp"
+	"Minden"
+	"Oldenburg"
+	"Salzgitter"
+	"Verden" "Vernigerode"
+}
+
+ship_names = {
+	"Hello" "Africen" "Eggle" "Egles d'Or" "Emabel Nano"
+	"Emabel Marthé" "Emabelle Rose" "Alexander" "Saint Anne de Bordeaux" "Amitye"
+	"Angelique" "Ameriken" "Amphitrite" "Arc-yen-Siel" "Bayonnez" 
+	"Belle Bullet" "Bienfesan" "Biscayenne" "Bizarr" "Bonne Amier" 
+	"Brothel" "Brijun" "Caroline" "Casto" "Katish"
+	"Charente" "Charman Manon" "Charman Nancy" "Charman Rachel" "Chateau de Bayonne"
+	"Chesin" "Kommers de Bordeaux" "Comte de Toulouse" "Kontan" "Debonner"
+	"Dedenez" "De Freret" "Diaman" "Dealer" "Duke d'Aquitaine"
+	"Elizabeth" "Entrepreneur" "Esperance" "Extravagan" "Favours"
+	"Fendan" "Flaman" "Gayar" "Galan" "Godishon"
+	"Grand Kure" "Gran Sireu" "Gros Ventre" "Hercule" "Ermin" 
+	"Imperial" "Andien" "Entrepid" "Jolie" "Joseph"
+	"Labur" "Laurence" "Leger" "Lycorn" "Lyon"
+	"Masho" "Marshan" "Mars" "Mascarene" "Moore"
+	"Inter" "Melamp" "Mignon" "Neptune" "Nouvelle Victoire"
+	"Waso" "Opal" "Pelican" "Phoenix" "Pollux"
+	"Cathrère Freret" "Rameau" "Rhine Marie" "Renommé" "Rostan"
+	"Royal Dan" "Saint-Jacques" "Saint-Pierre" "Siren" "Soleil Royal"
+	"Swinton" "Tampon" "Tuasson d'Or" "Turterel" "Trinity"
+	"Triton" "Util" "Valais" "Venus" "Ville de Bayonne"
+}
+
+army_names = {
+	"Aquitaine Army" "Bordelais Army" "Blyeus Army"
+	"Pey de Boucha Army" "Bazade Army" "Keiran's army"
+	"Fronzade Army" "Liburnet Army" "Castijón Army" 
+	"Armée d'Albre" "La Garonne's Army" "L'Augene Army"
+	"Provincial Army. $PROVINCE$" 
+}

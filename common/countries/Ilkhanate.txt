@@ -1,0 +1,89 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 57 125 176 }
+
+revolutionary_colors = { 1  5  1 }
+
+historical_idea_groups = {
+	administrative_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	maritime_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Babur #2" = 20
+	"Mirza #1" = 10
+	"Abu Said #1" = 10
+	"Shakhruh #1" = 10
+	"Ahmad #1" = 10
+	"Mahmoud #1" = 10
+	"Masood #1" = 10
+	"Boysunkur #1" = 10
+	"Ali #1" = 10
+	"Hussein #0" = 10
+	"Uweiss #0" = 10
+	"Nasir #0" = 10
+	"Ulug #1" = 10
+	"Timur #1" = 1
+
+	"Fatin #1" = -1
+}
+
+leader_names = {
+	"Abbas"
+	"Abu Bakr"
+	"Akbar"
+	"Jahagir"
+	"Jalal"
+	"Jami"
+	"Khalil"
+	"Mohsin"
+	"oud-Din"
+	"Zaman"
+}
+
+ship_names = {
+	"Ardabil"
+	"Bakhura"
+	"Baluches"
+	"Bulkh"
+	"Herat"
+	"Isfahan"
+	"Kirman"
+	"Kish"
+	"Khorezm"
+	"Kandahar"
+	"Lahore"
+	"Merv"
+	"Nishupur"
+	"Hormuz"
+	"Rustam"
+	"Sikandar"
+	"Sebzevar"
+	"Slurax"
+	"Samarkand"
+	"Tamerlan"
+	"Tahriz"
+	"Shah Rukh"
+}

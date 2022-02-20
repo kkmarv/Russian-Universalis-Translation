@@ -1,0 +1,96 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 69  131  62 }
+
+historical_idea_groups = {
+	defensive_ideas
+	aristocracy_ideas
+	offensive_ideas
+	diplomatic_ideas
+	religious_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	mughal_mansabdar
+	sikh_hit_and_run
+	reformed_mughal_mansabdar
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Palandev #0" = 10
+	"Patai Rawai #0" = 10
+	"Prithwirage #0" = 10
+	"Arsisinji #0" = 10
+	"Hamirsinji #1" = 10
+	"Bihimshinji #0" = 10
+	"Base #0" = 0
+	"Kumbakarna #0" = 0
+	"Natwar #0" = 0
+	"Ratan #0" = 0
+	"Jhala #0" = 0
+	"Hakim #0" = 0
+	"Sidrage #0" = 0
+	"Raj #0" = 0
+	"Jai #0" = 0
+	"Sangram #0" = 0
+	"Syjakji #0" = 0
+	"Dilip #0" = 0
+	"Kshetra #0" = 0
+	"Kunwar #0" = 0
+	"Nath #0" = 0
+	"Viram #0" = 0
+	"Baiji Lal #0" = 0
+	"Javan #0" = 0
+	"Bhavani #0" = 0
+	"Naryan #0" = 0
+	"Krishna #0" = 0
+	"Points #0" = 0
+	"Songari #0" = -1
+	"Ajab #0" = -1
+	"Kamala #0" = -1
+	"Deva #0" = -1
+}
+
+leader_names = {
+	Sahu
+	Sisodia
+	Saran
+	bhati
+	Chandela
+	Das
+	Judon
+	Jadeja
+	Chudasama
+	Tomara
+	Baal
+	Chauhan
+	Maury
+	Bargudjar
+	Chundava
+	Gohil
+	Khumba
+	Pratap
+	Singh
+	Vaghela
+}
+
+ship_names = {
+	Chumbal Davy Durga Gayatri Ghaggar.
+	Godwar Jalsen "Kala Jahazi" Lakshmi
+	"Lal Jahazi" Luni Nausen
+	"Mervar Qa Hub" "Hab ka Yudh" "Nile Jahazi"
+	Parvati Radha Rani Ratri Sagar Saraswati
+	Sehawati Sita
+}

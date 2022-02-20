@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = hannoverian
+religion = catholic
+capital = 3146 # Lьneburg
+
+1392.1.1 = {
+	monarch = {
+		name = "William"
+		dynasty =  "Welf"
+		birth_date = 1390.1.1
+		death_date = 1482.6.4
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}

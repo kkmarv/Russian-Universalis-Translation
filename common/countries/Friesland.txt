@@ -1,0 +1,159 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 165  89  27 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	exploration_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Henry Casimir #0" = 40
+	"William #4" = 20
+	"Henry #2" = 20
+	"Albrecht #1" = 20
+	"Ernst Casimir #0" = 20
+	"Johann Wilhelm #0" = 20
+	"Ioris #0" = 20
+	"Wilhelm Friedrich #0" = 20
+	"William Ludovic #0" = 20
+	"William Ioris #0" = 15
+	"Johann Ernst #0" = 10
+	"Moritz #0" = 10
+	"Floris #4" = 5
+	"Conrad #1" = 5
+	"Ann #0" = 0
+	"Brunhardt #0" = 0
+	"Eilert #0" = 0
+	"Enhardt #0" = 0
+	"Fedde #0" = 0
+	"Fokke #0" = 0
+	"Frizo #0" = 0
+	"Geldulph #0" = 0
+	"Gerrit #0" = 0
+	"Herulf #0" = 0
+	"Kai #0" = 0
+	"Klaas #0" = 0
+	"Lidgoda #0" = 0
+	"Lubbert #0" = 0
+	"Menfrid #0" = 0
+	"Popetet #0" = 0
+	"Reddeg #0" = 0
+	"Reginhardt #0" = 0
+	"Sibracht #0" = 0
+	"Siemens #0" = 0
+	"Sikke #0" = 0
+	"Sierra #0" = 0
+	"Tado #0" = 0
+	"Tiadulph #0" = 0
+	"Vibe #0" = 0
+	"Wilbrand #0" = 0
+	
+	"Angelina #0" = -1
+	"Wilhelmina #0" = -1
+	"Hendrike #0" = -1
+}
+
+leader_names = {
+	"Gang"
+	"Barents"
+	"Bergsma"
+	"Bonga"
+	"Doña"
+	"Distra"
+	"Elsma"
+	"Elsinga"
+	"Frizo"
+	"Halbertzma"
+	"Galama"
+	"Gauma"
+	"Caption"
+	"Jongstra"
+	"Yousma"
+	"Cummings"
+	"Kamstra"
+	"Kista"
+	"Koistra"
+	"Martin"
+	"Rimersma"
+	"Ripperda"
+	"Rorda"
+	"Saakma"
+	"Sems"
+	"van Shellinkut"
+	"Stellingverf"
+	"Stinsma"
+	"Style"
+	"Sizra"
+	"Thierxtra"
+	"van Uilenburg"
+	"De Vries"
+	"Vinha"
+}
+
+ship_names = {
+	"Bernlef"
+	"Boalsert"
+	"Damwald"
+	"De Swarte Hep"
+	"Dokkum"
+	"Drylts"
+	"Frede"
+	"Freentcier"
+	"Freyhaid"
+	"Frisia Magna"
+	"Frislan"
+	"Frislan Boppe"
+	"Groot Frislan"
+	"Grutte Pierre"
+	"Harnes"
+	"Haytelan"
+	"Hilpern"
+	"Itte Biken"
+	"Itte Frouke"
+	"Kenning Poppo"
+	"Kenning Redbad"
+	"Crius"
+	"Lovers"
+	"Liver di es slaf"
+	"Louvert"
+	"Pierre Guerlofs Doña"
+	"Gathering"
+	"Snitz"
+	"Old"
+	"Suderse"
+	"Tiadswind"
+	"Wapen van Frislan"
+	"Varkum"
+}
+army_names = {
+ 	"Provincial Army. $PROVINCE$"  }
+
+fleet_names = {  
+	"Provincial Squadron. $PROVINCE$"
+}

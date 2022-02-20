@@ -1,0 +1,494 @@
+government = tribal
+add_government_reform = tribal_kingdom
+technology_group = indian
+primary_culture = chin
+religion = animism
+capital = 2041 # Imphal
+fixed_capital = 2041 # Cannot move capital away from this province & no power cost to move to it
+
+#Rajas of Manipur
+1399.1.1 = {
+	monarch = {
+		name = "Pengshiba"
+		dynasty = "Ningtuja"
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+1399.1.1 = {
+	heir = {
+		name = "Ningtu Kama"
+		monarch_name = "Ningtu Kama"
+		dynasty = "Ningtuja"
+		birth_Date = 1399.1.1
+		death_Date = 1467.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1432.1.1 = {
+	monarch = {
+		name = "Ningtu Kama"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1432.1.1 = {
+	heir = {
+		name = "Senbi Kyamba"
+		monarch_name = "Senbi Kyamba"
+		dynasty = "Ningtuja"
+		birth_Date = 1432.1.1
+		death_Date = 1507.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1467.1.1 = {
+	monarch = {
+		name = "Senbi Kyamba"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1467.1.1 = {
+	heir = {
+		name = "Coiremba"
+		monarch_name = "Coiremba"
+		dynasty = "Ningtuja"
+		birth_Date = 1467.1.1
+		death_Date = 1511.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1507.1.1 = {
+	monarch = {
+		name = "Coiremba"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1507.1.1 = {
+	heir = {
+		name = "Ching-Hon"
+		monarch_name = "Ching-Hon"
+		dynasty = "Ningtuja"
+		birth_date = 1507.1.1
+		death_Date = 1522.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1511.1.1 = {
+	monarch = {
+		name = "Ching-Hon"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1511.1.1 = {
+	heir = {
+		name = "Nongyin Phaba"
+		monarch_name = "Nongyin Phaba"
+		dynasty = "Ningtuja"
+		birth_Date = 1500.1.1
+		death_Date = 1523.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1522.1.1 = {
+	monarch = {
+		name = "Nongyin Phaba"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1523.1.1 = {
+	monarch = {
+		name = "Semby Comba"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+
+1541.1.1 = {
+	monarch = {
+		name = "Tanggjamba"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1544.1.1 = {
+	monarch = {
+		name = "Chambala"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1544.1.1 = {
+	heir = {
+		name = "Mungamba"
+		monarch_name = "Mungamba"
+		dynasty = "Ningtuja"
+		birth_date = 1524.1.1
+		death_Date = 1596.1.1
+		claim = 95
+		adm =5
+		dip = 2
+		mil = 2
+	}
+}
+
+1560.2.1 = {
+	government_rank = 1
+}
+
+1561.1.1 = {
+	monarch = {
+		name = "Mungamba"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1580.1.1 = {
+	heir = {
+		name = "Kangemba"
+		monarch_name = "Kangemba"
+		dynasty = "Ningtuja"
+		birth_Date = 1580.1.1
+		death_Date = 1651.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1596.1.1 = {
+	monarch = {
+		name = "Kangemba"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	government_rank = 2
+}
+
+1620.1.1 = {
+	heir = {
+		name = "Kunjoba"
+		monarch_name = "Kunjoba"
+		dynasty = "Ningtuja"
+		birth_Date = 1620.1.1
+		death_Date = 1665.1.1
+		claim = 95 
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1651.1.1 = {
+	monarch = {
+		name = "Kunjoba"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1651.1.1 = {
+	heir = {
+		name = "Pajhomba"
+		monarch_name = "Pajhomba"
+		dynasty = "Ningtuja"
+		birth_date = 1640.1.1
+		death_Date = 1696.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1665.1.1 = {
+	monarch = {
+		name = "Pajhomba"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1665.1.1 = {
+	heir = {
+		name = "Charayrongba"
+		monarch_name = "Charayrongba"
+		dynasty = "Ningtuja"
+		birth_Date = 1660.1.1
+		death_Date = 1708.8.23
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1696.1.1 = {
+	monarch = {
+		name = "Charayrongba"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1696.1.1 = {
+	heir = {
+		name = "Pamheiba"
+		monarch_name = "Pamheiba"
+		dynasty = "Ningtuja"
+		birth_Date = 1690.1.1
+		death_Date = 1747.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1708.8.23 = {
+	monarch = {
+		name = "Pamheiba"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1710.1.1 = {
+	religion = hinduism
+}
+
+1720.1.1 = {
+	heir = {
+		name = "Chit site"
+		monarch_name = "Chit site"
+		dynasty = "Ningtuja"
+		birth_Date = 1720.1.1
+		death_Date = 1751.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1747.1.1 = {
+	monarch = {
+		name = "Chit site"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1751.1.1 = {
+	monarch = {
+		name = "Barat website"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1751.1.1 = {
+	heir = {
+		name = "Maramba"
+		monarch_name = "Maramba"
+		dynasty = "Ningtuja"
+		birth_date = 1730.1.1
+		death_Date = 1763.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1752.1.1 = {
+	monarch = {
+		name = "Maramba"
+		dynasty = "Ningtuja"
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1752.1.1 = {
+	heir = {
+		name = "Ching-tang comba"
+		monarch_name = "Ching-tang comba"
+		dynasty = "Ningtuja"
+		birth_Date = 1750.1.1
+		death_Date = 1798.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1763.1.1 = {
+	monarch = {
+		name = "Ching-tang comba"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1763.1.1 = {
+	heir = {
+		name = "Labeynachandra"
+		monarch_name = "Labeynachandra"
+		dynasty = "Ningtuja"
+		birth_date = 1760.1.1
+		death_date = 1801.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1798.1.1 = {
+	monarch = {
+		name = "Labeynachandra"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1798.1.1 = {
+	heir = {
+		name = "Madhujchandra"
+		monarch_name = "Madhujchandra"
+		dynasty = "Ningtuja"
+		birth_date = 1798.1.1
+		death_Date = 1804.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1801.1.1 = {
+	monarch = {
+		name = "Madhujchandra"
+		dynasty = "Ningtuja"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1801.1.1 = {
+	heir = {
+		name = "Churjit"
+		monarch_name = "Churjit"
+		dynasty = "Ningtuja"
+		birth_Date = 1780.1.1
+		death_Date = 1814.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1804.1.1 = {
+	monarch = {
+		name = "Churjit"
+		dynasty = "Ningtuja"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1814.1.1 = {
+	monarch = {
+		name = "Marjit"
+		dynasty = "Ningtuja"
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+}
+
+1814.2.1 = {
+	government_rank = 1
+}
+
+1819.6.1 = {
+	government_rank = 2
+}

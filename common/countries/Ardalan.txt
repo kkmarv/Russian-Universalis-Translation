@@ -1,0 +1,108 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 162  29  220 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Boa #0" = 30
+	"Hane #0" = 30
+	"Timur #0" = 30
+	"Ahmad #0" = 20
+	"Suleiman #0" = 10
+	"Subhan Virdi #0" = 30
+	"Khosrov #0" = 15
+	"Bozorg #0" = 20
+	"Hussein #0" = 10
+	"Amanallah #0 Check" = 10
+	"Fagi Ahmad #0 Check" = 10
+	"Mohammad #0" = 10
+	"Nawab Khalid #0" = 10
+	"Nawab Salim #0" = 5
+	"Abdollah #0 Khan" = 10
+	"Mahmoud #0" = 10
+	"Ibrahim #0" = 10
+	"Abdurrahman #0" = 10
+	"Koulos #0" = 10
+	"Isa #0" = 10
+	"Mir Sayfeddin #0" = 10
+	"Sayidi #0" = 10
+	"Budak #0" = 10
+	
+	"Atia #0" = -1
+}
+
+leader_names = {
+	Sanjabdi
+	Cove
+	Feroscohi
+	Failey
+	Gewirk
+	Rekani
+	Hadabani
+	"Ali Shirvan"
+	Erki
+	Jalilawand
+	Zafaranlu
+	Zarrinkafsh
+	Mangur
+	Jaff
+	Shayoanley
+	Barzani
+}
+
+ship_names = {
+	Abatur "Adam Kasia" "Esma Deva" Agas
+	Ariman Ahura "Ahura Mazda" Ahurani Iriaman
+	"Aka Mana" Aladdin Allatum Amashaspan Ameratatat
+	"Amesha Spent" Anahita "Angra Mainu" Andjuman
+	"Apam-natat" Apasosa Aredvi Arishtat Armaiti Arsaces
+	"Asha wahista" Asman "Asto Vidatu" "Astvat-Ereta"
+	Athar "Azi Dahaka" Bahamas Bahamas Bahram Bourijas Bouciasta
+	Camro Dan Dahaq Dahaq Dan Dahaq Dahaq Dahaq Dahaq Dahaq Friend.
+	Devaspa Frashegirg Fravashi Gandareva "Gao-Keren"
+	Gayomad Gayomart "Geus-Tassan" "Geus-Urvan" Haoma
+	Hurvatat Humay Hvar Hvarehsheta Indar Indra Iza
+	Jamshid Jeh Qavi Hara Bearing "Kstatra Variya"
+	Kundrav Mahre Mahriang Manu Manuchihir Mao 
+	Mashiane Mashier Menog Mitra Nayriosanga Nangaitia
+	Neriosang Ormazd Peris Peshdadians Rapitwin Rashnu
+	Rustam Saurva Simurg "Spenta Mainu" Sraosa Sroch
+	Tavrich Tunaupa Tustria Tushnamatai Vanant Wata
+	Veretrana "Wohu Mana" Voruskasha Yam Yasht Yazata
+	Ezidi Yima Hall Zam "Zam-Armatai" Zarathustra Zarich
+	"Zend-Avesta" Zurvan
+}
+
+army_names = {
+	"Artesa $PROVINCE$"
+}
+
+fleet_names = {
+	"$PROVINCE$ Donanmasi"
+}

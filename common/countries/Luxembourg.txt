@@ -1,0 +1,92 @@
+#Country Name: Seeee the Name of this File.
+
+graphical_culture = westerngfx
+
+color = { 53  140  73 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	administrative_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Johann #1" = 20
+	"Wenzel #1" = 20
+	"Anton #0" = 20
+	"Jobst #0" = 20
+	"Sigismund #0" = 20
+	"Elizabeth #0" = -15
+	"Karl #1" = 5
+	"Henry #7" = 5
+	"Conrad #2" = 5
+	"William #1" = 5
+	"Albrecht #0" = 0
+	"Andreas #0" = 0
+	"Bernhardt #0" = 0
+	"Claudius #0" = 0
+	"Christoph #0" = 0
+	"Diderik #0" = 0
+	"Engelbert #0" = 0
+	"Ferdinand #0" = 0
+	"Franz #0" = 0
+	"George #0" = 0
+	"Hans #0" = 0
+	"Isaac #0" = 0
+	"Jacob #0" = 0
+	"Joachim #0" = 0
+	"Joseph #0" = 0
+	"Clemens #0" = 0
+	"Constantine #0" = 0
+	"Leopold #0" = 0
+	"Lothar #0" = 0
+	"Ludwig #0" = 0
+	"Mathias #0" = 0
+	"Maximilian #0" = 0
+	"Odo #0" = 0
+	"Pascal #0" = 0
+	"Peter #0" = 0
+	"Philippe #0" = 0
+	"Rudolph #0" = 0
+	"Ruprecht #0" = 0
+	"Sigismund #0" = 0
+	"Victor #0" = 0
+}
+
+leader_names = {
+	"von Bethbourne" "von Bowes" "von Kapellen" "von Grevenmakh"
+	"von Grossbows" "von Ponpier" "von Reisdorf" "von Redanga"
+	"von Dikirch" "von Schutrange" "Borchert" "Bullet" "Dumont"
+	"Wife" "Hoshite" "Mersch" "Nissar" "Riner" "Shannen" "Pinkernel"
+	"Petitío" "Paja" "von Sommerfeld" "Vogue" "Wyler" "Vinen" "Bieberen"
+	"Cleese" "Kemmerer" "Croyé" "Delchez" "du Carme" "Gonderinger" "Greff" "Gerrig"
+	"Maussen" "Bourshidt" 
+}
+
+ship_names = {
+	"Cool" "Dikirch" "Redange" "Vianden" "Wiltz"
+	"Ehternach" "Grevenmacher" "Remix" "Chaplaincy"
+	"Mersch" "Foylen" "Ash-sur-Alzette"
+}

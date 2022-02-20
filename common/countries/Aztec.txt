@@ -1,0 +1,219 @@
+#Country Name: Please see filename.
+
+graphical_culture = southamericagfx
+
+color = { 48  149  21 } 
+
+revolutionary_colors = { 10  0  5 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	maritime_ideas
+	trade_ideas
+	economic_ideas
+	quality_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	mesoamerican_spearmen
+	central_american_horsemen
+	aztec_tribal_warfare
+	aztec_hill_warfare
+	aztec_gunpowder_warfare
+	westernized_aztec
+	mexican_guerilla_warfare
+}
+
+monarch_names = {
+	"Montesuma #0" = 40
+	"Auitzotl #0" = 20
+	"Ashayakatl #0" = 20
+	"Kuautemok #0" = 20
+	"Kuitlauak #0" = 20
+	"Huitziluitl #0" = 20
+	"Itzkoatl #0" = 20
+	"Oimalpopoka #0" = 20
+	"Tussock #0" = 20
+	"Unanitsin #0" = 15
+	"Motelciu #0" = 15
+	"Teuethsticin #0" = 15
+	"Tlacocin #0" = 15
+	"Shochikincin #0" = 15
+	"Akamapichtli #1" = 10
+	"Chimalpopoka #1" = 10
+	"Tenoch #1" = 10
+	"Akacneedle #0" = 0
+	"Akambal #0" = 0
+	"Asakaya #0" = 0
+	"Cacamacin #0" = 0
+	"Eiaue #0" = 0
+	"Wicton #0" = 0
+	"Iluikamina #0" = 0
+	"Itzkaucin #0" = 0
+	"Masatle #0" = 0
+	"Nopalcin #0" = 0
+	"Olinteke #0" = 0
+	"E-mail . #0" = 0
+	"Panicin #0" = 0
+	"Ketsalmantsin #0" = 0
+	"Kimichel #0" = 0
+	"Teshkoyo #0" = 0
+	"Timas #0" = 0
+	"Tlaqaelelel #0" = 0
+	"Tlocin #0" = 0
+	"Shiukoskatl #0" = 0
+	"Chocoyle #0" = 0
+	"Yastachimal #0" = 0
+	"Salton #0" = 0
+
+	"Kentehua #0" = -1
+	"Molejuani #0" = -1
+	"Yaotle #0" = -1
+}
+
+leader_names = {
+	"Acathlocin"
+	"Auitzotl"
+	"Ashayakatl"
+	"Ashokecin"
+	"Cacamacin"
+	"Chalciutlatonak"
+	"Kuautemok"
+	"Kuitlauak"
+	"Cuitlalpitoc"
+	"Ekatsin"
+	"Eiaue"
+	"Esuahuacatel"
+	"Wemack"
+	"Wescin"
+	"Huitziluitl"
+	"Itzkoatl"
+	"Ishtleilshochitl"
+	"Iskemitl"
+	"Masatle"
+	"Mashishkatsin"
+	"Montesuma"
+	"Motelciu"
+	"Nauyotl"
+	"Nessahualpilli"
+	"Nopalcin"
+	"Oslopan"
+	"Olinteke"
+	"E-mail ."
+	"Okincin"
+	"Panicin"
+	"Pimotl"
+	"Popopootl"
+	"Cacoatl"
+	"Kalpopoka"
+	"Kilastley"
+	"Kimichel"
+	"Temilotecatel"
+	"Tesosomok"
+	"Tussock"
+	"TokyoQuatsin"
+	"Tsompantli"
+	"Shikonokatsin"
+	"Shochipanitsin"
+	"Scholott"
+	"Shawmimitl"
+	"Yaomauicin"
+	"Yastachimal"
+	"Cincica"
+	"Soanakochtsin"
+	"Salton"
+}
+
+ship_names = {
+	"Akolmistli"
+	"Akolnauakatl"
+	"Ah-Hoya"
+	"Ah-Cenul"
+	"Amimitl"
+	"Apanekatl"
+	"Atl"
+	"Atlaua"
+	"Asholoa"
+	"Kamashtli"
+	"Syntheot"
+	"Senzonuitznaua"
+	"Chalciutlatonol"
+	"Chalciutlikue"
+	"Chalciutotolin"
+	"Chalmecatl"
+	"Chalmecausiuilt"
+	"Chantico"
+	"ChicoMoshchtli"
+	"Chicomecoatl"
+	"Chiconaui"
+	"Chialma"
+	"Chualciuitlquee"
+	"Siouacaotl"
+	"Syntheotl"
+	"Sitlatonak"
+	"Sitlalikue"
+	"Siouacoatl"
+	"Coatlicue"
+	"Cochimetl"
+	"Koyolshauki"
+	"Cuacoatl"
+	"Echekatl"
+	"Eueucoyotl"
+	"Hopop Kan"
+	"Waetheotle"
+	"Huitzilopochtli"
+	"Wishtosihuatl"
+	"Itzlakolihuke"
+	"Yitzli"
+	"Yzpapalotl"
+	"Yuzppalotl"
+	"Eastlilton"
+	"Itsamishoatzin"
+	"Macuilshochitl"
+	"Mayaual"
+	"Malinalchochi"
+	"Matalcueuee"
+	"Meztli"
+	"Mictland"
+	"Mictlandsyntl"
+	"Mictlantechetle"
+	"Mictantechupi"
+	"Mictantesiouatl"
+	"Mishcoatl"
+	"Nanahuacin"
+	"Ococalcin"
+	"Omesiouatl"
+	"Ometeculti"
+	"Ometeotle"
+	"Omeyokan"
+	"Patekatel"
+	"Pinal"
+	"Quetzalcoatl"
+	"Texistcatel"
+	"Teojomkui"
+	"Tepeyollotl"
+	"Teteoinnan"
+	"Tesacoatl"
+	"Tescatlipoca"
+	"Tillan-Tlapalan"
+	"Tlaloc"
+	"Tlalocan"
+	"Tlaltectlia"
+	"Tlasolteotl"
+	"Tonakatekutli"
+	"Tonatihuikan"
+	"Tonatiu"
+	"Citmime"
+	"Shilonen"
+	"Sype-Totek"
+	"Syhukoatl"
+	"Syutekutli"
+	"Shochipilli"
+	"Shochiketzal"
+	"Scholott"
+	"Shonekuilly"
+	"Yakatekutli"
+}

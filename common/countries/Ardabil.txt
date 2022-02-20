@@ -1,0 +1,102 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 68  110  35 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = { #Shared Witch Persia
+	"Ioneid #0" = 30
+	"Haidar #0" = 30
+	"Ismv'ol #0" = 30
+	"Tamvshp #0" = 20
+	"Mohammad Kodabvnida #0" = 10
+	"'Abbs #0" = 30
+	"Safi #0" = 15
+	"Solaimvn #0" = 20
+	"Hosaan #0" = 10
+	"Nvider #0 Schwh" = 10
+	"'Vdel #0 Schwh" = 10
+	"Ebrvhim #0" = 10
+	"Schwh Ruch #0" = 10
+	"Nvider Mirza #0" = 5
+	"Karim #0 Khwn" = 10
+	"Abu'l Fath #0" = 10
+	"Mohammad Ali #0" = 10
+	"Mohammad Svdik #0" = 10
+	"'Ali Morwd #0" = 10
+	"Ya'far #0" = 10
+	"Loft Ali #0" = 10
+	"Aga Muhammad #0" = 10
+	"Fatah Alo #0" = 10
+	
+	"Atia #0" = -1
+	"Pari #0" = -1
+	"Haar al-Nisa #0" = -1
+	"Tailu #0" = -1
+	"Dilaram #0" = -1
+	"Shahbanu #0" = -1
+	"Razia #0" = -1
+	"Maryam #0" = -1
+}
+
+leader_names = {
+	Sabiri
+	Yalili
+	Azizi
+	Checkers
+	Dai
+	Kazai
+	Dalvand
+	Ahrari
+	Fatemi
+	Sabet
+	Ansari
+}
+
+ship_names = {
+	Abathur "Adamn Kasia" "Aesma Daeva" Agas
+	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+	"Aka Manah" Aladdin Allatum Amashaspan Ameratatat
+	"Amesha Spentas" Anahita "Angra Maingue" Anyuman
+	"Apam-natat" Apasosa Aredvi Arishtat Armaiti Arsaces
+	"Asha wahista" Asman "Asto Vidatu" "Astvat-Yereta"
+	Athar "Azi Dahaka" Bahamas Bahamas Bahram Bouyasta Bouyasta
+	Tsamros Daena Daevas Ahaka Dahhak Dena Dev Dive Friend
+	Drvaspa Frashegird Frvashis Gandareva "Gao-Keren"
+	Gayemard Gayemart "Geus-Tassan" "Geus-Urvan" Haoma
+	Hawwatat Humai Hwar Hvarehshayet Indar Indra Ija
+	Yamshid Yeh Qavi Hara Bearing "Khshatra Vaira"
+	Kundrav Mahre Mahriang Manu Manuchihir Mao 
+	Mashyanes Mashy Menog Mithras Nairyosangha Nanghaithya
+	Neriosang Ormazd Peris Peshdadians Rapithwin Rushnu
+	Rustam Saurva Simurgkh "Spenta Meinho" Sraosa Sroch
+	Tavrich Thunaupa Tistrya Tushnamata Vanant Wata
+	Veretragna "Wohu Manah" Voruskasha Yam Yasht Yazata
+	Yezidi Yima Hall Zam "Zam-Armatai" Zarathusra Zarich
+	"Zend-Avesta" Zurvan
+}

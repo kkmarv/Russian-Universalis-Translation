@@ -1,0 +1,81 @@
+#Mari
+
+graphical_culture = easterngfx
+
+color = { 193 46 32 }
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	spy_ideas
+	quantity_ideas
+	economic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Anzyl #0" = 10
+	"Varash #0" = 10
+	"Iserge #0" = 10
+	"Kurttypatyr #0" = 10
+	"Easy #0" = 10
+	"Yolay . #0" = 10
+	"Jukserge #0" = 10
+	"Juestherg #0" = 10
+	"Lapcas #0" = 10
+	"Mask #0" = 10
+	"Ozanai #0" = 10
+	"Oscherge #0" = 10
+	"Parsai #0" = 10
+	"Chotcar #0" = 10
+	"Semvui #0" = 10
+	"Shumat #0" = 10
+	"Umpatyr #0" = 10
+	"Yamshan #0" = 10
+	"Ivy #0" = -15
+	"Astalche #0" = -15
+	"Yuxudyr #0" = -15
+	"Kechevi #0" = -15
+	"Kugudyr #0" = -15
+	"Oshalche #0" = -15
+	"Pashache #0" = -15
+	"Salica #0" = -15
+	"Tulpedylosh #0" = -15
+	"Uvi #0" = -15
+	"Shymai #0" = -15
+	"Evika #0" = -15
+}
+
+leader_names = { 
+	"Azegid" "Gachegid" "Zhebegid" "Lunehyde" "Junehyde" "Irtegid" "Moshegid" "Nidogyde" "Nilogid" "Ogegid" "Odehyde" 
+	"Rategid" "Permakid" "Yugra" "Syktyvkar" Buzmak Gondyr Kaisin Parskuk Chorig Chushyal Hubert Yurmet Pisleg Vakhrush
+	"Saraquid" "Hasabid" "Tatvid" "Yurakid" "Varakid"
+}
+
+ship_names = {
+	Attic Pyolym Kudym-Osha Shudeg
+	Voleg Rateg Koleg Already
+	Baseg Yus Pokcha Wycheng Sysola
+	Spark Kama Vishera Colla Pestilence Uros Wilhoort
+}

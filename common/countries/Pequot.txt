@@ -1,0 +1,71 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 28 70 150 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {	
+	"Tatobem #0" = 20
+	"Unkas #0" = 0
+	"Sassacus #0" = 20
+	"Sassioux #0" = 20
+	"Vekuash #0" = 20
+	"Tiskvantum #0" = 20
+	"Mintonomo #0" = 20
+	"Ninigrette #0" = 2
+	"Pessikus #0" = 20
+	"Sassamon #0" = 20
+	"Canonchet #0" = 20
+	"Massasoit #0" = 0
+	"Wamsutta #0" = 0
+	"Metacom #0" = 0
+	"Mahomet #0" = 20
+	"Weyonomon #0" = 20
+	"Okkom #0" = 20
+	
+	"Avashonks #0" = -1
+	"Jizbudnaka #0" = -1
+	"Vitamu #0" = -1
+	"Vutonekanuske #0" = -1
+}
+
+leader_names = {
+	Metoak Manchaug Massomuk Menunkantuk Monashakotug Pekuanok
+	Kuinebaug Quinnipiaq Sivanoy Nianotic Asupsuk Aukumbumsk Aushpuk
+	Kosattuk Suppunauginnit Mangunkakuk Mashantuket Mohungannuk
+	Nameauag Natchaug Nank Oneko Paupttokshik Pavkatuk Pekuotauk
+	Pokuonok Saukuonchachok Shenekosset Tatupekuauog Weinshawks
+	Vekhetekuok Wunnashovatukug Kuahog Mashpi Patuxet Pokanoket
+	Cassette Assonet
+}
+
+ship_names = {
+	Metoak Manchaug Massomuk Menunkantuk Monashakotug Pekuanok
+	Kuinebaug Quinnipiaq Sivanoy Nianotic Asupsuk Aukumbumsk Aushpuk
+	Kosattuk Suppunauginnit Mangunkakuk Mashantuket Mohungannuk
+	Nameauag Natchaug Nank Oneko Paupttokshik Pavkatuk Pekuotauk
+	Pokuonok Saukuonchachok Shenekosset Tatupekuauog Weinshawks
+	Vekhetekuok Wunnashovatukug Kuahog Mashpi Patuxet Pokanoket
+	Cassette Assonet
+}

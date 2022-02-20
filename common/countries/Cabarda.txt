@@ -1,0 +1,116 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 111 12 201 }
+
+historical_idea_groups = {
+	defensive_ideas
+	maritime_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	humanist_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Petrezok" = 40
+	"Werzacht" = 40
+	"Belsebuk" = 40
+	"Parsabok" = 40
+	"Taniel" = 40
+	"Bugatchik" = 20
+	"Tanachuk" = 20
+	"Sibok" = 20
+	"Atsimchuk" = 20
+	"Tutarik" = 20
+	"Izbold" = 20
+	"Kudadik" = 20
+	"Kavklich" = 20
+	"Kanukov" = 20
+	"Temryuk" = 20
+	"Tazriut" = 20
+	"Chihurak" = 20
+	"Bulgayruk" = 20
+	"Namstriuk" = 20
+	"Chopchuk" = 0
+	"Tazriut" = 0
+	"Macik" = 0
+	"Otchikan" = 0
+	"Kanbulat" = 0
+	"Cudenet" = 0
+	"Hodenet" = 0
+	"Damaniuk" = 0
+	"Isboldag" = 0
+	"Anzaruk" = 0
+	"Kanglychev" = 0
+	"Bitemryuk" = 0
+	"Chimgaley" = 0
+	"Tachbsarukov" = 0
+	"Sholok" = 0
+	"Mait" = 0
+	"Otchikan" = 0
+	"Baachik" = 0
+	"Tachat" = 0
+	"Symbat" = 0
+
+	"Zuliyuzan" = -1
+	"Susan" = -1
+	"Babish" = -1
+}
+
+leader_names = { 
+	Guay
+	Adamy
+	Abzach
+	Jani
+	Mamkeg
+	Mokhosh
+	Touch .
+	Temirga
+	Hatukwai
+	Kegik
+	Ketuk 
+	Kubain
+	Shapsug
+	Beslenay
+	Ubik 
+	Tazrit
+	Ohlukhov
+}
+
+ship_names = {
+	Adygeya
+	Kuban
+	Besleney
+	Zychia
+	Touch .
+	Mumhag
+	Tuapse
+	Anapa
+	Nalchik
+	Ossetia
+	Kabardinia
+	Petrezok
+}

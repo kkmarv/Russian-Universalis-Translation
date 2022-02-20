@@ -1,0 +1,25 @@
+bookmark =
+{
+	name = "The sunset of the Middle Ages"
+	desc = "The beginning of the XIV century - the time of empires. Europe is in a precarious position: the Romans Empire is in decline, in the Holy Roman Empire there are contradictions between the Emperor and Princes, France and England are in a confrontation with each other. The East is dominated by fragments of the great Mongol Empire. However, their time is also coming to an end. Will you be able to overcome the challenges ahead and bring your state to true greatness?"
+	date = 1309.3.9
+	
+	center = 295
+	
+	country = MOS
+	easy_country = MOS
+	country = BYZ
+	country = TU0
+	country = YUA
+	country = GLH
+	country = HUN
+	
+	effect = {
+		BYZ = {
+			add_country_modifier = {
+				name = "stt_k_gen_start_byz" 
+				duration = 365
+			}
+		}
+	}
+}

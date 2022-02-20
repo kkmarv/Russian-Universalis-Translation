@@ -1,0 +1,433 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = cabardian
+religion = orthodox
+technology_group = eastern
+historical_friend = MOS
+historical_friend = MAM
+historical_rival = CRI
+capital = 2197 # Cabarda
+
+1306.4.12 = {
+	monarch = {
+		name = "Cabard"
+		dynasty = "Tambi"
+		birth_date = 1287.6.15
+		death_date = 1332.3.16
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+1332.3.16 = {
+	monarch = {
+		name = "Mashuk"
+		dynasty = "Mashuk"
+		birth_date = 1322.10.31
+		death_date = 1372.7.1
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1372.7.1 = {
+	monarch = {
+		name = "Anzor"
+		dynasty = "Anzor"
+		birth_date = 1352.10.31
+		death_date = 1400.7.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1400.7.1 = {
+	monarch = {
+		name = "Uvjuko"
+		dynasty = "Karmoko"
+		birth_date = 1472.10.31
+		death_date = 1416.7.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1416.7.1 = {
+	monarch = {
+		name = "Inal Light"
+		dynasty = "Inalid"
+		birth_date = 1382.10.31
+		death_date = 1453.3.1
+		adm = 5
+		dip = 6
+		mil = 6
+		leader = { name = "Inal Light"	type = general	fire = 3	shock = 5	manuever = 4	siege = 3 }
+	}
+}
+
+1453.3.1 = {
+	monarch = {
+		name = "Toobulda"
+		dynasty = "Inalid"
+		birth_date = 1413.10.31
+		death_date = 1465.7.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1465.7.1 = {
+	monarch = {
+		name = "Jeanchott"
+		dynasty = "Inalid"
+		birth_date = 1445.10.31
+		death_date = 1483.2.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1483.2.1 = {
+	monarch = {
+		name = "Inarmas"
+		dynasty = "Inalid"
+		birth_date = 1463.10.31
+		death_date = 1498.11.1
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1498.11.1 = {
+	monarch = {
+		name = "Berslan"
+		dynasty = "Inalid"
+		birth_date = 1478.10.31
+		death_date = 1525.7.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+
+1525.7.1 = {
+	monarch = {
+		name = "Idar"
+		dynasty = "Inalid"
+		birth_date = 1505.10.31
+		death_date = 1540.6.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1540.6.1 = {
+	monarch = {
+		name = "Kajtuk"
+		dynasty = "Inalid"
+		birth_date = 1520.10.31
+		death_date = 1554.12.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1554.12.1 = {
+	monarch = {
+		name = "Temryuk Idarovich"
+		dynasty = "Inalid"
+		birth_date = 1535.10.31
+		death_date = 1571.2.1
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+}
+
+1571.2.1 = {
+	monarch = {
+		name = "Shyapshuk Kaitukin"
+		dynasty = "Inalid"
+		birth_date = 1555.10.31
+		death_date = 1578.8.1
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1578.8.1 = {
+	monarch = {
+		name = "Kambulat Idarovich"
+		dynasty = "Inalid"
+		birth_date = 1560.10.31
+		death_date = 1589.2.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1589.2.1 = {
+	monarch = {
+		name = "Aslanbek Kaitukin"
+		dynasty = "Inalid"
+		birth_date = 1566.10.31
+		death_date = 1589.9.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+1589.9.1 = {
+	monarch = {
+		name = "Jansoh Kaitukin"
+		dynasty = "Inalid"
+		birth_date = 1567.10.31
+		death_date = 1589.12.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1589.12.1 = {
+	monarch = {
+		name = "Kaituk Kaitukin"
+		dynasty = "Inalid"
+		birth_date = 1569.10.31
+		death_date = 1609.8.1
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+1609.8.1 = {
+	monarch = {
+		name = "Sholokh Tapsarukov"
+		dynasty = "Inalid"
+		birth_date = 1590.10.31
+		death_date = 1616.3.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1616.3.1 = {
+	monarch = {
+		name = "Kudenet Kambulatovich"
+		dynasty = "Inalid"
+		birth_date = 1600.10.31
+		death_date = 1624.4.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1624.4.1 = {
+	monarch = {
+		name = "Aleguco Chogenuco"
+		dynasty = "Inalid"
+		birth_date = 1604.10.31
+		death_date = 1654.10.1
+		adm = 5
+		dip = 6
+		mil = 6
+	    leader = { name = "Aleguko"	type = general	fire = 3	shock = 4	manuever = 4	siege = 0 }
+	}
+}
+
+1654.10.1 = {
+	monarch = {
+		name = "Atajuko Kaziyev"
+		dynasty = "Inalid"
+		birth_date = 1634.10.31
+		death_date = 1672.6.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1672.6.1 = {
+	monarch = {
+		name = "Misost Kaziyev"
+		dynasty = "Inalid"
+		birth_date = 1652.10.31
+		death_date = 1695.9.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1695.9.1 = {
+	monarch = {
+		name = "Kurgoko Atajukin"
+		dynasty = "Inalid"
+		birth_date = 1675.10.31
+		death_date = 1710.8.1
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+}
+
+1710.8.1 = {
+	monarch = {
+		name = "Atajuko Misostov"
+		dynasty = "Inalid"
+		birth_date = 1690.10.31
+		death_date = 1721.9.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+1721.9.1 = {
+	monarch = {
+		name = "Islambek Misostov"
+		dynasty = "Inalid"
+		birth_date = 1701.10.31
+		death_date = 1732.7.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1732.7.1 = {
+	monarch = {
+		name = "Tatarhan Bekmurzin"
+		dynasty = "Inalid"
+		birth_date = 1712.10.31
+		death_date = 1737.6.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1737.6.1 = {
+	monarch = {
+		name = "Asdanbek Kaitukin"
+		dynasty = "Inalid"
+		birth_date = 1717.10.31
+		death_date = 1746.6.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+
+1746.6.1 = {
+	monarch = {
+		name = "Batoko Jembulatov"
+		dynasty = "Inalid"
+		birth_date = 1726.10.31
+		death_date = 1749.6.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1749.6.1 = {
+	monarch = {
+		name = "Bamat Atajukin"
+		dynasty = "Inalid"
+		birth_date = 1729.10.31
+		death_date = 1762.6.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1762.6.1 = {
+	monarch = {
+		name = "Kasai Atajukin"
+		dynasty = "Inalid"
+		birth_date = 1742.10.31
+		death_date = 1773.6.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1773.6.1 = {
+	monarch = {
+		name = "Janhot Tatarhanov"
+		dynasty = "Inalid"
+		birth_date = 1753.10.31
+		death_date = 1785.6.1
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+
+1785.6.1 = {
+	monarch = {
+		name = "Misost Atajukin"
+		dynasty = "Inalid"
+		birth_date = 1765.10.31
+		death_date = 1788.6.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1788.6.1 = {
+	monarch = {
+		name = "Atajuko Hamurzin"
+		dynasty = "Inalid"
+		birth_date = 1768.10.31
+		death_date = 1809.2.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1809.2.1 = {
+	monarch = {
+		name = "Atajuko Atajukin"
+		dynasty = "Inalid"
+		birth_date = 1790.10.31
+		death_date = 1809.9.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1809.9.1 = {
+	monarch = {
+		name = "A bunch of Janhotov"
+		dynasty = "Inalid"
+		birth_date = 1792.10.31
+		death_date = 1830.5.21
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+

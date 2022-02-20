@@ -1,0 +1,88 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 178  139  60 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	economic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	algonkin_tomahawk_charge
+	native_indian_horsemen
+	huron_arquebusier
+	commanche_swarm
+	native_indian_mountain_warfare
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Akhatsistari #0" = 20
+	"Adario #0" = 20
+	"Duncat #0" = 20
+	"Tarrier #0" = 20
+	"Teyadatontek #0" = 20
+	"Chaya #0" = 20
+	"Donateate #0" = 20
+	"Terhatau #0" = 20
+	"Datasai #0" = 20
+	"Mwoudoronk #0" = 20
+	"Skahomat #0" = 20
+	"Teyakhtva #0" = 20
+	"Haroeno #0" = 20
+	"Taauthorens #0" = 20
+	"Umayerey #0" = 20
+	"Styletach #0" = 20
+	"Shateyaronya #0" = 20
+	"Daushutayah #0" = 20
+	"Shaavrunte #0" = 20
+	"Miere #0" = 20
+	"Tetyanauch #0" = 20
+	"Taunehawte #0" = 20
+	"Shavrunthi #0" = 20
+	"Tshawenda #0" = 20
+	"Rontondu #0" = 20
+	"Tuyarontoyu #0" = 20
+	"Dowatout #0" = 20
+	"Chorona #0" = 20
+	"Theodesotto #0" = 20
+	"Jauthorro #0" = 20
+	"Scotos #0" = 20
+	"Cookka #0" = 20
+
+	"Time #0" = -1
+}
+
+leader_names = {
+	"Andyata" "Angutenk" "Anonatea" "Arendaonatia" "Arente" "Arontaine" "Anioton" "Ahiragenrega" "Ahondichronon" "Andachrob" "Antoironon" "Aondironon" "Atiaonrek" "Atirhagenrat" "Atiraguenrek" "Attiragenrega" "Attiuoaisgon"
+	"Cahiahui" "Karhagukha" "Carmaron" "Kontarea" "Conchaca" "Cekuamegon"
+	"Ekiodatsaan" "Eendarahi" "Yaachenhuton"
+	"Jungguindungdeh" "Junundat"
+	"Karenhassa" "Kakuagogo" "Canduche" "Kekhesetoa" "Hioetoa"
+	"Oeniro" "Oentisati" "Ossossane" "Wuhhitua"
+	"Scanonaerat" "Sunyandeand" "Skenchio"
+	"Tinaustaye" "Tindevayaata" "Tonacha" "Tideouit" "Tinkhatenaron" "Tondakhra" "Tidonderoga" "Tuaguainchain" "Tarkhetown" "Theotoguyaton"
+}
+
+ship_names = {
+	"Arendarkhonon" "Attigninongnahak" "Attignavantan" "Atarononon" "Arendivans"
+	"Want"
+	"Karegnondi"
+	"Kosheka"
+	"Ossossane" "Onitario"
+	"Symboke"
+	"Tahontaenrat" "Tuendavie"
+	"Wendacke"
+	"Chestacheh Sondusti"
+	"Cusquasrundi"
+}

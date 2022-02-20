@@ -1,0 +1,16 @@
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1
+primary_culture = dalmatian
+religion = catholic
+technology_group = eastern
+
+1309.9.8 = {
+      monarch = {
+           name = "Veche"
+           adm = 3
+           dip = 3
+           mil = 2
+           regent = yes
+      }
+}

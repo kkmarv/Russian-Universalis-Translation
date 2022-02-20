@@ -1,0 +1,317 @@
+government = monarchy
+add_government_reform = iqta
+primary_culture = sumatran
+religion = sunni
+technology_group = chinese
+capital = 620	# Siak
+religious_school = shafii_school
+
+1429.1.1 = {
+	monarch = {
+		name = "Saulha" # fictional
+		dynasty = "Syak"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1445.1.1 = {
+	government_rank = 1
+}
+
+1459.1.1 = {
+	monarch = {
+		name = "Menrazza" # fictional
+		dynasty = "Syak"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1471.1.1 = {
+	government_rank = 2
+}
+
+1489.1.1 = {
+	monarch = {
+		name = "Mengzekei" # fictional
+		dynasty = "Syak"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1519.1.1 = {
+	monarch = {
+		name = "Gadzabadi" # fictional
+		dynasty = "Syak"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1549.1.1 = {
+	monarch = {
+		name = "Menrazza" # fictional
+		dynasty = "Syak"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1579.1.1 = {
+	monarch = {
+		name = "Tsalengatu" # fictional
+		dynasty = "Syak"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1609.1.1 = {
+	monarch = {
+		name = "Mengzekei" # fictional
+		dynasty = "Syak"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1639.1.1 = {
+	monarch = {
+		name = "Gadzabadi" # fictional
+		dynasty = "Syak"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1669.1.1 = {
+	monarch = {
+		name = "Saulha" # fictional
+		dynasty = "Syak"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1699.1.1 = {
+	monarch = {
+		name = "Inayat" # fictional
+		dynasty = "Syak"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1725.1.1 = {
+	monarch = {
+		name = "Abdul Jalil Rahmad Siah"
+		dynasty = "Syak"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1725.1.1 = {
+	heir = {
+		name = "Abdul Jalil Rahmad Siah"
+		monarch_name = "Abdul Jalil Rahmad Siah II"
+		dynasty = "Syak"
+		birth_date = 1700.1.1
+		death_Date = 1765.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1746.1.1 = {
+	monarch = {
+		name = "Abdul Jalil Rahmad Siah II"
+		dynasty = "Syak"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1746.1.1 = {
+	heir = {
+		name = "Abdul Jalil Jalaluddin Siah"
+		monarch_name = "Abdul Jalil Jalaluddin Siah"
+		dynasty = "Syak"
+		birth_date = 1730.1.1
+		death_Date = 1766.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1765.1.1 = {
+	monarch = {
+		name = "Abdul Jalil Jalaluddin Siah"
+		dynasty = "Syak"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1765.1.1 = {
+	heir = {
+		name = "Abdul Jalil Alamuddin Siah"
+		monarch_name = "Abdul Jalil Alamuddin Siah"
+		dynasty = "Syak"
+		birth_date = 1735.1.1
+		death_Date = 1780.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1766.1.1 = {
+	monarch = {
+		name = "Abdul Jalil Alamuddin Siah"
+		dynasty = "Syak"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1766.1.1 = {
+	heir = {
+		name = "Muhammad Ali Abdul Jalil Muazzam Siah"
+		monarch_name = "Muhammad Ali Abdul Jalil Muazzam Siah"
+		dynasty = "Syak"
+		birth_date = 1760.1.1
+		death_Date = 1782.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1780.1.1 = {
+	monarch = {
+		name = "Muhammad Ali Abdul Jalil Muazzam Siah"
+		dynasty = "Syak"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1780.1.1 = {
+	heir = {
+		name = "Yahya Abdul Jalil Muzaffar Siah."
+		monarch_name = "Yahya Abdul Jalil Muzaffar Siah."
+		dynasty = "Syak"
+		birth_date = 1765.1.1
+		death_Date = 1783.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1782.1.1 = {
+	monarch = {
+		name = "Yahya Abdul Jalil Muzaffar Siah."
+		dynasty = "Syak"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1782.1.1 = {
+	heir = {
+		name = "Assaidis Asiarif Ali Abdul Jalil Siaifuddin Baalawi"
+		monarch_name = "Assaidis Asiarif Ali Abdul Jalil Siaifuddin Baalawi"
+		dynasty = "Syak"
+		birth_date = 1758.1.1
+		death_Date = 1810.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1784.1.1 = {
+	monarch = {
+		name = "Assaidis Asiarif Ali Abdul Jalil Siaifuddin Baalawi"
+		dynasty = "Syak"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1784.1.1 = {
+	heir = {
+		name = "Asyaidis Xarif Ibrahim Abdul Jalil Kaliluddin"
+		monarch_name = "Asyaidis Xarif Ibrahim Abdul Jalil Kaliluddin"
+		dynasty = "Syak"
+		birth_date = 1780.1.1
+		death_Date = 1815.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1810.1.1 = {
+	monarch = {
+		name = "Asyaidis Xarif Ibrahim Abdul Jalil Kaliluddin"
+		dynasty = "Syak"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1810.1.1 = {
+	heir = {
+		name = "Asyaidis Xarif Ismail Abdul Jalaluddin"
+		monarch_name = "Asyaidis Xarif Ismail Abdul Jalaluddin"
+		dynasty = "Syak"
+		birth_date = 1790.1.1
+		death_Date = 1854.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1815.1.1 = {
+	monarch = {
+		name = "Asyaidis Xarif Ismail Abdul Jalaluddin"
+		dynasty = "Syak"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}

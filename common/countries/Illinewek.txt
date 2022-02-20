@@ -1,0 +1,79 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 129 214 238 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Wahpeshakana #0" = 20
+	"Kemarenea #0" = 20
+	"Pakhishama #0" = 20
+	"Allenepescha #0" = 20
+	"Vassakanga #0" = 20
+	"Ninavitva #0" = 20
+	"Vissiniv #0" = 20
+	"Ramissvnova #0"= 20
+	"Maressa #0" = 20
+	"Vkakepesev #0" = 20
+	"Memons #0" = 20
+	"Vapses #0" = 20
+	"Pemecai #0" = 20
+ 	"Kungipata #0" = 20
+	"Battisi #0" = 20
+	"Kimarani #0" = 20
+	"Vecomacana #0" = 20
+	"Kishammi #0" = 20
+	"Wapamahwaha #0" = 20
+	"Aramapings #0" = 20
+	"Kimawassa #0" = 20
+	"Waxingga #0" = 20
+	"Kitakimava #0" = 20
+	"Muggonsa #0" = 20
+	"Mujakaske #0" = 20
+	"Pemmikawata #0" = 20
+	"Papenegisawa #0" = 20
+	"Chopinna #0" = 20
+	"Meshiviratta #0" = 20
+	"Mahtameveya #0" = 20
+	"Kuekaavpeta #0" = 20
+	"Cessagoasse #0" = 10
+	"Mamentuens #0" = 10
+	"Chicago #0" = 10
+	"Ninkanape #0" = 10
+	
+	"Takumwah #0" = -1
+	"Mokonnokuach #0" = -1
+	"Kikkesekua #0" = -1
+	"Oshawsekua #0" = -1
+}
+
+leader_names = {
+	"Cascascia" "Kahokia" "Peoria" "Tamaroa" "Moingwena" "Michigamea" "Albiui" "Amonoka" "Chepusa"
+	"Chinkoa" "Coiracocoentaon" "Espemennika" "Maroa" "Matchincoa" "Michibusa" "Negavici" "Tapuara" 
+}
+
+ship_names = {
+	"Alemva" "Nikatikasia" "Lenasva" "Mushwa" "Mahweh" "Mahkva" "Paanpankawa" "Ehsipana"
+	"Shikaakwa" "Mikiccia" "Anatekva" "Miintikva" "Kinsepikva" "Aamavia"
+}

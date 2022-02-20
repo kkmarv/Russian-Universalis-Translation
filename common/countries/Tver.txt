@@ -1,0 +1,118 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 136  158  183 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Michael #2" = 20
+	"Alexander #1" = 20
+	"Boris #0" = 20
+	"Yuri #0" = 20
+	"Yaroslav #2" = 5
+	"Dmitry #1" = 5
+	"Ivan #1" = 5
+	"Constantine #1" = 5
+	"Svyatoslav #1" = 5
+	"Gregory #0" = 0
+	"Afanasiy #0" = 0
+	"Andrei #0" = 0
+	"Vasily #0" = 0
+	"Alexey #0" = 0
+	"Daniel #0" = 0
+	"David #0" = 0
+	"Vladimir #0" = 0
+	"Feodor #0" = 0
+	"Dorofey #0" = 0
+	"Kirill #0" = 0
+	"Igor #0" = 0
+	"Zachary #0" = 0
+	"Osip #0" = 0
+	"Luke #0" = 0
+	"Gabriel #0" = 0
+	"Leo #0" = 0
+	"Matthew #0" = 0
+	"Thomas #0" = 0
+	"Kuzma #0" = 0
+	"Roman #0" = 0
+	"Nikita #0" = 0
+	"Oleg #0" = 0
+	"Paul #0" = 0
+	"Cyprian #0" = 0
+	"Peter #0" = 0
+	"Maxim #0" = 0
+	"Stepan #0" = 0
+	"Semyon #0" = 0
+	"Sergei #0" = 0
+	"Terenty #0" = 0
+
+	"Seraphima #0" = -1
+	"Victoria #0" = -1
+}
+
+leader_names = {
+	"Dorogobuzhsky"
+	"Kashinsky"
+	"Mikulinsky"
+	"Telyatevsky"
+	"Kholmsky"
+	"Chernyatinsky"
+	"Andomsky"
+	"Beloselski"
+	"Wadbolski"
+	"Dyabrinsky"
+	"Kargolomsky"
+	"Kemsky"
+	"Sygorsky"
+	"Uhtomsky"
+	"Šelešpanski"
+}
+
+ship_names = {
+	"Jaroslavic"
+	"Volga"
+	"Tver"
+	"Prince Michael"
+	"Prince Dmitry"
+	"Kashin"
+	"Kholmsky"
+	"Torzhok"
+	"Kashin"
+	"Vyshnyaya Volochek"
+	"Zubtsov"
+	"Toropets"
+	"Rye"
+	"Old woman"
+	"Ostashkovo"
+	"Seliger"
+}

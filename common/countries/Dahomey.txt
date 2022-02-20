@@ -1,0 +1,84 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 11  84  179 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+	religious_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	african_spearmen
+	songhai_tribal_warfare
+	niger_kongolese_forest_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+	niger_kongolese_guerilla_warfare
+	african_mandelaku
+	african_tuareg_cavalry
+	african_mossi_horsemen
+	african_hussar
+	african_dragoon	
+}
+
+
+monarch_names = {
+	"Agaja #0" = 20
+	"Doaklin #0" = 20
+	"Gangnesu #0" = 20
+	"Dakodonu #0" = 20
+	"Vegbaja #0" = 20
+	"Aqaba #0" = 20
+	"Tegbesu #0" = 20
+	"Kpangla #0" = 20
+	"Agonglo #0" = 20
+	"Adandozan #0" = 20
+	"Gezo #0" = 20
+	"Hlelele #0" = 20
+	"Behanzin #0" = 20
+	"Agoliagbo #0" = 20
+	"Aidodo #0" = 20
+	"Togni-ahousseau . #0" = 20
+	"Agolli Agbo #0" = 20
+	"Houedogne #0" = 20
+	"Coppon #0" = 10
+	"Te-Agdanlin #0" = 10
+	"Dosu #0" = 0
+	"Agbo Sassa #0" = 10
+	"Huffon #0" = 10
+	"Adoma Tomo #0" = 0
+
+	"Hangbe #0" = -1
+	"Sehdong Hongbe #0" = -1
+	"Navi #0" = -1
+	"Afiavi #0" = -1
+	"Ahvlikponuva #0" = -1
+	"Ashiba #0" = -1
+	"Ayaba #0" = -1
+}
+
+leader_names = {
+	Ahii
+	Assogba
+	Tometin
+	Seka
+	Cinzogan
+	Koukou
+	Maiga
+	Seka
+	Sessegnon
+	Hlelele
+}
+
+ship_names = {
+	Adakpen Adan Agasu Agbanlin Agbo Aixosu Ajinaku Atoke Azvi
+	Alotlo Javunta Agbete "Adla Denkpe" Gbegluse
+}

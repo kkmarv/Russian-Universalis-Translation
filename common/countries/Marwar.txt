@@ -1,0 +1,103 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 192  111  179 }
+
+historical_idea_groups = {
+	aristocracy_ideas
+	offensive_ideas
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	mughal_mansabdar
+	sikh_hit_and_run
+	reformed_mughal_mansabdar
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Chanda #0" = 10
+	"Ranmal #0" = 10
+	"Jodhaa #0" = 10
+	"Chandrasena #0" = 10
+	"Kanha #0" = 10
+	"Satal #0" = 10
+	"Suja #0" = 10
+	"Ganga #0" = 10
+	"Maldeo #0" = 10
+	"Chandrasena #0" = 10
+	"Udaya Singh #0" = 10
+	"Sera Singh #0" = 10
+	"Gaja Singh #0" = 10
+	"Yasvanth Singh #0" = 10
+	"Ajit Singh #0" = 10
+	"Abhai Singh #0" = 10
+	"Ram Singh #0" = 10 
+	"Bijay Singh #0" = 10 
+	"Bohm Singh #0" = 10 
+	"Mann Singh #0" = 10 
+	"Asthadji #0" = 0
+	"Sonamji #0" = 0
+	"Jeitmal #0" = 0
+	"Bandur #0" = 0
+	"Canha Dev #0" = 0
+	"Mullinathji #0" = 0
+	"Viram Dev #0" = 0
+	"Bhim #0" = 0
+	"Kanhaji #0" = 0
+	"Ishbal #0" = 0
+	"Byrisal #0" = 0
+	"Ugrazen #0" = 0
+	"Kanwar #0" = 0
+	"Manji #0" = 0
+	"Bida #0" = 0
+	"Bica #0" = 0
+	"Saga #0" = 0
+	"Ram Das #0" = 0
+	"Cher #0" = 0
+	"Fateh #0" = 0
+	"Yasvanth #0" = 0
+	"Pratap #0" = 0
+	"Hansa Devi #0" = -1
+	"Ackher #0" = -1
+	"Anup #0" = -1
+	"Surya #0" = -1
+}
+
+leader_names = {
+	Rathhor
+	Saran
+	Valis
+	Chattary
+	Singh
+	Rakhal
+	Gauri
+	Naru
+	bhati
+	Chandela
+	Jadeja
+	Chudasama
+	Solanki
+}
+
+ship_names = {
+	Chambal Devi Durga Gayatri Ghaggar
+	Godwar Jalsen "Kala Jahazi" Lakshmi
+	"Lal Jahazi" Luni Nausen "Marwar Ka Naw"
+	"Mervar Ka Naw" "Nave Ka Yudh" "Nile Jahazi"
+	Parvati Radha Rani Ratri Sagar Saraswati
+	Seqwati Sita
+}

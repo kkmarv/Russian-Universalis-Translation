@@ -1,0 +1,8 @@
+156 = "Timish"
+157 = "Bihor"
+158 = "Muresh"
+268 = "Moldova"
+1756 = "Basarabia"
+1951 = "Hunedoara"
+1952 = "Maramuresh"
+2405 = "Tigina"

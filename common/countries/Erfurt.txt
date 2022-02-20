@@ -1,0 +1,141 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 194 134 127 }
+
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	diplomatic_ideas
+	defensive_ideas
+	innovativeness_ideas
+	offensive_ideas
+	economic_ideas
+	trade_ideas
+	quality_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Johann Georg  #0" = 80
+	"Friedrich #0" = 60
+	"Frederick Augustus #0" = 60
+	"Albrecht #2" = 40
+	"Christian #0" = 40
+	"Henry #4" = 20
+	"Rudolph #2" = 20
+	"August #0" = 20
+	"Ernst #0" = 20
+	"Frederick Christians #0" = 20
+	"George #0" = 20
+	"Moritz #0" = 20
+	"Alexander #0" = 15
+	"Anton #0" = 15
+	"Christian Albrecht #0" = 15
+	"Hector #0" = 15
+	"Johann #0" = 15
+	"Karl #0" = 15
+	"Clemens Wenzel #0" = 10
+	"Franz Xavier #0" = 10
+	"Joachim #0" = 10
+	"Joseph #0" = 10
+	"Magnus #0" = 10
+	"Maximilian #0" = 10
+	"Severin #0" = 10
+	"Wolfgang #0" = 10
+	"Alfred #0" = 0
+	"Andreas #0" = 0
+	"Bruno #0" = 0
+	"Burkhardt #0" = 0
+	"Gunter #0" = 0
+	"Herman #0" = 0
+	"Caetan #0" = 0
+	"Lambert #0" = 0
+	"Luke #0" = 0
+	"Mihart #0" = 0
+	"Raimund #0" = 0
+	"Ulrich #0" = 0
+	"Wilfrid #0" = 0
+	"Wulfram #0" = 0
+
+	"Amelie #0" = -1
+	"Bianca #0" = -1
+	"Eleanor #0" = -1
+}
+
+leader_names = {
+	"Gergesselle"
+	"Elsner"
+	"Rank"
+	"Teichmann"
+	"Taut"
+	"Harzer"
+	"Dietze"
+	"Tellig"
+	"Pilz"
+	"Winkler"
+	"Jülich"
+	"Ibigau"
+	"Kranke"
+	"Bieber"
+	"von Rath"
+	"Arnim"
+	"Hamann"
+	"Kirbah"
+	"Gedel"
+	"Ertel"
+	"Schoenfeld"
+	"Daitz"
+	"Coon"
+	"Earth"
+	"Fisher"
+	"Bretfeld"
+	"Rabs"
+}
+
+ship_names = {
+	"Widwickind"
+	"Edberg"
+	"Wichmann"
+	"Billings"
+	"Lidolph"
+	"Brun"
+	"Otto I"
+	"Henry I"
+	"Bernhardt I"
+	"Ordulph"
+	"Manus"
+	"Lothar"
+	"Lothar"
+	"Henry II"
+}
+
+
+army_names = {
+	"Electorate Guard"
+	"Provincial Army. $PROVINCE$"
+}
+
+fleet_names = {
+	"Electorate Fleet"
+}

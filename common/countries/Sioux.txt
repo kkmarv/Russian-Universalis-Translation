@@ -1,0 +1,75 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 68 14 98 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	algonkin_tomahawk_charge
+	commanche_swarm
+	native_indian_mountain_warfare
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"У #0" = 30
+	"П #0" = 10
+	"Т #0" = 10
+	"Kigi #0" = 10
+	"Т #0" = 10
+	"В #0" = 10
+	"В #0" = 10
+	"К #0" = 10
+	"Ш #0" = 10
+	"П #0" = 10
+	"Э #0" = 10
+	"В #0" = 10
+	"П #0" = 10
+	"Т #0" = 10
+	"Т #0" = 10
+	"М #0" = 10
+	"Т #0" = 10
+	"В #0" = 10
+	"О #0" = 10
+	"М #0" = 10
+	"М #0" = 10
+	"М #0" = 10
+	"Б #0" = 10
+	"Н #0" = 10
+	"М #0" = 10
+	"М #0" = 10
+	"Т #0" = 10
+	"М #0" = 10
+	"Т #0" = 10
+	"М #0" = 10
+	"Х #0" = 10
+	"С #0" = 10
+	"И #0" = 10
+	"О #0" = 10
+	
+	"Т #0" = -1
+	"Т #0" = -1
+	"Т #0" = -1
+}
+
+leader_names = {
+	С 
+}
+
+ship_names = {
+	С	
+}

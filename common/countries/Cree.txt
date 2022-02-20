@@ -1,0 +1,72 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 28 187 180 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	algonkin_tomahawk_charge
+	commanche_swarm
+	native_indian_mountain_warfare
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Kapapamahchakwe #0" = 20
+	"Abishabis #0" = 20
+	"Mistahimasqua #0" = 20
+	"Kamiokishihkwe #0" = 20
+	"Piapot #0" = 20
+	"Pitikvahanapiviyin #0" = 20
+	"Tepasteman #0" = 20
+	"Missabei #0" = 20
+	"Wahwaashkung #0" = 20
+	"Kiwash #0" = 20
+	"Nanukishik #0" = 20
+	"Oombash #0" = 20
+	"Panachisse #0" = 20
+	"Yesno #0" = 20
+	"Venangashi #0" = 20
+	"Katchang #0" = 20
+	"Munias #0" = 20
+	"Ostamas #0" = 20
+	"Putus #0" = 20
+	"Kwakigkevang #0" = 20
+	"Keneswabe #0" = 20
+	"Matavagan #0" = 20
+	"Odagameia #0" = 20
+	
+	"Toroty #0" = -1
+	"Meria #0" = -1
+	"Elin #0" = -1
+}
+
+leader_names = {
+	Iyuiv Chisasibi Vamindji Wapmagusta Mistissini Nemaska. "Already-Bugumu" Vaskaganish
+	Vasvanipi Mosoni Maskakovak Nekhinoak Attavapiskat Chemoavin Kashechevan Misipavistik
+	Missanabi Mosakahiken Neskntaga Opasqueiak Sapotaveiak Shamattava Tatskveiak Taikva
+	Vinusk Wuskvi Bunibonibi "Manto Sipi" Nisichivayashik "O-pipon-on-pivin" Pimikikamak
+	Sakavisinivak Kapave'no Mikisev Vabaska Mamihkiyinivak Nekanit Ochapovake Pipikisisis
+}
+
+ship_names = {
+	Iyuiv Chisasibi Vamindji Wapmagusta Mistissini Nemaska. "Already-Bugumu" Vaskaganish
+	Vasvanipi Mosoni Maskakovak Nekhinoak Attavapiskat Chemoavin Kashechevan Misipavistik
+	Missanabi Mosakahiken Neskntaga Opasqueiak Sapotaveiak Shamattava Tatskveiak Taikva
+	Vinusk Wuskvi Bunibonibi "Manto Sipi" Nisichivayashik "O-pipon-on-pivin" Pimikikamak
+	Sakavisinivak Kapave'no Mikisev Vabaska Mamihkiyinivak Nekanit Ochapovake Pipikisisis
+}

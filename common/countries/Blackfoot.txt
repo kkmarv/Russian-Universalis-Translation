@@ -1,0 +1,106 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 102  153  255 } 
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	algonkin_tomahawk_charge
+	native_indian_horsemen
+	commanche_swarm
+	native_indian_mountain_warfare
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Kootomais #0" = 20
+	"Powahka #0" = 20
+	"Chapomehico #0" = 20
+	"Matosseapiou #0" = 20
+	"Stamiskotocar #0" = 20
+	"Mecasto #0" = 20
+	"Natoseonistors #0" = 20
+	"Pokapivotoyan #0" = 20
+	"Sotenakh #0" = 20
+	"Takostamiks #0" = 20
+	"Akkakitchtsipimistas #0" = 20
+	"Attistamakan #0" = 20
+	"Pitapekis #0" = 20
+	"Sakoyotan #0" = 20
+	"Tsetsetapitapiv #0" = 20
+	"Accamacco #0" = 20
+	"Apenakosapop #0" = 20
+	
+	"Ahkahsaipi #0" = -1
+	"Writings #0" = -1
+}
+
+leader_names = {
+	Ashikstukiks
+	Apikaikaiis
+	Emitapasaicix
+	Motatosix
+	Pusinamax
+	Sykes
+	Sixinocax
+	SynixisSystems
+	Akaisumix
+	Acapocax
+	Akotashix
+	Anepo
+	Apicayx
+	Aputosicanas
+	Inuxoistax
+	Isisokasimix
+	Essikokaihan
+	Mameoia
+	Nitikskyx
+	Saxinamagix
+	Sykapuniks
+	Sikinocax
+	Ahapitare
+	Akairicocakinics
+	Apicaix
+	Eksinaitupiks
+	Inuxikapovaix
+	Inuxix
+	Ipoximaix
+	Camitaix
+	Kiyis
+	Kutamix
+	Kutaisotsiman
+	Miawapitsix
+	Miavkinaix
+	Mokumiks
+	Motatosix
+	Motvainaix
+	Nitakosycepupix
+	NIVAIX
+	Nitikskyx
+	Nitosyxystanics
+	Sykokitsimix
+	Sykopoxymaix
+	Sykusipumaix
+	Susksoix
+	Cynicxissoix
+}
+
+ship_names = {
+	"Omita" "Ponokaomitaa" "Iinia" "Ponoka" "Omakapiya" "Kiaayo" "Natayo" "Maokataatoni"
+	"Avatoyi" "Kiskaapa" "Aaattsistaa" "Kaaniskina" "Pixie" "Sikikini" "Aapspini"
+	"Sipisto" "Pitsixin" "Mammy" "Spokey" "Namo"
+}

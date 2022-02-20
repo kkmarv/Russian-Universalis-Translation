@@ -1,0 +1,120 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 106  127  183 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	maritime_ideas
+	innovativeness_ideas
+	spy_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Johann #1" = 80
+	"Peter #2" = 60
+	"Martin #1" = 40
+	"Antony #0" = 40
+	"Emmanuel #0" = 40
+	"Raymond #0" = 40
+	"Hugo #1" = 20
+	"Nicholas #1" = 20
+	"Aloysius #0" = 20
+	"Annetius #0" = 20
+	"Antonius Emmanuel #0" = 20
+	"Claudius #0" = 20
+	"Desiderium #0" = 20
+	"Emeric #0" = 20
+	"Fabricia #0" = 20
+	"Ferdinand #0" = 20
+	"Filiber #0" = 20
+	"Philippe #0" = 20
+	"Francis #0" = 20
+	"Gregory #0" = 20
+	"Guido #0" = 20
+	"Adrian #0" = 20
+	"Jacob #0" = 20
+	"Johann Batista #0" = 20
+	"Johann Paul #0" = 20
+	"Ludovic #0" = 20
+	"Mark Antony #0" = 20
+	"Peter Raymond #0" = 20
+	"Raphael #0" = 20
+	"Thomas #0" = 20
+	"Roger #2" = 10
+	"Johann Ferdinand #1" = 10
+	"Rupert #1" = 10
+	"Cletius #0" = 0
+	"Dionysius #0" = 0
+	"Amidius #0" = 0
+	"Hilary #0" = 0
+	"Luke #0" = 0
+	"Publish #0" = 0
+	"Vivian #0" = 0
+	
+	"Maria #0" = -1
+}
+
+leader_names = {
+	"d'Oubusson" "d'Amboise"
+	"de Blanchfort"
+	"del Carretto" "de la Cassier" "de Clermont-Jessan" "Cotoner" "Carafa" "Caracciolo" "de Cornéian"
+	"Despuey"
+	"de Fonseca"
+	"Garzet" "de Gaucouson"
+	"de Omede" "von Gompesch" "de Eredia"
+	"de Juiac"
+	"de Eraser" "de L'Ile Adam" "de Lascaris-Castellar"
+	"de Millais" "del Monte"
+	"de Nayak"
+	"Orsini"
+	"del Ponte" "de Paul" "Trans-I-Rocafoule" "de Pins"
+	"de la River" "de Reden" "de Rogan-Polduc"
+	"de Saint Jaye" "de Sengle"
+	"de Texada"
+	"de la Vallette-Pariso" "de Verdala" "de Vasconsellos" "de Viena" "de Villeare"
+	"de Vignacourt"
+	"Law ." "Zondari"
+}
+
+ship_names = {
+	"Saint Gerard"
+	"Raymond du Puy de Provence."
+	"Auger de Balbane"
+	"Arnaud de Comps"
+	"Gilbert d'Essaye"
+	"Gaston de Murol"
+	"Gilbert Syrian"
+	"Roger de Moulin"
+	"Elon de Villeneuve"
+	"Ermangar d'Asp"
+	"Garnier de Naplou"
+	"Joffrois de Donjon"
+	"Alphonse Portuguese"
+	"Joffrois le Ra"
+}
+
+army_names = {
+	"The Knights of Prov. $PROVINCE$"
+}

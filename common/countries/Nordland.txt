@@ -1,0 +1,120 @@
+graphical_culture = westerngfx
+
+preferred_religion = norse_pagan_reformed
+
+color = { 240  240  240 }
+
+historical_idea_groups = {
+    maritime_ideas
+	religious_ideas
+	offensive_ideas
+	exploration_ideas
+	expansion_ideas
+	economic_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Hakon #6" = 40
+	"Olaf #4" = 40
+	"Eric #2" = 20
+	"Christoffer #0" = 20
+	"Magnus #7" = 10
+	"Harald #4" = 10
+	"Margaret #0" = -10
+	"Inge #2" = 5
+	"Sigurd #2" = 5
+	"Axel #0" = 10
+	"Alf #0" = 10
+	"Anders #0" = 10
+	"Ansgard #0" = 10
+	"Arvid #0" = 10
+	"Bernt #0" = 10
+	"Birger #0" = 10
+	"Bjorn #0" = 10
+	"Eilert #0" = 10
+	"Einar #0" = 10
+	"Elias #0" = 10
+	"Esben #0" = 10
+	"Folke #0" = 10
+	"Gunnar #0" = 10
+	"Kenneth #0" = 10
+	"Knut #0" = 10
+	"Mats #0" = 10
+	"Neld #0" = 10
+	"Nyord #0" = 10
+	"Oddmund #0" = 10
+	"Rickard #0" = 10
+	"Serena #0" = 10
+	"Tollack #0" = 10
+	"Torchild #0" = 10
+	"Asgeir #0" = 10
+	"Kolgrim #0" = 10
+	"Sigrad #0" = 10
+	"Torald #0" = 10
+	"Hemming #0" = 10
+}
+
+leader_names = {
+	"Arnesson"
+	"Amundsen"
+	"Bjelke"
+	"Bolt"
+	"Egilsson"
+	"Ericsson"
+	"Haraldson"
+	"Larsson"
+	"Leifsson"
+	"Magnusson"
+	"Nansen"
+	"Norheim"
+	"Olafsson"
+	"Sverresson"
+	"Sigurdsson"
+	"Torgeirsson"
+	"Torsson"
+}
+
+ship_names = {
+	"Tor"
+	"One"
+	"Fenrir"
+	"Freya"
+	"Ture"
+	"Emiri"
+	"Vili"
+	"Ve"
+	"Ber"
+	"Ask"
+	"Baldr"
+	"Wali"
+	"Valhalla"
+	"Heimdall"
+	"Loki"
+	"Magnes"
+	"Vidar"
+	"Edun"
+	"Sif"
+	"Hulle"
+	"Quasir"
+	"Lodour"
+	"Hermod"
+}

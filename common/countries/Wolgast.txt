@@ -1,0 +1,120 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 143 10 27 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	innovativeness_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	quality_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Bohuslav #9" = 100
+	"Barnim #10" = 20
+	"Otto #3" = 20
+	"Eric #1" = 20
+	"Philippe #1" = 20
+	"Frantisek #0" = 20
+	"Jan Friedrich #0" = 20
+	"Vratislav #5" = 20
+	"George #0" = 15
+	"Ulrich #0" = 15
+	"Casimir #5" = 10
+	"Ernst Ludwig #0" = 10
+	"Jan Ernst #0" = 10
+	"Albrecht #0" = 0
+	"Arnt #0" = 0
+	"August #0" = 0
+	"Bernhardt #0" = 0
+	"Bodo #0" = 0
+	"Karl #0" = 0
+	"Emile #0" = 0
+	"Ernest #0" = 0
+	"Fritz #0" = 0
+	"Friedrich #0" = 0
+	"Gerhardt #0" = 0
+	"Gustav #0" = 0
+	"Harald #0" = 0
+	"Henry #0" = 0
+	"Herbert #0" = 0
+	"Herman #0" = 0
+	"Jan #0" = 0
+	"Janusz  #0" = 0
+	"Joachim #0" = 0
+	"Martin #0" = 0
+	"Maximilian #0" = 0
+	"Paul #0" = 0
+	"Reinhold #0" = 0
+	"Richard #0" = 0
+	"Siegfried #0" = 0
+	"Walter #0" = 0
+	"William #0" = 0
+	
+	"Gabriela #0" = -1
+	"Helen #0" = -1
+	"Janina #0" = -1
+}
+
+leader_names = {
+	"von Krokkows"
+	"von Lettows"
+	"von Peglovs"
+	"von Neustrelitz"
+	"von Prenzlau"
+	"von Strelaffs"
+	"von Zitzevitzes"
+	"von Szczecin"
+	"Witt"
+	"Bem"
+	"Baze"
+	"Kurtzman"
+	"Jurgens"
+	"Stelmacher"
+	"Heidmann"
+	"Grosh"
+	"Krumtum"
+	"Mirke"
+	"Rahl"
+	"Wessel"
+	"Moiseling"
+	"von Wolin"
+	"von Wolgatz"
+}
+
+ship_names = {
+	"Pommern"
+	"Herzog Casimir"
+	"Herzog Boguslav"
+	"Stettin Herzog Barnim"
+	"Wismar"
+	"Rostock"
+	"Stralsund"
+	"Grayswald"
+	"Demmin"
+	"Anklam"
+	"Herzog Otto"
+}

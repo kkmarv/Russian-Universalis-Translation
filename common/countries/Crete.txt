@@ -1,0 +1,112 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 138  110  130 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Giovanni #0" = 80
+	"Antonio #0" = 60
+	"Giacomo #0" = 40
+	"Girolamo #0" = 40
+	"Francesco #0" = 40
+	"Benedetto #0" = 20
+	"Bernardo #0" = 20
+	"Domenico #0" = 20
+	"Donato #0" = 20
+	"Ferdinando #0" = 20
+	"Giuseppe #0" = 20
+	"Lazzaro #0" = 20
+	"Lodovico #0" = 20
+	"Marco #0" = 20
+	"Paolo Antonio #0" = 20
+	"Pasquale #0" = 20
+	"Pierluigi #0" = 20
+	"Dzakkaria #0" = 20
+	"Paolo #0" = 15
+	"Pietro #0" = 15
+	"Thomasso #0" = 15
+	"Andrea #0" = 10
+	"Leonardo #0" = 10
+	"Aiol #0" = 0
+	"Bartholomew #0" = 0
+	"Dionysius #0" = 0
+	"Eusebius #0" = 0
+	"Gregory #0" = 0
+	"Hermogen #0" = 0
+	"John #0" = 0
+	"Constantine #0" = 0
+	"Creon #0" = 0
+	"Laurentian #0" = 0
+	"Matthew #0" = 0
+	"Nicholas #0" = 0
+	"Nicomachus #0" = 0
+	"Nomics #0" = 0
+	"Seraphim #0" = 0
+	"Spiridon #0" = 0
+	"Feodor #0" = 0
+	
+	"Elpida #0" = -1	
+	"Kiriakia #0" = -1	
+	"Fekla #0" = -1	
+}
+
+ship_names = {
+	"Dermoaros"
+	"Frangocastelo"
+	"Glalos"
+	"Kuduras"
+	"Lentas"
+	"Matala"
+	"Paleochora"
+	"Paradogiannis"
+	"Plakias"
+	"Sugiya"
+}
+
+
+leader_names = {
+	"Argyr"
+	"Artavasd"
+	"Basileus"
+	"Diogenes"
+	"Dooka"
+	"Monomakh"
+	"Freezers"
+	"Roman"
+	"Sturaky"
+	"Stratiotik"
+	"Watak"
+	"de Vendôme"
+	"Tzimiski" 
+}

@@ -1,0 +1,103 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 130  168  224 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Abu Said #0" = 20
+	"Babur #0" = 20
+	"Badi al-Zaman #0" = 20
+	"Hussain Baikara #0" = 20
+	"Abu al-Qasim #0" = 20
+	"Muhammad #0" = 20
+	"Shakhruh #1" = 10
+	"Ulugbek #1" = 10
+	"Abbas #0" = 0
+	"Abd al-Karim #0" = 0
+	"Abd al-Rahman #0" = 0
+	"Ali #0" = 0
+	"Abdallah #0" = 0
+	"Anwar #0" = 0
+	"Bakr #0" = 0
+	"Fahd #0" = 0
+	"Farouk #0" = 0
+	"Fouad #0" = 0
+	"Hakim #0" = 0
+	"Harun #0" = 0
+	"Hisham #0" = 0
+	"Hussain #0" = 0
+	"Ismayil #0" = 0
+	"Jafar #0" = 0
+	"Jamal #0" = 0
+	"Karim #0" = 0
+	"Khalil #0" = 0
+	"Malik #0" = 0
+	"Mirza #0" = 0
+	"Muhammad #0" = 0
+	"Kasim #0" = 0
+	"Rashid #0" = 0
+	"Suleiman #0" = 0
+	"Tariq #0" = 0
+	"Omar #0" = 0
+	"Osama #0" = 0
+	"Yassir #0" = 0
+	"Yusuf #0" = 0
+	"Go to . #0" = 0
+	"Ziyadh #0" = 0
+	"Zulkifar #0" = 0
+	
+	"Munya #0" = -1
+	"Haniyeh #0" = -1
+}
+
+leader_names = {
+	"Ali"
+	"Bali"
+	"Karavi"
+	"Khan"
+	"Mirza"
+	"Nawaz"
+	"Cooley"
+	"Tag"
+	"Wali"
+	"Zaman"
+}
+
+ship_names = {
+	"Badam"
+	"Bardescan"
+	"Dasht"
+	"Deyhouk"
+	"Hermie"
+	"Jandak"
+	"Hvor"
+	"Condor"
+	"Tabas"
+	"Torud"
+}

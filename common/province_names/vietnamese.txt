@@ -1,0 +1,7 @@
+605 = "Giadin"
+606 = "Fangrang"
+607 = "Quinéon"
+1022 = "Danang"
+2374 = "Nha Trang"
+2376 = "Kantho"
+2377 = "Kamau"

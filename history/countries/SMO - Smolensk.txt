@@ -1,0 +1,71 @@
+government = monarchy
+
+add_government_reform = principality
+primary_culture = ryazanian
+religion = orthodox
+technology_group = eastern
+capital = 293	# Smolensk
+fixed_capital = 293 # Cannot move capital away from this province & no power cost to move to it
+
+
+
+1300.1.1 = {
+	monarch = {
+		name = "Alexander"
+		dynasty = "Rurikovich"
+		adm = 4
+		dip = 1
+		mil = 3
+		birth_date = 1276.1.1
+	}
+}
+
+1313.1.1 = {
+	monarch = {
+		name = "Ivan"
+		dynasty = "Rurikovich"
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+}
+
+1359.1.1 = {
+	monarch = {
+		name = "Svyatoslav"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1386.1.1 = {
+	monarch = {
+		name = "Yuri"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1392.1.1 = {
+	monarch = {
+		name = "Gleb"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1401.1.1 = {
+	monarch = {
+		name = "Yuri"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}

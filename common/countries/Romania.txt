@@ -1,0 +1,132 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 21  96  178 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Alexandre #0" = 20
+	"Radu #0" = 20
+	"Vlad #0" = 20
+	"Constantine #0" = 20
+	"Michael #0" = 20
+	"Mircea #0" = 20
+	"George #0" = 20
+	"Gregor #0" = 20
+	"Michno #0" = 20
+	"Nicola #0" = 20
+	"Besarab #0" = 20
+	"Vladislav #0" = 20
+	"Mattia #0" = 20
+	"Petra #0" = 20
+	"Radu Ilias #0" = 20
+	"Scarlant #0" = 20
+	"Stefan #0" = 20
+	"Dan #0" = 20
+	"Alejandro Ilias #0" = 20
+	"Gabrielle #0" = 20
+	"John George #0" = 20
+	"Leon #0" = 20
+	"Moses #0" = 20
+	"Nigu Bessarab #0" = 20
+	"Petrescu #0" = 20
+	"Radu Leon #0" = 20
+	"Radu Mihno #0" = 20
+	"Serban #0" = 20
+	"Simeon #0" = 20
+	"Theodosius #0" = 20
+	"Vintila #0" = 20
+	"Own . #0" = 20
+	"Milos #0" = 10
+	"Cornelius #0" = 0
+	"Flavius #0" = 0
+	"Julius #0" = 0
+	"Octavian #0" = 0
+	"Sergiy #0" = 0
+	"Theodore #0" = 0
+	"Valery #0" = 0
+	
+	"Adelina #0" = -1
+	"Georgeta #0" = -1
+	"Mirela #0" = -1
+}
+
+leader_names = {
+	"Basarab"
+	"Brankovyanu"
+	"Cantacuzin"
+	"Karaja"
+	"Krajovescu"
+	"Dracula"
+	"Dooka"
+	"Geek"
+	"Golesku"
+	"Ilyash"
+	"Ipsilanti"
+	"Mavrocordat"
+	"Mircea"
+	"Moruzi"
+	"Rakovita"
+	"Sutut"
+	"Tepelus"
+	"Tolmay"
+	"Wakarescu"
+	"Wode"
+}
+
+ship_names = {
+	"Dracula"
+	"Vityazul"
+	"Putera"
+	"Marie"
+	"Speritoaria"
+	"Froumusya Valuilor"
+	"Posada"
+	"Calugherenee"
+	"Rovinj"
+	"Syrmium"
+	"Atacul de noapte"
+	"Lithuania"
+	"Athletic Christie"
+	Baya "Bogdan I"
+	Yuga
+	Moldova
+	"Raul Prut"
+	"Stefan sat down Marie" Sutsiva
+	"Targul Moldovian"
+	You're welcome .
+	Romania
+}
+
+army_names = {
+	"Provincial Army. $PROVINCE$" 
+}

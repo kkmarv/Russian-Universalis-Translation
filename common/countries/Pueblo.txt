@@ -1,0 +1,50 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 162 128 8 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	algonkin_tomahawk_charge
+	commanche_swarm
+	native_indian_mountain_warfare
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Pope #0" = 20
+	"Ku Htingh #0" = 20
+	"Galisteo #0" = 20
+	"Xenome #0" = 20
+	"Ollito #0" = 20
+	"Tagoo #0" = 20
+	"Balsas #0" = 20
+	"Naranjo #0" = 20
+	"Katity #0" = 20
+	
+	"Ootkacao #0" = -1
+}
+
+leader_names = {
+	Acoma Cochicity Isletta Jemes Laguna Namb "Ohkay Owengeh" Picouris Podjoakue Sandia 
+	Taos Tesukue Zia Zuni Hopi Pirou
+}
+
+ship_names = {
+	Acoma Cochicity Isletta Jemes Laguna Namb "Ohkay Owengeh" Picouris Podjoakue Sandia 
+	Taos Tesukue Zia Zuni Hopi Pirou
+}

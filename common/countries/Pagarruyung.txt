@@ -1,0 +1,75 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+
+color = { 255  186  0 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Inayat #0" = 20
+	"Alo Mugiyat #0" = 20
+	"Iskandar Tano #0" = 20
+	"Hussein Alo Riyat #0" = 20
+	"Menrazza #0" = 20
+	"Tsalengatu #0" = 20
+	"Gadzabadi #0" = 20
+	"Saulha #0" = 20
+	"Mengzekei #0" = 20
+	
+	"Amritpal #0" = -1
+	"Dara Yingga #0" = -1
+	"Hamatun #0" = -1
+	"Yanya #0" = -1
+	"Pagaruyeung #0" = -1
+	"Sori #0" = -1
+	"Tembong #0" = -1
+	"Lenggo geni  #0" = -1
+	"Saruazo #0" = -1
+	"Mapuac #0" = -1
+	"Mariam #0" = -1
+	"Sumpu #0" = -1
+}
+
+leader_names = {
+	Abdulfatah Ahmad Amir Anvar Azmi 
+	Batuta 
+	Chairul 
+	Hamza Hasanuddin 
+	Ibnu 
+	Kiyai 
+	Mahat Mukhtar 
+	Najamuddin Nutzar Nazmizan 
+	Roy 
+	Syarifuddin 
+	Zulkifli 
+}
+
+ship_names = {
+	Siac Samandara
+	"Malik Oul Salih" "Malik Al-Salih"
+	Teunom Peusangen Jamboaie Alas Tripa "Symbang Kiri"
+	"Peg Serbeulanghit" "Peg Pusat" "Gunung Petsagohe"
+	"Pulau Wee" "Pulau Breu"
+}

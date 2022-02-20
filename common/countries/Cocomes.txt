@@ -1,0 +1,118 @@
+#Country Name: Please see filename.
+
+graphical_culture = southamericagfx
+
+color = { 194 236 91 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	maritime_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+
+historical_units = {
+	mesoamerican_spearmen
+	central_american_horsemen
+	maya_tribal_warfare
+	maya_forest_warfare
+	maya_gunpowder_warfare
+	westernized_mayan
+	maya_guerilla_warfare
+}
+
+leader_names = {
+	Akinshok Ametakkukul Amok Anakukpech Apop-Achi Arana
+	Bakan Balam Bohr
+	Kanek Chaob Chiam
+	Nuig
+	Kaïom Kkin Kukumac
+	Mochkouo
+	Nachakan Nocikim
+	Pacal
+	"Quiché Balam"
+	Tekunuman
+	Wataki
+	Yumkaash
+	Sots
+}
+
+monarch_names = {
+	"Naci #0" = 60
+	"Kam #1" = 60
+	"Than . #1" = 20
+	"Эeц #1" = 20
+	"Tunich #1" = 20
+	"Kab #1" = 20
+	"Stusch #1" = 15
+	"It's . #1" = 15
+	"Ek #1" = 15
+	"Eckmai #1" = 15
+	"Cyn #1" = 15
+	"Can #1" = 10
+	"Ku #1" = 10
+	"Caai #1" = 10
+	"Pooch #1" = 10
+	"Chu #1" = 10
+	"Chuk #1" = 10
+	"Lobe #1" = 10
+	"Key #1" = 10
+	"Seoul #1" = 10
+	"Mein #1" = 10
+	"Kushaan #1" = 10
+	"Ishuk #1" = 10
+	"Naab #1" = 10
+	"Tone #1" = 10
+	"Tsatskabil #1" = 20
+	"Kaan #1" = 10
+	"Цooц #1" = 10
+	"Sum #1" = 10
+	"Te #1" = 10
+	"Pook #1" = 10
+	"Kab #1" = 10
+	"Yc #1" = 10
+	"Cho #1" = 10
+	"Kuum #1" = 10
+	"Tukul #1" = 10
+	"Nicte #1" = 10
+	"Kusum #1" = 10
+	"Chukuk #1" = 10
+	"Oole #1" = 10
+	"Silich #1" = 10
+
+	"Saknit . #0" = -1
+}
+
+ship_names = {
+	Ake "A Pugh" "Altoon A"
+	Bonampak Becan Bologchen
+	Chaak Kamasots Kankuen Karakol Serros Chakchoben Chakmultun Cinikia Chinkultik 
+	Chunchukmil Siviltuk Kalakmul Kopan Koba
+	"Chichen Itsa"
+	Cibilchaltun Cibilnock Cilam
+	"Doss Pilas" "Kaal Pej"
+	Ecni Ekab "Ek'Balam" 
+	Gumarkai Hukumac
+	Occob Ormiro Unapu Urakan
+	Ishbalanke Ishchel Ichmak Ichmul Itsan Ishil Ishimche Ishlu Isamal "Ish Chel"
+	Labni Louisville Lubaantune Lubaantune Haina Holha "Joia de Seren"
+	Caminalhuiu Kabah Knewick "Cantunile Quin"
+	Lamanai 
+	MaiaMr Machakila Mani Muluchzekel Muiil 
+	Nakum Nakbe Naranho Heavens "Nim Li Punit"
+	Okop Oshkutskab Oshkintok 
+	Palenke Pomini Pusila. "Piedres Negres"
+	Kiriua
+	"Rio Azul" "Rio Beck"
+	Sail Seibel Cicely
+	Tonina Tikal Tulum Tank Tasumal Teko Toposhte 
+	Ushmal Uashaktun Ucanal Uki Utatlan
+	Waki
+	Shkalumkin Shkaret Schoolrralce Shkuksuk Hats Shpuil Shultunantunich
+	Yaklmai Yashchilan Yasha Yo'okop. 
+	Sipakna Sakuleu 
+}

@@ -1,0 +1,127 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 120  50  30 }
+
+historical_idea_groups = {
+	expansion_ideas
+	offensive_ideas
+	administrative_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Abdul-Karim #0" = 40
+	"Abdul-Latif #0" = 20
+	"Abdul-Rahman #0" = 40
+	"Abdullah #0" = 20
+	"Agalak #0" = 20
+	"Ahmad #0" = 50
+	"Ak-Kubek #0" = 40
+	"Ali Beg #0" = 20
+	"Arab Shah #1" = 20
+	"Arslan #0" = 20
+	"Barak #1" = 30
+	"Beck Bulat #0" = 20
+	"Bolak #1" = 20
+	"Circassia #1" = 20
+	"Chokra #1" = 20
+	"Danyal #0" = 20
+	"Darwish #1" = 20
+	"Darwish Ali #0" = 20
+	"Devlette Berdi #0" = 20
+	"Yedigey #0" = 20
+	"Haji Muhammad #1" = 20
+	"Hussain #0" = 30
+	"Ibak #0" = 20
+	"Ibrahim #0" = 50
+	"Ilham #0" = 20
+	"Ishim #0" = 20
+	"Jabbar Berdi #1" = 20
+	"Jalal al-Din #1" = 20
+	"Jan Ali #0" = 20
+	"Janai #0" = 20
+	"Janibeck #1" = 20
+	"Jumaduk #0" = 20
+	"Karim Berdi #1" = 20
+	"Kebek #1" = 20
+	"Khalil #0" = 30
+	"Hakan Beg #1" = 20
+	"Kuchuk Mohammed #0" = 40
+	"Kuchum #0" = 20
+	"Mahmoud #0" = 80
+	"Mahmudak #0" = 50
+	"Mama #0" = 20
+	"Mamuk #0" = 30
+	"Mansour #0" = 20
+	"Muhammad #0" = 50
+	"Murtaza #0" = 20
+	"Mustafa Ali #0" = 20
+	"Nogai #0" = 20
+	"Pulad #1" = 20
+	"Pulad Timur #0" = 20
+	"Kadir Berdi #1" = 20
+	"Kasim #0" = 60
+	"Sain Bulat #0" = 20
+	"Satilghan #0" = 20
+	"Said Ahmad #0" = 60
+	"Said Burhan #0" = 20
+	"Said Mahmoud #0" = 20
+	"Shadi Run #1" = 20
+	"Shah Ali #0" = 20
+	"Sheikh Ahmad #0" = 20
+	"Sheikh Avliar #0" = 20
+	"Sheikh Haidar #0" = 20
+	"Sheban #0" = 20
+	"Taibuha #0" = 20
+	"Timur #1" = 20
+	"Timur Kutlug #1" = 20
+	"Tohtamysh #1" = 20
+	"Ulug Muhammad #0" = 40
+	"Urus #1" = 20
+	"Urus Muhammad #0" = 20
+	"Yadigar Mohammed #0" = 20
+	"Yamgurchi #0" = 20
+	
+	"Fatima #0" = -1
+	"Ibtisam #0" = -1
+	"Jalil #0" = -1
+	"Canan #0" = -1
+	"Lilah #0" = -1
+	"Sakina #0" = -1
+	"Sharif #0" = -1
+}
+
+leader_names = {
+	"Boke Temur" "Kutlug Vachir" "Suren Chinois" "Delger Bayar"
+	"Sri Gan" "Bora Chinois" "Nasange" "Temur-Chi" "Chinoagene" "Tolululun"
+	"Kutugkhan" "Coke Burilgie" "Surencar" "Bayangge"
+}
+
+ship_names = {
+	"Batu" "Sartak" "Uglagchi" "Berke" "Mengu Timur" "Tuda-Menga"
+	"Talabuga" "Nogai Khan" "Tohta" "Uzbek" "Tinibeck" "Janibeck" 
+	"Berdibeck" "Kulpa" "Navruzbek" "Hydr" "Timur Kwaja" "Abdallah"
+	"Muhammad Bolak" "Mamai-khan" "Tohtamysh" "Temur-Kutlug" "Yedigey"
+	"Shadibek" "Polad Khan" "Temur" "Jalal ad-Din" "Karim Berdy" "Kebek"
+	"Jabbar-Berdi" "Ulug-Muhammad" "Devlette-Berd" "Barak" "Sayyid Ahmad"
+}

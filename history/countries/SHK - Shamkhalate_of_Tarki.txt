@@ -1,0 +1,295 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = avar
+religion = sunni
+technology_group = muslim
+capital = 2199
+government_rank = 1
+
+1444.1.1 = {			
+	monarch = {
+		name = "Shahal Khan"
+		dynasty = "Kamukh"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1485.1.1 = {			
+	monarch = {
+		name = "Shahal"
+		monarch_name = "Shahal Padishah"
+		dynasty = "Kamukh"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1494.1.1 = {			
+	monarch = {
+		name = "Shahal"
+		monarch_name = "Shaukhal wali Dagestansky"
+		dynasty = "Kamukh"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1495.1.1 = {			
+	monarch = {
+		name = "Ullu-Ahai I"
+		dynasty = "Kamukh"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1548.1.1 = {			
+	monarch = {
+		name = "Ullu-Ahai II"
+		dynasty = "Kamukh"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1556.1.1 = {			
+	monarch = {
+		name = "Buda I"
+		dynasty = "Kamukh"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1567.1.1 = {			
+	monarch = {
+		name = "Bijobolat"
+		dynasty = "Kamukh"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1571.1.1 = {			
+	monarch = {
+		name = "Surhai I"
+		dynasty = "Kamukh"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1572.1.1 = {			
+	monarch = {
+		name = "Chopan"
+		dynasty = "Kamukh"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1589.1.1 = {			
+	monarch = {
+		name = "Surhai II"
+		dynasty = "Kamukh"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1609.1.1 = {			
+	monarch = {
+		name = "Adil-Gerey I Muzaffar"
+		dynasty = "Kamukh"
+		adm = 3
+		dip = 2
+		mil = 4
+		leader = {	name = "Adil-Gerey"   type = general	fire = 3	shock = 2	manuever = 2	siege = 1 }
+	}
+}
+
+1614.1.1 = {			
+	monarch = {
+		name = "Andy"
+		dynasty = "Kamukh"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1623.1.1 = {			
+	monarch = {
+		name = "Ildar"
+		dynasty = "Kamukh"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1635.1.1 = {			
+	monarch = {
+		name = "Aidemir"
+		dynasty = "Kamukh"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1641.1.1 = {			
+	monarch = {
+		name = "Surhai III"
+		dynasty = "Kamukh"
+		adm = 3
+		dip = 4
+		mil = 5
+		leader = {	name = "Surhai III"   type = general	fire = 4	shock = 3	manuever = 2	siege = 2 }
+	}
+}
+
+1668.1.1 = {			
+	monarch = {
+		name = "Buda II"
+		dynasty = "Kamukh"
+		adm = 3
+		dip = 3
+		mil = 4
+		leader = {	name = "Buda II"   type = general	fire = 2	shock = 1	manuever = 1	siege = 0 }
+	}
+}
+
+1692.1.1 = {			
+	monarch = {
+		name = "Murtuz-Ali I"
+		dynasty = "Kamukh"
+		death_date = 1700.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1717.1.1 = {			
+	monarch = {
+		name = "Umalat"
+		dynasty = "Kamukh"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1719.1.1 = {			
+	monarch = {
+		name = "Adil-Gerey II"
+		dynasty = "Kamukh"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1725.1.1 = {			
+	monarch = {
+		name = "Hasbolat"
+		dynasty = "Kamukh"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1763.1.1 = {			
+	monarch = {
+		name = "Bammat I"
+		monarch_name = "Bammat I Tischies."
+		dynasty = "Kamukh"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1765.1.1 = {			
+	monarch = {
+		name = "Mehti I"
+		monarch_name = "Mehti I Shirdanci"
+		dynasty = "Kamukh"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1765.5.1 = {			
+	monarch = {
+		name = "Murtuz-Ali II"
+		dynasty = "Kamukh"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1783.1.1 = {			
+	monarch = {
+		name = "Bammat II"
+		dynasty = "Kamukh"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1794.1.1 = {			
+	monarch = {
+		name = "Mehti II"
+		dynasty = "Kamukh"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1830.1.1 = {			
+	monarch = {
+		name = "Suleiman-Pasha"
+		dynasty = "Tarkovsky"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1836.1.1 = {			
+	monarch = {
+		name = "Abu-Muslim Khan"
+		dynasty = "Tarkovsky"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1860.1.1 = {			
+	monarch = {
+		name = "Shamsuddin Khan"
+		dynasty = "Tarkovsky"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}

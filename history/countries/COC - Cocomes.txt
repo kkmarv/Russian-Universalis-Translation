@@ -1,0 +1,58 @@
+government = tribal
+add_government_reform = tribal_despotism
+primary_culture = yucatec
+religion = mesoamerican_religion
+technology_group = mesoamerican
+capital = 846
+historical_rival = XIU
+
+1431.1.1 = {
+	monarch = {
+		name = "Ethan Kumbul"
+		dynasty = "Coke"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1464.1.1 = {
+	monarch = {
+		name = "Xiotl"
+		dynasty = "Coke"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1468.1.1 = {
+	monarch = {
+		name = "Score"
+		dynasty = "Coke"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1483.1.1 = {
+	monarch = {
+		name = "Oven"
+		dynasty = "Coke"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1543.1.1 = {
+	monarch = {
+		name = "Naci"
+		dynasty = "Coke"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+

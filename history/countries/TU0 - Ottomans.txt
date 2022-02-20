@@ -1,0 +1,273 @@
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+historical_friend = CRI
+historical_friend = MOR
+historical_rival = BYZ
+historical_rival = MAM
+historical_rival = PER
+historical_rival = HUN
+historical_rival = TIM
+historical_rival = CND
+historical_rival = TNA
+historical_rival = KRS
+historical_rival = HAB
+historical_rival = KAR
+historical_rival = MEN
+historical_rival = SRU
+capital = 3111 # Karashibar
+
+1214.1.1 = {
+	monarch = {
+		name = "Suleiman Shah"
+		dynasty = "Osmanoglu"
+		birth_date = 1178.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1227.1.1 = {
+	monarch = {
+		name = "Ertogrul"
+		dynasty = "Osmanoglu"
+		birth_date = 1198.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1281.1.1 = {
+	monarch = {
+		name = "Osman"
+		dynasty = "Osmanoglu"
+		birth_date = 1258.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+		leader = { name = "Osman Osmanoglu"            type = general	fire = 3	shock = 3	manuever = 3	siege = 2}
+	}
+}
+
+1288.1.1 = {
+	heir = {
+		name = "Orhan"
+		monarch_name = "Orhan I Gazi"
+		dynasty = "Osmanoglu"
+		birth_date = 1288.1.1
+		death_date = 1359.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 5
+		leader = { name = "Orhan Gazi"            type = general	fire = 2	shock = 2	manuever = 3	siege = 0}
+	}
+}
+
+1326.1.1 = {
+	monarch = {
+		name = "Orhan I Gazi"
+		dynasty = "Osmanoglu"
+		birth_date = 1288.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1327.1.1 = { government_rank = 2 }
+
+1362.3.1 = {
+	monarch = {
+		name = "Mourad I"
+		dynasty = "Osmanoglu"
+		birth_date = 1326.6.29
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1362.3.1 = {
+	heir = {
+		name = "Bayezid"
+		monarch_name = "Bayazid I Yildyrym"
+		dynasty = "Osmanoglu"
+		birth_date = 1357.1.1
+		death_date = 1403.3.8
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1365.1.1 = { capital = 149 }
+
+1389.6.15 = {
+	monarch = {
+		name = "Bayazid I Yildyrym"
+		dynasty = "Osmanoglu"
+		birth_date = 1357.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1402.7.20 = {
+	monarch = {
+		name = "Suleiman Chelebi"
+		dynasty = "Osmanoglu"
+		birth_date = 1377.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1411.2.17 = {
+	monarch = {
+		name = "Musa Chelyabi"
+		dynasty = "Osmanoglu"
+		birth_date = 1380.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1413.7.5 = {
+	monarch = {
+		name = "Mehmed I Chelebi"
+		dynasty = "Osmanoglu"
+		birth_date = 1387.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1421.5.26 = {
+	monarch = {
+		name = "Mourad II"
+		dynasty = "Osmanoglu"
+		birth_date = 1404.6.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1425.1.1 = { decision = sheikh_ul_islam }
+
+1438.3.30 = {
+	heir = {
+		name = "Mehmed"
+		monarch_name = "Mehmed II Fatih"
+		dynasty = "Osmanoglu"
+		birth_date = 1432.3.30
+		death_date = 1481.5.3
+		claim = 70
+		adm = 5
+		dip = 5
+		mil = 6
+		leader = { name = "Mehmed Fatih"            type = general	fire = 6	shock = 4	manuever = 5	siege = 2}
+	}
+}
+
+1439.1.1 = {
+	leader = {
+		name = "Hadim Shehabeddin"
+		type = general
+	
+		fire = 3
+		shock = 3
+		manuever = 3
+		siege = 1
+		death_date = 1453.9.9
+		#trait = inspirational_leader_general_personality #STT
+	}
+}
+	
+1444.6.12 = {
+	monarch = {
+		name = "Mehmed II Fatih"
+		dynasty = "Osmanoglu"
+		birth_date = 1432.3.30
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = lawgiver_personality
+}
+
+1446.3.1 = {
+	monarch = {
+		name = "Mourad II"
+		dynasty = "Osmanoglu"
+		birth_date = 1404.6.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+	add_country_modifier = {
+		name = tur_janissary
+		duration = -1
+	}
+	set_country_flag = janissary_timer
+}
+
+1446.3.1 = {
+	heir = {
+		name = "Mehmed"
+		monarch_name = "Mehmed II Fatih"
+		dynasty = "Osmanoglu"
+		birth_date = 1432.3.30
+		death_date = 1481.5.3
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 6
+		leader = { name = "Mehmed Fatih"            type = general	fire = 6	shock = 4	manuever = 5	siege = 2}
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = conqueror_personality
+	add_heir_personality = lawgiver_personality
+}
+
+1451.2.3 = {
+	monarch = {
+		name = "Mehmed II Fatih"
+		dynasty = "Osmanoglu"
+		birth_date = 1432.3.30
+		adm = 5
+		dip = 5
+		mil = 6
+		leader = { name = "Mehmed Fatih"            type = general	fire = 6	shock = 4	manuever = 5	siege = 2}
+		#clear_scripted_personalities = yes
+		#add_ruler_personality = conqueror_personality
+		#add_ruler_personality = lawgiver_personality
+	}
+}
+
+1451.2.3 = {
+	heir = {
+		name = "Bayezid"
+		monarch_name = "Bayezid II Dervis"
+		dynasty = "Osmanoglu"
+		birth_date = 1448.12.3
+		death_date = 1512.5.26
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

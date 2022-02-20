@@ -1,0 +1,2133 @@
+government = republic
+add_government_reform = veche_republic
+government_rank = 2
+primary_culture = novgorodian
+religion = orthodox
+technology_group = eastern
+historical_rival = MOS
+capital = 310	# Novgorod
+fixed_capital = 310 # Cannot move capital away from this province & no power cost to move to it
+
+# 862.1.1 = {
+	# monarch = {
+		# name = "Gostomysl"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 862.6.1 = {
+	# monarch = {
+		# name = "Paul here ."
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 879.1.1 = {
+	# monarch = {
+		# name = "Choose ."
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 900.1.1 = {
+	# monarch = {
+		# name = "(Vacant)"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+		# regent = yes
+	# }
+# }
+
+# 980.1.1 = {
+	# monarch = {
+		# name = "Dobrynia I"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 988.1.1 = {
+	# monarch = {
+		# name = "(Vacant)"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+		# regent = yes
+	# }
+# }
+
+# 995.1.1 = {
+	# monarch = {
+		# name = "Vorobey Stoyanovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1016.1.1 = {
+	# monarch = {
+		# name = "Kosnyatin I"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1020.1.1 = {
+	# monarch = {
+		# name = "(Vacant)"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+		# regent = yes
+	# }
+# }
+
+# 1054.1.1 = {
+	# monarch = {
+		# name = "Ostromir"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1058.1.1 = {
+	# monarch = {
+		# name = "Jealous"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1060.1.1 = {
+	# monarch = {
+		# name = "Petriata"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1065.1.1 = {
+	# monarch = {
+		# name = "Kosnyatin II"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1070.1.1 = {
+	# monarch = {
+		# name = "Mironeg"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1075.1.1 = {
+	# monarch = {
+		# name = "Savva"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1075.1.1 = {
+	# monarch = {
+		# name = "Uleb I"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1080.1.1 = {
+	# monarch = {
+		# name = "Uleb II"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1090.1.1 = {
+	# monarch = {
+		# name = "Gyuryata"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1100.1.1 = {
+	# monarch = {
+		# name = "Mikula"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1110.1.1 = {
+	# monarch = {
+		# name = "Dobrynia II"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1117.1.1 = {
+	# monarch = {
+		# name = "Dmitry Zavidich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1118.1.1 = {
+	# monarch = {
+		# name = "Kosniatin Moiseevich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1119.1.1 = {
+	# monarch = {
+		# name = "Boris"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1125.1.1 = {
+	# monarch = {
+		# name = "Miroslav Gyuryatinich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1128.1.1 = {
+	# monarch = {
+		# name = "Zavid Dmitrovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1129.1.1 = {
+	# monarch = {
+		# name = "Daniel"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1131.1.1 = {
+	# monarch = {
+		# name = "Daniel"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1131.1.1 = {
+	# monarch = {
+		# name = "Petrila Mikulcic"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1134.1.1 = {
+	# monarch = {
+		# name = "Ivanko Pavlovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1135.1.1 = {
+	# monarch = {
+		# name = "Miroslav Gyuryatinich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1136.1.1 = {
+	# monarch = {
+		# name = "Kosniatin Mikulcic"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1137.1.1 = {
+	# monarch = {
+		# name = "Yakun Miroslavic"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1141.1.1 = {
+	# monarch = {
+		# name = "Sudila Ivankovic"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1144.1.1 = {
+	# monarch = {
+		# name = "Nezata Tverdyatić"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1146.1.1 = {
+	# monarch = {
+		# name = "Sudila Ivankovic"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1156.1.1 = {
+	# monarch = {
+		# name = "Yakun Miroslavic"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1160.1.1 = {
+	# monarch = {
+		# name = "Nezata Tverdyatić"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1161.1.1 = {
+	# monarch = {
+		# name = "Zachary"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1167.1.1 = {
+	# monarch = {
+		# name = "Yakun Andreyevich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1168.1.1 = {
+	# monarch = {
+		# name = "Yakun"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1170.1.1 = {
+	# monarch = {
+		# name = "Zhiroslav Ivankovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1171.1.1 = {
+	# monarch = {
+		# name = "Ivanko Zakharyinich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1172.1.1 = {
+	# monarch = {
+		# name = "Zhiroslav Ivankovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1173.1.1 = {
+	# monarch = {
+		# name = "Ivanko Zakharyinich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1175.1.1 = {
+	# monarch = {
+		# name = "Zhiroslav Ivankovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1175.6.1 = {
+	# monarch = {
+		# name = "Zavid Nerevinich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1176.1.1 = {
+	# monarch = {
+		# name = "Mikhalko Stepanovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1177.1.1 = {
+	# monarch = {
+		# name = "Zavid Nerevinich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1180.1.1 = {
+	# monarch = {
+		# name = "Mikhalko Stepanovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1184.1.1 = {
+	# monarch = {
+		# name = "Ivanko Zakharyinich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1186.1.1 = {
+	# monarch = {
+		# name = "Mikhalko Stepanovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1189.1.1 = {
+	# monarch = {
+		# name = "Miroszko Nezdinic"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1203.1.1 = {
+	# monarch = {
+		# name = "Mikhalko Stepanovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1205.1.1 = {
+	# monarch = {
+		# name = "Dmitry Miroshkinich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1208.1.1 = {
+	# monarch = {
+		# name = "Tverdislav Mikhalkovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1210.1.1 = {
+	# monarch = {
+		# name = "Dmitry Yakunovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1212.1.1 = {
+	# monarch = {
+		# name = "Tverdislav Mikhalkovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1215.1.1 = {
+	# monarch = {
+		# name = "Yuri Ivankovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1216.1.1 = {
+	# monarch = {
+		# name = "Tverdislav Mikhalkovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1219.1.1 = {
+	# monarch = {
+		# name = "Semyon Borisovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1219.6.1 = {
+	# monarch = {
+		# name = "Tverdislav Mikhalkovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1220.1.1 = {
+	# monarch = {
+		# name = "Ivanko Dmitrievich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1021.1.1 = {
+	# monarch = {
+		# name = "(Veche)"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+		# regent = yes
+	# }
+# }
+
+# 1224.1.1 = {
+	# monarch = {
+		# name = "Fyodor Mikhalkovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1225.1.1 = {
+	# monarch = {
+		# name = "Sudimir"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1226.1.1 = {
+	# monarch = {
+		# name = "Ivanko Dmitrievich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1229.1.1 = {
+	# monarch = {
+		# name = "Sudden Vodovik"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1230.1.1 = {
+	# monarch = {
+		# name = "Stepan Tverdyslavich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1243.1.1 = {
+	# monarch = {
+		# name = "Syslav Jakubovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1250.1.1 = {
+	# monarch = {
+		# name = "Anania Feofilaktovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1255.1.1 = {
+	# monarch = {
+		# name = "Mikhalko Stepanovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1258.1.1 = {
+	# monarch = {
+		# name = "Mikhail Fyodorovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1268.1.1 = {
+	# monarch = {
+		# name = "Pawsza Onanjić"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1272.1.1 = {
+	# monarch = {
+		# name = "Mikhail Mishinich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1272.6.1 = {
+	# monarch = {
+		# name = "Pawsza Onanjić"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1274.1.1 = {
+	# monarch = {
+		# name = "Mikhail Mishinich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1280.1.1 = {
+	# monarch = {
+		# name = "Semyon Mikhailovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1286.1.1 = {
+	# monarch = {
+		# name = "Andrey Klimovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1290.1.1 = {
+	# monarch = {
+		# name = "Yuri Mishinich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1292.1.1 = {
+	# monarch = {
+		# name = "Semyon Klimovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1294.1.1 = {
+	# monarch = {
+		# name = "Andrey Klimovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1297.1.1 = {
+	# monarch = {
+		# name = "Yuri Mishinich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1298.1.1 = {
+	# monarch = {
+		# name = "Semyon Klimovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+# 1299.1.1 = {
+	# monarch = {
+		# name = "Andrey Klimovich"
+		# adm = 3
+		# dip = 3
+		# mil = 3
+	# }
+# }
+
+1300.1.1 = {
+	monarch = {
+		name = "Andrey Klimovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1301.1.1 = {
+	monarch = {
+		name = "Semyon Ivanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1302.1.1 = {
+	monarch = {
+		name = "Andrey Klimovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1303.1.1 = {
+	monarch = {
+		name = "Semyon Klimovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1304.1.1 = {
+	monarch = {
+		name = "Andrey Klimovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1305.1.1 = {
+	monarch = {
+		name = "Yuri Mishinich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1306.1.1 = {
+	monarch = {
+		name = "(Veche)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1311.1.1 = {
+	monarch = {
+		name = "Mikhail Pavshinich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1312.1.1 = {
+	monarch = {
+		name = "Semyon Klimovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1317.1.1 = {
+	monarch = {
+		name = "(Veche)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1323.1.1 = {
+	monarch = {
+		name = "Semyon Klimovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1324.1.1 = {
+	monarch = {
+		name = "(Veche)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1327.1.1 = {
+	monarch = {
+		name = "Danila"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1328.1.1 = {
+	monarch = {
+		name = "Fyodor Ahmyl"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1330.1.1 = {
+	monarch = {
+		name = "Fyodor Ahmyl"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1331.1.1 = {
+	monarch = {
+		name = "Bartholomew Yurievich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1332.1.1 = {
+	monarch = {
+		name = "Fyodor Ahmyl"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1332.6.1 = {
+	monarch = {
+		name = "Fyodor Ahmyl"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1332.9.1 = {
+	monarch = {
+		name = "Zakhariah Mikhailovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1332.12.1 = {
+	monarch = {
+		name = "Matvei Varfalomeevich Koska"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1334.1.1 = {
+	monarch = {
+		name = "Fyodor Ahmyl"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1335.1.1 = {
+	monarch = {
+		name = "Fyodor Danilovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1340.1.1 = {
+	monarch = {
+		name = "Ostafy the Nobleman"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1342.1.1 = {
+	monarch = {
+		name = "Fyodor Danilovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1344.1.1 = {
+	monarch = {
+		name = "Ostafy the Nobleman"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1345.1.1 = {
+	monarch = {
+		name = "Matthew Varfolomeyevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1347.1.1 = {
+	monarch = {
+		name = "Fyodor Danilovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1348.1.1 = {
+	monarch = {
+		name = "Oncifir Lukic"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1349.1.1 = {
+	monarch = {
+		name = "Mikhail Danilovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1350.1.1 = {
+	monarch = {
+		name = "Oncifir Lukic"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1351.1.1 = {
+	monarch = {
+		name = "Mikhail Danilovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1351.6.1 = {
+	monarch = {
+		name = "Oncifir Lukic"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1354.1.1 = {
+	monarch = {
+		name = "Mikhail Danilovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1355.1.1 = {
+	monarch = {
+		name = "(Veche)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1359.1.1 = {
+	monarch = {
+		name = "Sylvester Leontievich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1360.1.1 = {
+	monarch = {
+		name = "Mikita Matveyevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1370.1.1 = {
+	monarch = {
+		name = "Ivan Semenovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1371.1.1 = {
+	monarch = {
+		name = "Yurii Ivanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1372.1.1 = {
+	monarch = {
+		name = "Mikhail Danilovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1373.1.1 = {
+	monarch = {
+		name = "Yurii Ivanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1374.1.1 = {
+	monarch = {
+		name = "Mikhail Danilovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1375.1.1 = {
+	monarch = {
+		name = "Yurii Ivanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1377.1.1 = {
+	monarch = {
+		name = "(Veche)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1384.1.1 = {
+	monarch = {
+		name = "Vasily Ivanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1385.1.1 = {
+	monarch = {
+		name = "Fyodor Timofeyevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1387.1.1 = {
+	monarch = {
+		name = "Vasily Fyodorovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1388.1.1 = {
+	monarch = {
+		name = "Yesif Zakharyinich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1389.1.1 = {
+	monarch = {
+		name = "Vasily Ivanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1390.1.1 = {
+	monarch = {
+		name = "Andreyan Zakharyinich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1391.1.1 = {
+	monarch = {
+		name = "Timofey Yurievich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1392.1.1 = {
+	monarch = {
+		name = "Yesif Zakhariyevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1393.1.1 = {
+	monarch = {
+		name = "Grigory Yakunovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1394.1.1 = {
+	monarch = {
+		name = "Yesif Zakhariyevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1394.6.1 = {
+	monarch = {
+		name = "Bogdan Avakumovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1396.1.1 = {
+	monarch = {
+		name = "Grigory Bogdanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1397.1.1 = {
+	monarch = {
+		name = "Timofey Yurievich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1398.1.1 = {
+	monarch = {
+		name = "Aleksandr Fominich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1399.1.1 = {
+	monarch = {
+		name = "Yesif Falaleyevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1400.1.1 = {
+	monarch = {
+		name = "Yuri Dmitrievich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1401.1.1 = {
+	monarch = {
+		name = "Ivan Alexandrovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1402.1.1 = {
+	monarch = {
+		name = "Thomas Ivanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1403.1.1 = {
+	monarch = {
+		name = "Kirill Andreyanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1404.1.1 = {
+	monarch = {
+		name = "Aleksandr Fomich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1405.1.1 = {
+	monarch = {
+		name = "Yesif Zakhariyevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1406.1.1 = {
+	monarch = {
+		name = "Ivan Danilovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1407.1.1 = {
+	monarch = {
+		name = "Andrey Ivanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1408.1.1 = {
+	monarch = {
+		name = "Ivan Bogdanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1409.1.1 = {
+	monarch = {
+		name = "Grigory Bogdanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1411.1.1 = {
+	monarch = {
+		name = "Ivan Alexandrovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1412.1.1 = {
+	monarch = {
+		name = "Thomas Esifovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1413.1.1 = {
+	monarch = {
+		name = "Ivan Alexandrovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1415.1.1 = {
+	monarch = {
+		name = "Andrey Ivanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1416.1.1 = {
+	monarch = {
+		name = "Ivan Bogdanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1417.1.1 = {
+	monarch = {
+		name = "Semyon Vasilyevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1418.1.1 = {
+	monarch = {
+		name = "Vasily Esifovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1418.6.1 = {
+	monarch = {
+		name = "Alexey Ignatievich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1420.1.1 = {
+	monarch = {
+		name = "Vasiliy Mikitinich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1421.1.1 = {
+	monarch = {
+		name = "Mikhail Ivanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1421.6.1 = {
+	monarch = {
+		name = "Timofey Vasilyevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1422.1.1 = {
+	monarch = {
+		name = "Vasiliy Nikitich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1423.1.1 = {
+	monarch = {
+		name = "Mikhail Ananievich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1424.1.1 = {
+	monarch = {
+		name = "Mikhail Ivanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1425.1.1 = {
+	monarch = {
+		name = "(Veche)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1434.1.1 = {
+	monarch = {
+		name = "Samson Ivanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1434.6.1 = {
+	monarch = {
+		name = "Grigory Kirillovich Posakhno"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1435.1.1 = {
+	monarch = {
+		name = "Fyodor Danilovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1435.6.1 = {
+	monarch = {
+		name = "Boris Yurievich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1436.1.1 = {
+	monarch = {
+		name = "Grigory Kirillovich Posakhno"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1436.6.1 = {
+	monarch = {
+		name = "Boris Yurievich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1437.1.1 = {
+	monarch = {
+		name = "Fyodor Oliseevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1437.6.1 = {
+	monarch = {
+		name = "Dmitry Vasilyevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1438.1.1 = {
+	monarch = {
+		name = "Ivan Lukinic Szczoka"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1438.6.1 = {
+	monarch = {
+		name = "Ivan Lukinic Szczoka"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1438.9.1 = {
+	monarch = {
+		name = "Isaac Andreyevich Boretsky"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1439.1.1 = {
+	monarch = {
+		name = "Ivan Lukic Szczoka"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1439.6.1 = {
+	monarch = {
+		name = "Bogdan Mikitinic"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1440.1.1 = {
+	monarch = {
+		name = "Yesif Andreevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1440.6.1 = {
+	monarch = {
+		name = "Yesif Grigorievich Posakhno"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1441.1.1 = {
+	monarch = {
+		name = "Yesif Yakovlevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1441.6.1 = {
+	monarch = {
+		name = "Fyodor Oliseevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1442.1.1 = {
+	monarch = {
+		name = "Anania Semenovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1442.6.1 = {
+	monarch = {
+		name = "Ivan Maximovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1443.1.1 = {
+	monarch = {
+		name = "Ivan Lavrentievich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1443.6.1 = {
+	monarch = {
+		name = "Bogdan Esifovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1444.1.1 = {
+	monarch = {
+		name = "Zakhariah Grigorievich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1444.6.1 = {
+	monarch = {
+		name = "Vasily Stepanovich Svoezemtsev"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1445.1.1 = {
+	monarch = {
+		name = "Mikhail Ivanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1445.6.1 = {
+	monarch = {
+		name = "(Veche)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1447.1.1 = {
+	monarch = {
+		name = "Vasiliy Sokira"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1447.6.1 = {
+	monarch = {
+		name = "Yesif Grigorievich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1448.1.1 = {
+	monarch = {
+		name = "Cargo Afanasy Ostafyevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1448.6.1 = {
+	monarch = {
+		name = "(Veche)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1450.1.1 = {
+	monarch = {
+		name = "Dmitry Vasilyevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1450.6.1 = {
+	monarch = {
+		name = "(Veche)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1455.1.1 = {
+	monarch = {
+		name = "Ivan Lukinich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1456.6.1 = {
+	monarch = {
+		name = "Tucha Mikhail Ivanovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1457.1.1 = {
+	monarch = {
+		name = "(Veche)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1459.6.1 = {
+	monarch = {
+		name = "Kazimir Alexey Vasilyevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1460.1.1 = {
+	monarch = {
+		name = "Vasiliy Alexandrovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1460.6.1 = {
+	monarch = {
+		name = "Ivan Lavrentievich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1461.1.1 = {
+	monarch = {
+		name = "Cargo Afanasy Astafievich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1461.6.1 = {
+	monarch = {
+		name = "Ivan Nemir"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1462.1.1 = {
+	monarch = {
+		name = "Vasily Glazoemtsev"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1462.6.1 = {
+	monarch = {
+		name = "Kuzma Grigorievich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1463.1.1 = {
+	monarch = {
+		name = "Mahaylo Semenov"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1463.6.1 = {
+	monarch = {
+		name = "Alexander Samsonov"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1464.1.1 = {
+	monarch = {
+		name = "Fedor Samsonov"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1464.6.1 = {
+	monarch = {
+		name = "(Veche)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1466.1.1 = {
+	monarch = {
+		name = "Cargo Afanasy Ostafyevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1466.6.1 = {
+	monarch = {
+		name = "(Veche)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1468.1.1 = {
+	monarch = {
+		name = "Ivan Lukic"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1468.6.1 = {
+	monarch = {
+		name = "Yakov Fyodorovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1469.6.1 = {
+	monarch = {
+		name = "(Veche)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1470.1.1 = {
+	monarch = {
+		name = "Dmitry Isaakovich Boretsky"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1470.6.1 = {
+	monarch = {
+		name = "Ivan Lukic"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1471.1.1 = {
+	monarch = {
+		name = "Ivan Lukic"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1471.6.1 = {
+	monarch = {
+		name = "Timofey Ostafievich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1471.9.1 = {
+	monarch = {
+		name = "Vasily Ananyich Golenishche"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1472.1.1 = {
+	monarch = {
+		name = "Grigory Mikhailovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1472.6.1 = {
+	monarch = {
+		name = "(Veche)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1474.1.1 = {
+	monarch = {
+		name = "Feofilat Zakhariyevich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1474.6.1 = {
+	monarch = {
+		name = "Mikhail Semenovich Chapinoga"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1475.1.1 = {
+	monarch = {
+		name = "Bogdan Esipov"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1475.6.1 = {
+	monarch = {
+		name = "Vasily Ananievich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1475.9.1 = {
+	monarch = {
+		name = "Thomas Andreyevich Kuriatnik"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1476.1.1 = {
+	monarch = {
+		name = "Kazimir Vasily Alexandrovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1476.6.1 = {
+	monarch = {
+		name = "Naked Kirill"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1477.1.1 = {
+	monarch = {
+		name = "Vasiliy Nikiforovich Penkov"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1477.6.1 = {
+	monarch = {
+		name = "Mikhail Semenovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1477.9.1 = {
+	monarch = {
+		name = "Thomas Andreyevich Kuriatnik"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

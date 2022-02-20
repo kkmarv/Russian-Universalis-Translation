@@ -1,0 +1,84 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 121  10  65 } 
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	algonkin_tomahawk_charge
+	native_indian_horsemen
+	commanche_swarm
+	native_indian_mountain_warfare
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Concomley #0" = 20
+	"Tumult #0" = 10
+	"Napesa #0" = 10
+	"Inzhice #0" = 10
+	"Tasyah #0" = 10
+	"Nessik #0" = 10
+	"Etnama #0" = 10
+	"Chinlenten #0" = 10
+	"Naciyah #0" = 10
+	"Apsacquil #0" = 10
+	"Quintiosan #0" = 10
+	"Talsapir #0" = 10
+	"Minletta #0" = 10
+	"Queequatti #0" = 10
+	"Yalkus #0" = 10
+	"Kavkama #0" = 10
+	"Kiles #0" = 10
+	"Kovahtau #0" = 10
+	"Anta #0" = 10
+	"Kualala #0" = 10
+	"Mecwah #0" = 10
+	"Yakachi #0" = 10
+	"Tofor #0" = 10
+	"Hallale #0" = 10
+	"Pulktah #0" = 10
+	"Tumwalat #0" = 10
+	"Obanahh #0" = 10
+	"Watchano #0" = 10
+	"Theapinic #0" = 10
+	"Wollahpitzate #0" = 10
+	"Lalbik #0" = 10
+	"Cucamanna #0" = 10
+	"Tovietsolla #0" = 10
+	"Laham #0" = 10
+	"Señegerta #0" = 10
+	"Pulitzan #0" = 10
+	"Shadow #0" = 10
+	"Pulkuptima #0" = 10
+	"Sullaf #0" = 10
+	"Hoipkenek #0" = 10
+	"Eptach #0" = 10
+	"Satinvose #0" = 10
+	
+	"Elvamox #0" = -1 
+}
+
+leader_names = {
+	Klatsop Kaslamet Skillut Kaslapotle Multnomah Vatlala Cloveuwall Klakamas Chilakitekuau 
+	Vishram Vaszo Atfalati Yamel Lakmiut Cepenafa Santiam Celamela Calapua Yoncalla
+}
+
+ship_names = {
+	Ulaks Oklumin Ltzuk Klatsop Kaslamet Skillut Kaslapotle Multnomah Vatlala Cloveuwall Klakamas Chilakitekuau 
+	Vishram Vaszo Atfalati Yamel Lakmiut Cepenafa Santiam Celamela Calapua Yoncalla
+}

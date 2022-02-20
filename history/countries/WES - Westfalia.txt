@@ -1,0 +1,17 @@
+government = republic
+set_legacy_government = constitutional_monarchy
+primary_culture = hannoverian
+religion = protestant
+technology_group = western
+capital = 81	# Kassel
+
+
+1807.7.9 = {
+	monarch = {
+		name = "Jerome"
+		dynasty = "Bonaparte"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}

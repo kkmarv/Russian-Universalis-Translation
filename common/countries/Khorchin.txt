@@ -1,0 +1,240 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 221  93  170 }
+
+historical_idea_groups = {
+	administrative_ideas
+	religious_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Agbargin #0" = 20
+	"Adai #0" = 20
+	"Altan #0" = 20
+	"Arigaba #1" = 10
+	"Arugtai #0" = 10
+	"Ayurparibhadara #0" = 10
+	"Bodie #0" = 20
+	"Beck #0" = 20
+	"Bahamu #0" = 20
+	"Bars #0" = 20
+	"Buyan #0" = 20
+	"Bilige #0" = 10
+	"Diane #0" = 20
+	"Darysung #0" = 20
+	"Delbeg #0" = 20
+	"Aj #1" = 10
+	"Elbeg #1" = 10
+	"Engke #1" = 10
+	"Guyuk #1" = 10
+	"Gyun #0" = 20
+	"Gulici #0" = 20
+	"Irincibal #0" = 10
+	"Joringtu #0" = 10
+	"Kublai #0" = 10
+	"Kwoke #0" = 10
+	"Ligdan #0" = 20
+	"Marcurgis #0" = 10
+	"Mungke #0" = 10
+	"Mulan #0" = 20
+	"Mandouloun #0" = 20
+	"Ulej #0" = 20
+	"Orug #0" = 15
+	"Oiradai #0" = 20
+	"Uskhal #0" = 10
+	"Kayshan #0" = 10
+	"Koshila #0" = 10
+	"Sain #0" = 20
+	"Suddhippala #0" = 10
+	"Taisung #0" = 20
+	"Temudgin #0" = 10
+	"Timur #0" = 10
+	"Tohun #0" = 10
+	"Tyumen #0" = 10
+	"Tolui #0" = 10
+	"Talk #0" = 10
+	"Scaled up . #0" = 10
+	"Yesun #0" = 10
+	"Arik #0" = 0
+	"Batu #0" = 0
+	"Elihydei #0" = 0	
+	"Yoichi #0" = 0
+
+	"Temenulene #0" = -1
+	"Burte #0" = -1
+	"Mandukai #0" = -1
+	"Samara #0" = -1
+	"Zaufishan #0" = -1
+}
+
+leader_names = { 
+	Borjigin
+	Besud
+	Jalair
+	Hatagin
+	Olhonut
+	Harnut
+	Yeljigin
+	Bayout
+	Gorlos
+	Darkhad
+	Sharnud
+	Urianhan
+	Chinos
+	Onyhot
+	Mangyt
+	Ujeet
+	Onyouth
+	Miangangan
+	Yunshibu
+	Tumed
+	sartuul
+	Tangut
+	Merkit
+	Barga
+	Daguur
+	Tsakhar
+	Karchin
+	Ood
+	Torgut
+	Jungar
+	Want
+	Aug
+	Tugchin
+	Guchid
+	Korchin
+	China
+	Ic
+	Asut
+	Baatuta
+	Barnut
+	Kuchid
+	Halbagat
+	Hangat
+	Jarangiinhan
+	Togoruutan
+	Haryd
+	Jorhoy-Nudten
+	Buurluut
+	Kavchig
+	Bulagachid
+	Gozul
+	Uzoon
+	Echeit
+	Kavkchin
+	Orovgut
+	Tavnak
+	Haahar
+	Hunguut
+	Burgit
+	Kutserleg
+	Chutsuut
+	Ulangoot
+	Eugene
+	Undgaa
+	Gahan
+	Aksakal
+	Zuun-Shuvuchin
+	Zaaruut
+	Daladaganate
+	Tsagaan-zel
+	Kar-zel
+	Harriad
+	Daartan
+	Barchuul
+	Gerchuut
+	Baachout
+	Bouchout
+	Huluut
+	Basigit
+	Zoochor
+	Hitluud
+	Gal
+	Motoy
+	Tel:
+	Sod
+	Mankilag
+	Kamnigan
+	Taichioud
+	Nyman
+	Solon
+	Hoid
+	Kereit
+	Tsoros
+	Talas
+	Baarin
+	Alakaduun
+	Saljud
+	Uvashi
+	Unegit
+	Asan
+	Wuhan
+	Wooch
+	Tsor
+	Jalaid
+	Zaisanguut
+	Zurchid
+	Sunid
+	Tatar
+	tuajay
+	Wusun
+	Halha
+	Hangday
+	Hangin
+	Hyad
+	Choton
+	Hurlad
+	Tsagaan
+	Nirun
+	Durvit
+	Baartar
+	Zelme
+	Tuweed
+	Tavout
+	Joshout
+	Hazag
+	Urath
+	Yamaat
+}
+
+ship_names = {
+	Yinchan Karakorum Huh-Hoto Chagaan
+	"Genghis Khan" Jucie Belberei Tolui.
+	Munke Kubilay Hulagu Kabul
+	Jingim Kmaoa Dharmapala Timur Hulagu Batu
+	Adai Elbeg Batu Mugali Borchu Borokula Chilown
+	Kubilai Jelme Zhebe Subutai
+	"El Chukai" Shikikhtung "Socran Shira" "Khar Khirug"
+	 "Durben Neuas"
+}
+
+army_names = {
+	Keshig
+	"Mist of the left wing"
+	"Tumen of the right wing"
+	"Tumen center"
+	"Buryat mist"
+	"$PROVINCE$ fog"
+}

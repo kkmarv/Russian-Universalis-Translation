@@ -1,0 +1,23 @@
+#3294 - Mecheria
+
+culture = berber
+religion = sunni
+capital = "Mesherya"
+trade_goods = livestock
+hre = no
+base_tax = 1
+base_production = 2
+base_manpower = 1
+
+discovered_by = muslim
+discovered_by = ottoman
+
+owner = TLC
+controller = TLC
+add_core = TLC
+1549.1.1 = { owner = MOR controller = MOR add_core = MOR } #Conquered by the Saadians
+1554.1.1 = { owner = ALG controller = ALG add_core = ALG }
+1570.1.1 = { owner = TUR controller = TUR add_core = TUR }
+1711.1.1 = { owner = ALG controller = ALG remove_core = TUR }
+1836.1.1 = { controller = RFC }
+1847.12.22 = { owner = RFC add_core = RFC }

@@ -1,0 +1,129 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 163  35  66 }
+
+historical_idea_groups = {
+	offensive_ideas
+	religious_ideas
+	trade_ideas
+	innovativeness_ideas
+	economic_ideas
+	diplomatic_ideas
+	defensive_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Ivan #0" = 20
+	"Paul #0" = 20
+	"Bogdan #0" = 20
+	"Daniel #0" = 20
+	"Kirill #0" = 20
+	"Peter #0" = 20
+	"Philippe #0" = 20
+	"Stepan #0" = 20
+	"Yuri #0" = 20
+	"Demian #0" = 15
+	"Michael #0" = 15
+	"Dmitry #0" = 10
+	"Maxim #2" = 10
+	"Sava #1" = 10
+	"Vasily #0" = 0
+	"Andrei #0" = 20
+	"Bohuslav #0" = 20
+	"Boryshko #0" = 0
+	"Boyko #0" = 0
+	"Feodor #0" = 0
+	"Gedeon #0" = 0
+	"Gregory #0" = 0
+	"Christian #0" = 0
+	"Marco #0" = 0
+	"Matthew #0" = 0
+	"Mechslav #0" = 0
+	"Mycola #0" = 20
+	"Miroslav #0" = 20
+	"Nikon #0" = 0
+	"Oleg #0" = 0
+	"Alexander #0" = 0
+	"Alexey #0" = 20
+	"Radomir #0" = 0
+	"Svyatoslav #0" = 20
+	"Simon #0" = 10
+	"Taras #0" = 0
+	"Vladimir #0" = 0
+	"Jacob #0" = 0
+	"Eugene #0" = 0
+	"Joseph #0" = 0
+	
+	"Vladislava #0" = -1
+	"Esther #0" = -1
+	"Bogdan #0" = -1
+}
+
+leader_names = { 
+	"Andrukovich"
+	"Cheremshina"
+	"Dukhnovich"
+	"Golovatsky"
+	"Gutsalo"
+	"Crystal"
+	"Kobylanska"
+	"Korneichuk"
+	"Kostomarov"
+	"Kulish"
+	"Receipts ."
+	"Marinina"
+	"Palanyuk"
+	"Pokalchuk"
+	"Shashkevich"
+	"Stefaniuk"
+	"Stelmach"
+	"Tobilevich"
+	"Vovchok"
+	"Aisle"
+	"Zabara"
+	"Perebeynos"
+	"Nelupikobylu"
+	"Syrko"
+	"Toulouse"
+	"Bulba"
+}
+
+ship_names = {
+	"Dnieper"
+	"Zaporizhian Sich"
+	"Khortytsya"
+	"Zaporizhian army"
+	"Prince Vishnevetskiy"
+	"Ivan Svirgovskiy"
+	"Lukyan Cherninsky"
+	"Zakhar Kulaga"
+	"Gnat Wassilewski"
+	"Gavrilo Kortnevych"
+	"Hetman Khmelnitsky"
+	"Hetman Vygovskiy"
+	"Hetman Mazepa"
+	"Hetman Skoropadsky"
+	"Seagull"
+}
